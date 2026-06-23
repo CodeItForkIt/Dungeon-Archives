@@ -1,0 +1,14 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-note
+tags:
+- spell/list/reward/ereboss-votary
+aliases:
+- "Spells for Erebos's Votary"
+---
+# Spells for Erebos's Votary
+
+## 3rd Level
+
+- [Vampiric Touch](/spells/vampiric-touch-xphb.md "XPHB")

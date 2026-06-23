@@ -1,0 +1,18 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-item
+tags:
+- compendium/src/5e/xdmg
+- item/rarity/common
+aliases:
+- "Pipe of Smoke Monsters"
+---
+# Pipe of Smoke Monsters
+*Wondrous item, common*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Pipe%20of%20Smoke%20Monsters.webp#right)
+
+
+While smoking this pipe, you can take a [Magic](/rules/actions.md#Magic) action to exhale a puff of smoke that takes the form of a creature, such as a dragon, a flumph, or a slaad. The form must be small enough to fit in a 1-foot cube and loses its shape after a few seconds, becoming an ordinary puff of smoke.
+
+*Source: Dungeon Master's Guide (2024) p. 285*

@@ -1,0 +1,103 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-monster
+tags:
+- compendium/src/5e/vgm
+- monster/cr/7
+- monster/size/medium
+- monster/type/humanoid/any-race
+statblock: inline
+statblock-link: "#^statblock"
+aliases:
+- "Booyahg Slave of the Fiend"
+---
+# [Booyahg Slave of the Fiend](/bestiary/humanoid/booyahg-slave-of-the-fiend-vgm.md)
+*Source: Volo's Guide to Monsters p. 42*  
+
+This goblin warlock serves a patron who can extract payment in flesh if the goblin doesn't do as promised. Often this patron is a coven of hags serving as the tribe's boss, a fiend that has made its way into the world, or an undying lord such as a lich or a vampire. (For more information on undying lord patrons, see the "Sword Coast Adventurer's Guide").
+
+## Booyahgs
+
+Spellcasters of any sort among the goblins are rare. Goblins typically lack the intelligence and patience needed to learn and practice wizardry, and they fare poorly even when given access to the necessary training and knowledge. Sorcerers are less prevalent among them than in many other races, and Khurgorbaeyag seems to dislike sharing his divine power with his followers. And although many goblins would readily offer anything to have the abilities of a warlock, the patrons that grant such power know a goblin is unlikely to be able to uphold its end of any bargain.
+
+Even when a goblin is born with the ability to become a spellcaster, the knowledge and talent necessary to carry on the tradition rarely persists for more than a couple of generations. Because they have so little experience with magic, goblins make no distinction between its forms. To them all magic is "booyahg," and the word is part of the name they give to any of its practitioners.
+
+A goblin with access to booyahg becomes a member of the lashers and can often rise to the role of boss.
+
+```statblock
+"name": "Booyahg Slave of the Fiend (VGM)"
+"size": "Medium"
+"type": "humanoid"
+"subtype": "any race"
+"alignment": "Any alignment"
+"ac": !!int "12"
+"ac_class": "15 with [mage armor](/spells/mage-armor-xphb.md)"
+"hp": !!int "78"
+"hit_dice": "12d8 + 24"
+"modifier": !!int "2"
+"stats":
+  - !!int "10"
+  - !!int "14"
+  - !!int "15"
+  - !!int "12"
+  - !!int "12"
+  - !!int "18"
+"speed": "30 ft."
+"saves":
+  - "wisdom": !!int "4"
+  - "charisma": !!int "7"
+"skillsaves":
+  - "name": "[Arcana](/rules/skills.md#Arcana)"
+    "desc": "+4"
+  - "name": "[Deception](/rules/skills.md#Deception)"
+    "desc": "+7"
+  - "name": "[Persuasion](/rules/skills.md#Persuasion)"
+    "desc": "+7"
+  - "name": "[Religion](/rules/skills.md#Religion)"
+    "desc": "+4"
+"damage_resistances": "slashing from nonmagical attacks not made with silvered weapons"
+"gear":
+  - "[mace](/items/mace-xphb.md)"
+"senses": "[darkvision](/rules/senses.md#Darkvision) 60 ft., [darkvision](/rules/senses.md#Darkvision)\
+  \ 60 ft., passive Perception 11"
+"languages": "any two languages (usually Abyssal or Infernal), Goblin"
+"cr": "7"
+"traits":
+  - "desc": "The goblin is a 17th-level spellcaster. Its spellcasting ability is Charisma\
+      \ (spell save DC 15, +7 to hit with spell attacks). It regains its expended\
+      \ spell slots when it finishes a short or long rest. It knows the following\
+      \ warlock spells:\n\n**Cantrips (at will):** [eldritch blast](/spells/eldritch-blast-xphb.md),\
+      \ [fire bolt](/spells/fire-bolt-xphb.md), [friends](/spells/friends-xphb.md),\
+      \ [mage hand](/spells/mage-hand-xphb.md), [minor illusion](/spells/minor-illusion-xphb.md),\
+      \ [prestidigitation](/spells/prestidigitation-xphb.md), [shocking grasp](/spells/shocking-grasp-xphb.md)\n\
+      \n**1st-5th level (4 slots):** [banishment](/spells/banishment-xphb.md), [burning\
+      \ hands](/spells/burning-hands-xphb.md), [flame strike](/spells/flame-strike-xphb.md),\
+      \ [hellish rebuke](/spells/hellish-rebuke-xphb.md), [magic circle](/spells/magic-circle-xphb.md),\
+      \ [scorching ray](/spells/scorching-ray-xphb.md), [scrying](/spells/scrying-xphb.md),\
+      \ [stinking cloud](/spells/stinking-cloud-xphb.md), [suggestion](/spells/suggestion-xphb.md),\
+      \ [wall of fire](/spells/wall-of-fire-xphb.md)"
+    "name": "Spellcasting"
+  - "desc": "The goblin's innate spellcasting ability is Charisma. It can innately\
+      \ cast the following spells (spell save DC 15), requiring no material components:\n\
+      \n**At will:** [alter self](/spells/alter-self-xphb.md), [false life](/spells/false-life-xphb.md),\
+      \ [levitate](/spells/levitate-xphb.md) (self only), [mage armor](/spells/mage-armor-xphb.md)\
+      \ (self only), [silent image](/spells/silent-image-xphb.md)\n\n**1/day each:**\
+      \ [feeblemind](/spells/befuddlement-xphb.md), [finger of death](/spells/finger-of-death-xphb.md),\
+      \ [plane shift](/spells/plane-shift-xphb.md)"
+    "name": "Innate Spellcasting"
+  - "desc": "When the goblin makes an ability check or saving throw, it can add a\
+      \ d10 to the roll. It can do this after the roll is made but before any of\
+      \ the roll's effects occur."
+    "name": "Dark One's Own Luck (Recharges after a Short or Long Rest)"
+  - "desc": "The goblin"
+    "name": "Nimble Escape"
+"actions":
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3\
+      \ (1d6) bludgeoning damage plus 10 (3d6) fire damage."
+    "name": "Mace"
+"source":
+  - "VGM"
+"image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/VGM/Booyahg%20Slave%20of%20the%20Fiend.webp"
+```
+^statblock

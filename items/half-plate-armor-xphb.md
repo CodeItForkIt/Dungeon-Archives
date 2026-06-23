@@ -1,0 +1,21 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-item
+tags:
+- compendium/src/5e/xphb
+- item/armor/medium
+- item/rarity/none
+aliases:
+- "Half Plate Armor"
+---
+# Half Plate Armor
+*Medium armor*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XPHB/Half%20Plate%20Armor.webp#right)
+
+- **Armor Class**: 15 + Dex modifier (max of +2)
+- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
+- **Cost**: 750 gp
+- **Weight**: 40.0 lbs.
+
+*Source: Player's Handbook (2024) p. 219. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

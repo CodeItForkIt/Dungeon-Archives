@@ -1,0 +1,137 @@
+
+# ttrpg-convert-cli — Full 5e Configuration
+#
+# reprintBehavior: "newest" suppresses reprinted content — only the most
+# recent version of any resource is emitted. Kills duplicates from MPMM,
+# TCE subclass reprints, etc. This is also the default, but explicit is better.
+#
+# ⚠ Only include sources you legally own. ⚠
+
+reprintBehavior: "newest"
+"images": {
+  "copyExternal": true
+}
+# ── Paths ────────────────────────────────────────────────────────────────────
+# The CLI appends its own fixed subdirectory names under compendium/.
+# These are the valid overrideable roots.
+paths:
+  compendium: "/"
+  rules: "/rules"
+"template": {
+        "background": "examples/templates/tools5e/images-background2md.txt",
+        "monster": "examples/templates/tools5e/monster2md-yamlStatblock-body.txt",
+        "item" : "examples/templates/tools5e/images-item2md.txt",
+        "race" : "examples/templates/tools5e/images-race2md.txt",
+        "spell" : "examples/templates/tools5e/images-spell2md.txt"
+}
+# ── Sources ──────────────────────────────────────────────────────────────────
+# The CLI distinguishes between:
+#   book      — full text is emitted
+#   adventure — full text is emitted
+#   reference — only reference notes (spells, monsters, items, etc.) emitted;
+#               no narrative/chapter text
+# List each source only once — the CLI will figure out the rest.
+
+sources:
+  # Free / SRD (no ownership required)
+  reference:
+    - "srd"              # Systems Reference Document (2014)
+    - "basicrules"       # D&D Basic Rules (2014)
+    - "srd52"            # Systems Reference Document 5.2 (2024)
+    - "basicRules2024"   # D&D Basic Rules (2024)
+
+    # ── 2014 Core ────────────────────────────────────────────────────────────
+    - "PHB"    # Player's Handbook (2014)
+    - "MM"     # Monster Manual (2014)
+    - "DMG"    # Dungeon Master's Guide (2014)
+
+    # ── 2024 Core ────────────────────────────────────────────────────────────
+    - "XPHB"   # Player's Handbook (2024)
+    - "XMM"    # Monster Manual (2024)
+    - "XDMG"   # Dungeon Master's Guide (2024)
+
+    # ── Supplemental Books ───────────────────────────────────────────────────
+    - "SCAG"   # Sword Coast Adventurer's Guide
+    - "VGM"    # Volo's Guide to Monsters
+    - "XGE"    # Xanathar's Guide to Everything
+    - "MTF"    # Mordenkainen's Tome of Foes
+    - "GGR"    # Guildmasters' Guide to Ravnica
+    - "AI"     # Acquisitions Incorporated
+    - "EGW"    # Explorer's Guide to Wildemount
+    - "ERLW"   # Eberron: Rising from the Last War
+    - "MOT"    # Mythic Odysseys of Theros
+    - "TCE"    # Tasha's Cauldron of Everything
+    - "VRGR"   # Van Richten's Guide to Ravenloft
+    - "FTD"    # Fizban's Treasury of Dragons
+    - "SCC"    # Strixhaven: A Curriculum of Chaos
+    - "AAG"    # Astral Adventurer's Guide
+    - "BAM"    # Boo's Astral Menagerie
+    - "SatO"   # Sigil and the Outlands
+    - "MPP"    # Morte's Planar Parade
+    - "BGG"    # Bigby Presents: Glory of the Giants
+    - "MPMM"   # Mordenkainen Presents: Monsters of the Multiverse
+    - "BMT"    # The Book of Many Things
+    - "MaBJoV" # Minsc and Boo's Journal of Villainy
+    - "DoD"    # Domains of Delight
+    - "HF"     # Heroes' Feast
+    - "HFFotM" # Heroes' Feast: Flavors of the Multiverse
+    - "SAC"    # Sage Advice Compendium
+    - "XSAC"   # Sage Advice Compendium (2025)
+    - "OGA"    # One Grung Above
+    - "RMR"    # D&D vs. Rick and Morty: Basic Rules
+    - "HAT-TG" # Honor Among Thieves: Thieves' Gallery
+    - "NF"     # Netheril's Fall
+    - "EFA"    # Eberron: Forge of the Artificer
+    - "FRAiF"  # Forgotten Realms: Adventures in Faerûn
+    - "FRHoF"  # Forgotten Realms: Heroes of Faerûn
+    - "LFL"    # Lorwyn: First Light
+    - "PaF"    # Puncheons and Flagons
+    - "AATM"   # Adventure Atlas: The Mortuary
+    - "ABH"    # Astarion's Book of Hungers
+    - "RHW"    # Raveloft: The Horrors Within
+    # ── Reference / Companion Material ───────────────────────────────────────
+    - "EEPC"                 # Elemental Evil Player's Companion
+    - "EET"                  # Elemental Evil: Trinkets
+    - "SCREEN"               # Dungeon Master's Screen
+    - "SCREEN_DUNGEON_KIT"   # DM Screen: Dungeon Kit
+    - "SCREEN_WILDERNESS_KIT"# DM Screen: Wilderness Kit
+    - "SCREEN_SPELLJAMMER"   # DM Screen: Spelljammer
+    - "XScreen"              # DM Screen (2024)
+    - "DMTCRG"               # Deck of Many Things: Card Reference Guide
+    - "SADS"                 # Sapphire Anniversary Dice Set
+    - "TD"                   # Tarot Deck
+    - "ESK"                  # Essentials Kit
+    - "HAT-LMI"              # Honor Among Thieves: Legendary Magic Items
+    - "HFDoMM"               # Heroes' Feast: Deck of Many Morsels
+    - "AL"                   # Adventurers' League
+    - "ALCoS"                # AL: Curse of Strahd
+    - "ALEE"                 # AL: Elemental Evil
+    - "ALRoD"                # AL: Rage of Demons
+    - "AitFR"                # Adventures in the Forgotten Realms
+    - "UATMC"                # Unearthed Arcana: The Mystic Class
+    - "VD"                   # Vecna Dossier
+    - "MisMV1"               # Misplaced Monsters: Volume 1
+    - "MFF"                  # Mordenkainen's Fiendish Folio
+    - "MCV1SC"               # Monstrous Compendium Vol 1: Spelljammer Creatures
+    - "MCV2DC"               # Monstrous Compendium Vol 2: Dragonlance Creatures
+    - "MCV3MC"               # Monstrous Compendium Vol 3: Minecraft Creatures
+    - "MCV4EC"               # Monstrous Compendium Vol 4: Eldraine Creatures
+    - "ToB1-2023"            # Tome of Beasts 1 (2023 Edition)
+    - "ToD"                  # Tyranny of Dragons
+    - "RoTOS"                # Rise of Tiamat Online Supplement
+    - "SAiS"                 # Spelljammer: Adventures in Space
+    - "TftYP"                # Tales from the Yawning Portal
+    - "GHLoE"                # Grim Hollow: Lairs of Etharis
+    - "HWAitW"               # Humblewood: Adventure in the Wood
+    - "HWCS"                 # Humblewood Campaign Setting
+    - "DoDk"                 # Dungeons of Drakkenheim
+    - "DrDe"                 # Dragon Delves
+    - "NRH"                  # NERDS Restoring Harmony
+    - "AWM"                  # Adventure with Muk
+    - "MGELFT"               # Muk's Guide to Everything He Learned From Tasha
+
+  adventure:
+    - "BGDIA"      # Baldur's Gate: Descent Into Avernus
+    - "VEoR"       # Vecna: Eve of Ruin
+    - "VNotEE"     # Vecna: Nest of the Eldritch Eye
+   

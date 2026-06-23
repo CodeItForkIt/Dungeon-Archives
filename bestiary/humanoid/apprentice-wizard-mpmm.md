@@ -1,0 +1,70 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-monster
+tags:
+- compendium/src/5e/mpmm
+- monster/cr/1-4
+- monster/environment/urban
+- monster/size/medium
+- monster/type/humanoid
+statblock: inline
+statblock-link: "#^statblock"
+aliases:
+- "Apprentice Wizard"
+---
+# [Apprentice Wizard](/bestiary/humanoid/apprentice-wizard-mpmm.md)
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 259, Volo's Guide to Monsters p. 209*  
+
+Apprentices are novice arcane spellcasters who serve more experienced wizards or attend school. They perform menial work like cooking or cleaning in exchange for education in the ways of magic.
+
+## Wizards
+
+Wizards pursue magical power through the study of arcane texts. Some travel the world searching for esoteric tomes while others train lesser wizards or collaborate with colleagues to create new spells.
+
+```statblock
+"name": "Apprentice Wizard (MPMM)"
+"size": "Medium"
+"type": "humanoid"
+"alignment": "Any alignment"
+"ac": !!int "10"
+"ac_class": "13 with [mage armor](/spells/mage-armor-xphb.md)"
+"hp": !!int "13"
+"hit_dice": "3d8"
+"modifier": !!int "0"
+"stats":
+  - !!int "10"
+  - !!int "10"
+  - !!int "10"
+  - !!int "14"
+  - !!int "10"
+  - !!int "11"
+"speed": "30 ft."
+"skillsaves":
+  - "name": "[Arcana](/rules/skills.md#Arcana)"
+    "desc": "+4"
+  - "name": "[History](/rules/skills.md#History)"
+    "desc": "+4"
+"senses": "passive Perception 10"
+"languages": "any one language (usually Common)"
+"cr": "1/4"
+"actions":
+  - "desc": "*Melee  or Ranged Spell Attack:* +4 to hit, reach 5 ft. or range 120\
+      \ ft., one target. *Hit:* 7 (1d10 + 2) force damage."
+    "name": "Arcane Burst"
+  - "desc": "The apprentice casts one of the following spells, using Intelligence\
+      \ as the spellcasting ability (spell save DC 12)\n\n**At will:** [mage hand](/spells/mage-hand-xphb.md),\
+      \ [prestidigitation](/spells/prestidigitation-xphb.md)\n\n**1/day each:** [burning\
+      \ hands](/spells/burning-hands-xphb.md), [disguise self](/spells/disguise-self-xphb.md),\
+      \ [mage armor](/spells/mage-armor-xphb.md)"
+    "name": "Spellcasting"
+"source":
+  - "MPMM"
+  - "VGM"
+"image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/MPMM/Apprentice%20Wizard.webp"
+```
+^statblock
+
+## Environment
+
+urban

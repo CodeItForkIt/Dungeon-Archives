@@ -1,0 +1,208 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-note
+tags:
+- spell/list/class/bard
+aliases:
+- "Bard Spells"
+---
+# Bard Spells
+
+## Cantrip
+
+- [Blade Ward](/spells/blade-ward-xphb.md "XPHB")
+- [Dancing Lights](/spells/dancing-lights-xphb.md "XPHB")
+- [Friends](/spells/friends-xphb.md "XPHB")
+- [Light](/spells/light-xphb.md "XPHB")
+- [Mage Hand](/spells/mage-hand-xphb.md "XPHB")
+- [Mending](/spells/mending-xphb.md "XPHB")
+- [Message](/spells/message-xphb.md "XPHB")
+- [Minor Illusion](/spells/minor-illusion-xphb.md "XPHB")
+- [Prestidigitation](/spells/prestidigitation-xphb.md "XPHB")
+- [Starry Wisp](/spells/starry-wisp-xphb.md "XPHB")
+- [Thunderclap](/spells/thunderclap-xphb.md "XPHB")
+- [True Strike](/spells/true-strike-xphb.md "XPHB")
+- [Vicious Mockery](/spells/vicious-mockery-xphb.md "XPHB")
+
+## 1st Level
+
+- [Animal Friendship](/spells/animal-friendship-xphb.md "XPHB")
+- [Bane](/spells/bane-xphb.md "XPHB")
+- [Charm Person](/spells/charm-person-xphb.md "XPHB")
+- [Color Spray](/spells/color-spray-xphb.md "XPHB")
+- [Command](/spells/command-xphb.md "XPHB")
+- [Comprehend Languages](/spells/comprehend-languages-xphb.md "XPHB")
+- [Cure Wounds](/spells/cure-wounds-xphb.md "XPHB")
+- [Detect Magic](/spells/detect-magic-xphb.md "XPHB")
+- [Disguise Self](/spells/disguise-self-xphb.md "XPHB")
+- [Dissonant Whispers](/spells/dissonant-whispers-xphb.md "XPHB")
+- [Distort Value](/spells/distort-value-ai.md "AI")
+- [Earth Tremor](/spells/earth-tremor-xge.md "XGE") (\*)
+- [Faerie Fire](/spells/faerie-fire-xphb.md "XPHB")
+- [Feather Fall](/spells/feather-fall-xphb.md "XPHB")
+- [Healing Word](/spells/healing-word-xphb.md "XPHB")
+- [Heroism](/spells/heroism-xphb.md "XPHB")
+- [Identify](/spells/identify-xphb.md "XPHB")
+- [Illusory Script](/spells/illusory-script-xphb.md "XPHB")
+- [Longstrider](/spells/longstrider-xphb.md "XPHB")
+- [Silent Image](/spells/silent-image-xphb.md "XPHB")
+- [Silvery Barbs](/spells/silvery-barbs-scc.md "SCC")
+- [Sleep](/spells/sleep-xphb.md "XPHB")
+- [Speak with Animals](/spells/speak-with-animals-xphb.md "XPHB")
+- [Tasha's Hideous Laughter](/spells/tashas-hideous-laughter-xphb.md "XPHB")
+- [Thunderwave](/spells/thunderwave-xphb.md "XPHB")
+- [Unseen Servant](/spells/unseen-servant-xphb.md "XPHB")
+- [Wardaway](/spells/wardaway-frhof.md "FRHoF")
+
+## 2nd Level
+
+- [Aid](/spells/aid-xphb.md "XPHB")
+- [Animal Messenger](/spells/animal-messenger-xphb.md "XPHB")
+- [Blindness/Deafness](/spells/blindness-deafness-xphb.md "XPHB")
+- [Borrowed Knowledge](/spells/borrowed-knowledge-scc.md "SCC")
+- [Calm Emotions](/spells/calm-emotions-xphb.md "XPHB")
+- [Cloud of Daggers](/spells/cloud-of-daggers-xphb.md "XPHB")
+- [Crown of Madness](/spells/crown-of-madness-xphb.md "XPHB")
+- [Detect Thoughts](/spells/detect-thoughts-xphb.md "XPHB")
+- [Enhance Ability](/spells/enhance-ability-xphb.md "XPHB")
+- [Enlarge/Reduce](/spells/enlarge-reduce-xphb.md "XPHB")
+- [Enthrall](/spells/enthrall-xphb.md "XPHB")
+- [Gift of Gab](/spells/gift-of-gab-ai.md "AI")
+- [Heat Metal](/spells/heat-metal-xphb.md "XPHB")
+- [Hold Person](/spells/hold-person-xphb.md "XPHB")
+- [Invisibility](/spells/invisibility-xphb.md "XPHB")
+- [Kinetic Jaunt](/spells/kinetic-jaunt-scc.md "SCC")
+- [Knock](/spells/knock-xphb.md "XPHB")
+- [Lesser Restoration](/spells/lesser-restoration-xphb.md "XPHB")
+- [Locate Animals or Plants](/spells/locate-animals-or-plants-xphb.md "XPHB")
+- [Locate Object](/spells/locate-object-xphb.md "XPHB")
+- [Magic Mouth](/spells/magic-mouth-xphb.md "XPHB")
+- [Mirror Image](/spells/mirror-image-xphb.md "XPHB")
+- [Nathair's Mischief](/spells/nathairs-mischief-ftd.md "FTD") (\*)
+- [Phantasmal Force](/spells/phantasmal-force-xphb.md "XPHB")
+- [Pyrotechnics](/spells/pyrotechnics-xge.md "XGE") (\*)
+- [See Invisibility](/spells/see-invisibility-xphb.md "XPHB")
+- [Shatter](/spells/shatter-xphb.md "XPHB")
+- [Silence](/spells/silence-xphb.md "XPHB")
+- [Skywrite](/spells/skywrite-xge.md "XGE") (\*)
+- [Spray of Cards](/spells/spray-of-cards-bmt.md "BMT") (\*)
+- [Suggestion](/spells/suggestion-xphb.md "XPHB")
+- [Warding Wind](/spells/warding-wind-xge.md "XGE") (\*)
+- [Zone of Truth](/spells/zone-of-truth-xphb.md "XPHB")
+
+## 3rd Level
+
+- [Antagonize](/spells/antagonize-bmt.md "BMT") (\*)
+- [Bestow Curse](/spells/bestow-curse-xphb.md "XPHB")
+- [Cacophonic Shield](/spells/cacophonic-shield-frhof.md "FRHoF")
+- [Catnap](/spells/catnap-xge.md "XGE") (\*)
+- [Clairvoyance](/spells/clairvoyance-xphb.md "XPHB")
+- [Dispel Magic](/spells/dispel-magic-xphb.md "XPHB")
+- [Enemies Abound](/spells/enemies-abound-xge.md "XGE") (\*)
+- [Fast Friends](/spells/fast-friends-ai.md "AI")
+- [Fear](/spells/fear-xphb.md "XPHB")
+- [Feign Death](/spells/feign-death-xphb.md "XPHB")
+- [Glyph of Warding](/spells/glyph-of-warding-xphb.md "XPHB")
+- [Hypnotic Pattern](/spells/hypnotic-pattern-xphb.md "XPHB")
+- [Intellect Fortress](/spells/intellect-fortress-tce.md "TCE") (\*)
+- [Leomund's Tiny Hut](/spells/leomunds-tiny-hut-xphb.md "XPHB")
+- [Major Image](/spells/major-image-xphb.md "XPHB")
+- [Mass Healing Word](/spells/mass-healing-word-xphb.md "XPHB")
+- [Motivational Speech](/spells/motivational-speech-ai.md "AI")
+- [Nondetection](/spells/nondetection-xphb.md "XPHB")
+- [Plant Growth](/spells/plant-growth-xphb.md "XPHB")
+- [Sending](/spells/sending-xphb.md "XPHB")
+- [Slow](/spells/slow-xphb.md "XPHB")
+- [Speak with Dead](/spells/speak-with-dead-xphb.md "XPHB")
+- [Speak with Plants](/spells/speak-with-plants-xphb.md "XPHB")
+- [Stinking Cloud](/spells/stinking-cloud-xphb.md "XPHB")
+- [Tongues](/spells/tongues-xphb.md "XPHB")
+
+## 4th Level
+
+- [Backlash](/spells/backlash-frhof.md "FRHoF")
+- [Charm Monster](/spells/charm-monster-xphb.md "XPHB")
+- [Compulsion](/spells/compulsion-xphb.md "XPHB")
+- [Confusion](/spells/confusion-xphb.md "XPHB")
+- [Dimension Door](/spells/dimension-door-xphb.md "XPHB")
+- [Doomtide](/spells/doomtide-frhof.md "FRHoF")
+- [Fount of Moonlight](/spells/fount-of-moonlight-xphb.md "XPHB")
+- [Freedom of Movement](/spells/freedom-of-movement-xphb.md "XPHB")
+- [Greater Invisibility](/spells/greater-invisibility-xphb.md "XPHB")
+- [Hallucinatory Terrain](/spells/hallucinatory-terrain-xphb.md "XPHB")
+- [Locate Creature](/spells/locate-creature-xphb.md "XPHB")
+- [Phantasmal Killer](/spells/phantasmal-killer-xphb.md "XPHB")
+- [Polymorph](/spells/polymorph-xphb.md "XPHB")
+- [Raulothim's Psychic Lance](/spells/raulothims-psychic-lance-ftd.md "FTD") (\*)
+
+## 5th Level
+
+- [Alustriel's Mooncloak](/spells/alustriels-mooncloak-frhof.md "FRHoF")
+- [Animate Objects](/spells/animate-objects-xphb.md "XPHB")
+- [Awaken](/spells/awaken-xphb.md "XPHB")
+- [Dominate Person](/spells/dominate-person-xphb.md "XPHB")
+- [Dream](/spells/dream-xphb.md "XPHB")
+- [Geas](/spells/geas-xphb.md "XPHB")
+- [Greater Restoration](/spells/greater-restoration-xphb.md "XPHB")
+- [Hold Monster](/spells/hold-monster-xphb.md "XPHB")
+- [Legend Lore](/spells/legend-lore-xphb.md "XPHB")
+- [Mass Cure Wounds](/spells/mass-cure-wounds-xphb.md "XPHB")
+- [Mislead](/spells/mislead-xphb.md "XPHB")
+- [Modify Memory](/spells/modify-memory-xphb.md "XPHB")
+- [Planar Binding](/spells/planar-binding-xphb.md "XPHB")
+- [Raise Dead](/spells/raise-dead-xphb.md "XPHB")
+- [Rary's Telepathic Bond](/spells/rarys-telepathic-bond-xphb.md "XPHB")
+- [Scrying](/spells/scrying-xphb.md "XPHB")
+- [Seeming](/spells/seeming-xphb.md "XPHB")
+- [Skill Empowerment](/spells/skill-empowerment-xge.md "XGE") (\*)
+- [Synaptic Static](/spells/synaptic-static-xphb.md "XPHB")
+- [Teleportation Circle](/spells/teleportation-circle-xphb.md "XPHB")
+- [Yolande's Regal Presence](/spells/yolandes-regal-presence-xphb.md "XPHB")
+
+## 6th Level
+
+- [Dirge](/spells/dirge-frhof.md "FRHoF")
+- [Eyebite](/spells/eyebite-xphb.md "XPHB")
+- [Find the Path](/spells/find-the-path-xphb.md "XPHB")
+- [Guards and Wards](/spells/guards-and-wards-xphb.md "XPHB")
+- [Heroes' Feast](/spells/heroes-feast-xphb.md "XPHB")
+- [Mass Suggestion](/spells/mass-suggestion-xphb.md "XPHB")
+- [Otto's Irresistible Dance](/spells/ottos-irresistible-dance-xphb.md "XPHB")
+- [Programmed Illusion](/spells/programmed-illusion-xphb.md "XPHB")
+- [True Seeing](/spells/true-seeing-xphb.md "XPHB")
+
+## 7th Level
+
+- [Dream of the Blue Veil](/spells/dream-of-the-blue-veil-tce.md "TCE") (\*)
+- [Etherealness](/spells/etherealness-xphb.md "XPHB")
+- [Forcecage](/spells/forcecage-xphb.md "XPHB")
+- [Mirage Arcane](/spells/mirage-arcane-xphb.md "XPHB")
+- [Mordenkainen's Magnificent Mansion](/spells/mordenkainens-magnificent-mansion-xphb.md "XPHB")
+- [Mordenkainen's Sword](/spells/mordenkainens-sword-xphb.md "XPHB")
+- [Power Word Fortify](/spells/power-word-fortify-xphb.md "XPHB")
+- [Prismatic Spray](/spells/prismatic-spray-xphb.md "XPHB")
+- [Project Image](/spells/project-image-xphb.md "XPHB")
+- [Regenerate](/spells/regenerate-xphb.md "XPHB")
+- [Resurrection](/spells/resurrection-xphb.md "XPHB")
+- [Symbol](/spells/symbol-xphb.md "XPHB")
+- [Teleport](/spells/teleport-xphb.md "XPHB")
+
+## 8th Level
+
+- [Antipathy/Sympathy](/spells/antipathy-sympathy-xphb.md "XPHB")
+- [Befuddlement](/spells/befuddlement-xphb.md "XPHB")
+- [Dominate Monster](/spells/dominate-monster-xphb.md "XPHB")
+- [Glibness](/spells/glibness-xphb.md "XPHB")
+- [Mind Blank](/spells/mind-blank-xphb.md "XPHB")
+- [Power Word Stun](/spells/power-word-stun-xphb.md "XPHB")
+
+## 9th Level
+
+- [Foresight](/spells/foresight-xphb.md "XPHB")
+- [Mass Polymorph](/spells/mass-polymorph-xge.md "XGE") (\*)
+- [Power Word Heal](/spells/power-word-heal-xphb.md "XPHB")
+- [Power Word Kill](/spells/power-word-kill-xphb.md "XPHB")
+- [Prismatic Wall](/spells/prismatic-wall-xphb.md "XPHB")
+- [Psychic Scream](/spells/psychic-scream-xge.md "XGE") (\*)
+- [True Polymorph](/spells/true-polymorph-xphb.md "XPHB")

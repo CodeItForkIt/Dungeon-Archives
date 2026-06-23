@@ -1,0 +1,159 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-monster
+tags:
+- compendium/src/5e/rot
+- monster/cr/15
+- monster/size/medium
+- monster/type/undead
+statblock: inline
+statblock-link: "#^statblock"
+aliases:
+- "Diderius"
+---
+# [Diderius](/bestiary/npc/diderius-rot.md)
+*Source: The Rise of Tiamat p. 40, Tyranny of Dragons p. 131*  
+
+```statblock
+"name": "Diderius (RoT)"
+"size": "Medium"
+"type": "undead"
+"alignment": "Lawful Evil"
+"ac": !!int "17"
+"ac_class": "natural armor"
+"hp": !!int "97"
+"hit_dice": "13d8 + 39"
+"modifier": !!int "0"
+"stats":
+  - !!int "18"
+  - !!int "10"
+  - !!int "17"
+  - !!int "18"
+  - !!int "18"
+  - !!int "16"
+"speed": "20 ft."
+"saves":
+  - "constitution": !!int "8"
+  - "intelligence": !!int "5"
+  - "wisdom": !!int "9"
+  - "charisma": !!int "8"
+"skillsaves":
+  - "name": "[History](/rules/skills.md#History)"
+    "desc": "+5"
+  - "name": "[Religion](/rules/skills.md#Religion)"
+    "desc": "+5"
+"damage_vulnerabilities": "fire"
+"damage_immunities": "necrotic; poison; bludgeoning, piercing, slashing from nonmagical\
+  \ attacks"
+"condition_immunities": "[charmed](/rules/conditions.md#Charmed), [exhaustion](/rules/conditions.md#Exhaustion),\
+  \ [frightened](/rules/conditions.md#Frightened), [paralyzed](/rules/conditions.md#Paralyzed),\
+  \ [poisoned](/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](/rules/senses.md#Darkvision) 60 ft., passive Perception 14"
+"languages": "the languages it knew in life"
+"cr": "15"
+"traits":
+  - "desc": "Diderius is a 10th-level spellcaster. His spellcasting ability is Intelligence\
+      \ (spell save DC 17, +9 to hit with spell attacks). He has the following wizard\
+      \ spells prepared:\n\n**Cantrips (at will):** [minor illusion](/spells/minor-illusion-xphb.md),\
+      \ [ray of frost](/spells/ray-of-frost-xphb.md)\n\n**1st level (4 slots):** [charm\
+      \ person](/spells/charm-person-xphb.md), [detect magic](/spells/detect-magic-xphb.md),\
+      \ [shield](/spells/shield-xphb.md), [thunderwave](/spells/thunderwave-xphb.md)\n\
+      \n**2nd level (3 slots):** [cloud of daggers](/spells/cloud-of-daggers-xphb.md),\
+      \ [hold person](/spells/hold-person-xphb.md), [see invisibility](/spells/see-invisibility-xphb.md)\n\
+      \n**3rd level (3 slots):** [animate dead](/spells/animate-dead-xphb.md), [dispel\
+      \ magic](/spells/dispel-magic-xphb.md)\n\n**4th level (3 slots):** [fire shield](/spells/fire-shield-xphb.md),\
+      \ [greater invisibility](/spells/greater-invisibility-xphb.md)\n\n**5th level\
+      \ (2 slots):** [cloudkill](/spells/cloudkill-xphb.md), [wall of stone](/spells/wall-of-stone-xphb.md)"
+    "name": "Spellcasting"
+  - "desc": "Diderius has advantage on saving throws against spells and other magical\
+      \ effects."
+    "name": "Magic Resistance"
+  - "desc": "A destroyed mummy lord gains a new body in 24 hours if its heart is intact,\
+      \ regaining all its hit points and becoming active again. The new body appears\
+      \ within 5 feet of Diderius's heart."
+    "name": "Rejuvenation"
+"actions":
+  - "desc": "The mummy can use its Dreadful Glare and makes one attack with its rotting\
+      \ fist."
+    "name": "Multiattack"
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 14\
+      \ (3d6 + 4) bludgeoning damage plus 21 (6d6) necrotic damage. If the target\
+      \ is a creature, it must succeed on a DC 16 Constitution saving throw or be\
+      \ cursed with mummy rot. The cursed target can't regain hit points, and its\
+      \ hit point maximum decreases by 10 (3d6) for every 24 hours that elapse.\
+      \ If the curse reduces the target's hit point maximum to 0, the target dies,\
+      \ and its body turns to dust. The curse lasts until removed by the [remove curse](/spells/remove-curse-xphb.md)\
+      \ spell or other magic."
+    "name": "Rotting Fist"
+  - "desc": "Diderius targets one creature it can see within 60 feet of it. If the\
+      \ target can see Diderius, it must succeed on a DC 16 Wisdom saving throw against\
+      \ this magic or become [frightened](/rules/conditions.md#Frightened) until the\
+      \ end of the mummy's next turn. If the target fails the saving throw by 5 or\
+      \ more, it is also [paralyzed](/rules/conditions.md#Paralyzed) for the same\
+      \ duration. A target that succeeds on the saving throw is immune to the Dreadful\
+      \ Glare of all mummies and mummy lords for the next 24 hours."
+    "name": "Dreadful Glare"
+"lair_actions":
+  - "desc": "On initiative count 20 (losing initiative ties), the mummy lord takes\
+      \ a lair action to cause one of the following effects; the mummy lord can't\
+      \ use the same effect two rounds in a row:\n\n- Each undead creature in the\
+      \ lair can pinpoint the location of each living creature within 120 feet of\
+      \ it until initiative count 20 on the next round.  \n- Each undead in the lair\
+      \ has advantage on saving throws against effects that turn undead until initiative\
+      \ count 20 on the next round.  \n- Until initiative count 20 on the next round,\
+      \ any non-undead creature that tries to cast a spell of 4th level or lower in\
+      \ the mummy lord's lair is wracked with pain. The creature can choose another\
+      \ action, but if it tries to cast the spell, it must make a DC 16 Constitution\
+      \ saving throw. On a failed save, it takes 1d6 necrotic damage per level of\
+      \ the spell, and the spell has no effect and is wasted.  "
+    "name": ""
+"regional_effects":
+  - "desc": "A mummy lord's temple or tomb is warped in any of the following ways\
+      \ by the creature's dark presence:\n\n- Food instantly molders and water instantly\
+      \ evaporates when brought into the lair. Other non magical drinks are spoiled\
+      \ - wine turning to vinegar, for instance.  \n- [Divination](/spells/divination-xphb.md)\
+      \ spells cast within the lair by creatures other than the mummy lord have a\
+      \ 25 percent chance to provide misleading results, as determined by the DM.\
+      \ If a [divination](/spells/divination-xphb.md) spell already has a chance to\
+      \ fail or become unreliable when cast multiple times, that chance increases\
+      \ by 25 percent.  \n- A creature that takes treasure from the lair is cursed\
+      \ until the treasure is returned. The cursed target has disadvantage on all\
+      \ saving throws. The curse lasts until removed by a [remove curse](/spells/remove-curse-xphb.md)\
+      \ spell or other magic.  \n\nIf the mummy lord is destroyed, these regional\
+      \ effects end immediately."
+    "name": ""
+"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
+  \ turn, Diderius can expend a use to take one of the following actions. Diderius\
+  \ regains all expended uses at the start of each of their turns."
+"legendary_actions":
+  - "desc": "Diderius makes one attack with its rotting fist or uses its Dreadful\
+      \ Glare."
+    "name": "Attack"
+  - "desc": "Blinding dust and sand swirls magically around Diderius. Each creature\
+      \ within 5 feet of Diderius must succeed on a DC 16 Constitution saving throw\
+      \ or be [blinded](/rules/conditions.md#Blinded) until the end of the creature's\
+      \ next turn."
+    "name": "Blinding Dust"
+  - "desc": "Diderius utters a blasphemous word. Each non-undead creature within 10\
+      \ feet of Diderius that can hear the magical utterance must succeed on a DC\
+      \ 16 Constitution saving throw or be [stunned](/rules/conditions.md#Stunned)\
+      \ until the end of Diderius's next turn."
+    "name": "Blasphemous Word (Costs 2 Actions)"
+  - "desc": "Diderius magically unleashes negative energy. Creatures within 60 feet\
+      \ of Diderius, including ones behind barriers and around corners, can't regain\
+      \ hit points until the end of Diderius's next turn."
+    "name": "Channel Negative Energy (Costs 2 Actions)"
+  - "desc": "Diderius magically transforms into a whirlwind of sand, moves up to 60\
+      \ feet, and reverts to its normal form. While in whirlwind form, Diderius is\
+      \ immune to all damage, and it can't be [grappled](/rules/conditions.md#Grappled),\
+      \ [petrified](/rules/conditions.md#Petrified), knocked [prone](/rules/conditions.md#Prone),\
+      \ [restrained](/rules/conditions.md#Restrained), or [stunned](/rules/conditions.md#Stunned).\
+      \ Equipment worn or carried by Diderius remain in its possession."
+    "name": "Whirlwind of Sand (Costs 2 Actions)"
+"source":
+  - "RoT"
+  - "ToD"
+"image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/RoT/Diderius.webp"
+```
+^statblock

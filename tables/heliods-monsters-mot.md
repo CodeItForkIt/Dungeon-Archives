@@ -1,0 +1,25 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-note
+tags:
+- compendium/src/5e/mot
+aliases:
+- "Heliod's Monsters"
+---
+# Heliod's Monsters
+*Source: Mythic Odysseys of Theros p. 128* 
+
+**Heliod's Monsters**
+
+| Challenge | Creature |
+|-----------|----------|
+| 1/8 | [Noble](/bestiary/humanoid/noble-xmm.md) |
+| 2 | [Centaur](/bestiary/fey/centaur-trooper-xmm.md) |
+| 2 | [Griffon](/bestiary/monstrosity/griffon-xmm.md) |
+| 2 | [Pegasus](/bestiary/celestial/pegasus-xmm.md) |
+| 3 | [Fleecemane lion](/bestiary/monstrosity/fleecemane-lion-mot.md) |
+| 9 | [Cloud giant](/bestiary/giant/cloud-giant-xmm.md) |
+| 11 | [Roc](/bestiary/monstrosity/roc-xmm.md) |
+| 23 | [Empyrean](/bestiary/miscellaneous/empyrean-xmm.md) |
+^heliods-monsters

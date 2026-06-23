@@ -1,0 +1,283 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-note
+tags:
+- spell/list/subclass/college-of-lore
+aliases:
+- "Spells for College of Lore"
+---
+# Spells for College of Lore
+
+## Cantrip
+
+- [Acid Splash](/spells/acid-splash-xphb.md "XPHB") at class level 6
+- [Blade Ward](/spells/blade-ward-xphb.md "XPHB") at class level 6
+- [Booming Blade](/spells/booming-blade-tce.md "TCE") at class level 6
+- [Chill Touch](/spells/chill-touch-xphb.md "XPHB") at class level 6
+- [Control Flames](/spells/control-flames-xge.md "XGE") at class level 6
+- [Create Bonfire](/spells/create-bonfire-xge.md "XGE") at class level 6
+- [Dancing Lights](/spells/dancing-lights-xphb.md "XPHB") at class level 6
+- [Druidcraft](/spells/druidcraft-xphb.md "XPHB") at class level 6
+- [Elementalism](/spells/elementalism-xphb.md "XPHB") at class level 6
+- [Fire Bolt](/spells/fire-bolt-xphb.md "XPHB") at class level 6
+- [Friends](/spells/friends-xphb.md "XPHB") at class level 6
+- [Frostbite](/spells/frostbite-xge.md "XGE") at class level 6
+- [Green-Flame Blade](/spells/green-flame-blade-tce.md "TCE") at class level 6
+- [Guidance](/spells/guidance-xphb.md "XPHB") at class level 6
+- [Gust](/spells/gust-xge.md "XGE") at class level 6
+- [Infestation](/spells/infestation-xge.md "XGE") at class level 6
+- [Light](/spells/light-xphb.md "XPHB") at class level 6
+- [Lightning Lure](/spells/lightning-lure-tce.md "TCE") at class level 6
+- [Mage Hand](/spells/mage-hand-xphb.md "XPHB") at class level 6
+- [Magic Stone](/spells/magic-stone-xge.md "XGE") at class level 6
+- [Mending](/spells/mending-xphb.md "XPHB") at class level 6
+- [Message](/spells/message-xphb.md "XPHB") at class level 6
+- [Mind Sliver](/spells/mind-sliver-xphb.md "XPHB") at class level 6
+- [Minor Illusion](/spells/minor-illusion-xphb.md "XPHB") at class level 6
+- [Mold Earth](/spells/mold-earth-xge.md "XGE") at class level 6
+- [Poison Spray](/spells/poison-spray-xphb.md "XPHB") at class level 6
+- [Prestidigitation](/spells/prestidigitation-xphb.md "XPHB") at class level 6
+- [Primal Savagery](/spells/primal-savagery-xge.md "XGE") at class level 6
+- [Produce Flame](/spells/produce-flame-xphb.md "XPHB") at class level 6
+- [Ray of Frost](/spells/ray-of-frost-xphb.md "XPHB") at class level 6
+- [Resistance](/spells/resistance-xphb.md "XPHB") at class level 6
+- [Sacred Flame](/spells/sacred-flame-xphb.md "XPHB") at class level 6
+- [Shape Water](/spells/shape-water-xge.md "XGE") at class level 6
+- [Shillelagh](/spells/shillelagh-xphb.md "XPHB") at class level 6
+- [Shocking Grasp](/spells/shocking-grasp-xphb.md "XPHB") at class level 6
+- [Spare the Dying](/spells/spare-the-dying-xphb.md "XPHB") at class level 6
+- [Starry Wisp](/spells/starry-wisp-xphb.md "XPHB") at class level 6
+- [Sword Burst](/spells/sword-burst-tce.md "TCE") at class level 6
+- [Thaumaturgy](/spells/thaumaturgy-xphb.md "XPHB") at class level 6
+- [Thorn Whip](/spells/thorn-whip-xphb.md "XPHB") at class level 6
+- [Thunderclap](/spells/thunderclap-xphb.md "XPHB") at class level 6
+- [Toll the Dead](/spells/toll-the-dead-xphb.md "XPHB") at class level 6
+- [True Strike](/spells/true-strike-xphb.md "XPHB") at class level 6
+- [Word of Radiance](/spells/word-of-radiance-xphb.md "XPHB") at class level 6
+
+## 1st Level
+
+- [Absorb Elements](/spells/absorb-elements-xge.md "XGE") at class level 6
+- [Alarm](/spells/alarm-xphb.md "XPHB") at class level 6
+- [Animal Friendship](/spells/animal-friendship-xphb.md "XPHB") at class level 6
+- [Bane](/spells/bane-xphb.md "XPHB") at class level 6
+- [Beast Bond](/spells/beast-bond-xge.md "XGE") at class level 6
+- [Bless](/spells/bless-xphb.md "XPHB") at class level 6
+- [Burning Hands](/spells/burning-hands-xphb.md "XPHB") at class level 6
+- [Catapult](/spells/catapult-xge.md "XGE") at class level 6
+- [Cause Fear](/spells/cause-fear-xge.md "XGE") at class level 6
+- [Ceremony](/spells/ceremony-xge.md "XGE") at class level 6
+- [Charm Person](/spells/charm-person-xphb.md "XPHB") at class level 6
+- [Chromatic Orb](/spells/chromatic-orb-xphb.md "XPHB") at class level 6
+- [Color Spray](/spells/color-spray-xphb.md "XPHB") at class level 6
+- [Command](/spells/command-xphb.md "XPHB") at class level 6
+- [Comprehend Languages](/spells/comprehend-languages-xphb.md "XPHB") at class level 6
+- [Create or Destroy Water](/spells/create-or-destroy-water-xphb.md "XPHB") at class level 6
+- [Cure Wounds](/spells/cure-wounds-xphb.md "XPHB") at class level 6
+- [Detect Evil and Good](/spells/detect-evil-and-good-xphb.md "XPHB") at class level 6
+- [Detect Magic](/spells/detect-magic-xphb.md "XPHB") at class level 6
+- [Detect Poison and Disease](/spells/detect-poison-and-disease-xphb.md "XPHB") at class level 6
+- [Disguise Self](/spells/disguise-self-xphb.md "XPHB") at class level 6
+- [Distort Value](/spells/distort-value-ai.md "AI") at class level 6
+- [Earth Tremor](/spells/earth-tremor-xge.md "XGE") at class level 6
+- [Entangle](/spells/entangle-xphb.md "XPHB") at class level 6
+- [Expeditious Retreat](/spells/expeditious-retreat-xphb.md "XPHB") at class level 6
+- [Faerie Fire](/spells/faerie-fire-xphb.md "XPHB") at class level 6
+- [False Life](/spells/false-life-xphb.md "XPHB") at class level 6
+- [Feather Fall](/spells/feather-fall-xphb.md "XPHB") at class level 6
+- [Find Familiar](/spells/find-familiar-xphb.md "XPHB") at class level 6
+- [Fog Cloud](/spells/fog-cloud-xphb.md "XPHB") at class level 6
+- [Goodberry](/spells/goodberry-xphb.md "XPHB") at class level 6
+- [Grease](/spells/grease-xphb.md "XPHB") at class level 6
+- [Guiding Bolt](/spells/guiding-bolt-xphb.md "XPHB") at class level 6
+- [Healing Word](/spells/healing-word-xphb.md "XPHB") at class level 6
+- [Ice Knife](/spells/ice-knife-xphb.md "XPHB") at class level 6
+- [Identify](/spells/identify-xphb.md "XPHB") at class level 6
+- [Illusory Script](/spells/illusory-script-xphb.md "XPHB") at class level 6
+- [Inflict Wounds](/spells/inflict-wounds-xphb.md "XPHB") at class level 6
+- [Jim's Magic Missile](/spells/jims-magic-missile-ai.md "AI") at class level 6
+- [Jump](/spells/jump-xphb.md "XPHB") at class level 6
+- [Longstrider](/spells/longstrider-xphb.md "XPHB") at class level 6
+- [Mage Armor](/spells/mage-armor-xphb.md "XPHB") at class level 6
+- [Magic Missile](/spells/magic-missile-xphb.md "XPHB") at class level 6
+- [Protection from Evil and Good](/spells/protection-from-evil-and-good-xphb.md "XPHB") at class level 6
+- [Purify Food and Drink](/spells/purify-food-and-drink-xphb.md "XPHB") at class level 6
+- [Ray of Sickness](/spells/ray-of-sickness-xphb.md "XPHB") at class level 6
+- [Sanctuary](/spells/sanctuary-xphb.md "XPHB") at class level 6
+- [Shield](/spells/shield-xphb.md "XPHB") at class level 6
+- [Shield of Faith](/spells/shield-of-faith-xphb.md "XPHB") at class level 6
+- [Silent Image](/spells/silent-image-xphb.md "XPHB") at class level 6
+- [Silvery Barbs](/spells/silvery-barbs-scc.md "SCC") at class level 6
+- [Sleep](/spells/sleep-xphb.md "XPHB") at class level 6
+- [Snare](/spells/snare-xge.md "XGE") at class level 6
+- [Speak with Animals](/spells/speak-with-animals-xphb.md "XPHB") at class level 6
+- [Spellfire Flare](/spells/spellfire-flare-frhof.md "FRHoF") at class level 6
+- [Tasha's Caustic Brew](/spells/tashas-caustic-brew-tce.md "TCE") at class level 6
+- [Tasha's Hideous Laughter](/spells/tashas-hideous-laughter-xphb.md "XPHB") at class level 6
+- [Tenser's Floating Disk](/spells/tensers-floating-disk-xphb.md "XPHB") at class level 6
+- [Thunderwave](/spells/thunderwave-xphb.md "XPHB") at class level 6
+- [Unseen Servant](/spells/unseen-servant-xphb.md "XPHB") at class level 6
+- [Wardaway](/spells/wardaway-frhof.md "FRHoF") at class level 6
+- [Witch Bolt](/spells/witch-bolt-xphb.md "XPHB") at class level 6
+
+## 2nd Level
+
+- [Aganazzar's Scorcher](/spells/aganazzars-scorcher-xge.md "XGE") at class level 6
+- [Aid](/spells/aid-xphb.md "XPHB") at class level 6
+- [Air Bubble](/spells/air-bubble-aag.md "AAG") at class level 6
+- [Alter Self](/spells/alter-self-xphb.md "XPHB") at class level 6
+- [Animal Messenger](/spells/animal-messenger-xphb.md "XPHB") at class level 6
+- [Arcane Lock](/spells/arcane-lock-xphb.md "XPHB") at class level 6
+- [Arcane Vigor](/spells/arcane-vigor-xphb.md "XPHB") at class level 6
+- [Augury](/spells/augury-xphb.md "XPHB") at class level 6
+- [Barkskin](/spells/barkskin-xphb.md "XPHB") at class level 6
+- [Beast Sense](/spells/beast-sense-xphb.md "XPHB") at class level 6
+- [Blindness/Deafness](/spells/blindness-deafness-xphb.md "XPHB") at class level 6
+- [Blur](/spells/blur-xphb.md "XPHB") at class level 6
+- [Borrowed Knowledge](/spells/borrowed-knowledge-scc.md "SCC") at class level 6
+- [Calm Emotions](/spells/calm-emotions-xphb.md "XPHB") at class level 6
+- [Cloud of Daggers](/spells/cloud-of-daggers-xphb.md "XPHB") at class level 6
+- [Continual Flame](/spells/continual-flame-xphb.md "XPHB") at class level 6
+- [Crown of Madness](/spells/crown-of-madness-xphb.md "XPHB") at class level 6
+- [Darkness](/spells/darkness-xphb.md "XPHB") at class level 6
+- [Darkvision](/spells/darkvision-xphb.md "XPHB") at class level 6
+- [Death Armor](/spells/death-armor-frhof.md "FRHoF") at class level 6
+- [Deryan's Helpful Homunculi](/spells/deryans-helpful-homunculi-frhof.md "FRHoF") at class level 6
+- [Detect Thoughts](/spells/detect-thoughts-xphb.md "XPHB") at class level 6
+- [Dragon's Breath](/spells/dragons-breath-xphb.md "XPHB") at class level 6
+- [Dust Devil](/spells/dust-devil-xge.md "XGE") at class level 6
+- [Earthbind](/spells/earthbind-xge.md "XGE") at class level 6
+- [Elminster's Elusion](/spells/elminsters-elusion-frhof.md "FRHoF") at class level 6
+- [Enhance Ability](/spells/enhance-ability-xphb.md "XPHB") at class level 6
+- [Enlarge/Reduce](/spells/enlarge-reduce-xphb.md "XPHB") at class level 6
+- [Find Traps](/spells/find-traps-xphb.md "XPHB") at class level 6
+- [Flame Blade](/spells/flame-blade-xphb.md "XPHB") at class level 6
+- [Flaming Sphere](/spells/flaming-sphere-xphb.md "XPHB") at class level 6
+- [Gentle Repose](/spells/gentle-repose-xphb.md "XPHB") at class level 6
+- [Gift of Gab](/spells/gift-of-gab-ai.md "AI") at class level 6
+- [Gust of Wind](/spells/gust-of-wind-xphb.md "XPHB") at class level 6
+- [Healing Spirit](/spells/healing-spirit-xge.md "XGE") at class level 6
+- [Heat Metal](/spells/heat-metal-xphb.md "XPHB") at class level 6
+- [Hold Person](/spells/hold-person-xphb.md "XPHB") at class level 6
+- [Invisibility](/spells/invisibility-xphb.md "XPHB") at class level 6
+- [Jim's Glowing Coin](/spells/jims-glowing-coin-ai.md "AI") at class level 6
+- [Kinetic Jaunt](/spells/kinetic-jaunt-scc.md "SCC") at class level 6
+- [Knock](/spells/knock-xphb.md "XPHB") at class level 6
+- [Lesser Restoration](/spells/lesser-restoration-xphb.md "XPHB") at class level 6
+- [Levitate](/spells/levitate-xphb.md "XPHB") at class level 6
+- [Locate Animals or Plants](/spells/locate-animals-or-plants-xphb.md "XPHB") at class level 6
+- [Locate Object](/spells/locate-object-xphb.md "XPHB") at class level 6
+- [Magic Mouth](/spells/magic-mouth-xphb.md "XPHB") at class level 6
+- [Magic Weapon](/spells/magic-weapon-xphb.md "XPHB") at class level 6
+- [Maximilian's Earthen Grasp](/spells/maximilians-earthen-grasp-xge.md "XGE") at class level 6
+- [Melf's Acid Arrow](/spells/melfs-acid-arrow-xphb.md "XPHB") at class level 6
+- [Mind Spike](/spells/mind-spike-xphb.md "XPHB") at class level 6
+- [Mirror Image](/spells/mirror-image-xphb.md "XPHB") at class level 6
+- [Misty Step](/spells/misty-step-xphb.md "XPHB") at class level 6
+- [Moonbeam](/spells/moonbeam-xphb.md "XPHB") at class level 6
+- [Nathair's Mischief](/spells/nathairs-mischief-ftd.md "FTD") at class level 6
+- [Nystul's Magic Aura](/spells/nystuls-magic-aura-xphb.md "XPHB") at class level 6
+- [Pass without Trace](/spells/pass-without-trace-xphb.md "XPHB") at class level 6
+- [Phantasmal Force](/spells/phantasmal-force-xphb.md "XPHB") at class level 6
+- [Prayer of Healing](/spells/prayer-of-healing-xphb.md "XPHB") at class level 6
+- [Protection from Poison](/spells/protection-from-poison-xphb.md "XPHB") at class level 6
+- [Pyrotechnics](/spells/pyrotechnics-xge.md "XGE") at class level 6
+- [Ray of Enfeeblement](/spells/ray-of-enfeeblement-xphb.md "XPHB") at class level 6
+- [Rime's Binding Ice](/spells/rimes-binding-ice-ftd.md "FTD") at class level 6
+- [Rope Trick](/spells/rope-trick-xphb.md "XPHB") at class level 6
+- [Scorching Ray](/spells/scorching-ray-xphb.md "XPHB") at class level 6
+- [See Invisibility](/spells/see-invisibility-xphb.md "XPHB") at class level 6
+- [Shadow Blade](/spells/shadow-blade-xge.md "XGE") at class level 6
+- [Shatter](/spells/shatter-xphb.md "XPHB") at class level 6
+- [Silence](/spells/silence-xphb.md "XPHB") at class level 6
+- [Skywrite](/spells/skywrite-xge.md "XGE") at class level 6
+- [Snilloc's Snowball Swarm](/spells/snillocs-snowball-swarm-xge.md "XGE") at class level 6
+- [Spider Climb](/spells/spider-climb-xphb.md "XPHB") at class level 6
+- [Spike Growth](/spells/spike-growth-xphb.md "XPHB") at class level 6
+- [Spiritual Weapon](/spells/spiritual-weapon-xphb.md "XPHB") at class level 6
+- [Spray of Cards](/spells/spray-of-cards-bmt.md "BMT") at class level 6
+- [Suggestion](/spells/suggestion-xphb.md "XPHB") at class level 6
+- [Summon Beast](/spells/summon-beast-xphb.md "XPHB") at class level 6
+- [Tasha's Mind Whip](/spells/tashas-mind-whip-tce.md "TCE") at class level 6
+- [Vortex Warp](/spells/vortex-warp-scc.md "SCC") at class level 6
+- [Warding Bond](/spells/warding-bond-xphb.md "XPHB") at class level 6
+- [Warding Wind](/spells/warding-wind-xge.md "XGE") at class level 6
+- [Warp Sense](/spells/warp-sense-sato.md "SatO") at class level 6
+- [Web](/spells/web-xphb.md "XPHB") at class level 6
+- [Wither and Bloom](/spells/wither-and-bloom-scc.md "SCC") at class level 6
+- [Zone of Truth](/spells/zone-of-truth-xphb.md "XPHB") at class level 6
+
+## 3rd Level
+
+- [Animate Dead](/spells/animate-dead-xphb.md "XPHB") at class level 6
+- [Antagonize](/spells/antagonize-bmt.md "BMT") at class level 6
+- [Ashardalon's Stride](/spells/ashardalons-stride-ftd.md "FTD") at class level 6
+- [Aura of Vitality](/spells/aura-of-vitality-xphb.md "XPHB") at class level 6
+- [Beacon of Hope](/spells/beacon-of-hope-xphb.md "XPHB") at class level 6
+- [Bestow Curse](/spells/bestow-curse-xphb.md "XPHB") at class level 6
+- [Blink](/spells/blink-xphb.md "XPHB") at class level 6
+- [Cacophonic Shield](/spells/cacophonic-shield-frhof.md "FRHoF") at class level 6
+- [Call Lightning](/spells/call-lightning-xphb.md "XPHB") at class level 6
+- [Catnap](/spells/catnap-xge.md "XGE") at class level 6
+- [Clairvoyance](/spells/clairvoyance-xphb.md "XPHB") at class level 6
+- [Conjure Animals](/spells/conjure-animals-xphb.md "XPHB") at class level 6
+- [Conjure Constructs](/spells/conjure-constructs-frhof.md "FRHoF") at class level 6
+- [Counterspell](/spells/counterspell-xphb.md "XPHB") at class level 6
+- [Create Food and Water](/spells/create-food-and-water-xphb.md "XPHB") at class level 6
+- [Daylight](/spells/daylight-xphb.md "XPHB") at class level 6
+- [Dispel Magic](/spells/dispel-magic-xphb.md "XPHB") at class level 6
+- [Elemental Weapon](/spells/elemental-weapon-xphb.md "XPHB") at class level 6
+- [Enemies Abound](/spells/enemies-abound-xge.md "XGE") at class level 6
+- [Erupting Earth](/spells/erupting-earth-xge.md "XGE") at class level 6
+- [Fast Friends](/spells/fast-friends-ai.md "AI") at class level 6
+- [Fear](/spells/fear-xphb.md "XPHB") at class level 6
+- [Feign Death](/spells/feign-death-xphb.md "XPHB") at class level 6
+- [Fireball](/spells/fireball-xphb.md "XPHB") at class level 6
+- [Flame Arrows](/spells/flame-arrows-xge.md "XGE") at class level 6
+- [Fly](/spells/fly-xphb.md "XPHB") at class level 6
+- [Gaseous Form](/spells/gaseous-form-xphb.md "XPHB") at class level 6
+- [Glyph of Warding](/spells/glyph-of-warding-xphb.md "XPHB") at class level 6
+- [Haste](/spells/haste-xphb.md "XPHB") at class level 6
+- [Hypnotic Pattern](/spells/hypnotic-pattern-xphb.md "XPHB") at class level 6
+- [Incite Greed](/spells/incite-greed-ai.md "AI") at class level 6
+- [Intellect Fortress](/spells/intellect-fortress-tce.md "TCE") at class level 6
+- [Laeral's Silver Lance](/spells/laerals-silver-lance-frhof.md "FRHoF") at class level 6
+- [Leomund's Tiny Hut](/spells/leomunds-tiny-hut-xphb.md "XPHB") at class level 6
+- [Life Transference](/spells/life-transference-xge.md "XGE") at class level 6
+- [Lightning Bolt](/spells/lightning-bolt-xphb.md "XPHB") at class level 6
+- [Magic Circle](/spells/magic-circle-xphb.md "XPHB") at class level 6
+- [Major Image](/spells/major-image-xphb.md "XPHB") at class level 6
+- [Mass Healing Word](/spells/mass-healing-word-xphb.md "XPHB") at class level 6
+- [Meld into Stone](/spells/meld-into-stone-xphb.md "XPHB") at class level 6
+- [Melf's Minute Meteors](/spells/melfs-minute-meteors-xge.md "XGE") at class level 6
+- [Motivational Speech](/spells/motivational-speech-ai.md "AI") at class level 6
+- [Nondetection](/spells/nondetection-xphb.md "XPHB") at class level 6
+- [Phantom Steed](/spells/phantom-steed-xphb.md "XPHB") at class level 6
+- [Plant Growth](/spells/plant-growth-xphb.md "XPHB") at class level 6
+- [Protection from Energy](/spells/protection-from-energy-xphb.md "XPHB") at class level 6
+- [Remove Curse](/spells/remove-curse-xphb.md "XPHB") at class level 6
+- [Revivify](/spells/revivify-xphb.md "XPHB") at class level 6
+- [Sending](/spells/sending-xphb.md "XPHB") at class level 6
+- [Sleet Storm](/spells/sleet-storm-xphb.md "XPHB") at class level 6
+- [Slow](/spells/slow-xphb.md "XPHB") at class level 6
+- [Speak with Dead](/spells/speak-with-dead-xphb.md "XPHB") at class level 6
+- [Speak with Plants](/spells/speak-with-plants-xphb.md "XPHB") at class level 6
+- [Spirit Guardians](/spells/spirit-guardians-xphb.md "XPHB") at class level 6
+- [Spirit Shroud](/spells/spirit-shroud-tce.md "TCE") at class level 6
+- [Stinking Cloud](/spells/stinking-cloud-xphb.md "XPHB") at class level 6
+- [Summon Fey](/spells/summon-fey-xphb.md "XPHB") at class level 6
+- [Summon Lesser Demons](/spells/summon-lesser-demons-xge.md "XGE") at class level 6
+- [Summon Shadowspawn](/spells/summon-shadowspawn-tce.md "TCE") at class level 6
+- [Summon Undead](/spells/summon-undead-xphb.md "XPHB") at class level 6
+- [Syluné's Viper](/spells/sylunes-viper-frhof.md "FRHoF") at class level 6
+- [Thunder Step](/spells/thunder-step-xge.md "XGE") at class level 6
+- [Tidal Wave](/spells/tidal-wave-xge.md "XGE") at class level 6
+- [Tiny Servant](/spells/tiny-servant-xge.md "XGE") at class level 6
+- [Tongues](/spells/tongues-xphb.md "XPHB") at class level 6
+- [Vampiric Touch](/spells/vampiric-touch-xphb.md "XPHB") at class level 6
+- [Wall of Sand](/spells/wall-of-sand-xge.md "XGE") at class level 6
+- [Wall of Water](/spells/wall-of-water-xge.md "XGE") at class level 6
+- [Water Breathing](/spells/water-breathing-xphb.md "XPHB") at class level 6
+- [Water Walk](/spells/water-walk-xphb.md "XPHB") at class level 6
+- [Wind Wall](/spells/wind-wall-xphb.md "XPHB") at class level 6
