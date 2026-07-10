@@ -15,8 +15,8 @@
               "state": {
                 "file": "adventures/Campaign.canvas",
                 "viewState": {
-                  "x": 2735.100854245135,
-                  "y": -558.3558967678495,
+                  "x": 301.9998492042686,
+                  "y": -44.65217580035632,
                   "zoom": -0.6624068659884795
                 }
               },
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/Campaign.canvas",
+                "file": "adventures/baldurs-gate-descent-into-avernus/02-chapter-1-a-tale-of-two-cities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Campaign"
+              "title": "Backlinks for 02-chapter-1-a-tale-of-two-cities"
             }
           },
           {
@@ -201,10 +201,11 @@
       "templater-obsidian:Templater": false,
       "pseudo-mica:Change vibrancy": false,
       "obsidian42-brat:BRAT": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc62c67d1826a346",
+  "active": "6e6a0a0b39ed94d8",
   "lastOpenFiles": [
     "adventures/baldurs-gate-descent-into-avernus/03-chapter-2-elturel-has-fallen.md",
     "adventures/Campaign.canvas",
