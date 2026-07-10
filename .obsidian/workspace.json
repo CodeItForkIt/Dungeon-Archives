@@ -15,8 +15,8 @@
               "state": {
                 "file": "adventures/Campaign.canvas",
                 "viewState": {
-                  "x": 3751.4337275447742,
-                  "y": -485.0384025041581,
+                  "x": 4265.137448512272,
+                  "y": -256.88918545555913,
                   "zoom": -0.6624068659884795
                 }
               },
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/baldurs-gate-descent-into-avernus/04-chapter-3-avernus.md",
+                "file": "adventures/Campaign.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 04-chapter-3-avernus"
+              "title": "Backlinks for Campaign"
             }
           },
           {
@@ -208,8 +208,8 @@
   "active": "6e6a0a0b39ed94d8",
   "lastOpenFiles": [
     "adventures/baldurs-gate-descent-into-avernus/04-chapter-3-avernus.md",
-    "adventures/baldurs-gate-descent-into-avernus/07-chapter-3-avernus-other-locations.md",
     "adventures/Campaign.canvas",
+    "adventures/baldurs-gate-descent-into-avernus/07-chapter-3-avernus-other-locations.md",
     "adventures/baldurs-gate-descent-into-avernus/03-chapter-2-elturel-has-fallen.md",
     "classes/bard-xphb/bard-xphb-college-of-spirits-rhw.md",
     "adventures/baldurs-gate-descent-into-avernus/baldurs-gate-descent-into-avernus.md",
@@ -235,7 +235,6 @@
     "bestiary/plant/aartuk-weedling-bam.md",
     "races/reborn-rhw.md",
     "races/plasmoid-aag.md",
-    "races/owlin-scc.md",
     "Tags",
     "Characters/DnD_2024_Character-Sheet.markers.json",
     "Characters/DnD_2024_Character-Sheet.pdf",
