@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"0ca5cc7eadfe1c76","type":"group","x":-1040,"y":-1080,"width":8000,"height":1520,"label":"Baldur's Gate: Descent into Avernus "},
-		{"id":"53564319f90f36c9","type":"group","x":3180,"y":-1020,"width":3300,"height":1460,"label":"Chapter 3: Avernus"},
+		{"id":"0ca5cc7eadfe1c76","type":"group","x":-1040,"y":-1080,"width":8700,"height":1520,"label":"Baldur's Gate: Descent into Avernus "},
+		{"id":"53564319f90f36c9","type":"group","x":3180,"y":-1020,"width":4480,"height":1460,"label":"Chapter 3: Avernus"},
 		{"id":"b6c2da36548f914d","type":"group","x":1740,"y":-1020,"width":1350,"height":1460,"label":"Chapter 2: Elturel has Fallen"},
 		{"id":"4f4f24243b7eab64","type":"group","x":-1040,"y":-1020,"width":2710,"height":1460,"label":"Chapter 1: A Tale of Two Cities"},
 		{"id":"9e02c221241941b2","type":"text","text":"## [[02-chapter-1-a-tale-of-two-cities#The Basilisk Gate|The Basilisk Gate]]\n*For characters of level 1*\nShortly after their arrival at the Basilisk Gate, the adventurers are drafted by a Flaming Fist captain and instructed to seek out and destroy Dead Three followers responsible for a murder spree.","x":-1036,"y":-971,"width":250,"height":190},
@@ -25,11 +25,13 @@
 		{"id":"1677e880e76c4dea","type":"text","text":"## [[04-chapter-3-avernus#Hellwasp Nest|Hellwasp Nest]]\n*For characters of level 7*\nAfter a hellwasp attack atop Haruman’s Hill, the adventurers must rescue Lulu when she is abducted and taken to a nearby hellwasp nest.","x":4340,"y":-1003,"width":250,"height":217},
 		{"id":"e23c0d64d933fb97","x":4800,"y":-1020,"width":250,"height":252,"type":"text","text":"## [[05-chapter-3-avernus-path-of-demons|Path of Demons]]\n*For characters of levels 8-10*\nIf the adventurers choose this path to finding the Sword of Zariel, a series of encounters leads them to the demon lord Kostchtchie and a showdown with Olanthius, a fallen Hellrider.\n"},
 		{"id":"772e3cf2bd4d5730","x":4740,"y":-220,"width":250,"height":270,"type":"text","text":"## [[06-chapter-3-avernus-path-of-devils|Path of Devils]]\n*For characters of levels 8-10*\nIf the adventurers choose this path to finding the Sword of Zariel, a series of encounters leads them to Bel, the pit fiend who ruled Avernus before Zariel unseated him. Bel helps them for a price."},
-		{"id":"efb58a159ebd216a","x":4790,"y":-744,"width":1690,"height":400,"type":"file","file":"adventures/baldurs-gate-descent-into-avernus/05-chapter-3-avernus-path-of-demons.md"},
+		{"id":"efb58a159ebd216a","x":4790,"y":-744,"width":2370,"height":400,"type":"file","file":"adventures/baldurs-gate-descent-into-avernus/05-chapter-3-avernus-path-of-demons.md"},
 		{"id":"8513ff9e28a5312d","x":5140,"y":-984,"width":250,"height":180,"type":"text","text":"## [[05-chapter-3-avernus-path-of-demons#Spawning Trees|Spawning Trees]]\n*For characters of level 8*\n\"Demons beget demons. Where their filth lands, they spawn even more corruption.\""},
 		{"id":"7823563ae2b9745a","x":5460,"y":-984,"width":250,"height":180,"type":"text","text":"## [[05-chapter-3-avernus-path-of-demons#Tower of Urm|Tower of Urm]]\n*For characters of level 8*\n\"A tower tumbles between planes on the whims of a mad mage. Where it goes next, nobody knows.\""},
 		{"id":"20a9b3c9e64bd790","type":"text","text":"## [[05-chapter-3-avernus-path-of-demons#Obelisk|Obelisk]]\n*For characters of level 8*\n\"An unknown man with unknown purpose. Assist him at your peril, lest he drag you into madness.\"","x":5780,"y":-984,"width":250,"height":180},
-		{"id":"b2f0c4696b1c7d9b","type":"text","text":"## [[05-chapter-3-avernus-path-of-demons#Mirror of Mephistar|Mirror of Mephistar]]\n*For characters of level 8*\n\"A tower tumbles between planes on the whims of a mad mage. Where it goes next, nobody knows.\"","x":6100,"y":-984,"width":250,"height":180}
+		{"id":"b2f0c4696b1c7d9b","type":"text","text":"## [[05-chapter-3-avernus-path-of-demons#Mirror of Mephistar|Mirror of Mephistar]]\n*For characters of level 8*\n\"Mirror, mirror, made of ice-look within, but at what price?\"","x":6100,"y":-971,"width":250,"height":154},
+		{"id":"bf6198b440264f13","type":"text","text":"## [[05-chapter-3-avernus-path-of-demons#Pit of Shummrath|Pit of Shummrath]]\n*For characters of level 8*\n\"Here you find a sticky situation. Poor Shummrath isn't the fiend it used to be.\"","x":6420,"y":-984,"width":250,"height":180},
+		{"id":"937c0b901c517de0","type":"text","text":"## [[05-chapter-3-avernus-path-of-demons#Crypt of the Hellriders|Crypt of the Hellriders]]\n*For characters of level 9*\n\"Zariel's fallen companions cannot rest. No one can in this nightmare hellscape.\"","x":6740,"y":-977,"width":250,"height":167}
 	],
 	"edges":[
 		{"id":"22b15d0d15a48928","fromNode":"9e02c221241941b2","fromSide":"right","toNode":"f5b927e1b4aab8e7","toSide":"left"},
@@ -51,6 +53,9 @@
 		{"id":"55a755df72c24845","fromNode":"1677e880e76c4dea","fromSide":"right","toNode":"772e3cf2bd4d5730","toSide":"left","color":"1"},
 		{"id":"ec08cac311aca79b","fromNode":"e23c0d64d933fb97","fromSide":"right","toNode":"8513ff9e28a5312d","toSide":"left"},
 		{"id":"de62f50af3afc67a","fromNode":"8513ff9e28a5312d","fromSide":"right","toNode":"7823563ae2b9745a","toSide":"left"},
-		{"id":"dd6c94797d5e5c51","fromNode":"7823563ae2b9745a","fromSide":"right","toNode":"20a9b3c9e64bd790","toSide":"left"}
+		{"id":"dd6c94797d5e5c51","fromNode":"7823563ae2b9745a","fromSide":"right","toNode":"20a9b3c9e64bd790","toSide":"left"},
+		{"id":"6bf973329858be5d","fromNode":"20a9b3c9e64bd790","fromSide":"right","toNode":"b2f0c4696b1c7d9b","toSide":"left"},
+		{"id":"1d54ea4176260e8f","fromNode":"b2f0c4696b1c7d9b","fromSide":"right","toNode":"bf6198b440264f13","toSide":"left"},
+		{"id":"6ce9d49f94b09ef9","fromNode":"bf6198b440264f13","fromSide":"right","toNode":"937c0b901c517de0","toSide":"left","color":"1"}
 	]
 }
