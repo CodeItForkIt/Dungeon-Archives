@@ -45,8 +45,8 @@ After you spend the requisite amount of time reading and studying the book, you 
 
 The Book of Exalted Deeds has the following random properties:
 
-- 2 [minor beneficial](/tables/artifact-properties-minor-beneficial-properties-xdmg.md) properties  
-- 2 [major beneficial](/tables/artifact-properties-major-beneficial-properties-xdmg.md) properties  
+- 2 [minor beneficial](artifact-properties-minor-beneficial-properties-xdmg.md) properties  
+- 2 [major beneficial](artifact-properties-major-beneficial-properties-xdmg.md) properties  
 
 ## Destroying the Book
 

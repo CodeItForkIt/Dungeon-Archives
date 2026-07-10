@@ -23,7 +23,7 @@ aliases:
 *Chitinous Servant of Primeval Powers*
 
 - **Habitat.** Coastal, Swamp, Underdark  
-- **Treasure.** [Relics](/tables/random-magic-items-relics.md)  
+- **Treasure.** [Relics](Random%20-%20Magic%20Items%20Relics.md)  
 
 Chuuls originated in forgotten ages when aboleths and stranger beings ruled alien empires beneath the waves. The aboleths transformed numerous deep-sea predators into servants that could venture beyond the seas to claim more magic and creatures to exploit. Chuuls are the most enduring of these bizarre servants.
 

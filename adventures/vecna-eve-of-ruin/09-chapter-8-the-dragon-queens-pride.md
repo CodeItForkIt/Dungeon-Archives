@@ -83,7 +83,7 @@ The characters can descend the cliff without trouble. Once they do, they catch t
 > Out of the red dust clouds barrels an angular metal vehicle, ten feet tall, with spiked tires and hellfire roaring in its engine. Tortured screams issue from its furnace. The vehicle slows to a halt, and a winged silhouette jumps out and waves at you.
 ^3fb
 
-The infernal war machine [Venatrix](/vehicles/venatrix-veor.md) has room for four Medium or smaller creatures to ride inside the vehicle, including its driver, and for four Medium or smaller creatures to ride in its upper, open-air area. Three [erinyes](/bestiary/fiend/erinyes-xmm.md) crew the [Venatrix](/vehicles/venatrix-veor.md): Nykaia, who leaps out to greet the characters, and Kypris and Mykale, who are inside.
+The infernal war machine [Venatrix](Venatrix%20veor.md) has room for four Medium or smaller creatures to ride inside the vehicle, including its driver, and for four Medium or smaller creatures to ride in its upper, open-air area. Three [erinyes](/bestiary/fiend/erinyes-xmm.md) crew the [Venatrix](Venatrix%20veor.md): Nykaia, who leaps out to greet the characters, and Kypris and Mykale, who are inside.
 
 Nykaia is the group's glib and calculating leader, Kypris is their unflappable engineer and driver, and Mykale is their overeager weapons specialist. The three devils travel the wasteland of Avernus harvesting scrap metal and other valuable materials. The group is searching for additional crew members to aid them in their latest score.
 
@@ -91,9 +91,9 @@ Seeing that the characters lack a vehicle, Nykaia offers them a deal: if the cha
 
 The three erinyes are hoping to take down a [goristro](/bestiary/fiend/goristro-xmm.md): a minotaur-like demon that carries demonic legions and rare treasures through the battlefields of the Blood War. They need someone to focus on the goristro while they take out the soldiers on its back.
 
-Nykaia knows about the Red Belvedere but refuses to provide any more information until the characters help with the goristro. If the characters agree to her deal, she welcomes them aboard the [Venatrix](/vehicles/venatrix-veor.md). Nykaia isn't hostile toward the characters and won't attack them unless the characters threaten her or start a fight.
+Nykaia knows about the Red Belvedere but refuses to provide any more information until the characters help with the goristro. If the characters agree to her deal, she welcomes them aboard the [Venatrix](Venatrix%20veor.md). Nykaia isn't hostile toward the characters and won't attack them unless the characters threaten her or start a fight.
 
-If the characters attack Nykaia or attempt to take the [Venatrix](/vehicles/venatrix-veor.md) by force, Kypris and Mykale emerge from the war machine and join the fight. If the erinyes are in danger of losing the fight, they surrender and beg the characters to spare them, offering to drive the characters to the Red Belvedere in exchange.
+If the characters attack Nykaia or attempt to take the [Venatrix](Venatrix%20veor.md) by force, Kypris and Mykale emerge from the war machine and join the fight. If the erinyes are in danger of losing the fight, they surrender and beg the characters to spare them, offering to drive the characters to the Red Belvedere in exchange.
 
 #### Driving the Venatrix
 
@@ -103,21 +103,21 @@ The following rules are an adjusted, condensed version of the infernal war machi
 
 The helm of an infernal war machine is a chair with a wheel, levers, pedals, and other controls. The helm requires a driver to operate.
 
-While the [Venatrix](/vehicles/venatrix-veor.md)'s engine is on, the driver can use an action to propel the vehicle up to its speed (see the "Vehicle Statistics" section below) or bring the vehicle to a dead stop. While the vehicle is moving, the driver can steer it along any course.
+While the [Venatrix](Venatrix%20veor.md)'s engine is on, the driver can use an action to propel the vehicle up to its speed (see the "Vehicle Statistics" section below) or bring the vehicle to a dead stop. While the vehicle is moving, the driver can steer it along any course.
 
-If the driver has the [incapacitated](/rules/conditions.md#Incapacitated) condition, leaves the helm, or does nothing to alter the [Venatrix](/vehicles/venatrix-veor.md)'s course and speed, the vehicle moves in the same direction and at the same speed it did during the driver's last turn until it hits an obstacle big enough to stop it.
+If the driver has the [incapacitated](/rules/conditions.md#Incapacitated) condition, leaves the helm, or does nothing to alter the [Venatrix](Venatrix%20veor.md)'s course and speed, the vehicle moves in the same direction and at the same speed it did during the driver's last turn until it hits an obstacle big enough to stop it.
 
 As a bonus action, the driver can do one of the following:
 
-- Start the [Venatrix](/vehicles/venatrix-veor.md)'s engine or shut it off.  
-- Cause the [Venatrix](/vehicles/venatrix-veor.md) to take the [Dash](/rules/actions.md#Dash) or [Disengage](/rules/actions.md#Disengage) action while the vehicle's engine is running  
+- Start the [Venatrix](Venatrix%20veor.md)'s engine or shut it off.  
+- Cause the [Venatrix](Venatrix%20veor.md) to take the [Dash](/rules/actions.md#Dash) or [Disengage](/rules/actions.md#Disengage) action while the vehicle's engine is running  
 - Insert a [Soul Coin](/items/soul-coin-bgdia.md) into the engine's furnace  
 
 ##### Soul Fuel
 
 The Venatrix's engine has a furnace fueled by [Soul Coins](/items/soul-coin-bgdia.md) (described later in this chapter). Among the vehicle's helm controls is a narrow slot into which Soul Coins can be fed. The vehicle's furnace consumes a Soul Coin instantly, expending all the coin's remaining charges at once and destroying the coin in the process. The soul trapped in the coin becomes trapped in the furnace instead, giving the vehicle 24 hours of fuel for each charge the Soul Coin had when it was consumed (maximum 72 hours). The furnace can hold any number of souls, their screams of anguish audible out to a range of 60 feet.
 
-The [Venatrix](/vehicles/venatrix-veor.md) currently has enough soul fuel to run for 60 hours.
+The [Venatrix](Venatrix%20veor.md) currently has enough soul fuel to run for 60 hours.
 
 ##### Vehicle Statistics
 
@@ -133,9 +133,9 @@ A creature operating the infernal screamer can use an action to turn its crank, 
 
 ### Goristro Raid
 
-This encounter occurs only if the characters teamed up with the [erinyes](/bestiary/fiend/erinyes-xmm.md) in the previous encounter. If the characters instead defeated the erinyes and claimed the [Venatrix](/vehicles/venatrix-veor.md) for themselves or bypassed the erinyes entirely, skip to the "Stop for Directions" section.
+This encounter occurs only if the characters teamed up with the [erinyes](/bestiary/fiend/erinyes-xmm.md) in the previous encounter. If the characters instead defeated the erinyes and claimed the [Venatrix](Venatrix%20veor.md) for themselves or bypassed the erinyes entirely, skip to the "Stop for Directions" section.
 
-It takes about an hour for the [Venatrix](/vehicles/venatrix-veor.md) to travel to the goristro's location. As the [Venatrix](/vehicles/venatrix-veor.md) approaches the goristro, read or paraphrase the following:
+It takes about an hour for the [Venatrix](Venatrix%20veor.md) to travel to the goristro's location. As the [Venatrix](Venatrix%20veor.md) approaches the goristro, read or paraphrase the following:
 
 > [!readaloud] 
 > 
@@ -190,7 +190,7 @@ As the characters approach the Red Belvedere, read or paraphrase the following:
 > Jagged mountains give way to an unexpectedly beautiful sight: a sprawling, palatial complex glittering with silver and gold. Light dances through the front rotunda's red stained-glass dome, reflecting off the overcast sky to shower the buildings with a rosy glow. A carved stone sign at the front of the complex reads in numerous languages, "The Red Belvedere."
 ^408
 
-If the crew of the [Venatrix](/vehicles/venatrix-veor.md) is with the party, the erinyes bid the characters goodbye at the front of the casino.
+If the crew of the [Venatrix](Venatrix%20veor.md) is with the party, the erinyes bid the characters goodbye at the front of the casino.
 
 ### Casino Lobby
 

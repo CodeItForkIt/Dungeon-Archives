@@ -24,6 +24,6 @@ The Spell Points by Level table applies to [bards](bard-xphb.md), [clerics](cler
 
 This system can be applied to monsters that cast spells using spell slots, but it isn't recommended that you do so. Tracking spell point expenditures for a monster can be a hassle.
 
-![Variant: Spell Points; Spell Point Cost](/tables/variant-spell-points-spell-point-cost.md)
+![Variant: Spell Points; Spell Point Cost](Variant%20-%20Spell%20Points%20Spell%20Point%20Cost.md)
 
-![Variant: Spell Points; Spell Points by Level](/tables/variant-spell-points-spell-points-by-level.md)
+![Variant: Spell Points; Spell Points by Level](Variant%20-%20Spell%20Points%20Spell%20Points%20By%20Level.md)

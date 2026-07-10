@@ -24,7 +24,7 @@ Githzerai monks pursue control of their minds by honing their physical and psion
 *Explorers at Reality's Extremes*
 
 - **Habitat.** Planar (Limbo)  
-- **Treasure.** [Arcana](/tables/random-magic-items-arcana.md), Individual  
+- **Treasure.** [Arcana](Random%20-%20Magic%20Items%20Arcana.md), Individual  
 
 Githzerai are gaunt, humanlike beings, physically identical to githyanki. They share a history with githyanki as creatures physically and psychically transformed by mind flayers (see the "Githyanki" section). Githzerai know that in body and mind, their species was manipulated by their former illithid oppressors. Rather than giving in to this programming, githzerai follow the teachings of their first leader, Zerthimon, and reshape their minds and bodies to find peace.
 

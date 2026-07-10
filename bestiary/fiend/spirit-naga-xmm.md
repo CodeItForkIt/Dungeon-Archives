@@ -23,7 +23,7 @@ aliases:
 *Spiteful Serpentine Grudge Keeper*
 
 - **Habitat.** Planar (Lower Planes), Underdark  
-- **Treasure.** [Arcana](/tables/random-magic-items-arcana.md)  
+- **Treasure.** [Arcana](Random%20-%20Magic%20Items%20Arcana.md)  
 
 Spirit nagas loathe the world and all creatures. Possessing perfect memories, these venomous, cobra-like creatures recall every slight committed against them during their immortal existences. In their dank, joyless lairs, they create vicious plots to avenge themselves against even petty offenses.
 

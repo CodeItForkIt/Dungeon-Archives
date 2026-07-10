@@ -23,7 +23,7 @@ aliases:
 *Life-Draining Seducer*
 
 - **Habitat.** Planar (Lower Planes), Urban  
-- **Treasure.** [Implements](/tables/random-magic-items-implements.md)  
+- **Treasure.** [Implements](Random%20-%20Magic%20Items%20Implements.md)  
 
 Succubi prey on mortals physically and exploit their waking desires. They relish corrupting virtuous souls and the pain an individual's downfall can cause. Once their targets are at their lowest, succubi slay their victims with their essence-draining kiss.
 

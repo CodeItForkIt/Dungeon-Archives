@@ -21,7 +21,7 @@ aliases:
 *Titanic Vessel of Divine Might*
 
 - **Habitat.** Any  
-- **Treasure.** [Relics](/tables/random-magic-items-relics.md)  
+- **Treasure.** [Relics](Random%20-%20Magic%20Items%20Relics.md)  
 
 Colossi are massive Constructs created by the devout to reflect the nature of a deity, which could be benevolent or wicked. Colossi thrum with incredible magic and work divine will on the land.
 

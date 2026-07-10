@@ -22,7 +22,7 @@ aliases:
 *Yugoloth of Magical Manipulation*
 
 - **Habitat.** Planar (Lower Planes)  
-- **Treasure.** [Arcana](/tables/random-magic-items-arcana.md)  
+- **Treasure.** [Arcana](Random%20-%20Magic%20Items%20Arcana.md)  
 
 While all yugoloths are fiendish manifestations of wickedness and greed, arcanaloths bend their considerable intellects toward hoarding and exploiting secrets. They then deploy these secrets to ensnare countless victims and lesser villains, beguiling foes with false promises and powerful magic.
 

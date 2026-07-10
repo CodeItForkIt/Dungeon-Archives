@@ -23,7 +23,7 @@ Black dragon wyrmlings lurk in bogs and polluted waterways, hunting for prey and
 *Dragons of Decay and Despair*
 
 - **Habitat.** Swamp  
-- **Treasure.** [Relics](/tables/random-magic-items-relics.md)  
+- **Treasure.** [Relics](Random%20-%20Magic%20Items%20Relics.md)  
 
 Black dragons delight in suffering and ruin. While other chromatic dragons scheme for power and wealth, these dragons seek to tear down all they see and rule over what remains.
 

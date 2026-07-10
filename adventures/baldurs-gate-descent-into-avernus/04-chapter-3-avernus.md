@@ -133,7 +133,7 @@ Telepathic communications via magic items such as [sending stones](/items/sendin
 
 ### Demon Ichor
 
-See the entry on the [Traps and Hazards](/traps-hazards/demon-ichor-bgdia.md) page.
+See the entry on the [Traps and Hazards](Demon%20ichor.md) page.
 
 ### Food and Drink
 
@@ -188,7 +188,7 @@ The poster map is riddled with strange imagery and unique iconography. These are
 > 
 > Celestials and demon lords alike wish for a working map of Avernus, but attempts to map the layer have consistently met with failure.
 > 
-> If a character attempts to map Avernus, madness begins to set in. After each mapping session, the character must make a DC 15 Wisdom saving throw. On a failed save, the character contracts a random form of madness determined by rolling on the [Short-Term Madness table](/tables/short-term-madness.md) in chapter 8 of the "Dungeon Master's Guide". If the character fails this saving throw a second time, roll on the [Long-Term Madness](/tables/long-term-madness.md) table instead. If the character fails a third time, roll on the [Indefinite Madness](/tables/indefinite-madness.md) table.
+> If a character attempts to map Avernus, madness begins to set in. After each mapping session, the character must make a DC 15 Wisdom saving throw. On a failed save, the character contracts a random form of madness determined by rolling on the [Short-Term Madness table](Short%20-%20Term%20Madness.md) in chapter 8 of the "Dungeon Master's Guide". If the character fails this saving throw a second time, roll on the [Long-Term Madness](Long%20-%20Term%20Madness.md) table instead. If the character fails a third time, roll on the [Indefinite Madness](Indefinite%20Madness.md) table.
 ^mapping-avernus
 
 ### Charting a Course
@@ -314,11 +314,11 @@ These two [kenku](/bestiary/monstrosity/kenku-xmm.md) are loyal, longtime associ
 
 ##### Chukka and Clonk's Goal
 
-The kenku live to build, fix, and drive infernal machines. At some point during their visit, the characters see the kenku angrily hammering on a nonfunctional [Demon Grinder](/vehicles/demon-grinder-bgdia.md). It isn't working, and they can't figure out why. They would be very grateful to anyone who could help them discern the problem.
+The kenku live to build, fix, and drive infernal machines. At some point during their visit, the characters see the kenku angrily hammering on a nonfunctional [Demon grinder](Demon%20grinder.md). It isn't working, and they can't figure out why. They would be very grateful to anyone who could help them discern the problem.
 
 ##### Helping the Kenku
 
-One of the parts in the [Demon Grinder](/vehicles/demon-grinder-bgdia.md)—a spiky gear—is disrupting the flow of infernal energy through the vehicle. The gear, comprised of spikes from a hezrou demon, surges with demonic energy to cause the malfunction. A successful DC 15 Intelligence ([Arcana](/rules/skills.md#Arcana) or [Investigation](/rules/skills.md#Investigation)) by a character who spends at least 10 minutes examining the vehicle reveals which part is to blame.
+One of the parts in the [Demon grinder](Demon%20grinder.md)—a spiky gear—is disrupting the flow of infernal energy through the vehicle. The gear, comprised of spikes from a hezrou demon, surges with demonic energy to cause the malfunction. A successful DC 15 Intelligence ([Arcana](/rules/skills.md#Arcana) or [Investigation](/rules/skills.md#Investigation)) by a character who spends at least 10 minutes examining the vehicle reveals which part is to blame.
 
 [Chukka](/bestiary/npc/chukka-bgdia.md) and [Clonk](/bestiary/npc/clonk-bgdia.md) appreciate the help in identifying the problem. Characters can further assist by finding a way to remove the demonic essence from the gear. Spells such as [dispel magic](/spells/dispel-magic-xphb.md) or [protection from evil and good](/spells/protection-from-evil-and-good-xphb.md), or other methods that the characters might imagine, could make the part usable. If the characters help the pair get the infernal machine running, the kenku express their pleasure to [Mad Maggie](/bestiary/npc/mad-maggie-bgdia.md), who becomes even more likely to help the characters in their quest.
 
@@ -384,11 +384,11 @@ These creatures don't have many goals, being mad fey creatures that revel in cha
 
 #### Mad Maggie's Infernal War Machines
 
-Fort Knucklebone contains the hulks of infernal war machines in varying states of disrepair and cannibalization. Of the lot, two appear relatively intact. The smaller one is a [Devil's Ride](/vehicles/devils-ride-bgdia.md), the bigger one a [Tormentor](/vehicles/tormentor-bgdia.md). The wheels of the Devil's Ride are missing. The Tormentor is missing its harpoon flinger, and its armor plating is corroded as though eaten by acid, reducing the vehicle's AC to 15.
+Fort Knucklebone contains the hulks of infernal war machines in varying states of disrepair and cannibalization. Of the lot, two appear relatively intact. The smaller one is a [Devil's Ride](Devils%20ride.md), the bigger one a [Tormentor](Tormentor.md). The wheels of the Devil's Ride are missing. The Tormentor is missing its harpoon flinger, and its armor plating is corroded as though eaten by acid, reducing the vehicle's AC to 15.
 
-If the characters earn enough gratitude from [Mad Maggie](/bestiary/npc/mad-maggie-bgdia.md), one or both of these war machines might be gifted to them. [Chukka](/bestiary/npc/chukka-bgdia.md) and [Clonk](/bestiary/npc/clonk-bgdia.md) can attach wheels to the [Devil's Ride](/vehicles/devils-ride-bgdia.md) and a weapon to the [Tormentor](/vehicles/tormentor-bgdia.md), if [Mad Maggie](/bestiary/npc/mad-maggie-bgdia.md) instructs them to. Replacing the armor on the Tormentor can be done as well, but only after efforts are made to salvage scrap metal from the battlefields of Avernus. Any such salvage operation is likely to attract unwanted attention from other warlords (see "Warlords of the Avernian Wastelands").
+If the characters earn enough gratitude from [Mad Maggie](/bestiary/npc/mad-maggie-bgdia.md), one or both of these war machines might be gifted to them. [Chukka](/bestiary/npc/chukka-bgdia.md) and [Clonk](/bestiary/npc/clonk-bgdia.md) can attach wheels to the [Devil's Ride](Devils%20ride.md) and a weapon to the [Tormentor](Tormentor.md), if [Mad Maggie](/bestiary/npc/mad-maggie-bgdia.md) instructs them to. Replacing the armor on the Tormentor can be done as well, but only after efforts are made to salvage scrap metal from the battlefields of Avernus. Any such salvage operation is likely to attract unwanted attention from other warlords (see "Warlords of the Avernian Wastelands").
 
-In addition to the war machines described above, [Mad Maggie](/bestiary/npc/mad-maggie-bgdia.md) has several infernal war machines in drivable condition that are undergoing regular maintenance and upgrades in her garage under the hill. These vehicles are not for sale or trade, though brazen adventurers might try stealing them. These vehicles include two [Devil's Rides](/vehicles/devils-ride-bgdia.md), three [Tormentors](/vehicles/tormentor-bgdia.md), the aforementioned [Demon Grinder](/vehicles/demon-grinder-bgdia.md) (which [Chukka](/bestiary/npc/chukka-bgdia.md) and [Clonk](/bestiary/npc/clonk-bgdia.md) have been trying to repair), and a [Scavenger](/vehicles/scavenger-bgdia.md) that [Mad Maggie](/bestiary/npc/mad-maggie-bgdia.md) uses for salvage operations.
+In addition to the war machines described above, [Mad Maggie](/bestiary/npc/mad-maggie-bgdia.md) has several infernal war machines in drivable condition that are undergoing regular maintenance and upgrades in her garage under the hill. These vehicles are not for sale or trade, though brazen adventurers might try stealing them. These vehicles include two [Devil's Rides](Devils%20ride.md), three [Tormentors](Tormentor.md), the aforementioned [Demon grinder](Demon%20grinder.md) (which [Chukka](/bestiary/npc/chukka-bgdia.md) and [Clonk](/bestiary/npc/clonk-bgdia.md) have been trying to repair), and a [Scavenger](Scavenger.md) that [Mad Maggie](/bestiary/npc/mad-maggie-bgdia.md) uses for salvage operations.
 
 ### Lulu's Dream Quest
 
@@ -490,7 +490,7 @@ The manner in which the Knucklebones bid farewell to the characters depends on h
 
 #### Vengeful Pursuits
 
-If the characters take one or more infernal war machines from Fort Knucklebone without [Mad Maggie](/bestiary/npc/mad-maggie-bgdia.md)'s consent, the night hag organizes a posse to run them down and get back what's hers, plus "interest." [Mad Maggie](/bestiary/npc/mad-maggie-bgdia.md) chases after them in her [Scavenger](/vehicles/scavenger-bgdia.md), with Mickey in the passenger seat behind her while she drives. Barnabas the flameskull operates the Grappling Claw with his [mage hand](/spells/mage-hand-xphb.md) spell, [Chukka](/bestiary/npc/chukka-bgdia.md) and [Clonk](/bestiary/npc/clonk-bgdia.md) operate the Harpoon Flingers, and six madcaps cling to the outside hull, ready to leap onto enemy vehicles. If [Chukka](/bestiary/npc/chukka-bgdia.md) and [Clonk](/bestiary/npc/clonk-bgdia.md) got the broken [Demon Grinder](/vehicles/demon-grinder-bgdia.md) working, that vehicle comes after the characters as well and is manned entirely by redcaps and madcaps.
+If the characters take one or more infernal war machines from Fort Knucklebone without [Mad Maggie](/bestiary/npc/mad-maggie-bgdia.md)'s consent, the night hag organizes a posse to run them down and get back what's hers, plus "interest." [Mad Maggie](/bestiary/npc/mad-maggie-bgdia.md) chases after them in her [Scavenger](Scavenger.md), with Mickey in the passenger seat behind her while she drives. Barnabas the flameskull operates the Grappling Claw with his [mage hand](/spells/mage-hand-xphb.md) spell, [Chukka](/bestiary/npc/chukka-bgdia.md) and [Clonk](/bestiary/npc/clonk-bgdia.md) operate the Harpoon Flingers, and six madcaps cling to the outside hull, ready to leap onto enemy vehicles. If [Chukka](/bestiary/npc/chukka-bgdia.md) and [Clonk](/bestiary/npc/clonk-bgdia.md) got the broken [Demon grinder](Demon%20grinder.md) working, that vehicle comes after the characters as well and is manned entirely by redcaps and madcaps.
 
 ## Raggadragga Attacks!
 
@@ -503,19 +503,19 @@ As the characters reach a half-mile or so away from Fort Knucklebone, trouble co
 
 ![Raggadragga](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/adventure/BGDIA/055-1ivlr-03-07.webp#center)
 
-The incoming infernal war machine is a gore-spattered [Demon Grinder](/vehicles/demon-grinder-bgdia.md) with gnashing metal teeth at the front and a wrecking ball swinging behind it. As it moves to intercept the characters, the vehicle is not trying to be stealthy.
+The incoming infernal war machine is a gore-spattered [Demon grinder](Demon%20grinder.md) with gnashing metal teeth at the front and a wrecking ball swinging behind it. As it moves to intercept the characters, the vehicle is not trying to be stealthy.
 
-If the characters have one or more infernal war machines, they can try to outrun, outmaneuver, or destroy the approaching enemy vehicle. If they are on foot, they must find a way to disable the vehicle and defeat the creatures inside. If they do so, they can claim the [Demon Grinder](/vehicles/demon-grinder-bgdia.md) for themselves.
+If the characters have one or more infernal war machines, they can try to outrun, outmaneuver, or destroy the approaching enemy vehicle. If they are on foot, they must find a way to disable the vehicle and defeat the creatures inside. If they do so, they can claim the [Demon grinder](Demon%20grinder.md) for themselves.
 
-The [Demon Grinder](/vehicles/demon-grinder-bgdia.md) is driven by the warlord [Raggadragga](/bestiary/npc/raggadragga-bgdia.md), a [wereboar](/bestiary/monstrosity/wereboar-xmm.md) with 120 hit points. He leads the Goreguts Gang, which consists of two other [wereboars](/bestiary/monstrosity/wereboar-xmm.md) named Jibbs and Oozywog (who operate the vehicle's Chomper and Wrecking Ball stations) and two [wererats](/bestiary/monstrosity/wererat-xmm.md) named Finnik and Yeegha (who operate the vehicle's Harpoon Flingers). Avernus has no moons, so the Goreguts Gang isn't beholden to lunar cycles. Its members prefer their hybrid forms.
+The [Demon grinder](Demon%20grinder.md) is driven by the warlord [Raggadragga](/bestiary/npc/raggadragga-bgdia.md), a [wereboar](/bestiary/monstrosity/wereboar-xmm.md) with 120 hit points. He leads the Goreguts Gang, which consists of two other [wereboars](/bestiary/monstrosity/wereboar-xmm.md) named Jibbs and Oozywog (who operate the vehicle's Chomper and Wrecking Ball stations) and two [wererats](/bestiary/monstrosity/wererat-xmm.md) named Finnik and Yeegha (who operate the vehicle's Harpoon Flingers). Avernus has no moons, so the Goreguts Gang isn't beholden to lunar cycles. Its members prefer their hybrid forms.
 
 If he defeats the characters, [Raggadragga](/bestiary/npc/raggadragga-bgdia.md) gets whatever information he can out of them before attempting to ransom them back to [Mad Maggie](/bestiary/npc/mad-maggie-bgdia.md). The night hag may or may not pay for them, depending on her disposition toward the characters when they left Fort Knucklebone.
 
-If the characters defeat the Goreguts Gang, they can take possession of the [Demon Grinder](/vehicles/demon-grinder-bgdia.md), which burns through its remaining fuel in 6 hours.
+If the characters defeat the Goreguts Gang, they can take possession of the [Demon grinder](Demon%20grinder.md), which burns through its remaining fuel in 6 hours.
 
 ### Treasure
 
-[Raggadragga](/bestiary/npc/raggadragga-bgdia.md) carries three [soul coins](/items/soul-coin-bgdia.md) that he uses to fuel the [Demon Grinder](/vehicles/demon-grinder-bgdia.md). He also carries a [circlet of blasting](/items/circlet-of-blasting-xdmg.md), which he can don and use to make ranged attacks. The other members of the Goreguts Gang have no treasure.
+[Raggadragga](/bestiary/npc/raggadragga-bgdia.md) carries three [soul coins](/items/soul-coin-bgdia.md) that he uses to fuel the [Demon grinder](Demon%20grinder.md). He also carries a [circlet of blasting](/items/circlet-of-blasting-xdmg.md), which he can don and use to make ranged attacks. The other members of the Goreguts Gang have no treasure.
 
 ![The warlords of Avernus conquer the hellish wastelands in infernal war machines powered by souls](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/adventure/BGDIA/056-aw9op-03-08-full.webp#center)
 
@@ -547,7 +547,7 @@ For a while, L'zeth nursed its damaged pride. Eventually, the despondent devil r
 
 Zariel has declared that no other devil may associate with [Bitter Breath](/bestiary/npc/bitter-breath-bgdia.md). However, Zariel's decree hasn't stopped the fiendish outcast from joining forces with a gang of marauding hobgoblins under the command of a battle-hardened [hobgoblin warlord](/bestiary/fey/hobgoblin-warlord-xmm.md) named High Graj Karkajuk.
 
-[Bitter Breath](/bestiary/npc/bitter-breath-bgdia.md) drives a [Tormentor](/vehicles/tormentor-bgdia.md) that has an Infernal Screamer (see "Infernal Screamer") instead of a Harpoon Flinger. [Hobgoblins](/bestiary/fey/hobgoblin-warrior-xmm.md) round out the Tormentor's crew. High Graj Karkajuk drives a [Devil's Ride](/vehicles/devils-ride-bgdia.md) and commands a pair of [Scavengers](/vehicles/scavenger-bgdia.md) driven by [hobgoblin captains](/bestiary/fey/hobgoblin-captain-xmm.md) and crewed by ordinary [hobgoblins](/bestiary/fey/hobgoblin-warrior-xmm.md). See appendix B for the vehicles' stat blocks.
+[Bitter Breath](/bestiary/npc/bitter-breath-bgdia.md) drives a [Tormentor](Tormentor.md) that has an Infernal Screamer (see "Infernal Screamer") instead of a Harpoon Flinger. [Hobgoblins](/bestiary/fey/hobgoblin-warrior-xmm.md) round out the Tormentor's crew. High Graj Karkajuk drives a [Devil's Ride](Devils%20ride.md) and commands a pair of [Scavengers](Scavenger.md) driven by [hobgoblin captains](/bestiary/fey/hobgoblin-captain-xmm.md) and crewed by ordinary [hobgoblins](/bestiary/fey/hobgoblin-warrior-xmm.md). See appendix B for the vehicles' stat blocks.
 
 ### Feonor
 
@@ -559,7 +559,7 @@ The scowl on [Feonor](/bestiary/npc/feonor-bgdia.md)'s face hints at her constan
 
 #### Golden Doom
 
-[Feonor](/bestiary/npc/feonor-bgdia.md) rides around in a [Demon Grinder](/vehicles/demon-grinder-bgdia.md) called *Golden Doom*, so named because Mahadi fitted it with gilded death armor (see "Gilded Death Armor"). The vehicle is driven by a [ghast](/bestiary/undead/ghast-xmm.md), and its other stations are operated by [ghouls](/bestiary/undead/ghoul-xmm.md). She also commands a force of ten [crawling claws](/bestiary/undead/crawling-claw-xmm.md). A pair of [Tormentors](/vehicles/tormentor-bgdia.md) crewed by [mezzoloths](/bestiary/fiend/mezzoloth-xmm.md) provide escort.
+[Feonor](/bestiary/npc/feonor-bgdia.md) rides around in a [Demon grinder](Demon%20grinder.md) called *Golden Doom*, so named because Mahadi fitted it with gilded death armor (see "Gilded Death Armor"). The vehicle is driven by a [ghast](/bestiary/undead/ghast-xmm.md), and its other stations are operated by [ghouls](/bestiary/undead/ghoul-xmm.md). She also commands a force of ten [crawling claws](/bestiary/undead/crawling-claw-xmm.md). A pair of [Tormentors](Tormentor.md) crewed by [mezzoloths](/bestiary/fiend/mezzoloth-xmm.md) provide escort.
 
 ### Princeps Kovik
 
@@ -573,7 +573,7 @@ The devils that serve under Kovik do so willingly because the chain devil has ea
 
 The Eighth Remnant chases down any potential source of [soul coins](/items/soul-coin-bgdia.md). Targets who give up their [soul coins](/items/soul-coin-bgdia.md) freely are allowed to continue on their way without further harassment, provided there are no demons lurking among them.
 
-Kovik has a [Devil's Ride](/vehicles/devils-ride-bgdia.md) and travels with two [bearded devils](/bestiary/fiend/bearded-devil-xmm.md) on similar vehicles. The rest of the gang consists of four [barbed devils](/bestiary/fiend/barbed-devil-xmm.md) on a [Tormentor](/vehicles/tormentor-bgdia.md) and eight [bearded devils](/bestiary/fiend/bearded-devil-xmm.md) on a [Demon Grinder](/vehicles/demon-grinder-bgdia.md). Members of the Eighth Remnant never use demon ichor in their vehicles.
+Kovik has a [Devil's Ride](Devils%20ride.md) and travels with two [bearded devils](/bestiary/fiend/bearded-devil-xmm.md) on similar vehicles. The rest of the gang consists of four [barbed devils](/bestiary/fiend/barbed-devil-xmm.md) on a [Tormentor](Tormentor.md) and eight [bearded devils](/bestiary/fiend/bearded-devil-xmm.md) on a [Demon grinder](Demon%20grinder.md). Members of the Eighth Remnant never use demon ichor in their vehicles.
 
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/adventure/BGDIA/060-l2faf-03-12.webp#center)
 

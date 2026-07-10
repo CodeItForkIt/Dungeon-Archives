@@ -23,7 +23,7 @@ Bullywug bog sages channel the magic of the swamp to sicken foes and speak with 
 *Amphibious Appreciators of Marsh and Muck*
 
 - **Habitat.** Swamp  
-- **Treasure.** [Implements](/tables/random-magic-items-implements.md), Individual  
+- **Treasure.** [Implements](Random%20-%20Magic%20Items%20Implements.md), Individual  
 
 Fey embodiments of swamplands, bullywugs protect the murky wilds and consider themselves cosmically favored for that role. These human-size, toad- or frog-like creatures have close relationships with the creatures of the swamp.
 

@@ -21,7 +21,7 @@ aliases:
 *Strange Ally from a Strange Place*
 
 - **Habitat.** Underdark  
-- **Treasure.** [Arcana](/tables/random-magic-items-arcana.md)  
+- **Treasure.** [Arcana](Random%20-%20Magic%20Items%20Arcana.md)  
 
 Bizarre creatures with aberrant agendas inhabit the Underdark. Flumphs number among the few that are helpful to strangers.
 

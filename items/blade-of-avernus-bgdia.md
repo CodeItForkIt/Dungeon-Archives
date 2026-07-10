@@ -29,9 +29,9 @@ When you attack a creature that has at least one head with this weapon and roll 
 
 The sword has the following randomly determined properties, as described in chapter 7 of the Dungeon Master's Guide:
 
-- 2 [minor beneficial properties](/tables/artifact-properties-minor-beneficial-properties-xdmg.md)  
-- 1 [major beneficial property](/tables/artifact-properties-major-beneficial-properties-xdmg.md)  
-- 1 [major detrimental property](/tables/artifact-properties-major-detrimental-properties-xdmg.md), which is suppressed while the sword is attuned to an archdevil  
+- 2 [minor beneficial properties](artifact-properties-minor-beneficial-properties-xdmg.md)  
+- 1 [major beneficial property](artifact-properties-major-beneficial-properties-xdmg.md)  
+- 1 [major detrimental property](artifact-properties-major-detrimental-properties-xdmg.md), which is suppressed while the sword is attuned to an archdevil  
 
 ## Ruler of Avernus
 

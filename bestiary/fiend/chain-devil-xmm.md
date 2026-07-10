@@ -22,7 +22,7 @@ aliases:
 *Devil of Pain and Control*
 
 - **Habitat.** Planar (Nine Hells)  
-- **Treasure.** [Implements](/tables/random-magic-items-implements.md)  
+- **Treasure.** [Implements](Random%20-%20Magic%20Items%20Implements.md)  
 
 Also known as kytons, chain devils consider themselves morbid artisans who use deception, menace, and vicious metal to coerce prisoners into betraying themselves. Many serve powerful devils, wrenching secrets from imprisoned souls using deadly, animate chains. Left to their own devices, chain devils encourage ruthless individuals to pursue forbidden magic, leading their pupils down paths to the Nine Hells.
 

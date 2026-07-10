@@ -21,7 +21,7 @@ aliases:
 *Armor with a Warrior's Purpose*
 
 - **Habitat.** Any  
-- **Treasure.** [Armaments](/tables/random-magic-items-armaments.md)  
+- **Treasure.** [Armaments](Random%20-%20Magic%20Items%20Armaments.md)  
 
 Helmed horrors are suits of armor animated by magic. Rather than being unreasoning automatons, these armored shells possess the guile of soldiers and resilience against destructive magic. While their name suggests sinister intentions, these creatures serve their creators loyally. Helmed horrors are also sometimes called doom guards or spirit armors. Most show no evidence of a personality, but exceptions exist.
 

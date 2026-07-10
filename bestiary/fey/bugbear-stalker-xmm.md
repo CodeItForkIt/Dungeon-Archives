@@ -27,7 +27,7 @@ Bugbear stalkers frequently take their victims hostage, relishing opportunities 
 *Lurking Goblinoid Brutes*
 
 - **Habitat.** Forest, Grassland, Planar (Feywild), Underdark  
-- **Treasure.** [Armaments](/tables/random-magic-items-armaments.md), Individual  
+- **Treasure.** [Armaments](Random%20-%20Magic%20Items%20Armaments.md), Individual  
 
 Bugbears embody fear of the wilds and the menace of natural places. They're notoriously stealthy, and foes that venture into their territories often vanish without a trace.
 

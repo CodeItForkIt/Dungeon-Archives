@@ -21,7 +21,7 @@ aliases:
 *Venomous Arachnid Abductor*
 
 - **Habitat.** Forest  
-- **Treasure.** [Implements](/tables/random-magic-items-implements.md)  
+- **Treasure.** [Implements](Random%20-%20Magic%20Items%20Implements.md)  
 
 Spiderlike hunters, ettercaps lurk in forested depths and seek prey to drag into their web-choked lairs. These vicious predators have arachnid features and hunched, bipedal frames, and they're notorious for their venomous bites and ability to shoot out webs to entrap their victims. Ettercaps often hunt in small groups alongside giant spiders and mundane spider swarms.
 

@@ -22,7 +22,7 @@ aliases:
 *Immortal Regent of the Wild*
 
 - **Habitat.** Planar (Beastlands)  
-- **Treasure.** [Relics](/tables/random-magic-items-relics.md)  
+- **Treasure.** [Relics](Random%20-%20Magic%20Items%20Relics.md)  
 
 Animal lords are the immortal spirits of legendary animals. They serve as the divine protectors of animals of their kind, and they appear as hybrids of humanoids and the animals they defend. They frequently change into giant, idealized versions of the animals they're associated with—albeit with glowing eyes. When contending with people, they sometimes appear as humanlike beings with subtle, animal-like features. No matter their appearance, animal lords exhibit the instincts and predilections of the animals they represent, tempered by their intellect and experience.
 

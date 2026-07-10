@@ -24,7 +24,7 @@ One of Gith's last deeds was to forge an alliance between the githyanki and the 
 *Invaders from the Astral Plane*
 
 - **Habitat.** Planar (Astral Plane)  
-- **Treasure.** [Armaments](/tables/random-magic-items-armaments.md)  
+- **Treasure.** [Armaments](Random%20-%20Magic%20Items%20Armaments.md)  
 
 Githyanki were once an ordinary people, but the deeds of a vile mind flayer empire etched conflict on their being. Gaunt, humanlike creatures, githyanki have serrated ears and speckled skin ranging through shades of yellow, green, and brown. While some githyanki follow their own paths, many are influenced by a past that forever altered their fates.
 

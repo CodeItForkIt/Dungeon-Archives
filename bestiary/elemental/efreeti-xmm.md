@@ -23,7 +23,7 @@ aliases:
 *Genie of Fire*
 
 - **Habitat.** Desert, Planar (Elemental Plane of Fire)  
-- **Treasure.** [Armaments](/tables/random-magic-items-armaments.md)  
+- **Treasure.** [Armaments](Random%20-%20Magic%20Items%20Armaments.md)  
 
 Efreet burn with the energy and unpredictability of fire. Their innate magic allows them to conjure flames from nothing and shape treasures within magical infernos. Many efreet have wicked reputations, as their fickle natures and love for dramatic conflagrations can be destructive. Other efreet delight in fire's beauty, be it the delicacy of a candle flame or the shared wonder of fireworks. These genies might aid mortals in exchange for treasures or the liberation of captive Elementals.
 

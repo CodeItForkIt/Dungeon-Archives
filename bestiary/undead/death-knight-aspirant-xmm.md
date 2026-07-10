@@ -23,7 +23,7 @@ When the leader of a villainous order rises as a death knight, their wicked devo
 *Haunted Commanders of Unliving Legions*
 
 - **Habitat.** Any  
-- **Treasure.** [Armaments](/tables/random-magic-items-armaments.md)  
+- **Treasure.** [Armaments](Random%20-%20Magic%20Items%20Armaments.md)  
 
 Champions of evil, death knights are armor-clad, skeletal warlords. Combining devastating martial prowess and blasphemous magic, these undying tyrants lead unholy legions against the living or brood in cursed citadels. Every death knight is haunted by a legacy of tragedy and dishonor that drives it to commit greater evils.
 

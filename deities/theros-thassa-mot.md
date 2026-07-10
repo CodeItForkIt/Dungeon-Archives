@@ -138,6 +138,6 @@ Your piety score to Thassa decreases if you diminish Thassa's influence in the w
 ### Benefits of Piety
 
 - [Thassa's Devotee](/rewards/thassas-devotee-mot.md)  
-- [Thassa's Votary](/rewards/thassas-votary-mot.md)  
+- [Thassa's Votary](Thassas.md)  
 - [Thassa's Disciple](/rewards/thassas-disciple-mot.md)  
 - [Champion of the Sea](/rewards/champion-of-the-sea-mot.md)

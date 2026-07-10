@@ -15,7 +15,7 @@ _Source: Monster Manual (2024)_
 
 The region containing an adult or ancient white dragon's lair is affected by its presence, creating the following effects:
 
-- **Frigid Cold.** The area within 1 mile of the lair is an area of [extreme cold](/traps-hazards/extreme-cold-xdmg.md). Any water in that area is [frigid water](/traps-hazards/frigid-water-xdmg.md). See the "Dungeon Master's Guide" for rules on extreme cold and frigid water.  
+- **Frigid Cold.** The area within 1 mile of the lair is an area of [extreme cold](Extreme%20%20%20cold%20xdmg.md). Any water in that area is [frigid water](Frigid%20%20%20water%20xdmg.md). See the "Dungeon Master's Guide" for rules on extreme cold and frigid water.  
 - **Glacial Gloom.** The area within 1 mile of the lair is [Lightly Obscured](/rules/variant-rules/lightly-obscured-xphb.md) by chilly fog. Whenever a creature other than the dragon or one of its allies finishes a [Long Rest](/rules/variant-rules/long-rest-xphb.md) in that area, that creature must succeed on a DC 15 Constitution saving throw or have its [Speed](/rules/variant-rules/speed-xphb.md) reduced by 10 feet for 1 hour.  
 
 If the dragon dies or moves its lair elsewhere, these effects end immediately.

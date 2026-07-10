@@ -21,7 +21,7 @@ aliases:
 *Giant of the Loftiest Heights*
 
 - **Habitat.** Mountain  
-- **Treasure.** [Arcana](/tables/random-magic-items-arcana.md)  
+- **Treasure.** [Arcana](Random%20-%20Magic%20Items%20Arcana.md)  
 
 Cloud giants use the power of the skies to observe and subtly influence the world. These giants resemble humans with hair ranging from silver to blue and with skin in cloudlike shades from stark white to twilight hues. Curved canines grow in their upper jaws, extending past their lower lips. In battle, they attack with weapons wreathed in storm clouds and throw roaring thunderheads.
 

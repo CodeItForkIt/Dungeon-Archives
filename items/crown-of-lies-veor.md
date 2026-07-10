@@ -22,9 +22,9 @@ The crown is made of burnished and entwined metal rods. To attune to it, you mus
 
 The Crown of Lies has the following random properties (see the "Dungeon Master's Guide" for options):
 
-- 1 [minor beneficial](/tables/artifact-properties-minor-beneficial-properties-xdmg.md) property  
-- 1 [major beneficial](/tables/artifact-properties-major-beneficial-properties-xdmg.md) property  
-- 1 [minor detrimental](/tables/artifact-properties-minor-detrimental-properties-xdmg.md) property  
+- 1 [minor beneficial](artifact-properties-minor-beneficial-properties-xdmg.md) property  
+- 1 [major beneficial](artifact-properties-major-beneficial-properties-xdmg.md) property  
+- 1 [minor detrimental](artifact-properties-minor-detrimental-properties-xdmg.md) property  
 
 ## Perfect Disguise
 

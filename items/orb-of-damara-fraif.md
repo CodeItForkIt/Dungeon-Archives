@@ -30,8 +30,8 @@ While attuned to the orb, you gain the following benefits:
 
 The Artifact has the following random properties (see chapter 7 of the Dungeon Master's Guide):
 
-- 2 [minor beneficial](/tables/artifact-properties-minor-beneficial-properties-xdmg.md) properties  
-- 2 [minor detrimental](/tables/artifact-properties-minor-detrimental-properties-xdmg.md) properties  
+- 2 [minor beneficial](artifact-properties-minor-beneficial-properties-xdmg.md) properties  
+- 2 [minor detrimental](artifact-properties-minor-detrimental-properties-xdmg.md) properties  
 
 ## Spellcasting
 

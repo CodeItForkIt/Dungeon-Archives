@@ -21,7 +21,7 @@ aliases:
 *Guardian of Home and Heart*
 
 - **Habitat.** Urban  
-- **Treasure.** [Relics](/tables/random-magic-items-relics.md)  
+- **Treasure.** [Relics](Random%20-%20Magic%20Items%20Relics.md)  
 
 Clay golems are magical defenders made from earth and clay to protect places or communities. The materials used in creating clay golems originate from near the location the golems protect and often have special significance to their creators, such as clay from a holy site or bricks from a magical ruin. While some clay golems are masterfully sculpted to resemble living beings, others have only vaguely humanlike forms.
 

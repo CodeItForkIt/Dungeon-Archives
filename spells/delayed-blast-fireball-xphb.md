@@ -36,7 +36,7 @@ The spell's base damage is `12d6`, and the damage increases by `1d6` whenever yo
 
 If a creature touches the glowing bead before the spell ends, that creature makes a Dexterity saving throw. On a failed save, the spell ends, causing the bead to explode. On a successful save, the creature can throw the bead up to 40 feet. If the thrown bead enters a creature's space or collides with a solid object, the spell ends, and the bead explodes.
 
-When the bead explodes, flammable objects in the explosion that aren't being worn or carried start [burning](/traps-hazards/burning-xphb.md).
+When the bead explodes, flammable objects in the explosion that aren't being worn or carried start [burning](Burning.md).
 
 **Using a Higher-Level Spell Slot.** The base damage increases by `1d6` for each spell slot level above 7.
 

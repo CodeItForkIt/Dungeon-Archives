@@ -22,6 +22,6 @@ This wand has 7 charges. While holding it, you can take a [Magic](/rules/actions
 
 The wand regains `1d6 + 1` expended charges daily at dawn. If you expend the wand's last charge, roll `1d20`. On a 1, the wand crumbles into dust and is destroyed.
 
-![Wand of Wonder Effects](/tables/wand-of-wonder-effects-xdmg.md)
+![Wand of Wonder Effects](Wand%20-%20Of%20Wonder%20Effects%20Xdmg.md)
 
 *Source: Dungeon Master's Guide (2024) p. 322. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

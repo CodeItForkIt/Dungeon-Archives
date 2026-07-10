@@ -23,7 +23,7 @@ Ancient copper dragons use warmth and reliability to effect change over time. Th
 *Dragons of Curiosity and Community*
 
 - **Habitat.** Hill  
-- **Treasure.** [Arcana](/tables/random-magic-items-arcana.md)  
+- **Treasure.** [Arcana](Random%20-%20Magic%20Items%20Arcana.md)  
 
 Relentlessly friendly and curious, most copper dragons view the world as a place of endless wonder and possibility. These gregarious dragons are fonts of patience, hospitality, and humor, and they seek to improve the lives—or, at least, the mood—of those they interact with. If forced to fight to defend themselves or their friends, these dragons favor using their slowing breath and physical attacks to subdue antagonists. Only in cases of extreme peril or emotion do they use their deadly acid breath.
 

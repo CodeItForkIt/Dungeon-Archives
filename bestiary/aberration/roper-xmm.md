@@ -33,7 +33,7 @@ Ropers can move, albeit slowly. Crawling on the sticky cilia that cover their un
 |-----------|---------------------------------|
 | 1 | Areas that trigger traps. |
 | 2 | Caverns filled with smoke or gas. |
-| 3 | "dead magic zone" or [Wild Magic zones](/traps-hazards/wild-magic-zone-xdmg.md). |
+| 3 | "dead magic zone" or [Wild Magic zones](Wild%20magic%20zone%20xdmg.md). |
 | 4 | The lair of a creature it is trying to bait out. |
 | 5 | A nest of rats, insects, or other vermin. |
 | 6 | Patches of brown mold* or green slime*. |

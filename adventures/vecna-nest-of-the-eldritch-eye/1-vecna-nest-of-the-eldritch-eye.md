@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- compendium/src/5e/vnotee
+  - compendium/src/5e/vnotee
 aliases:
-- "Vecna: Nest of the Eldritch Eye"
+  - "Vecna: Nest of the Eldritch Eye"
+level: "3"
 ---
 # Vecna: Nest of the Eldritch Eye
 *Source: Vecna: Nest of the Eldritch Eye* 

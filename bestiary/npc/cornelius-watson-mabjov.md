@@ -31,13 +31,13 @@ Watson becomes available as a contact for the Adventurer's Guild at 9th level. D
 
 | Monster Lair | Treasure Trove | Map Cost |
 |--------------|----------------|----------|
-| Gynosphinx | Roll on [Treasure Hoard: Challenge 11—16](/tables/treasure-hoard-challenge-1116.md) in DMG | 250 gp |
-| Beholder | Roll on [Treasure Hoard: Challenge 11—16](/tables/treasure-hoard-challenge-1116.md) in DMG | 500 gp |
-| Mummy lord | Roll on [Treasure Hoard: Challenge 11—16](/tables/treasure-hoard-challenge-1116.md) in DMG | 500 gp |
-| Adult green dragon | Roll on [Treasure Hoard: Challenge 11—16](/tables/treasure-hoard-challenge-1116.md) in DMG | 750 gp |
-| Adult red dragon | Roll on [Treasure Hoard: Challenge 17+](/tables/treasure-hoard-challenge-17.md) in DMG | 1000 gp |
-| Ancient black dragon | Roll twice on [Treasure Hoard: Challenge 17+](/tables/treasure-hoard-challenge-17.md) in DMG | 5000 gp |
-| Kraken | Roll twice on [Treasure Hoard: Challenge 17+](/tables/treasure-hoard-challenge-17.md) in DMG | 5000 gp |
+| Gynosphinx | Roll on [Treasure Hoard: Challenge 11—16](Treasure%20-%20Hoard%20Challenge%201116.md) in DMG | 250 gp |
+| Beholder | Roll on [Treasure Hoard: Challenge 11—16](Treasure%20-%20Hoard%20Challenge%201116.md) in DMG | 500 gp |
+| Mummy lord | Roll on [Treasure Hoard: Challenge 11—16](Treasure%20-%20Hoard%20Challenge%201116.md) in DMG | 500 gp |
+| Adult green dragon | Roll on [Treasure Hoard: Challenge 11—16](Treasure%20-%20Hoard%20Challenge%201116.md) in DMG | 750 gp |
+| Adult red dragon | Roll on [Treasure Hoard: Challenge 17+](Treasure%20-%20Hoard%20Challenge%2017.md) in DMG | 1000 gp |
+| Ancient black dragon | Roll twice on [Treasure Hoard: Challenge 17+](Treasure%20-%20Hoard%20Challenge%2017.md) in DMG | 5000 gp |
+| Kraken | Roll twice on [Treasure Hoard: Challenge 17+](Treasure%20-%20Hoard%20Challenge%2017.md) in DMG | 5000 gp |
 ^monster-lair-maps-available-from-watson
 
 ```statblock

@@ -82,7 +82,7 @@ Your patron's powers have a profound effect on your body and magic, granting you
 
 **Dreaded Necrosis.** When you hit a creature with an attack roll and deal Necrotic damage while using your Form of Dread, you can roll one additional damage die when determining the Necrotic damage the target takes. You can use this benefit only once per turn.
 
-**Undead Endurance.** You don't gain [Exhaustion](/rules/conditions.md#Exhaustion) levels from [dehydration](/traps-hazards/dehydration-xphb.md), [malnutrition](/traps-hazards/malnutrition-xphb.md), or [suffocation](/traps-hazards/suffocation-xphb.md). In addition, you don't need to sleep, and magic can't put you to sleep.
+**Undead Endurance.** You don't gain [Exhaustion](/rules/conditions.md#Exhaustion) levels from [dehydration](Dehydration.md), [malnutrition](Malnutrition.md), or [suffocation](Suffocation.md). In addition, you don't need to sleep, and magic can't put you to sleep.
 
 ### Necrotic Husk (Level 10)
 

@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "9f38b4715d8d0cc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "160469edcc4199fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e6a0a0b39ed94d8",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "adventures/Campaign.canvas",
+                "viewState": {
+                  "x": 2735.100854245135,
+                  "y": -558.3558967678495,
+                  "zoom": -0.6624068659884795
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Campaign"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6876755ec5029cd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "423a1e451efe30dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc62c67d1826a346",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a0c6f24da67d6893",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a4b1e9b2fdba4f9b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 332.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "c32b21a94496f5bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "a09db8e386276975",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff659051456ddbcb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "adventures/Campaign.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Campaign"
+            }
+          },
+          {
+            "id": "15ee201b24f3c296",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lists/List Spells Classes Artillerist.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from List Spells Classes Artillerist"
+            }
+          },
+          {
+            "id": "4d6629cd491cc780",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f0f60709db28c537",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "dd2572bacf1c29e5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "classes/artificer-efa/artificer-artillerist-efa.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of artificer-artillerist-efa"
+            }
+          },
+          {
+            "id": "099d85cf9b96e608",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "classes/bard-xphb/bard-xphb-college-of-spirits-rhw.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "templater-obsidian:Templater": false,
+      "pseudo-mica:Change vibrancy": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "dc62c67d1826a346",
+  "lastOpenFiles": [
+    "adventures/baldurs-gate-descent-into-avernus/03-chapter-2-elturel-has-fallen.md",
+    "adventures/Campaign.canvas",
+    "classes/bard-xphb/bard-xphb-college-of-spirits-rhw.md",
+    "adventures/baldurs-gate-descent-into-avernus/baldurs-gate-descent-into-avernus.md",
+    "adventures/baldurs-gate-descent-into-avernus/02-chapter-1-a-tale-of-two-cities.md",
+    "adventures/Drawing 2026-07-10 12.50.07.excalidraw.md",
+    "items/whip-xphb.md",
+    "items/shortbow-xphb.md",
+    "items/longbow-xphb.md",
+    "Scripts/Template.md",
+    "Clippings/1. Whetting Your Appetite.md",
+    "Clippings",
+    "bestiary/celestial/animal-lord-xmm.md",
+    "bestiary/celestial/celestial.md",
+    "Traps hazards/Burning.md",
+    "Traps hazards/Brown   mold xdmg.md",
+    "Traps hazards/Arcane   effluence nf.md",
+    "Traps hazards/Balance   and ruin.md",
+    "classes/barbarian-xphb/barbarian-xphb.md",
+    "tables/Tables.md",
+    "Traps Hazards/Traps hazards.md",
+    "vehicles/Vehicles.md",
+    "Scripts",
+    "bestiary/plant/aartuk-weedling-bam.md",
+    "races/reborn-rhw.md",
+    "races/plasmoid-aag.md",
+    "races/owlin-scc.md",
+    "races/kuo-toa-dmg.md",
+    "races/halfling-xphb.md",
+    "Tags",
+    "Characters/DnD_2024_Character-Sheet.markers.json",
+    "Characters/DnD_2024_Character-Sheet.pdf",
+    "Characters/DnD_2024_Character-Sheet.jpg",
+    "Characters",
+    "classes/Sidekicks",
+    "classes/wizard-xphb",
+    "classes/warlock-xphb",
+    "classes/sorcerer-xphb"
+  ]
+}

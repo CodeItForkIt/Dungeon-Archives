@@ -21,7 +21,7 @@ aliases:
 *Reeking Subterranean Hunter*
 
 - **Habitat.** Underdark  
-- **Treasure.** [Armaments](/tables/random-magic-items-armaments.md)  
+- **Treasure.** [Armaments](Random%20-%20Magic%20Items%20Armaments.md)  
 
 With features similar to those of pale cave lizards, troglodytes stalk the Underdark in an endless hunt for food. Troglodytes consume almost anything, including bones, giant insects, and other subterranean dwellers. They prey on subterranean communities and those near entrances to the Underdark, stealing livestock and kidnapping residents.
 

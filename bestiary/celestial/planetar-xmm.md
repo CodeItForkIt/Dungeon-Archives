@@ -22,7 +22,7 @@ aliases:
 *Righteously Wrathful Angelic Warrior*
 
 - **Habitat.** Planar (Upper Planes)  
-- **Treasure.** [Relics](/tables/random-magic-items-relics.md)  
+- **Treasure.** [Relics](Random%20-%20Magic%20Items%20Relics.md)  
 
 Planetars deliver the punishment of righteous gods. These angels innately know truth from lies, and they use magic and blessed weapons to protect the just and root out wickedness across the Multiverse.
 

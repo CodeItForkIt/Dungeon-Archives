@@ -55,9 +55,9 @@ While wearing the crown, you can cast the [Teleport](/spells/teleport-xphb.md) s
 
 The Artifact has the following random properties (see chapter 7 of the Dungeon Master's Guide):
 
-- 1 [minor beneficial](/tables/artifact-properties-minor-beneficial-properties-xdmg.md) property  
-- 1 [minor detrimental](/tables/artifact-properties-minor-detrimental-properties-xdmg.md) property  
-- 1 [major detrimental](/tables/artifact-properties-major-detrimental-properties-xdmg.md) property  
+- 1 [minor beneficial](artifact-properties-minor-beneficial-properties-xdmg.md) property  
+- 1 [minor detrimental](artifact-properties-minor-detrimental-properties-xdmg.md) property  
+- 1 [major detrimental](artifact-properties-major-detrimental-properties-xdmg.md) property  
 
 ## Sentience
 

@@ -92,7 +92,7 @@ As a bonus action, you can intensify the sword's light, causing it to shed brigh
 
 ## Random Properties
 
-The sword has 2 [minor beneficial properties](/tables/artifact-properties-minor-beneficial-properties-xdmg.md).
+The sword has 2 [minor beneficial properties](artifact-properties-minor-beneficial-properties-xdmg.md).
 
 ## Searing Radiance
 

@@ -152,7 +152,7 @@ With no one to sway Zariel from her path to absolute damnation, Zariel demands t
 
 #### Lulu Falls
 
-For Zariel to fall beyond redemption is the worst outcome for [Lulu](/bestiary/npc/lulu-bgdia.md). This unimaginable tragedy shatters the hollyphant's mind, leaving [Lulu](/bestiary/npc/lulu-bgdia.md) insane. Roll or choose the specific effects of her madness from the [Long-Term Madness table](/tables/long-term-madness.md) in "chapter 8" of the "Dungeon Master's Guide", but this madness can be overcome only by a [greater restoration](/spells/greater-restoration-xphb.md) spell or similar magic.
+For Zariel to fall beyond redemption is the worst outcome for [Lulu](/bestiary/npc/lulu-bgdia.md). This unimaginable tragedy shatters the hollyphant's mind, leaving [Lulu](/bestiary/npc/lulu-bgdia.md) insane. Roll or choose the specific effects of her madness from the [Long-Term Madness table](Long%20-%20Term%20Madness.md) in "chapter 8" of the "Dungeon Master's Guide", but this madness can be overcome only by a [greater restoration](/spells/greater-restoration-xphb.md) spell or similar magic.
 
 ### Ruling Avernus
 

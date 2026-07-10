@@ -31,11 +31,11 @@ This magic warhammer grants a +3 bonus to attack and damage rolls made with it. 
 
 If you are a worshiper of Purphoros, you gain all the following benefits for which you have the required piety:
 
-- **Piety 10+.** The hammer has 1 randomly determined [minor beneficial](/tables/artifact-properties-minor-beneficial-properties-xdmg.md) property.  
-- **Piety 25+.** The hammer has 1 randomly determined [major beneficial](/tables/artifact-properties-major-beneficial-properties-xdmg.md) property.  
-- **Piety 50+.** The hammer has 1 additional randomly determined [major beneficial](/tables/artifact-properties-major-beneficial-properties-xdmg.md) property.  
+- **Piety 10+.** The hammer has 1 randomly determined [minor beneficial](artifact-properties-minor-beneficial-properties-xdmg.md) property.  
+- **Piety 25+.** The hammer has 1 randomly determined [major beneficial](artifact-properties-major-beneficial-properties-xdmg.md) property.  
+- **Piety 50+.** The hammer has 1 additional randomly determined [major beneficial](artifact-properties-major-beneficial-properties-xdmg.md) property.  
 
-If you aren't a worshiper of Purphoros, the hammer has 2 randomly determined [minor detrimental](/tables/artifact-properties-minor-detrimental-properties-xdmg.md) properties.
+If you aren't a worshiper of Purphoros, the hammer has 2 randomly determined [minor detrimental](artifact-properties-minor-detrimental-properties-xdmg.md) properties.
 
 See "Artifacts" in chapter 7 of the Dungeon Master's Guide for details on randomly determined properties.
 

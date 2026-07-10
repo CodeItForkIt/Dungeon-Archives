@@ -22,7 +22,7 @@ aliases:
 *Hag of Despair and the Dismal Deep*
 
 - **Habitat.** Coastal, Underwater  
-- **Treasure.** [Arcana](/tables/random-magic-items-arcana.md)  
+- **Treasure.** [Arcana](Random%20-%20Magic%20Items%20Arcana.md)  
 
 Sea hags loathe peace and beauty. Bitter, jealous creatures, they spread chaos and undermine joy however they can, undertaking elaborate deceptions to sow discord for its own sake. The hags' true forms are supernaturally vile, and their baleful gazes can strike down creatures [frightened](/rules/conditions.md#Frightened) by their appearance.
 

@@ -24,7 +24,7 @@ Silver dragon wyrmlings typically live with one or more parents or mentors, lear
 *Dragons of Courage and Fairness*
 
 - **Habitat.** Mountain, Urban  
-- **Treasure.** [Arcana](/tables/random-magic-items-arcana.md)  
+- **Treasure.** [Arcana](Random%20-%20Magic%20Items%20Arcana.md)  
 
 Silver dragons work to preserve peace and encourage greatness. They try to live as examples of decency while remaining watchful against evil.
 

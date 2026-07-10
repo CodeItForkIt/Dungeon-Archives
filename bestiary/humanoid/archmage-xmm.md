@@ -23,7 +23,7 @@ Archmages have mastered incredible magical power. While some use their magic to 
 *Magical Scholars and Spellcasters*
 
 - **Habitat.** Any  
-- **Treasure.** [Arcana](/tables/random-magic-items-arcana.md), Individual  
+- **Treasure.** [Arcana](Random%20-%20Magic%20Items%20Arcana.md), Individual  
 
 Mages are magical wonder-workers, ranging from spellcasting overlords to reclusive witches. They study mystical secrets and possess insight into monsters, legends, omens, and other lore. Mages often gather allies or hire assistants to aid them in their research or to attain magical might.
 

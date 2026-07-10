@@ -21,7 +21,7 @@ aliases:
 *Competitor and Prizefighter*
 
 - **Habitat.** Any  
-- **Treasure.** [Armaments](/tables/random-magic-items-armaments.md), Individual  
+- **Treasure.** [Armaments](Random%20-%20Magic%20Items%20Armaments.md), Individual  
 
 Gladiators are professional fighters who pit themselves against one another, monsters, and other challenges to entertain audiences. While some compete merely to survive, others love the thrill of performing—and all gladiators know the importance of theatrics in keeping audiences excited. Roll on or choose an option from the Gladiator Theatrics table to inspire the unique flourishes a gladiator uses when competing.
 

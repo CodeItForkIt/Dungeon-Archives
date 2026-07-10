@@ -15,7 +15,7 @@ aliases:
 
 As a rank 2 hoardsperson, you are granted the use of a living loot satchel, which is an uncommon magic item. It functions as a [bag of holding](/items/bag-of-holding-xdmg.md) and is available in a variety of colors and styles.
 
-![Class-Based Living Loot Satchel](/tables/class-based-living-loot-satchel-ai.md)
+![Class-Based Living Loot Satchel](Class%20-%20Based%20Living%20Loot%20Satchel.md)
 
 The living loot satchel is a kind of magical being that safeguards the franchise's funds and valuables. Its innards are connected to a secure coffer within Head Office's vault in Waterdeep, to which the satchel periodically transfers the franchise's wealth. As an action, you can transfer any amount of your franchise funds back to your satchel with a successful DC 15 Dexterity ([Sleight of Hand](/rules/skills.md#Sleight%20of%20Hand)) check.
 

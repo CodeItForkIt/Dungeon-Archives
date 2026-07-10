@@ -24,9 +24,9 @@ The Eye of Vecna and the [Hand of Vecna](/items/hand-of-vecna-xdmg.md) are separ
 
 The Eye of Vecna has the following random properties:
 
-- 1 [minor beneficial](/tables/artifact-properties-minor-beneficial-properties-xdmg.md) property  
-- 1 [major beneficial](/tables/artifact-properties-major-beneficial-properties-xdmg.md) property  
-- 1 [minor detrimental](/tables/artifact-properties-minor-detrimental-properties-xdmg.md) property  
+- 1 [minor beneficial](artifact-properties-minor-beneficial-properties-xdmg.md) property  
+- 1 [major beneficial](artifact-properties-major-beneficial-properties-xdmg.md) property  
+- 1 [minor detrimental](artifact-properties-minor-detrimental-properties-xdmg.md) property  
 
 ## Attuning to the Eye
 

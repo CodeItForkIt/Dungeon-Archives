@@ -30,7 +30,7 @@ Ogres are 10-foot-tall brutes that overwhelm their foes and take what spoils the
 *Raging Hulks and Hoarders*
 
 - **Habitat.** Arctic, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark  
-- **Treasure.** [Armaments](/tables/random-magic-items-armaments.md)  
+- **Treasure.** [Armaments](Random%20-%20Magic%20Items%20Armaments.md)  
 
 Ogres are selfish raiders and hulking gluttons spawned of hateful supernatural forces. From dismal ruins and bleak hinterlands, they raid vulnerable communities and ambush travelers. Ogres covet food and treasure, and they spitefully destroy art, books, clockwork devices, and other delicate or lovingly made things. Occasionally they kidnap victims to eat later or, more rarely, performers who catch their interest.
 

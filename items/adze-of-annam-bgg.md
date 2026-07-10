@@ -25,9 +25,9 @@ This massive adze is said to have been wielded by All-Father Annam, not as a wea
 
 The adze has the following random properties, determined by rolling on the appropriate table in the Dungeon Master's Guide:
 
-- 2 [minor beneficial](/tables/artifact-properties-minor-beneficial-properties-xdmg.md) properties  
-- 1 [major beneficial](/tables/artifact-properties-major-beneficial-properties-xdmg.md) property  
-- 2 [minor detrimental](/tables/artifact-properties-minor-detrimental-properties-xdmg.md) properties  
+- 2 [minor beneficial](artifact-properties-minor-beneficial-properties-xdmg.md) properties  
+- 1 [major beneficial](artifact-properties-major-beneficial-properties-xdmg.md) property  
+- 2 [minor detrimental](artifact-properties-minor-detrimental-properties-xdmg.md) properties  
 
 ## Magic Weapon
 

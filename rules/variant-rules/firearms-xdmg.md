@@ -28,6 +28,6 @@ You can make a limited number of shots with a Reload weapon. You must then reloa
 
 Firearm Bullets are destroyed upon use in a modern firearm. Futuristic firearms use Energy Cells that become depleted but could possibly be recharged with the proper equipment, at your discretion. An [Energy Cell](/items/energy-cell-xdmg.md) weighs 1/2 lb.
 
-![Firearms](/tables/firearms-xdmg.md)
+![Firearms](Firearms%20Xdmg.md)
 
-![Firearms](/tables/firearms-xdmg.md)
+![Firearms](Firearms%20Xdmg.md)

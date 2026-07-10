@@ -20,7 +20,7 @@ A Sanctum is a place of solace and healing.
 
 ## Sanctum Charm
 
-After spending a [Long Rest](/rules/variant-rules/long-rest-xphb.md) in your Bastion, you gain a magical [Charm](/rewards/sanctum-charm-xdmg.md) (see ""Supernatural Gifts"" in "chapter 3") that lasts for 7 days or until you use it. The Charm allows you to cast [Heal](/spells/heal-xphb.md) once without expending a spell slot. You can't gain this Charm again while you still have it.
+After spending a [Long Rest](/rules/variant-rules/long-rest-xphb.md) in your Bastion, you gain a magical [Charm](rewards/Sanctum.md) (see ""Supernatural Gifts"" in "chapter 3") that lasts for 7 days or until you use it. The Charm allows you to cast [Heal](/spells/heal-xphb.md) once without expending a spell slot. You can't gain this Charm again while you still have it.
 
 ## Empower: Fortifying Rites
 

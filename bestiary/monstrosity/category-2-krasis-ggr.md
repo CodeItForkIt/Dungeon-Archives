@@ -25,9 +25,9 @@ To create a krasis, choose the appropriate stat block: category 1 (Medium), cate
 
 Just a few examples of krasis are the battering krasis (a fusion of hammerhead shark and a powerfully built beast), the crocanura (a crocodile-frog), the drakewing krasis (a lizard-drake), the teratosuchus (a crocodile-crab), the shambleshark (a shark-crab), and the sharktocrab (an improved shambleshark that includes octopus elements as well).
 
-![Major Adaptations](/tables/major-adaptations-ggr.md)
+![Major Adaptations](Major%20-%20Adaptations%20Ggr.md)
 
-![Minor Adaptations](/tables/minor-adaptations-ggr.md)
+![Minor Adaptations](Minor%20-%20Adaptations%20Ggr.md)
 
 ```statblock
 "name": "Category 2 Krasis (GGR)"

@@ -23,7 +23,7 @@ aliases:
 *Genie of the Earth*
 
 - **Habitat.** Planar (Elemental Plane of Earth), Underdark  
-- **Treasure.** [Implements](/tables/random-magic-items-implements.md)  
+- **Treasure.** [Implements](Random%20-%20Magic%20Items%20Implements.md)  
 
 Genies of minerals and gemstones, dao embody the resolve of rock. Using innate magic, they move through the earth unimpeded, exploring depths inaccessible to most. Dao delight in the treasures of the earth, whether raw gemstones, jewelry crafted from pure metals, or wondrous fossils. In exchange for such treasures, dao might reveal underground mysteries, such as paths through the Underdark, buried ruins, or whole subterranean realms.
 

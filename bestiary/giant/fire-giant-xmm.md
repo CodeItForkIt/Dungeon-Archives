@@ -22,7 +22,7 @@ aliases:
 *Giant of the Smoldering Depths*
 
 - **Habitat.** Mountain, Underdark  
-- **Treasure.** [Armaments](/tables/random-magic-items-armaments.md)  
+- **Treasure.** [Armaments](Random%20-%20Magic%20Items%20Armaments.md)  
 
 Fire giants inhabit the hollow vaults and molten rivers of mountainous depths. There, they use subterranean heat and riches to craft wonders, from titanic weapons of war to delicate works of art.
 

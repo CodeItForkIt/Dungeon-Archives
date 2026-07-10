@@ -23,7 +23,7 @@ aliases:
 *Deceiver Hungry for Power and Flesh*
 
 - **Habitat.** Planar (Nine Hells), Urban  
-- **Treasure.** [Relics](/tables/random-magic-items-relics.md)  
+- **Treasure.** [Relics](Random%20-%20Magic%20Items%20Relics.md)  
 
 Masters of manipulation, rakshasas infiltrate communities to claim positions of power. While disguising their true natures, they kidnap victims and indulge their insatiable hunger for flesh.
 

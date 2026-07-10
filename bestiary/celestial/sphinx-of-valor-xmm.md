@@ -25,7 +25,7 @@ Sphinxes of valor guard world-changing or dangerous secrets—evidence of weird 
 *Collectors and Keepers of Secrets*
 
 - **Habitat.** Desert, Planar (Upper Planes)  
-- **Treasure.** [Arcana](/tables/random-magic-items-arcana.md)  
+- **Treasure.** [Arcana](Random%20-%20Magic%20Items%20Arcana.md)  
 
 Sphinxes protect the secrets of the multiverse. Formed from the spirits of sages and explorers, sphinxes know the power of truth and the importance of preserving it. They share their wisdom only with those who prove themselves wise or overcome tests of worthiness, such as riddles or battles with dangerous beasts. Through their existences, sphinxes might change form as they gain more nuanced understanding of cosmic enigmas.
 

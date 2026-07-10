@@ -30,10 +30,10 @@ This divine weapon includes a shortbow and a quiver with four arrows, each tied 
 
 If you are a worshiper of Nylea, you gain all the following benefits for which you have the required piety:
 
-- **Piety 10+.** The bow has 1 randomly determined [minor beneficial](/tables/artifact-properties-minor-beneficial-properties-xdmg.md) property.  
-- **Piety 25+.** The bow has 1 randomly determined [major beneficial](/tables/artifact-properties-major-beneficial-properties-xdmg.md) property.  
+- **Piety 10+.** The bow has 1 randomly determined [minor beneficial](artifact-properties-minor-beneficial-properties-xdmg.md) property.  
+- **Piety 25+.** The bow has 1 randomly determined [major beneficial](artifact-properties-major-beneficial-properties-xdmg.md) property.  
 
-If you aren't a worshiper of Nylea, the bow has 1 randomly determined [major detrimental](/tables/artifact-properties-major-detrimental-properties-xdmg.md) property.
+If you aren't a worshiper of Nylea, the bow has 1 randomly determined [major detrimental](artifact-properties-major-detrimental-properties-xdmg.md) property.
 
 See "Artifacts" in chapter 7 of the Dungeon Master's Guide for details on randomly determined properties.
 

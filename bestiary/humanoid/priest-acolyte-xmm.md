@@ -23,7 +23,7 @@ Priest acolytes have great faith but modest magical skill. Some might be trainee
 *Arbiters of the Mortal and the Divine*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, [Relics](/tables/random-magic-items-relics.md)  
+- **Treasure.** Individual, [Relics](Random%20-%20Magic%20Items%20Relics.md)  
 
 Priests harness the power of faith to work miracles. These religious adherents are as diverse as the faiths they follow. Some obey gods and their servants, while others live by age-old creeds. Belief guides priests' actions and their magic, which they use to shape the world in line with their ideologies.
 

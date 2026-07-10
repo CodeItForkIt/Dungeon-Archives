@@ -33,11 +33,11 @@ This spear grants a +3 bonus to attack and damage rolls made with it. When you h
 If you are a worshiper of Heliod, you gain all the following benefits for which you have the required piety:
 
 - **Piety 3+.** You gain 15 temporary hit points each dawn.  
-- **Piety 10+.** The spear has 1 randomly determined [minor beneficial](/tables/artifact-properties-minor-beneficial-properties-xdmg.md) property.  
-- **Piety 25+.** The spear has 1 additional randomly determined [minor beneficial](/tables/artifact-properties-minor-beneficial-properties-xdmg.md) property.  
-- **Piety 50+.** The spear has 1 randomly determined [major beneficial](/tables/artifact-properties-major-beneficial-properties-xdmg.md) property.  
+- **Piety 10+.** The spear has 1 randomly determined [minor beneficial](artifact-properties-minor-beneficial-properties-xdmg.md) property.  
+- **Piety 25+.** The spear has 1 additional randomly determined [minor beneficial](artifact-properties-minor-beneficial-properties-xdmg.md) property.  
+- **Piety 50+.** The spear has 1 randomly determined [major beneficial](artifact-properties-major-beneficial-properties-xdmg.md) property.  
 
-If you aren't a worshiper of Heliod, the spear has 2 randomly determined [major detrimental](/tables/artifact-properties-major-detrimental-properties-xdmg.md) properties.
+If you aren't a worshiper of Heliod, the spear has 2 randomly determined [major detrimental](artifact-properties-major-detrimental-properties-xdmg.md) properties.
 
 See "Artifacts" in chapter 7 of the Dungeon Master's Guide for details on randomly determined properties.
 

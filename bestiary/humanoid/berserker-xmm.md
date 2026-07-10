@@ -23,7 +23,7 @@ Berserkers might fight for personal glory or form motivated forces or howling ho
 *Raging Invaders and Impassioned Warriors*
 
 - **Habitat.** Any  
-- **Treasure.** [Armaments](/tables/random-magic-items-armaments.md), Individual  
+- **Treasure.** [Armaments](Random%20-%20Magic%20Items%20Armaments.md), Individual  
 
 Gripped by the adrenaline of battle, berserkers are reckless invaders, pit fighters, and other ferocious warriors.
 

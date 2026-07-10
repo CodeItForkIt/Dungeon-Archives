@@ -92,7 +92,7 @@ Your ability to channel spirits improves. You gain the following benefits.
 
 **Spiritual Manifestation.** You always have the [Spirit Guardians](/spells/spirit-guardians-xphb.md) spell prepared. You can cast the spell once without a spell slot, and you regain the ability to cast it in this way when you finish a Long Rest.
 
-Whenever you cast the spell, you can modify it so the spirits also guard against worldly threats. When you cast the spell in this way, you and allies within the spell's [Emanation](/rules/variant-rules/emanation-area-of-effect-xphb.md) have [Half Cover](/tables/cover-xphb.md). Once you modify the spell in this way, you can't do so again until you finish a Short or Long Rest.
+Whenever you cast the spell, you can modify it so the spirits also guard against worldly threats. When you cast the spell in this way, you and allies within the spell's [Emanation](/rules/variant-rules/emanation-area-of-effect-xphb.md) have [Half Cover](Cover.md). Once you modify the spell in this way, you can't do so again until you finish a Short or Long Rest.
 
 ### Mystical Connection (Level 14)
 

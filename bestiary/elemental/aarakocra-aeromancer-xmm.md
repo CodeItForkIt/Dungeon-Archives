@@ -25,7 +25,7 @@ Aarakocra aeromancers control magical winds from the endless storms of the Eleme
 *Winged Guardians of the Sky*
 
 - **Habitat.** Mountain, Planar (Elemental Plane of Air)  
-- **Treasure.** [Implements](/tables/random-magic-items-implements.md), Individual  
+- **Treasure.** [Implements](Random%20-%20Magic%20Items%20Implements.md), Individual  
 
 Aarakocra are birdlike folk who soar the skies of countless worlds and the endless expanses of the Elemental Plane of Air. They often resemble avians common to the lands where they dwell; some resemble hawks or condors, while others appear similar to hummingbirds or archaeopteryxes. In many lands, aarakocra tell of their ancient heroics resisting the wicked Queen of Chaos alongside the mysterious Wind Dukes of Aaqa.
 

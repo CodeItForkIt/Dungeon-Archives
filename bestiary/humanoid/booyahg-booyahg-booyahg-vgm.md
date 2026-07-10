@@ -15,7 +15,7 @@ aliases:
 # [Booyahg Booyahg Booyahg](/bestiary/humanoid/booyahg-booyahg-booyahg-vgm.md)
 *Source: Volo's Guide to Monsters p. 43*  
 
-This goblin is a sorcerer with the wild magic origin whose every casting, including cantrips, is accompanied by a wild magic surge. Each time the goblin casts a spell, there is an accompanying surge of wild magic; roll on the [Wild Magic Surge](/tables/wild-magic-surge-xphb.md) table in the "Player's Handbook" to determine the wild magic effect.
+This goblin is a sorcerer with the wild magic origin whose every casting, including cantrips, is accompanied by a wild magic surge. Each time the goblin casts a spell, there is an accompanying surge of wild magic; roll on the [Wild magic surge](Wild%20magic%20surge.md) table in the "Player's Handbook" to determine the wild magic effect.
 
 ## Booyahgs
 

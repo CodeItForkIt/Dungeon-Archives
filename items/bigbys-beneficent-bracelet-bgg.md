@@ -20,9 +20,9 @@ This gorgeous jewelry piece, crafted by the wizard Bigby himself, consists of fo
 
 The bracelet has the following random properties, determined by rolling on the appropriate table in the Dungeon Master's Guide:
 
-- 1 [minor beneficial](/tables/artifact-properties-minor-beneficial-properties-xdmg.md) property  
-- 1 [major beneficial](/tables/artifact-properties-major-beneficial-properties-xdmg.md) property  
-- 1 [minor detrimental](/tables/artifact-properties-minor-detrimental-properties-xdmg.md) property  
+- 1 [minor beneficial](artifact-properties-minor-beneficial-properties-xdmg.md) property  
+- 1 [major beneficial](artifact-properties-major-beneficial-properties-xdmg.md) property  
+- 1 [minor detrimental](artifact-properties-minor-detrimental-properties-xdmg.md) property  
 
 ## Dexterous Fingers
 

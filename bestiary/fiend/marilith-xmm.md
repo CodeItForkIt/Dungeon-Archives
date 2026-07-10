@@ -22,7 +22,7 @@ aliases:
 *Demon of Cruelty and Viciousness*
 
 - **Habitat.** Planar (Abyss)  
-- **Treasure.** [Armaments](/tables/random-magic-items-armaments.md)  
+- **Treasure.** [Armaments](Random%20-%20Magic%20Items%20Armaments.md)  
 
 Mariliths are six-armed, serpent-like demons that wield lethal, Abyss-forged blades. With these cursed weapons and experience from countless battles, they lead other demons to slaughter virtuous souls. They often command droves of weaker demons.
 

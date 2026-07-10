@@ -99,9 +99,9 @@ Many items cost more treasure points than a character can earn in a 2- or 4-hour
 
 Characters can use their monetary treasure to purchase anything from the equipment lists in chapter 5 of the "Player's Handbook". In addition, the Adventurers League allows characters to purchase potions and spell scrolls, as detailed below. A [spell scroll](/items/spell-scroll-xdmg.md) can be purchased only by a character who is capable of casting the spell in question.
 
-![Potions for Sale](/tables/potions-for-sale-xge.md)
+![Potions for Sale](Potions%20-%20For%20Sale.md)
 
-![Spell Scrolls for Sale](/tables/spell-scrolls-for-sale-xge.md)
+![Spell Scrolls for Sale](Spell%20-%20Scrolls%20for%20Sale.md)
 
 ### Selling Items
 

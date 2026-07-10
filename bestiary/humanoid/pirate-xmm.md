@@ -23,7 +23,7 @@ Along with being competent warriors, pirates are accomplished seafarers who know
 *Freebooters and Fortune Hunters*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, [Implements](/tables/random-magic-items-implements.md)  
+- **Treasure.** Individual, [Implements](Random%20-%20Magic%20Items%20Implements.md)  
 
 The term "pirate" encompasses a broad range of seafarers, including vicious sea rovers, dogged privateers, cursed treasure hunters, and others who seek riches and fame on the seas.
 

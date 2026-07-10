@@ -26,7 +26,7 @@ Centaur wardens often lead groups of centaur troopers and act as intermediaries 
 *Defenders of the Feywild*
 
 - **Habitat.** Forest, Grassland, Planar (Feywild)  
-- **Treasure.** [Armaments](/tables/random-magic-items-armaments.md), Individual  
+- **Treasure.** [Armaments](Random%20-%20Magic%20Items%20Armaments.md), Individual  
 
 Centaurs are defenders of forests, plains, and sites of primeval power. With upper bodies like humans' and the lower bodies of horses, centaurs charge into battle against those who would harm their allies.
 

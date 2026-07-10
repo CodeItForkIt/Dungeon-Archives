@@ -26,7 +26,7 @@ aliases:
 *Life-Leeching Corpse Warrior*
 
 - **Habitat.** Desert, Planar (Shadowfell), Swamp, Underdark, Urban  
-- **Treasure.** [Armaments](/tables/random-magic-items-armaments.md)  
+- **Treasure.** [Armaments](Random%20-%20Magic%20Items%20Armaments.md)  
 
 Wights are the withered corpses of relentless warriors whose wickedness sustains them beyond death. Unlike mere zombies, they retain the memories and evil agendas they harbored in life.
 

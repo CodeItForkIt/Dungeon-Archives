@@ -22,7 +22,7 @@ After a Beast that can serve as a mount spends at least 14 days in this facility
 
 ## Trade: Animals
 
-When you issue the "Trade" order to this facility, you commission the facility's hireling to buy or sell one or more mounts at normal cost, keeping the ones you buy in your Stable. The work takes 7 days, and the DM decides what types of animals are available for purchase—horses, ponies, and mules being the most common. The [Mounts and Other Animals](/tables/mounts-and-vehicles-mounts-and-other-animals-xphb.md) table in the "Player's Handbook" gives standard prices for various mounts. You bear the total cost of any purchases.
+When you issue the "Trade" order to this facility, you commission the facility's hireling to buy or sell one or more mounts at normal cost, keeping the ones you buy in your Stable. The work takes 7 days, and the DM decides what types of animals are available for purchase—horses, ponies, and mules being the most common. The [Mounts and Other Animals](Mounts%20-%20And%20Vehicles%20Mounts%20and%20Other%20Animals.md) table in the "Player's Handbook" gives standard prices for various mounts. You bear the total cost of any purchases.
 
 When you sell a mount from your Stable, the buyer pays you 20 percent more than the standard price; this profit increases to 50 percent when you reach level 13 and 100 percent when you reach level 17.
 

@@ -28,11 +28,11 @@ A character afflicted with **long-term madness** is subjected to an effect from 
 
 A character afflicted with **indefinite madness** gains a new character flaw from the Indefinite Madness table that lasts until cured.
 
-![Short-Term Madness](/tables/short-term-madness.md)
+![Short-Term Madness](Short%20-%20Term%20Madness.md)
 
-![Long-Term Madness](/tables/long-term-madness.md)
+![Long-Term Madness](Long%20-%20Term%20Madness.md)
 
-![Indefinite Madness](/tables/indefinite-madness.md)
+![Indefinite Madness](Indefinite%20Madness.md)
 
 ## Curing Madness
 

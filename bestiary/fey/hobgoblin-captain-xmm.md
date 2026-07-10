@@ -30,7 +30,7 @@ Hobgoblin captains are battlefield tacticians. They lead their allies to victory
 *Conquerors of Every Horizon*
 
 - **Habitat.** Desert, Forest, Grassland, Hill, Mountain, Planar (Acheron), Underdark  
-- **Treasure.** [Armaments](/tables/random-magic-items-armaments.md), Individual  
+- **Treasure.** [Armaments](Random%20-%20Magic%20Items%20Armaments.md), Individual  
 
 Hobgoblins embody the primal urge to grow and spread, expressing such drives by bending the world to their whims. Lone hobgoblins claim woodland territories and plunder the wilds. In groups, they form hierarchical, martial societies bent on conquering lands and stripping them of resources to serve their expansionist zeal.
 

@@ -24,9 +24,9 @@ The [Eye of Vecna](/items/eye-of-vecna-xdmg.md) and the [Hand of Vecna](/items/h
 
 The [Eye of Vecna](/items/eye-of-vecna-xdmg.md) and the [Hand of Vecna](/items/hand-of-vecna-xdmg.md) each have the following random properties
 
-- 1 [minor beneficial](/tables/artifact-properties-minor-beneficial-properties-xdmg.md) property  
-- 1 [major beneficial](/tables/artifact-properties-major-beneficial-properties-xdmg.md) property  
-- 1 [minor detrimental](/tables/artifact-properties-minor-detrimental-properties-xdmg.md) property  
+- 1 [minor beneficial](artifact-properties-minor-beneficial-properties-xdmg.md) property  
+- 1 [major beneficial](artifact-properties-major-beneficial-properties-xdmg.md) property  
+- 1 [minor detrimental](artifact-properties-minor-detrimental-properties-xdmg.md) property  
 
 ## Attuning to the Eye
 
@@ -78,7 +78,7 @@ When you are attuned to the hand, your alignment is Neutral Evil, and you gain t
 While attuned to both the hand and eye, you gain the following additional benefits:
 
 - **Danger Sense.** You have [Advantage](/rules/variant-rules/advantage-xphb.md) on [Initiative](/rules/variant-rules/initiative-xphb.md) rolls.  
-- **Necrotic Reduction.** As a [Magic](/rules/actions.md#Magic) action, you can target one creature you can see within 5 feet of yourself. The target makes a DC 18 Constitution saving throw, taking `7d6` Necrotic damage on a failed save or half as much damage on a successful one. A creature reduced to 0 [Hit Points](/rules/variant-rules/hit-points-xphb.md) by this damage is transformed into [green slime](/traps-hazards/green-slime-xdmg.md) (see chapter 3) that covers the ground in its space, each 5-foot square of slime representing a separate patch. Nonmagical objects worn or carried by the target that are made of metal or organic material are destroyed by the slime.  
+- **Necrotic Reduction.** As a [Magic](/rules/actions.md#Magic) action, you can target one creature you can see within 5 feet of yourself. The target makes a DC 18 Constitution saving throw, taking `7d6` Necrotic damage on a failed save or half as much damage on a successful one. A creature reduced to 0 [Hit Points](/rules/variant-rules/hit-points-xphb.md) by this damage is transformed into [green slime](Green%20%20%20slime%20xdmg.md) (see chapter 3) that covers the ground in its space, each 5-foot square of slime representing a separate patch. Nonmagical objects worn or carried by the target that are made of metal or organic material are destroyed by the slime.  
 - **Poison Immunity.** You have [Immunity](/rules/variant-rules/immunity-xphb.md) to Poison damage and the [Poisoned](/rules/conditions.md#Poisoned) condition.  
 - **Regeneration.** If you start your turn with at least 1 [Hit Point](/rules/variant-rules/hit-points-xphb.md), you regain `1d10` [Hit Points](/rules/variant-rules/hit-points-xphb.md).  
 - **Wish.** You can cast [Wish](/spells/wish-xphb.md). Once used, this property can't be used again until 30 days have passed.  

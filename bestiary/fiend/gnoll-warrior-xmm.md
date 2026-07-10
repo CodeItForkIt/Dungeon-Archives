@@ -26,7 +26,7 @@ Gnoll warriors crave endless slaughter but quickly grow bored with the prey they
 *Fiends in Feral Flesh*
 
 - **Habitat.** Desert, Forest, Grassland, Hill  
-- **Treasure.** [Armaments](/tables/random-magic-items-armaments.md), Individual  
+- **Treasure.** [Armaments](Random%20-%20Magic%20Items%20Armaments.md), Individual  
 
 The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their corruption and violence delighted the demon lord Yeenoghu, who encouraged their numbers and spread them across the multiverse. Ever since, gnolls have been the cackling servants of Yeenoghu, existing to cause ruin and to feast on what remains.
 

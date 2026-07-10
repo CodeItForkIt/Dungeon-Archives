@@ -28,7 +28,7 @@ Cyclops oracles gaze through history to learn hidden truths. Many share these se
 *Monocular Servants of Destiny*
 
 - **Habitat.** Coastal, Desert, Grassland, Hill, Mountain, Underdark  
-- **Treasure.** [Armaments](/tables/random-magic-items-armaments.md)  
+- **Treasure.** [Armaments](Random%20-%20Magic%20Items%20Armaments.md)  
 
 Cyclopes are gigantic, one-eyed descendants of the gods. Using their mystical vision, cyclopes can witness how future events are likely to occur.
 

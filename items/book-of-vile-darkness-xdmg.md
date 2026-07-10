@@ -41,10 +41,10 @@ While the book is on your person, you have [Immunity](/rules/variant-rules/immun
 
 The Book of Vile Darkness has the following random properties:
 
-- 3 [minor beneficial](/tables/artifact-properties-minor-beneficial-properties-xdmg.md) properties  
-- 1 [major beneficial](/tables/artifact-properties-major-beneficial-properties-xdmg.md) property  
-- 3 [minor detrimental](/tables/artifact-properties-minor-detrimental-properties-xdmg.md) properties  
-- 2 [major detrimental](/tables/artifact-properties-major-detrimental-properties-xdmg.md) properties  
+- 3 [minor beneficial](artifact-properties-minor-beneficial-properties-xdmg.md) properties  
+- 1 [major beneficial](artifact-properties-major-beneficial-properties-xdmg.md) property  
+- 3 [minor detrimental](artifact-properties-minor-detrimental-properties-xdmg.md) properties  
+- 2 [major detrimental](artifact-properties-major-detrimental-properties-xdmg.md) properties  
 
 ## Spells
 

@@ -29,7 +29,7 @@ Goblin minions enjoy participating in the disruptive schemes of clever leaders b
 *Wild Tricksters and Troublemakers*
 
 - **Habitat.** Forest, Grassland, Hill, Planar (Acheron), Planar (Feywild), Underdark  
-- **Treasure.** [Implements](/tables/random-magic-items-implements.md), Individual  
+- **Treasure.** [Implements](Random%20-%20Magic%20Items%20Implements.md), Individual  
 
 Goblins are Feywild embodiments of recklessness and ruin. They delight in wreckage—the louder, the more energetic, and the more convoluted, the better. Goblin raids are often as much opportunities to enjoy setting fires and tormenting livestock as they are parts of more disruptive plots.
 

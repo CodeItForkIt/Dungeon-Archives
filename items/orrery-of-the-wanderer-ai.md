@@ -23,9 +23,9 @@ To prevent the orrery from ever being so used, Lottie scattered the components t
 
 Random Properties. The orrery has the following randomly determined properties:
 
-- 2 [minor beneficial properties](/tables/artifact-properties-minor-beneficial-properties-xdmg.md)  
-- 1 [major beneficial property](/tables/artifact-properties-major-beneficial-properties-xdmg.md)  
-- 1 [major detrimental properties](/tables/artifact-properties-major-detrimental-properties-xdmg.md)  
+- 2 [minor beneficial properties](artifact-properties-minor-beneficial-properties-xdmg.md)  
+- 1 [major beneficial property](artifact-properties-major-beneficial-properties-xdmg.md)  
+- 1 [major detrimental properties](artifact-properties-major-detrimental-properties-xdmg.md)  
 
 The random properties of the orrery might function only when all its components are installed, or might function sporadically if any components are missing.
 

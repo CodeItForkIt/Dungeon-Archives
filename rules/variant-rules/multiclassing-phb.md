@@ -20,7 +20,7 @@ As you advance in levels, you might primarily remain a member of your original c
 
 To qualify for a new class, you must meet the ability score prerequisites for both your current class and your new one, as shown in the Multiclassing Prerequisites table. For example, a barbarian who decides to multiclass into the druid class must have both Strength and Wisdom scores of 13 or higher. Without the full training that a beginning character receives, you must be a quick study in your new class, having a natural aptitude that is reflected by higher-than-average ability scores.
 
-![Multiclassing Prerequisites](/tables/multiclassing-prerequisites-phb.md)
+![Multiclassing Prerequisites](Multiclassing%20Prerequisites.md)
 
 ## Experience Points
 
@@ -40,7 +40,7 @@ Your proficiency bonus is always based on your total character level, as shown i
 
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies, as shown in the Multiclassing Proficiencies table.
 
-![Multiclassing Proficiencies](/tables/multiclassing-proficiencies-phb.md)
+![Multiclassing Proficiencies](Multiclassing%20Proficiencies.md)
 
 ## Class Features
 

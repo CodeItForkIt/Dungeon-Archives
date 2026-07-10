@@ -30,7 +30,7 @@ Some haunted traps might also be disarmed in nonmagical ways related to the hist
 
 Several haunted traps are presented here in alphabetical order. Customize them to create terrifying traps appropriate for your adventures.
 
-- [Danse Macabre](/traps-hazards/danse-macabre-vrgr.md)  
-- [Faceless Malice](/traps-hazards/faceless-malice-vrgr.md)  
-- [Icon of the Lower Aerial Kingdoms](/traps-hazards/icon-of-the-lower-aerial-kingdoms-vrgr.md)  
-- [Morbid Memory](/traps-hazards/morbid-memory-vrgr.md)
+- [Danse macabre](Danse%20macabre.md)  
+- [Faceless malice](Faceless%20malice.md)  
+- [Icon of the Lower Aerial Kingdoms](Icon%20%20%20of%20the%20lower%20aerial%20kingdoms.md)  
+- [Morbid memory](Morbid%20memory.md)

@@ -107,7 +107,7 @@ Archdevils prize fealty almost as much as souls. One way in which a mortal can d
 
 The limits of what a devil can offer are determined by its status in the infernal hierarchy. The Infernal Hierarchy table lists devils in ascending order of power, from lowly lemures to the mighty archdukes and archduchesses. (The orthon is included in this table for the sake of completeness, though orthons don't appear in this adventure or in the "Monster Manual". You can find out more about them in "Mordenkainen's Tome of Foes".)
 
-Devils like to tempt mortals with treasure and magic items. Magic items bestowed by devils usually have a devilish cast to them. They're made of infernal iron, bear Infernal script, give off faint wails of torment, smell of brimstone, or have some other telltale sign (see the [What Quirk Does It Have? table](/tables/special-features-what-quirk-does-it-have.md) in chapter 7 of the "Dungeon Master's Guide" for examples).
+Devils like to tempt mortals with treasure and magic items. Magic items bestowed by devils usually have a devilish cast to them. They're made of infernal iron, bear Infernal script, give off faint wails of torment, smell of brimstone, or have some other telltale sign (see the [What Quirk Does It Have? table](Special%20-%20Features%20What%20Quirk%20Does%20It%20Have.md) in chapter 7 of the "Dungeon Master's Guide" for examples).
 
 Devils might also agree to serve mortals for a time, acting as advisors and bodyguards.
 

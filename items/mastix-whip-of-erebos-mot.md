@@ -31,11 +31,11 @@ Additionally, when you make an attack with the whip on your turn, you can increa
 
 If you are a worshiper of Erebos, you gain all the following benefits for which you have the required piety:
 
-- **Piety 1+.** The whip has 1 randomly determined [minor detrimental](/tables/artifact-properties-minor-detrimental-properties-xdmg.md) property—a burden Erebos imposes to test his faithful.  
-- **Piety 25+.** The whip has 1 randomly determined [major beneficial](/tables/artifact-properties-major-beneficial-properties-xdmg.md) property.  
-- **Piety 50+.** The whip has 1 additional randomly determined [major beneficial](/tables/artifact-properties-major-beneficial-properties-xdmg.md) property.  
+- **Piety 1+.** The whip has 1 randomly determined [minor detrimental](artifact-properties-minor-detrimental-properties-xdmg.md) property—a burden Erebos imposes to test his faithful.  
+- **Piety 25+.** The whip has 1 randomly determined [major beneficial](artifact-properties-major-beneficial-properties-xdmg.md) property.  
+- **Piety 50+.** The whip has 1 additional randomly determined [major beneficial](artifact-properties-major-beneficial-properties-xdmg.md) property.  
 
-If you aren't a worshiper of Erebos, the whip has 2 randomly determined [major detrimental](/tables/artifact-properties-major-detrimental-properties-xdmg.md) properties.
+If you aren't a worshiper of Erebos, the whip has 2 randomly determined [major detrimental](artifact-properties-major-detrimental-properties-xdmg.md) properties.
 
 See "Artifacts" in chapter 7 of the Dungeon Master's Guide for details on randomly determined properties.
 

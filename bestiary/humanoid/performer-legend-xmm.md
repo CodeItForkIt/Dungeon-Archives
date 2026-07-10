@@ -23,7 +23,7 @@ Performer legends are celebrities known across nations, continents, or worlds. T
 *Artists and Entertainers*
 
 - **Habitat.** Any  
-- **Treasure.** [Implements](/tables/random-magic-items-implements.md), Individual  
+- **Treasure.** [Implements](Random%20-%20Magic%20Items%20Implements.md), Individual  
 
 From royal courts to village squares, skilled entertainers hone their talents and delight audiences. Some travel far, sharing tales and demonstrating mysterious arts. Others serve in the courts and theaters of great nations, cultivating celebrity and navigating the whims of patrons. Many hone professional secrets and magical flourishes, striving to make their performances truly unforgettable.
 

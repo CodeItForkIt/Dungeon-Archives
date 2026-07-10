@@ -21,7 +21,7 @@ aliases:
 *Steward and Sage of Nature*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, [Relics](/tables/random-magic-items-relics.md)  
+- **Treasure.** Individual, [Relics](Random%20-%20Magic%20Items%20Relics.md)  
 
 Druids use primal magic, traditional teachings, and bonds with animals and eldritch beings to guard the natural world and heal its ills. These magic-users might be recluses devoted to a particular land, or they might be part of a mystic organization. Roll on or choose a result from the Druidic Traditions table to inspire a druid's magical practices.
 

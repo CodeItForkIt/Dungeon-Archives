@@ -18,10 +18,10 @@ Scribing a [spell scroll](/items/spell-scroll-xdmg.md) takes an amount of time a
 
 If the scribed spell is a cantrip, the version on the scroll works as if the caster were 1st level.
 
-![Resources; Spell Scroll Costs](/tables/resources-spell-scroll-costs-xge.md)
+![Resources; Spell Scroll Costs](Resources%20-%20Spell%20Scroll%20Costs.md)
 
 ## Complications
 
 Crafting a [spell scroll](/items/spell-scroll-xdmg.md) is a solitary task, unlikely to attract much attention. The complications that arise are more likely to involve the preparation needed for the activity. Every workweek spent scribing brings a 10 percent chance of a complication, examples of which are on the Scribe a Scroll Complications table.
 
-![Scribe a Scroll Complications](/tables/scribe-a-scroll-complications-xge.md)
+![Scribe a Scroll Complications](Scribe%20-%20A%20Scroll%20Complications.md)

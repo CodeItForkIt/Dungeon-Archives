@@ -22,7 +22,7 @@ A character with the noble background can mingle with the upper class, but other
 
 After a workweek of carousing, a character stands to make contacts within the selected social class. The character makes a Charisma ([Persuasion](/rules/skills.md#Persuasion)) check using the Carousing table.
 
-![Carousing](/tables/carousing-xge.md)
+![Carousing](Carousing.md)
 
 Contacts are NPCs who now share a bond with the character. Each one either owes the character a favor or has some reason to bear a grudge. A hostile contact works against the character, placing obstacles but stopping short of committing a crime or a violent act. Allied contacts are friends who will render aid to the character, but not at the risk of their lives.
 
@@ -48,8 +48,8 @@ At any time, a character can have a maximum number of unspecified allied contact
 
 Characters who carouse risk bar brawls, accumulating a cloud of nasty rumors, and building a bad reputation around town. As a rule of thumb, a character has a 10 percent chance of triggering a complication for each workweek of carousing.
 
-![Lower-Class Carousing Complications](/tables/lower-class-carousing-complications-xge.md)
+![Lower-Class Carousing Complications](Lower%20-%20Class%20Carousing%20Complications.md)
 
-![Middle-Class Carousing Complications](/tables/middle-class-carousing-complications-xge.md)
+![Middle-Class Carousing Complications](Middle%20-%20Class%20Carousing%20Complications.md)
 
-![Upper-Class Carousing Complications](/tables/upper-class-carousing-complications-xge.md)
+![Upper-Class Carousing Complications](Upper%20-%20Class%20Carousing%20Complications.md)

@@ -15,7 +15,7 @@ _Source: Mordenkainen Presents: Monsters of the Multiverse_
 
 On initiative count 20 (losing initiative ties), Juiblex can take one of the following lair actions; it can't take the same lair action two rounds in a row:
 
-- **Green Slime.** A [green slime](/traps-hazards/green-slime-xdmg.md) (see the "Dungeon Master's Guide") appears on a spot on the ceiling that Juiblex chooses within the lair. The slime disintegrates after 1 hour.  
+- **Green Slime.** A [green slime](Green%20%20%20slime%20xdmg.md) (see the "Dungeon Master's Guide") appears on a spot on the ceiling that Juiblex chooses within the lair. The slime disintegrates after 1 hour.  
 - **Slippery Slime.** Juiblex slimes a square area of ground it can see within the lair. The area can be up to 10 feet on a side. When the slime appears, each creature on it must succeed on a DC 21 Dexterity saving throw or fall [prone](/rules/conditions.md#Prone) and slide 10 feet in a random direction determined by a `d8` roll. When a creature enters the area for the first time on a turn or ends its turn there, that creature must make the same save.  
 
     The slime lasts for 1 hour or until it is burned away with fire. If the slime is set on fire, it burns away after 1 round. Any creature that starts its turn in the burning slime takes 22 (`4d10`) fire damage.  

@@ -23,7 +23,7 @@ Elemental cultists harness destructive natural forces to cleanse the world of ci
 *Doomsayers and Fanatics*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, [Relics](/tables/random-magic-items-relics.md)  
+- **Treasure.** Individual, [Relics](Random%20-%20Magic%20Items%20Relics.md)  
 
 Cultists use magic and extreme measures to spread radical beliefs. Some privately pursue esoteric secrets, while others form shadowy cabals seeking to bring about terrifying ends. Cultists often follow obscure mystical traditions or obsess over interpretations of ancient prophecies. They might worship supernatural patrons—deities, otherworldly creatures, manipulative alien minds, or stranger forces. Roll on or choose a result from the Cultist Agendas table to inspire what a cultist seeks to achieve.
 

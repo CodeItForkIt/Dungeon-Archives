@@ -22,10 +22,10 @@ The character must make a series of checks, with a DC determined at random based
 
 The character makes three checks: Wisdom ([Insight](/rules/skills.md#Insight)), Charisma ([Deception](/rules/skills.md#Deception)), and Charisma ([Intimidation](/rules/skills.md#Intimidation)). If the character has proficiency with an appropriate [gaming set](/items/gaming-set-xphb.md), that tool proficiency can replace the relevant skill in any of the checks. The DC for each of the checks is `5 + 2d10`; generate a separate DC for each one. Consult the Gambling Results table to see how the character did.
 
-![Gambling Results](/tables/gambling-results-xge.md)
+![Gambling Results](Gambling%20Results.md)
 
 ## Complications
 
 Gambling tends to attract unsavory individuals. The potential complications involved come from run-ins with the law and associations with various criminals tied to the activity. Every workweek spent gambling brings a 10 percent chance of a complication, examples of which are on the Gambling Complications table.
 
-![Gambling Complications](/tables/gambling-complications-xge.md)
+![Gambling Complications](Gambling%20Complications.md)

@@ -24,7 +24,7 @@ aliases:
 *Flightless, Noise-Mimicking Avian*
 
 - **Habitat.** Forest, Planar (Shadowfell), Urban  
-- **Treasure.** [Implements](/tables/random-magic-items-implements.md), Individual  
+- **Treasure.** [Implements](Random%20-%20Magic%20Items%20Implements.md), Individual  
 
 Kenku are birdlike folk who once soared the skies and sang enchanted songs, but a curse stole their wings and transformed their voices. Now kenku slip through the shadows of cities and the Shadowfell, trying to recover what they've lost. To some, this means seeking an end to their curse; others search for magic or contraptions to enable them to fly and sing again.
 

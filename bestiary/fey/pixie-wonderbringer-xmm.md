@@ -25,7 +25,7 @@ Energetic entertainers, wonderbringers use their magic in defense of the wildern
 *Friends of the Forest*
 
 - **Habitat.** Forest, Planar (Feywild)  
-- **Treasure.** [Arcana](/tables/random-magic-items-arcana.md)  
+- **Treasure.** [Arcana](Random%20-%20Magic%20Items%20Arcana.md)  
 
 Barely a foot tall, pixies resemble diminutive elves with gossamer wings. They invisibly observe those who enter their wooded homes, revealing themselves to those with friendly intentions. Those who are unfriendly become the targets of pixies' pranks.
 

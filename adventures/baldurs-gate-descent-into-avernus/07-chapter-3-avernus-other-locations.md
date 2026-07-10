@@ -233,7 +233,7 @@ Mahadi is surprised to see [Lulu](/bestiary/npc/lulu-bgdia.md) again but tries n
 
 ### Approaching the Wandering Emporium
 
-The Wandering Emporium travels on the backs of nine Huge infernal war machines similar to [Demon Grinders](/vehicles/demon-grinder-bgdia.md), but with Flamethrowers and Styx Sprayers instead of Chompers and Wrecking Balls.
+The Wandering Emporium travels on the backs of nine Huge infernal war machines similar to [Demon Grinders](Demon%20grinder.md), but with Flamethrowers and Styx Sprayers instead of Chompers and Wrecking Balls.
 
 When [Mahadi](/bestiary/npc/mahadi-the-rakshasa-bgdia.md) finds an adequate location to set up shop, he orders his drivers to form a horseshoe-shaped defensive perimeter. As the infernal war machines grind to a halt, their crews (comprised of indentured humans, [duergar](/bestiary/humanoid/spy-xmm.md), [hobgoblins](/bestiary/fey/hobgoblin-warrior-xmm.md), [salamanders](/bestiary/elemental/salamander-xmm.md), [succubi](/bestiary/fiend/succubus-xmm.md), [incubi](/bestiary/fiend/incubus-xmm.md), and assorted other creatures) disembark and begin unpacking tents and whatnot. All shops are open within the hour and remain open for business until Mahadi decides it's time to pack up and move elsewhere.
 
@@ -280,7 +280,7 @@ Specialty services include dream therapy, whole body restoration, and longevity 
 
 This establishment is run by three [salamanders](/bestiary/elemental/salamander-xmm.md) named Rassh, Skids, and Slagg. The salamanders owe Mahadi a debt for taking them in and secreting them away after a bold escape from Bel's Forge. They operate as indentured servants, maintaining Mahadi's infernal war machines while also crafting wares for sale to visitors. From time to time, Mahadi sends them abroad to procure parts to refurbish the caravan. Nine [magmins](/bestiary/elemental/magmin-xmm.md) and eight suits of [animated armor](/bestiary/construct/animated-armor-xmm.md) assist the salamanders with their work.
 
-The salamanders' infernal war machine has been cobbled together from a half dozen others. At a moment's notice, the vehicle can separate into three smaller infernal war machines, each piloted by one of the salamanders. Treat these smaller vehicles as [Tormentors](/vehicles/tormentor-bgdia.md).
+The salamanders' infernal war machine has been cobbled together from a half dozen others. At a moment's notice, the vehicle can separate into three smaller infernal war machines, each piloted by one of the salamanders. Treat these smaller vehicles as [Tormentors](Tormentor.md).
 
 ##### Weapons and Armor
 
@@ -429,7 +429,7 @@ Characters can encounter [Smiler the Defiler](/bestiary/npc/smiler-the-defiler-b
 
 This eladrin adventurer from the Feywild became stranded in Avernus after his companions abandoned him. He has spent the past seventy years roaming Avernus, making deals with fiends to survive. Smiler eventually sold his soul to a pit fiend, who gave him the means to topple a nycaloth warlord named Yarrasto. Smiler took control of the nycaloth's warband and their infernal war machines. Smiler's gang came to be known as Smiler's Defilers, and their ferocity terrified the other warlords of Avernus for a while.
 
-Three of Smiler's rivals—[Bitter Breath](/bestiary/npc/bitter-breath-bgdia.md), [Feonor](/bestiary/npc/feonor-bgdia.md), and [Princeps Kovik](/bestiary/npc/princeps-kovik-bgdia.md)—joined forces to wipe out Smiler's Defilers. Smiler escaped and tears around Avernus on a [Devil's Ride](/vehicles/devils-ride-bgdia.md), looking for adventurers willing to help him get revenge on the warlords who ganged up on him. Mad Maggie remains his only ally, though he refuses to join her gang.
+Three of Smiler's rivals—[Bitter Breath](/bestiary/npc/bitter-breath-bgdia.md), [Feonor](/bestiary/npc/feonor-bgdia.md), and [Princeps Kovik](/bestiary/npc/princeps-kovik-bgdia.md)—joined forces to wipe out Smiler's Defilers. Smiler escaped and tears around Avernus on a [Devil's Ride](Devils%20ride.md), looking for adventurers willing to help him get revenge on the warlords who ganged up on him. Mad Maggie remains his only ally, though he refuses to join her gang.
 
 When the characters first encounter Smiler, read or paraphrase the following:
 

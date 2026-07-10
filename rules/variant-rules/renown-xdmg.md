@@ -49,4 +49,4 @@ Disagreements with members of a group aren't enough to cause a loss of renown wi
 
 If you want to use the benefits of renown without tracking Renown Scores, you can use a character's level as a shorthand for the character's Renown Score with a group, assuming the character has worked with or for that group for most of the character's career. The Level-Based Renown table shows equivalencies between Renown Score and character level.
 
-![Level-Based Renown](/tables/level-based-renown-xdmg.md)
+![Level-Based Renown](Level%20-%20Based%20Renown%20Xdmg.md)

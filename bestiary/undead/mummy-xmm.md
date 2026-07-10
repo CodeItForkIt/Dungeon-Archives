@@ -44,7 +44,7 @@ Roll on or choose a result from the Mummy Resurrections table to determine why a
 *Deathless Ancients with Ageless Ambitions*
 
 - **Habitat.** Desert, Swamp  
-- **Treasure.** [Relics](/tables/random-magic-items-relics.md)  
+- **Treasure.** [Relics](Random%20-%20Magic%20Items%20Relics.md)  
 
 Mysterious rites and mighty faith can tie spirits to their corpses, binding them to their remains for all time. Should their resting places be violated, these beings, known as mummies, reanimate their deteriorating bodies to restore the sanctity of their tombs and punish those who disturbed their rest.
 

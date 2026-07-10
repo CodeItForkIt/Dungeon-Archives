@@ -17,7 +17,7 @@ Also at rank 1, you are given use of an Acquisitions Incorporated sending stone,
 
 Making contact with another secretarian assumes that they are in possession of their own sending stone.
 
-![Quirks of Your Sending Stone](/tables/quirks-of-your-sending-stone-ai.md)
+![Quirks of Your Sending Stone](Quirks%20-%20Of%20Your%20Sending%20Stone.md)
 
 ## Rumor Mill
 

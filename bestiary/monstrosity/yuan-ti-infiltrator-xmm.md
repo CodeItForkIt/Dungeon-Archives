@@ -26,7 +26,7 @@ Infiltrators can pass as human, their serpentine features limited to scaly skin,
 *Power-Hungry Serpentine Conspirators*
 
 - **Habitat.** Desert, Forest, Swamp, Urban  
-- **Treasure.** [Relics](/tables/random-magic-items-relics.md)  
+- **Treasure.** [Relics](Random%20-%20Magic%20Items%20Relics.md)  
 
 Exploiting pacts with sinister supernatural forces, yuan-ti bargain away their humanity for the lethality and predatory deviousness of serpents. From hidden bastions, they manipulate rulers and the wealthy, seeking to control the world. Many yuan-ti possess venomous magic, which often manifests as fangs or striking serpents.
 

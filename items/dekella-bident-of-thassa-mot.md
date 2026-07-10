@@ -33,10 +33,10 @@ Thassa's signature weapon thrums with the icy currents of the deep ocean. This w
 If you are a worshiper of Thassa, you gain all the following benefits for which you have the required piety:
 
 - **Piety 10+.** You can breathe underwater, and you gain a swimming speed of 60 feet.  
-- **Piety 25+.** The bident has 1 randomly determined [minor beneficial](/tables/artifact-properties-minor-beneficial-properties-xdmg.md) property.  
-- **Piety 50+.** The bident has 1 randomly determined [major beneficial](/tables/artifact-properties-major-beneficial-properties-xdmg.md) property.  
+- **Piety 25+.** The bident has 1 randomly determined [minor beneficial](artifact-properties-minor-beneficial-properties-xdmg.md) property.  
+- **Piety 50+.** The bident has 1 randomly determined [major beneficial](artifact-properties-major-beneficial-properties-xdmg.md) property.  
 
-If you aren't a worshiper of Thassa, the bident has 1 [minor detrimental](/tables/artifact-properties-minor-detrimental-properties-xdmg.md) property and 1 [major detrimental](/tables/artifact-properties-major-detrimental-properties-xdmg.md) property, both randomly determined.
+If you aren't a worshiper of Thassa, the bident has 1 [minor detrimental](artifact-properties-minor-detrimental-properties-xdmg.md) property and 1 [major detrimental](artifact-properties-major-detrimental-properties-xdmg.md) property, both randomly determined.
 
 See "Artifacts" in chapter 7 of the Dungeon Master's Guide for details on randomly determined properties.
 

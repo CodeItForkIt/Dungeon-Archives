@@ -56,13 +56,13 @@ Your spellcasting can unleash surges of untamed magic. Once per turn, you can ro
 
 If the magical effect is a spell, it is too wild to be affected by your Metamagic.
 
-![Wild Magic Surge](/tables/wild-magic-surge-xphb.md)
+![Wild magic surge](Wild%20magic%20surge.md)
 
 ### Tides of Chaos (Level 3)
 
 You can manipulate chaos itself to give yourself [Advantage](/rules/variant-rules/advantage-xphb.md) on one [D20 Test](/rules/variant-rules/d20-test-xphb.md) before you roll the `d20`. Once you do so, you must cast a Sorcerer spell with a spell slot or finish a [Long Rest](/rules/variant-rules/long-rest-xphb.md) before you can use this feature again.
 
-If you do cast a Sorcerer spell with a spell slot before you finish a [Long Rest](/rules/variant-rules/long-rest-xphb.md), you automatically roll on the [Wild Magic Surge](/tables/wild-magic-surge-xphb.md) table.
+If you do cast a Sorcerer spell with a spell slot before you finish a [Long Rest](/rules/variant-rules/long-rest-xphb.md), you automatically roll on the [Wild magic surge](Wild%20magic%20surge.md) table.
 
 ### Bend Luck (Level 6)
 
@@ -74,6 +74,6 @@ You gain a modicum of control over the surges of your wild magic. Whenever you r
 
 ### Tamed Surge (Level 18)
 
-Immediately after you cast a Sorcerer spell with a spell slot, you can create an effect of your choice from the [Wild Magic Surge](/tables/wild-magic-surge-xphb.md) table instead of rolling on that table. You can choose any effect in the table except for the final row, and if the chosen effect involves a roll, you must make it.
+Immediately after you cast a Sorcerer spell with a spell slot, you can create an effect of your choice from the [Wild magic surge](Wild%20magic%20surge.md) table instead of rolling on that table. You can choose any effect in the table except for the final row, and if the chosen effect involves a roll, you must make it.
 
 Once you use this feature, you can't do so again until you finish a [Long Rest](/rules/variant-rules/long-rest-xphb.md).

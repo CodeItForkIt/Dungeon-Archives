@@ -22,7 +22,7 @@ aliases:
 *Devil of Dread and Obedience*
 
 - **Habitat.** Planar (Nine Hells)  
-- **Treasure.** [Implements](/tables/random-magic-items-implements.md)  
+- **Treasure.** [Implements](Random%20-%20Magic%20Items%20Implements.md)  
 
 Bone devils are gaunt, nightmarish Fiends with pallid skin stretched tight over frames that combine human and insectile features. Also known as osyluths, these Fiends command weaker devils and other beings aligned with infernal legions. Bone devils ensure that the commands of hellish sovereigns are exacted efficiently and that non-devils fulfill their commitments to the Nine Hells. They slay those who renege on infernal deals, sending treacherous mortal souls to face unspeakable punishments.
 

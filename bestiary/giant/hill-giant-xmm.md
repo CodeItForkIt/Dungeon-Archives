@@ -21,7 +21,7 @@ aliases:
 *Giant of Crags and Valleys*
 
 - **Habitat.** Hill  
-- **Treasure.** [Armaments](/tables/random-magic-items-armaments.md)  
+- **Treasure.** [Armaments](Random%20-%20Magic%20Items%20Armaments.md)  
 
 Hill giants live among rugged bluffs and highlands. Standing three times the size of most humans, these giants exhibit skin and hair in a range of shades, including hues suggestive of the earth and mosses near their dwellings.
 

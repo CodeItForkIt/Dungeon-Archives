@@ -24,8 +24,8 @@ Like all tarokka decks, the *Tarokka of Souls* is a lavishly illustrated collect
 
 The artifact has the following random properties, which you can determine by rolling on the tables in the "Artifacts" section of the "Dungeon Master's Guide":
 
-- 2 [minor detrimental](/tables/artifact-properties-minor-detrimental-properties-xdmg.md) properties  
-- 2 [minor beneficial](/tables/artifact-properties-minor-beneficial-properties-xdmg.md) properties  
+- 2 [minor detrimental](artifact-properties-minor-detrimental-properties-xdmg.md) properties  
+- 2 [minor beneficial](artifact-properties-minor-beneficial-properties-xdmg.md) properties  
 
 ## Spells
 

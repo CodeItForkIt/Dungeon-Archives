@@ -15,7 +15,7 @@ aliases:
 
 Har'Akir is altered by Ankhtepot's presence, creating the following effects:
 
-- **Blistering Sun.** Any outdoor area of [Bright Light](/rules/variant-rules/bright-light-xphb.md) in Har'Akir is an area of [extreme heat](/traps-hazards/extreme-heat-xdmg.md) (see the "Dungeon Master's Guide").  
+- **Blistering Sun.** Any outdoor area of [Bright Light](/rules/variant-rules/bright-light-xphb.md) in Har'Akir is an area of [extreme heat](Extreme%20%20%20heat%20xdmg.md) (see the "Dungeon Master's Guide").  
 - **Closing the Borders.** While in his domain, Ankhtepot can close or open the borders to Har'Akir at will. While the borders are closed, whirling sands fill the Mists surrounding Har'Akir. A creature that enters the Mists for the first time on a turn or starts its turn there takes `2d6` Slashing damage.  
 - **Control Undead.** Undead of CR 5 or lower in Har'Akir have the [Charmed](/rules/conditions.md#Charmed) condition and obey Ankhtepot's orders.  
 

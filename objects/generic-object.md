@@ -24,13 +24,13 @@ When time is a factor, you can assign an Armor Class and hit points to a destruc
 
 An object's Armor Class is a measure of how difficult it is to deal damage to the object when striking it (because the object has no chance of dodging out of the way). The Object Armor Class table provides suggested AC values for various substances.
 
-![Object Armor Class](/tables/object-armor-class.md)
+![Object Armor Class](Object%20-%20Armor%20Class.md)
 
 ### Hit Points
 
 An object's hit points measure how much damage it can take before losing its structural integrity. Resilient objects have more hit points than fragile ones. Large objects also tend to have more hit points than small ones, unless breaking a small part of the object is just as effective as breaking the whole thing. The Object Hit Points table provides suggested hit points for fragile and resilient objects that are Large or smaller.
 
-![Object Hit Points](/tables/object-hit-points.md)
+![Object Hit Points](Object%20-%20Hit%20Points.md)
 
 ### Huge and Gargantuan Objects
 

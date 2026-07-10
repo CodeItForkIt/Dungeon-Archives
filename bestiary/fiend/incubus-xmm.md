@@ -38,7 +38,7 @@ Those visited by an incubus have recurring nightmares. Roll on or choose a resul
 | 1 | An angry family member or authority figure. |
 | 2 | Being chased through the wilderness. |
 | 3 | Being devoured by animals or monsters. |
-| 4 | [Falling](/traps-hazards/falling-xphb.md), drowning, or suffocating. |
+| 4 | [Falling](Falling.md), drowning, or suffocating. |
 | 5 | A ruinous public embarrassment. |
 | 6 | A shadowy intruder or monstrous silhouette. |
 | 7 | A traumatic past event. |

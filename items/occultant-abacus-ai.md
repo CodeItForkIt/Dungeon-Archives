@@ -20,7 +20,7 @@ Head office grants you the use of a unique item known as an occultant abacus (so
 
 Also at rank 1, your occultant abacus not only tracks your franchise's kills, it helps you determine the impact of those kills on the franchise's fate. Over a period of 1 minute, you can study a creature killed by someone in your franchise within the last 24 hours, then grant the character who slew it a `d10`. Once within the next hour, that character can add the `d10` to an attack roll, ability check, or saving throw. If it's not clear who administered the killing blow, you grant this benefit to a random creature involved in the fight. Once you use this feature, you can't use it again until you finish a long rest.
 
-![Ways to Read the Kill](/tables/ways-to-read-the-kill-ai.md)
+![Ways to Read the Kill](Ways%20%20%20to%20read%20the%20kill.md)
 
 ## Eldritch Occultant
 

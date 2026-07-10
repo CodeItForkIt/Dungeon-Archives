@@ -23,7 +23,7 @@ Faerie dragon youths are quick to use their euphoria-inducing breath on rude or 
 *Whimsical Draconic Tricksters*
 
 - **Habitat.** Forest  
-- **Treasure.** [Implements](/tables/random-magic-items-implements.md)  
+- **Treasure.** [Implements](Random%20-%20Magic%20Items%20Implements.md)  
 
 Faerie dragons are cat-size pranksters with draconic features, butterfly-like wings, and scales of warm hues as youths and cool hues as adults.
 

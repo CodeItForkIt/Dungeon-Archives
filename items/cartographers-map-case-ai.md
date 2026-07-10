@@ -21,6 +21,6 @@ At rank 3, your map case becomes a common magic item. In addition to storing nor
 
 Starting at rank 3, you can use an action to make a DC 15 Wisdom ([Perception](/rules/skills.md#Perception)) check and search your cartographer's map case to find a map either related to your current mission or inspiring a new one. On a success, you find a map with a prominent landmark. The map has information on the natural terrain within one mile of the landmark. Once you use this feature, you cannot use it again until dawn seven days later.
 
-![Map of the Moment; Possible Map Mission Landmarks](/tables/map-of-the-moment-possible-map-mission-landmarks-ai.md)
+![Map of the Moment; Possible Map Mission Landmarks](Map%20-%20Of%20the%20Moment%20Possible%20Map%20Mission%20Landmarks.md)
 
 *Source: Acquisitions Incorporated p. 20*

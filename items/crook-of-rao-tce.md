@@ -20,9 +20,9 @@ Ages ago, the serene god Rao created a tool to shield his fledgling faithful aga
 
 The artifact has the following random properties, which you can determine by rolling on the tables in the "Artifacts" section of the "Dungeon Master's Guide":
 
-- 2 [minor beneficial](/tables/artifact-properties-minor-beneficial-properties-xdmg.md) properties  
-- 1 [major beneficial](/tables/artifact-properties-major-beneficial-properties-xdmg.md) property  
-- 1 [minor detrimental](/tables/artifact-properties-minor-detrimental-properties-xdmg.md) property  
+- 2 [minor beneficial](artifact-properties-minor-beneficial-properties-xdmg.md) properties  
+- 1 [major beneficial](artifact-properties-major-beneficial-properties-xdmg.md) property  
+- 1 [minor detrimental](artifact-properties-minor-detrimental-properties-xdmg.md) property  
 
 ## Spells
 

@@ -25,7 +25,7 @@ Satyrs enjoy demonstrating their physicality through contests, evicting party po
 *Horned and Hoofed Revelers*
 
 - **Habitat.** Forest, Planar (Feywild)  
-- **Treasure.** [Implements](/tables/random-magic-items-implements.md)  
+- **Treasure.** [Implements](Random%20-%20Magic%20Items%20Implements.md)  
 
 Satyrs embody the untamed joys of the wilderness. They indulge in sprees of merrymaking—eating, drinking, performing, fighting, and frolicking.
 

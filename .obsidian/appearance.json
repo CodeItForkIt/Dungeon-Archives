@@ -1,0 +1,11 @@
+{
+  "cssTheme": "Cupertino",
+  "enabledCssSnippets": [],
+  "baseFontSizeAction": true,
+  "translucency": true,
+  "theme": "obsidian",
+  "interfaceFontFamily": "Times New Roman",
+  "textFontFamily": "Times New Roman",
+  "nativeMenus": false,
+  "accentColor": "#1079f7"
+}

@@ -25,7 +25,7 @@ Azer sentinels defend their communities' smiths and channel their flames through
 *Fiery Smiths of Living Metal*
 
 - **Habitat.** Mountain, Planar (Elemental Plane of Fire)  
-- **Treasure.** [Armaments](/tables/random-magic-items-armaments.md), Individual  
+- **Treasure.** [Armaments](Random%20-%20Magic%20Items%20Armaments.md), Individual  
 
 Azers are living bronze folk who work the primal elements of creation to craft weapons and magical wonders among the multiverse's mightiest infernos.
 

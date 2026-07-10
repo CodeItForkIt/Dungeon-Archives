@@ -43,10 +43,10 @@ While holding the crystal, you can take a [Magic](/rules/actions.md#Magic) actio
 
 The Artifact has the following random properties (see chapter 7 of the Dungeon Master's Guide):
 
-- 1 [minor beneficial](/tables/artifact-properties-minor-beneficial-properties-xdmg.md) property  
-- 1 [major beneficial](/tables/artifact-properties-major-beneficial-properties-xdmg.md) property  
-- 1 [minor detrimental](/tables/artifact-properties-minor-detrimental-properties-xdmg.md) property  
-- 1 [major detrimental](/tables/artifact-properties-major-detrimental-properties-xdmg.md) property  
+- 1 [minor beneficial](artifact-properties-minor-beneficial-properties-xdmg.md) property  
+- 1 [major beneficial](artifact-properties-major-beneficial-properties-xdmg.md) property  
+- 1 [minor detrimental](artifact-properties-minor-detrimental-properties-xdmg.md) property  
+- 1 [major detrimental](artifact-properties-major-detrimental-properties-xdmg.md) property  
 
 ## Destroying the Crystal
 

@@ -380,7 +380,7 @@ If you want to create a prelude to the dungeon, use the optional steps that call
 
 **Reversed Meaning.** - **Person.** A person who wrongly believes their good luck is the result of innate magical ability or a magical good luck charm.  
 - **Creature or Trap.** A creature that resists or negates magic.  
-- **Place.** A place where magic has caused destruction, doesn't work (like the effect of an [Antimagic Field](/spells/antimagic-field-xphb.md)), or works unpredictably (perhaps triggering [wild magic surges](/tables/wild-magic-surge-xphb.md)).  
+- **Place.** A place where magic has caused destruction, doesn't work (like the effect of an [Antimagic Field](/spells/antimagic-field-xphb.md)), or works unpredictably (perhaps triggering [wild magic surges](Wild%20magic%20surge.md)).  
 - **Treasure.** An art object created by the use of magic, or a magic item with unpredictable effects (such as a [Wand of Wonder](/items/wand-of-wonder-xdmg.md)).  
 - **Situation.** A situation caused by magic misused or out of control.  
 

@@ -22,34 +22,34 @@ Meeting a monster doesn't have to spark a fight. An offering, like food, can cal
 
 Adventurers can research what a creature is likely to desire. The Monster Research table suggests which skills can be used to learn about a creature of a particular type. The DC for a relevant ability check equals 10 + the creature's challenge rating.
 
-![Monster Research](/tables/monster-research-tce.md)
+![Monster Research](Monster%20Research.md)
 
 ## Monsters' Desires
 
-![Monsters' Desires; Aberrations](/tables/monsters-desires-aberrations-tce.md)
+![Monsters' Desires; Aberrations](Monsters%20-%20Desires%20Aberrations.md)
 
-![Monsters' Desires; Beasts](/tables/monsters-desires-beasts-tce.md)
+![Monsters' Desires; Beasts](Monsters%20-%20Desires%20Beasts.md)
 
-![Monsters' Desires; Celestials](/tables/monsters-desires-celestials-tce.md)
+![Monsters' Desires; Celestials](Monsters%20-%20Desires%20Celestials.md)
 
-![Monsters' Desires; Constructs](/tables/monsters-desires-constructs-tce.md)
+![Monsters' Desires; Constructs](Monsters%20-%20Desires%20Constructs.md)
 
-![Monsters' Desires; Dragons](/tables/monsters-desires-dragons-tce.md)
+![Monsters' Desires; Dragons](Monsters%20-%20Desires%20Dragons.md)
 
-![Monsters' Desires; Elementals](/tables/monsters-desires-elementals-tce.md)
+![Monsters' Desires; Elementals](Monsters%20-%20Desires%20Elementals.md)
 
-![Monsters' Desires; Fey](/tables/monsters-desires-fey-tce.md)
+![Monsters' Desires; Fey](Monsters%20-%20Desires%20Fey.md)
 
-![Monsters' Desires; Fiends](/tables/monsters-desires-fiends-tce.md)
+![Monsters' Desires; Fiends](Monsters%20-%20Desires%20Fiends.md)
 
-![Monsters' Desires; Giants](/tables/monsters-desires-giants-tce.md)
+![Monsters' Desires; Giants](Monsters%20-%20Desires%20Giants.md)
 
-![Monsters' Desires; Humanoids](/tables/monsters-desires-humanoids-tce.md)
+![Monsters' Desires; Humanoids](Monsters%20-%20Desires%20Humanoids.md)
 
-![Monsters' Desires; Monstrosities](/tables/monsters-desires-monstrosities-tce.md)
+![Monsters' Desires; Monstrosities](Monsters%20-%20Desires%20Monstrosities.md)
 
-![Monsters' Desires; Oozes](/tables/monsters-desires-oozes-tce.md)
+![Monsters' Desires; Oozes](Monsters%20-%20Desires%20Oozes.md)
 
-![Monsters' Desires; Plants](/tables/monsters-desires-plants-tce.md)
+![Monsters' Desires; Plants](Monsters%20-%20Desires%20Plants.md)
 
-![Monsters' Desires; Undead](/tables/monsters-desires-undead-tce.md)
+![Monsters' Desires; Undead](Monsters%20-%20Desires%20Undead.md)

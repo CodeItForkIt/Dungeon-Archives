@@ -44,7 +44,7 @@ You create a 5-foot-diameter sphere of fire in an unoccupied space on the ground
 
 As a [Bonus Action](/rules/variant-rules/bonus-action-xphb.md), you can move the sphere up to 30 feet, rolling it along the ground. If you move the sphere into a creature's space, that creature makes the save against the sphere, and the sphere stops moving for the turn.
 
-When you move the sphere, you can direct it over barriers up to 5 feet tall and jump it across pits up to 10 feet wide. Flammable objects that aren't being worn or carried start [burning](/traps-hazards/burning-xphb.md) if touched by the sphere, and it sheds [Bright Light](/rules/variant-rules/bright-light-xphb.md) in a 20-foot radius and [Dim Light](/rules/variant-rules/dim-light-xphb.md) for an additional 20 feet.
+When you move the sphere, you can direct it over barriers up to 5 feet tall and jump it across pits up to 10 feet wide. Flammable objects that aren't being worn or carried start [burning](Burning.md) if touched by the sphere, and it sheds [Bright Light](/rules/variant-rules/bright-light-xphb.md) in a 20-foot radius and [Dim Light](/rules/variant-rules/dim-light-xphb.md) for an additional 20 feet.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d6` for each spell slot level above 2.
 

@@ -32,15 +32,15 @@ If the characters seek a specific magic item, first decide if it's an item you w
 
 | Check Total | Items Acquired |
 |-------------|----------------|
-| 1–5 | Roll `1d6` times on [Magic Item Table A](/tables/magic-item-table-a.md). |
-| 6–10 | Roll `1d4` times on [Magic Item Table B](/tables/magic-item-table-b.md). |
-| 11–15 | Roll `1d4` times on [Magic Item Table C](/tables/magic-item-table-c.md). |
-| 16–20 | Roll `1d4` times on [Magic Item Table D](/tables/magic-item-table-d.md). |
-| 21–25 | Roll `1d4` times on [Magic Item Table E](/tables/magic-item-table-e.md). |
-| 26–30 | Roll `1d4` times on [Magic Item Table F](/tables/magic-item-table-f.md). |
-| 31–35 | Roll `1d4` times on [Magic Item Table G](/tables/magic-item-table-g.md). |
-| 36–40 | Roll `1d4` times on [Magic Item Table H](/tables/magic-item-table-h.md). |
-| 41+ | Roll `1d4` times on [Magic Item Table I](/tables/magic-item-table-i.md). |
+| 1–5 | Roll `1d6` times on [Magic Item Table A](Magic%20-%20Item%20Table%20a.md). |
+| 6–10 | Roll `1d4` times on [Magic Item Table B](Magic%20-%20Item%20Table%20B.md). |
+| 11–15 | Roll `1d4` times on [Magic Item Table C](Magic%20-%20Item%20Table%20C.md). |
+| 16–20 | Roll `1d4` times on [Magic Item Table D](Magic%20-%20Item%20Table%20D.md). |
+| 21–25 | Roll `1d4` times on [Magic Item Table E](Magic%20-%20Item%20Table%20E.md). |
+| 26–30 | Roll `1d4` times on [Magic Item Table F](Magic%20-%20Item%20Table%20F.md). |
+| 31–35 | Roll `1d4` times on [Magic Item Table G](Magic%20-%20Item%20Table%20G.md). |
+| 36–40 | Roll `1d4` times on [Magic Item Table H](Magic%20-%20Item%20Table%20H.md). |
+| 41+ | Roll `1d4` times on [Magic Item Table I](Magic%20-%20Item%20Table%20I.md). |
 ^buying-magic-items
 
 **Magic Item Price**
@@ -60,4 +60,4 @@ If the characters seek a specific magic item, first decide if it's an item you w
 
 The magic item trade is fraught with peril. The large sums of money involved and the power offered by magic items attract thieves, con artists, and other villains. If you want to make things more interesting for the characters, roll on the Magic Item Purchase Complications table or invent your own complication.
 
-![Magic Item Purchase Complications](/tables/magic-item-purchase-complications-xge.md)
+![Magic Item Purchase Complications](Magic%20-%20Item%20Purchase%20Complications.md)

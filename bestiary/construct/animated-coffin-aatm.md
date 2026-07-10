@@ -28,7 +28,7 @@ Animated coffins are rarely empty. The Animated Coffin Contents table presents s
 | 1 | `1d4` swarm of bats |
 | 2 | `1d4` skeletons packed like sardines |
 | 3 | A groaning mummy |
-| 4 | A patch of [yellow mold](/traps-hazards/yellow-mold-xdmg.md) (see the "Dungeon Master's Guide") |
+| 4 | A patch of [yellow mold](Yellow%20%20%20mold%20xdmg.md) (see the "Dungeon Master's Guide") |
 | 5 | A slumbering vampire spawn |
 | 6 | A portal to the Path of Graves (detailed in Adventure Atlas: The Mortuary) |
 ^contents

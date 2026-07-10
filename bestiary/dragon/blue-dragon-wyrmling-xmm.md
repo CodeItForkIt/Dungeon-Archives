@@ -24,7 +24,7 @@ Blue dragon wyrmlings often serve other powerful creatures, learning the ways of
 *Dragons of Tyranny and Tempests*
 
 - **Habitat.** Desert  
-- **Treasure.** [Relics](/tables/random-magic-items-relics.md)  
+- **Treasure.** [Relics](Random%20-%20Magic%20Items%20Relics.md)  
 
 Arrogant and imperious, blue dragons are chromatic dragons that crave control and collect followers like other dragons hoard treasure. They seek to transform their territories into empires, domains to be feared by nations.
 

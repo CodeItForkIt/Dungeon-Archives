@@ -23,7 +23,7 @@ Scout captains are experienced explorers and sharpshooters. They might lead band
 *Watchers and Wanderers*
 
 - **Habitat.** Any  
-- **Treasure.** [Implements](/tables/random-magic-items-implements.md), Individual  
+- **Treasure.** [Implements](Random%20-%20Magic%20Items%20Implements.md), Individual  
 
 Scouts are warriors of the wilderness, trained in hunting and tracking. They might be explorers or trappers, or they could perform more martial roles as archers, bounty hunters, or outriders.
 

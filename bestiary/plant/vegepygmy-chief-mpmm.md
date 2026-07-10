@@ -17,7 +17,7 @@ aliases:
 # [Vegepygmy Chief](/bestiary/plant/vegepygmy-chief-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 253, Volo's Guide to Monsters p. 197*  
 
-As a [vegepygmy](/bestiary/plant/vegepygmy-mpmm.md) ages, it grows tougher and develops spore clusters on its body. Other vegepygmies defer to these so-called chiefs. A chief can expel its spores in a burst, infecting nearby creatures. If a creature dies while infected, its corpse produces vegepygmies the same way [russet mold](/traps-hazards/russet-mold-vgm.md) does.
+As a [vegepygmy](/bestiary/plant/vegepygmy-mpmm.md) ages, it grows tougher and develops spore clusters on its body. Other vegepygmies defer to these so-called chiefs. A chief can expel its spores in a burst, infecting nearby creatures. If a creature dies while infected, its corpse produces vegepygmies the same way [russet mold](Russet%20%20%20mold%20vgm.md) does.
 
 ## Vegepygmies
 

@@ -319,7 +319,7 @@ Tucked in Dead-Eye's vest is a pouch containing 32 gp and 15 sp. He also wears t
 
 Dead-Eye's ship, the *Uncivil Serpent*, is moored at the end of a dock on the east side of the harbor. Eleven [bandits](/bestiary/humanoid/bandit-xmm.md) guard it, and no treasure is kept aboard. If the characters dispose of all the pirates, the ship is theirs for the taking, though it requires a crew of twenty to sail, and half or more of the crew must have proficiency with water vehicles.
 
-The *Uncivil Serpent* has the statistics of a sailing ship (see [chapter 5](/tables/owning-a-ship-airborne-and-waterborne-vehicles.md) of the "Dungeon Master's Guide"). If you need a deck plan, use the ship map in "appendix C" of the "Dungeon Master's Guide". Although the ship is worth 10,000 gp intact, no one in Baldur's Gate wants to buy it because of its infamous reputation.
+The *Uncivil Serpent* has the statistics of a sailing ship (see [chapter 5](Owning%20-%20A%20Ship%20Airborne%20and%20Waterborne%20Vehicles.md) of the "Dungeon Master's Guide"). If you need a deck plan, use the ship map in "appendix C" of the "Dungeon Master's Guide". Although the ship is worth 10,000 gp intact, no one in Baldur's Gate wants to buy it because of its infamous reputation.
 
 ### What Tarina Knows
 
@@ -431,7 +431,7 @@ The humanoid entrails were left on the altar as an offering to the god of murder
 
 #### D8. Moldy Tapestry
 
-The back wall of this dry alcove is hung with a 5-foot-wide, 7-foot-tall tapestry. It depicts a grisly scene of four faceless figures ripping apart a fifth figure, who is screaming. Characters who inspect the tapestry without touching it notice yellow mold growing around its edges. In fact, a 5-foot-square patch of [yellow mold](/traps-hazards/yellow-mold-xdmg.md) (see [chapter 5 of the Dungeon Master's Guide](/traps-hazards/yellow-mold-xdmg.md)) clings to the back of the tapestry and releases its deadly spores if the tapestry is disturbed.
+The back wall of this dry alcove is hung with a 5-foot-wide, 7-foot-tall tapestry. It depicts a grisly scene of four faceless figures ripping apart a fifth figure, who is screaming. Characters who inspect the tapestry without touching it notice yellow mold growing around its edges. In fact, a 5-foot-square patch of [yellow mold](Yellow%20%20%20mold%20xdmg.md) (see [chapter 5 of the Dungeon Master's Guide](Yellow%20%20%20mold%20xdmg.md)) clings to the back of the tapestry and releases its deadly spores if the tapestry is disturbed.
 
 #### D9. The Dead Three Doors
 

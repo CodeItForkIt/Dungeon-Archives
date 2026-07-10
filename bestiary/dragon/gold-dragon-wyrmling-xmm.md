@@ -24,7 +24,7 @@ Gold dragon wyrmlings learn much from their elders, then head off to save the wo
 *Dragons of Hope and Majesty*
 
 - **Habitat.** Forest, Grassland  
-- **Treasure.** [Arcana](/tables/random-magic-items-arcana.md)  
+- **Treasure.** [Arcana](Random%20-%20Magic%20Items%20Arcana.md)  
 
 Gold dragons work to make the world a better place. The most powerful of the metallic dragons, these awe-inspiring dragons strive to protect that which is good and bend fate toward a brighter future. Their kind dispositions don't prevent gold dragons from engaging in combat when necessary, though, and they exhale brilliant flames and weakening magic to rout their foes.
 
