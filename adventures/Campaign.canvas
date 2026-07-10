@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"0ca5cc7eadfe1c76","type":"group","x":-1040,"y":-1080,"width":8000,"height":1520,"label":"Baldur's Gate: Descent into Avernus "},
-		{"id":"53564319f90f36c9","type":"group","x":3180,"y":-1020,"width":2140,"height":1460,"label":"Chapter 3: Avernus"},
+		{"id":"53564319f90f36c9","type":"group","x":3180,"y":-1020,"width":3300,"height":1460,"label":"Chapter 3: Avernus"},
 		{"id":"b6c2da36548f914d","type":"group","x":1740,"y":-1020,"width":1350,"height":1460,"label":"Chapter 2: Elturel has Fallen"},
 		{"id":"4f4f24243b7eab64","type":"group","x":-1040,"y":-1020,"width":2710,"height":1460,"label":"Chapter 1: A Tale of Two Cities"},
 		{"id":"9e02c221241941b2","type":"text","text":"## [[02-chapter-1-a-tale-of-two-cities#The Basilisk Gate|The Basilisk Gate]]\n*For characters of level 1*\nShortly after their arrival at the Basilisk Gate, the adventurers are drafted by a Flaming Fist captain and instructed to seek out and destroy Dead Three followers responsible for a murder spree.","x":-1036,"y":-971,"width":250,"height":190},
@@ -23,8 +23,13 @@
 		{"id":"a1432ca40dc32755","type":"file","file":"adventures/baldurs-gate-descent-into-avernus/03-chapter-2-elturel-has-fallen.md","x":1740,"y":-744,"width":1350,"height":1184},
 		{"id":"63cbd2adca9d230f","type":"text","text":"## [[03-chapter-2-elturel-has-fallen#High Hall|High Hall]]\n*For characters of level 5*\nThe adventurers encounter fiendish invaders in the High Hall cathedral and discover survivors hiding in the crypts below the cathedral. ","x":2140,"y":-975,"width":280,"height":187},
 		{"id":"1677e880e76c4dea","type":"text","text":"## [[04-chapter-3-avernus#Hellwasp Nest|Hellwasp Nest]]\n*For characters of level 7*\nAfter a hellwasp attack atop Haruman’s Hill, the adventurers must rescue Lulu when she is abducted and taken to a nearby hellwasp nest.","x":4340,"y":-1003,"width":250,"height":217},
-		{"id":"e23c0d64d933fb97","x":4800,"y":-895,"width":250,"height":252,"type":"text","text":"## [[05-chapter-3-avernus-path-of-demons|Path of Demons]]\n*For characters of levels 8-10*\nIf the adventurers choose this path to finding the Sword of Zariel, a series of encounters leads them to the demon lord Kostchtchie and a showdown with Olanthius, a fallen Hellrider.\n"},
-		{"id":"772e3cf2bd4d5730","x":4800,"y":-560,"width":250,"height":140,"type":"text","text":"## [[06-chapter-3-avernus-path-of-devils|Path of Devils]]\n*For characters of levels 8-10*\nIf the adventurers choose this path to finding the Sword of Zariel, a series of encounters leads them to Bel, the pit fiend who ruled Avernus before Zariel "}
+		{"id":"e23c0d64d933fb97","x":4800,"y":-1020,"width":250,"height":252,"type":"text","text":"## [[05-chapter-3-avernus-path-of-demons|Path of Demons]]\n*For characters of levels 8-10*\nIf the adventurers choose this path to finding the Sword of Zariel, a series of encounters leads them to the demon lord Kostchtchie and a showdown with Olanthius, a fallen Hellrider.\n"},
+		{"id":"772e3cf2bd4d5730","x":4740,"y":-220,"width":250,"height":270,"type":"text","text":"## [[06-chapter-3-avernus-path-of-devils|Path of Devils]]\n*For characters of levels 8-10*\nIf the adventurers choose this path to finding the Sword of Zariel, a series of encounters leads them to Bel, the pit fiend who ruled Avernus before Zariel unseated him. Bel helps them for a price."},
+		{"id":"efb58a159ebd216a","x":4790,"y":-744,"width":1690,"height":400,"type":"file","file":"adventures/baldurs-gate-descent-into-avernus/05-chapter-3-avernus-path-of-demons.md"},
+		{"id":"8513ff9e28a5312d","x":5140,"y":-984,"width":250,"height":180,"type":"text","text":"## [[05-chapter-3-avernus-path-of-demons#Spawning Trees|Spawning Trees]]\n*For characters of level 8*\n\"Demons beget demons. Where their filth lands, they spawn even more corruption.\""},
+		{"id":"7823563ae2b9745a","x":5460,"y":-984,"width":250,"height":180,"type":"text","text":"## [[05-chapter-3-avernus-path-of-demons#Tower of Urm|Tower of Urm]]\n*For characters of level 8*\n\"A tower tumbles between planes on the whims of a mad mage. Where it goes next, nobody knows.\""},
+		{"id":"20a9b3c9e64bd790","type":"text","text":"## [[05-chapter-3-avernus-path-of-demons#Obelisk|Obelisk]]\n*For characters of level 8*\n\"An unknown man with unknown purpose. Assist him at your peril, lest he drag you into madness.\"","x":5780,"y":-984,"width":250,"height":180},
+		{"id":"b2f0c4696b1c7d9b","type":"text","text":"## [[05-chapter-3-avernus-path-of-demons#Mirror of Mephistar|Mirror of Mephistar]]\n*For characters of level 8*\n\"A tower tumbles between planes on the whims of a mad mage. Where it goes next, nobody knows.\"","x":6100,"y":-984,"width":250,"height":180}
 	],
 	"edges":[
 		{"id":"22b15d0d15a48928","fromNode":"9e02c221241941b2","fromSide":"right","toNode":"f5b927e1b4aab8e7","toSide":"left"},
@@ -41,6 +46,11 @@
 		{"id":"c4e42f9a812f5c67","fromNode":"b6c2da36548f914d","fromSide":"right","toNode":"53564319f90f36c9","toSide":"left","color":"1"},
 		{"id":"3ab438e3edad8c8e","fromNode":"3c3056854f0f6da7","fromSide":"right","toNode":"3e858c431e361c74","toSide":"left"},
 		{"id":"5e8491dd8b501a46","fromNode":"3e858c431e361c74","fromSide":"right","toNode":"b357b5c2fc59d0a8","toSide":"left"},
-		{"id":"1866a27ec55d5b17","fromNode":"b357b5c2fc59d0a8","fromSide":"right","toNode":"1677e880e76c4dea","toSide":"left"}
+		{"id":"1866a27ec55d5b17","fromNode":"b357b5c2fc59d0a8","fromSide":"right","toNode":"1677e880e76c4dea","toSide":"left"},
+		{"id":"6dae21b69048e722","fromNode":"1677e880e76c4dea","fromSide":"right","toNode":"e23c0d64d933fb97","toSide":"left","color":"1"},
+		{"id":"55a755df72c24845","fromNode":"1677e880e76c4dea","fromSide":"right","toNode":"772e3cf2bd4d5730","toSide":"left","color":"1"},
+		{"id":"ec08cac311aca79b","fromNode":"e23c0d64d933fb97","fromSide":"right","toNode":"8513ff9e28a5312d","toSide":"left"},
+		{"id":"de62f50af3afc67a","fromNode":"8513ff9e28a5312d","fromSide":"right","toNode":"7823563ae2b9745a","toSide":"left"},
+		{"id":"dd6c94797d5e5c51","fromNode":"7823563ae2b9745a","fromSide":"right","toNode":"20a9b3c9e64bd790","toSide":"left"}
 	]
 }
