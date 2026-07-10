@@ -15,8 +15,8 @@
               "state": {
                 "file": "adventures/Campaign.canvas",
                 "viewState": {
-                  "x": 301.9998492042686,
-                  "y": -44.65217580035632,
+                  "x": 3573.3301452036108,
+                  "y": -794.1437933441958,
                   "zoom": -0.6624068659884795
                 }
               },
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/baldurs-gate-descent-into-avernus/02-chapter-1-a-tale-of-two-cities.md",
+                "file": "adventures/baldurs-gate-descent-into-avernus/04-chapter-3-avernus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 02-chapter-1-a-tale-of-two-cities"
+              "title": "Backlinks for 04-chapter-3-avernus"
             }
           },
           {
@@ -207,8 +207,8 @@
   },
   "active": "6e6a0a0b39ed94d8",
   "lastOpenFiles": [
-    "adventures/baldurs-gate-descent-into-avernus/03-chapter-2-elturel-has-fallen.md",
     "adventures/Campaign.canvas",
+    "adventures/baldurs-gate-descent-into-avernus/03-chapter-2-elturel-has-fallen.md",
     "classes/bard-xphb/bard-xphb-college-of-spirits-rhw.md",
     "adventures/baldurs-gate-descent-into-avernus/baldurs-gate-descent-into-avernus.md",
     "adventures/baldurs-gate-descent-into-avernus/02-chapter-1-a-tale-of-two-cities.md",
@@ -235,7 +235,6 @@
     "races/plasmoid-aag.md",
     "races/owlin-scc.md",
     "races/kuo-toa-dmg.md",
-    "races/halfling-xphb.md",
     "Tags",
     "Characters/DnD_2024_Character-Sheet.markers.json",
     "Characters/DnD_2024_Character-Sheet.pdf",
