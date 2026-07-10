@@ -18,7 +18,10 @@
 		{"id":"378d0e78a45db807","type":"text","text":"## [[03-chapter-2-elturel-has-fallen#Grand Cemetery|Grand Cemetery]]\n*For characters of level 6*\nThe adventurers search for Grand Duke Ulder Ravengard of Baldur’s Gate in Elturel's cemetery, encountering undead and more fiends.","x":2520,"y":-978,"width":250,"height":193},
 		{"id":"0932262a55d8e8ce","type":"text","text":"## [[03-chapter-2-elturel-has-fallen#Escaping the Siege|Escaping the Siege]]\n*For characters of level 6*\nAfter bringing Ulder Ravengard back to the High Hall and restoring him to consciousness, the adventurers make plans to leave Elturel in search of the key to saving the city: the *Sword of Zariel*","x":2840,"y":-1011,"width":250,"height":260},
 		{"id":"03950c3ca3c0d415","type":"text","text":"## [[02-chapter-1-a-tale-of-two-cities#Vanthampur Villa|Vanthampur Villa]]\n*For characters of level 3*\nArmed with evidence that Duke Vanthampur is a clear and present danger to Baldur's Gate, the adventurers attack her villa and acquire an *infernal puzzle box* from the last of her three sons.","x":740,"y":-1005,"width":250,"height":261},
-		{"id":"6a893ef258903ba5","type":"file","file":"adventures/baldurs-gate-descent-into-avernus/04-chapter-3-avernus.md","x":3180,"y":-744,"width":1680,"height":1184}
+		{"id":"6a893ef258903ba5","type":"file","file":"adventures/baldurs-gate-descent-into-avernus/04-chapter-3-avernus.md","x":3180,"y":-744,"width":1680,"height":1184},
+		{"id":"3c3056854f0f6da7","x":3180,"y":-1005,"width":340,"height":220,"type":"text","text":"## [[04-chapter-3-avernus#Fort Knucklebone|Fort Knucklebone]]\n*For characters of level 7*\nThe adventurers question Chukka and Clonk, a pair of kenku junk scavengers. A night hag named Mad Maggie runs this outpost, overseeing the construction and repair of infernal war machines."},
+		{"id":"3e858c431e361c74","x":3580,"y":-1005,"width":300,"height":220,"type":"text","text":"## [[04-chapter-3-avernus#Haruman's Hill|Haruman's Hill]]\n*For characters of level 7*\nAfter Mad Maggie helps restore some of Lulu's memories, the hollyphant leads the adventurers to where she thinks the Bleeding Citadel is, but ends up at Haruman's Hill, a place of great evil."},
+		{"id":"b357b5c2fc59d0a8","x":3920,"y":-1005,"width":320,"height":220,"type":"text","text":"## [[04-chapter-3-avernus#Th|Fort Knucklebone]]"}
 	],
 	"edges":[
 		{"id":"22b15d0d15a48928","fromNode":"9e02c221241941b2","fromSide":"right","toNode":"f5b927e1b4aab8e7","toSide":"left"},
@@ -32,6 +35,7 @@
 		{"id":"290ebf49107a7b5f","fromNode":"08dc533ff3cadfa4","fromSide":"right","toNode":"fc3084df10e0469d","toSide":"left"},
 		{"id":"40b362a7e6d80cdd","fromNode":"63cbd2adca9d230f","fromSide":"right","toNode":"378d0e78a45db807","toSide":"left","color":"1"},
 		{"id":"18aa8560e708c365","fromNode":"378d0e78a45db807","fromSide":"right","toNode":"0932262a55d8e8ce","toSide":"left"},
-		{"id":"c4e42f9a812f5c67","fromNode":"b6c2da36548f914d","fromSide":"right","toNode":"53564319f90f36c9","toSide":"left"}
+		{"id":"c4e42f9a812f5c67","fromNode":"b6c2da36548f914d","fromSide":"right","toNode":"53564319f90f36c9","toSide":"left","color":"1"},
+		{"id":"3ab438e3edad8c8e","fromNode":"3c3056854f0f6da7","fromSide":"right","toNode":"3e858c431e361c74","toSide":"left"}
 	]
 }
