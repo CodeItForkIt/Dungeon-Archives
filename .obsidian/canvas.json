@@ -2,5 +2,5 @@
   "snapToObjects": true,
   "snapToGrid": true,
   "cardLabelVisibility": "always",
-  "zoomBreakpoint": 0.31
+  "zoomBreakpoint": 0
 }
