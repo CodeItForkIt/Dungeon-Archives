@@ -15,9 +15,9 @@
               "state": {
                 "file": "adventures/Campaign.canvas",
                 "viewState": {
-                  "x": 3332.703597682901,
-                  "y": -199.52090328664684,
-                  "zoom": -2.612267359142337
+                  "x": 6774.376967338551,
+                  "y": -639.9816615590753,
+                  "zoom": -0.4411892662667934
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -207,13 +207,17 @@
   },
   "active": "6e6a0a0b39ed94d8",
   "lastOpenFiles": [
-    "adventures/baldurs-gate-descent-into-avernus/05-chapter-3-avernus-path-of-demons.md",
+    "adventures/vecna-eve-of-ruin/01-introduction-danger-to-the-multiverse.md",
+    "Untitled.md",
+    "adventures/vecna-eve-of-ruin/vecna-eve-of-ruin.md",
+    "adventures/baldurs-gate-descent-into-avernus/01-about-the-adventure.md",
+    "adventures/baldurs-gate-descent-into-avernus/baldurs-gate-descent-into-avernus.md",
     "adventures/Campaign.canvas",
+    "adventures/baldurs-gate-descent-into-avernus/05-chapter-3-avernus-path-of-demons.md",
     "adventures/baldurs-gate-descent-into-avernus/04-chapter-3-avernus.md",
     "adventures/baldurs-gate-descent-into-avernus/07-chapter-3-avernus-other-locations.md",
     "adventures/baldurs-gate-descent-into-avernus/03-chapter-2-elturel-has-fallen.md",
     "classes/bard-xphb/bard-xphb-college-of-spirits-rhw.md",
-    "adventures/baldurs-gate-descent-into-avernus/baldurs-gate-descent-into-avernus.md",
     "adventures/baldurs-gate-descent-into-avernus/02-chapter-1-a-tale-of-two-cities.md",
     "adventures/Drawing 2026-07-10 12.50.07.excalidraw.md",
     "items/whip-xphb.md",
@@ -231,11 +235,7 @@
     "classes/barbarian-xphb/barbarian-xphb.md",
     "tables/Tables.md",
     "Traps Hazards/Traps hazards.md",
-    "vehicles/Vehicles.md",
     "Scripts",
-    "bestiary/plant/aartuk-weedling-bam.md",
-    "races/reborn-rhw.md",
-    "races/plasmoid-aag.md",
     "Tags",
     "Characters/DnD_2024_Character-Sheet.markers.json",
     "Characters/DnD_2024_Character-Sheet.pdf",
