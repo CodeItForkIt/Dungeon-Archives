@@ -13,5 +13,7 @@
   "editing-toolbar",
   "obsidian-icon-folder",
   "quickadd",
-  "obsidian-git"
+  "obsidian-git",
+  "frontmatter-alias-display",
+  "obsidian-front-matter-title-plugin"
 ]
