@@ -120,7 +120,11 @@
     }
   },
   "processor": {
-    "args": [],
-    "type": "functionV2"
+    "args": [
+      "",
+      "",
+      ""
+    ],
+    "type": "replace"
   }
 }
