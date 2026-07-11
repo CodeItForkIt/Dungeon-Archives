@@ -15,9 +15,9 @@
               "state": {
                 "file": "adventures/Campaign.canvas",
                 "viewState": {
-                  "x": 6774.376967338551,
-                  "y": -639.9816615590753,
-                  "zoom": -0.4411892662667934
+                  "x": 3508.3568279530564,
+                  "y": -538.5620457042845,
+                  "zoom": -0.4681418812323882
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5,
-    "collapsed": true
+    "width": 571.5
   },
   "right": {
     "id": "c32b21a94496f5bb",
@@ -207,12 +206,18 @@
   },
   "active": "6e6a0a0b39ed94d8",
   "lastOpenFiles": [
+    "adventures/vecna-nest-of-the-eldritch-eye/1-vecna-nest-of-the-eldritch-eye.md",
+    "classes/bard-xphb/bard-xphb-college-of-valor-xphb.md",
+    "classes/artificer-efa/artificer-artillerist-efa.md",
+    "adventures/baldurs-gate-descent-into-avernus/01-about-the-adventure.md",
+    "classes/barbarian-xphb/barbarian-xphb-path-of-the-giant-bgg.md",
+    "classes/barbarian-xphb/barbarian-xphb-path-of-the-storm-herald-xge.md",
+    "classes/artificer-efa/artificer-efa.md",
+    "adventures/Campaign.canvas",
     "adventures/vecna-eve-of-ruin/01-introduction-danger-to-the-multiverse.md",
     "Untitled.md",
     "adventures/vecna-eve-of-ruin/vecna-eve-of-ruin.md",
-    "adventures/baldurs-gate-descent-into-avernus/01-about-the-adventure.md",
     "adventures/baldurs-gate-descent-into-avernus/baldurs-gate-descent-into-avernus.md",
-    "adventures/Campaign.canvas",
     "adventures/baldurs-gate-descent-into-avernus/05-chapter-3-avernus-path-of-demons.md",
     "adventures/baldurs-gate-descent-into-avernus/04-chapter-3-avernus.md",
     "adventures/baldurs-gate-descent-into-avernus/07-chapter-3-avernus-other-locations.md",
@@ -229,12 +234,6 @@
     "bestiary/celestial/animal-lord-xmm.md",
     "bestiary/celestial/celestial.md",
     "Traps hazards/Burning.md",
-    "Traps hazards/Brown   mold xdmg.md",
-    "Traps hazards/Arcane   effluence nf.md",
-    "Traps hazards/Balance   and ruin.md",
-    "classes/barbarian-xphb/barbarian-xphb.md",
-    "tables/Tables.md",
-    "Traps Hazards/Traps hazards.md",
     "Scripts",
     "Tags",
     "Characters/DnD_2024_Character-Sheet.markers.json",
