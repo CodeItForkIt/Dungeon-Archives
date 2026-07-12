@@ -24,7 +24,6 @@
 		{"id":"63cbd2adca9d230f","type":"text","text":"## [[03-chapter-2-elturel-has-fallen#High Hall|High Hall]]\n*For characters of level 5*\nThe adventurers encounter fiendish invaders in the High Hall cathedral and discover survivors hiding in the crypts below the cathedral. ","x":2140,"y":-975,"width":280,"height":187},
 		{"id":"1677e880e76c4dea","type":"text","text":"## [[04-chapter-3-avernus#Hellwasp Nest|Hellwasp Nest]]\n*For characters of level 7*\nAfter a hellwasp attack atop Haruman’s Hill, the adventurers must rescue Lulu when she is abducted and taken to a nearby hellwasp nest.","x":4340,"y":-1003,"width":250,"height":217},
 		{"id":"e23c0d64d933fb97","type":"text","text":"## [[05-chapter-3-avernus-path-of-demons|Path of Demons]]\n*For characters of levels 8-10*\nIf the adventurers choose this path to finding the Sword of Zariel, a series of encounters leads them to the demon lord Kostchtchie and a showdown with Olanthius, a fallen Hellrider.\n","x":4800,"y":-1020,"width":250,"height":252},
-		{"id":"772e3cf2bd4d5730","type":"text","text":"## [[06-chapter-3-avernus-path-of-devils|Path of Devils]]\n*For characters of levels 8-10*\nIf the adventurers choose this path to finding the Sword of Zariel, a series of encounters leads them to Bel, the pit fiend who ruled Avernus before Zariel unseated him. Bel helps them for a price.","x":4740,"y":-220,"width":250,"height":270},
 		{"id":"efb58a159ebd216a","type":"file","file":"adventures/baldurs-gate-descent-into-avernus/05-chapter-3-avernus-path-of-demons.md","x":4790,"y":-744,"width":2870,"height":400},
 		{"id":"8513ff9e28a5312d","type":"text","text":"## [[05-chapter-3-avernus-path-of-demons#Spawning Trees|Spawning Trees]]\n*For characters of level 8*\n\"Demons beget demons. Where their filth lands, they spawn even more corruption.\"","x":5140,"y":-984,"width":250,"height":180},
 		{"id":"7823563ae2b9745a","type":"text","text":"## [[05-chapter-3-avernus-path-of-demons#Tower of Urm|Tower of Urm]]\n*For characters of level 8*\n\"A tower tumbles between planes on the whims of a mad mage. Where it goes next, nobody knows.\"","x":5460,"y":-984,"width":250,"height":180},
@@ -33,7 +32,9 @@
 		{"id":"bf6198b440264f13","type":"text","text":"## [[05-chapter-3-avernus-path-of-demons#Pit of Shummrath|Pit of Shummrath]]\n*For characters of level 8*\n\"Here you find a sticky situation. Poor Shummrath isn't the fiend it used to be.\"","x":6420,"y":-984,"width":250,"height":180},
 		{"id":"937c0b901c517de0","type":"text","text":"## [[05-chapter-3-avernus-path-of-demons#Crypt of the Hellriders|Crypt of the Hellriders]]\n*For characters of level 9*\n\"Zariel's fallen companions cannot rest. No one can in this nightmare hellscape.\"","x":6740,"y":-977,"width":250,"height":167},
 		{"id":"cda9b61bd887d749","x":7080,"y":-980,"width":260,"height":173,"type":"text","text":"## [[05-chapter-3-avernus-path-of-demons#Arches of Ulloch|Arches of Ulloch]]\n*For characters of level 9*\n\"Only fools step through Ulloch's gates. They lead to nowhere a wise person wants to go.\"\n"},
-		{"id":"536eeeb599f5ec6c","x":7380,"y":-980,"width":331,"height":163,"type":"text","text":"## [[05-chapter-3-avernus-path-of-demons#Kostchtchie's Maw|Kostchtchie's Maw]]\n\"The enemy of my enemy is my friends, but does the same hold true for fiends?\""}
+		{"id":"536eeeb599f5ec6c","x":7400,"y":-975,"width":260,"height":163,"type":"text","text":"## [[05-chapter-3-avernus-path-of-demons#Kostchtchie's Maw|Kostchtchie's Maw]]\n*For characters of level 10*\n\"The enemy of my enemy is my friends, but does the same hold true for fiends?\""},
+		{"id":"9074c91860df17ca","x":4740,"y":40,"width":2920,"height":400,"type":"file","file":"adventures/baldurs-gate-descent-into-avernus/06-chapter-3-avernus-path-of-devils.md"},
+		{"id":"772e3cf2bd4d5730","type":"text","text":"## [[06-chapter-3-avernus-path-of-devils|Path of Devils]]\n*For characters of levels 8-10*\nIf the adventurers choose this path to finding the Sword of Zariel, a series of encounters leads them to Bel, the pit fiend who ruled Avernus before Zariel unseated him. Bel helps them for a price.","x":4740,"y":-287,"width":250,"height":270}
 	],
 	"edges":[
 		{"id":"22b15d0d15a48928","fromNode":"9e02c221241941b2","fromSide":"right","toNode":"f5b927e1b4aab8e7","toSide":"left"},
@@ -59,6 +60,7 @@
 		{"id":"6bf973329858be5d","fromNode":"20a9b3c9e64bd790","fromSide":"right","toNode":"b2f0c4696b1c7d9b","toSide":"left"},
 		{"id":"1d54ea4176260e8f","fromNode":"b2f0c4696b1c7d9b","fromSide":"right","toNode":"bf6198b440264f13","toSide":"left"},
 		{"id":"6ce9d49f94b09ef9","fromNode":"bf6198b440264f13","fromSide":"right","toNode":"937c0b901c517de0","toSide":"left","color":"1"},
-		{"id":"240fd6d378c3505e","fromNode":"937c0b901c517de0","fromSide":"right","toNode":"cda9b61bd887d749","toSide":"left"}
+		{"id":"240fd6d378c3505e","fromNode":"937c0b901c517de0","fromSide":"right","toNode":"cda9b61bd887d749","toSide":"left"},
+		{"id":"4c55e3b3b51982cf","fromNode":"cda9b61bd887d749","fromSide":"right","toNode":"536eeeb599f5ec6c","toSide":"left","color":"1"}
 	]
 }
