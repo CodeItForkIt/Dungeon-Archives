@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/baldurs-gate-descent-into-avernus/01-about-the-adventure.md",
+                "file": "adventures/baldurs-gate-descent-into-avernus/02-chapter-1-a-tale-of-two-cities.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-about-the-adventure"
+              "title": "02-chapter-1-a-tale-of-two-cities"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/baldurs-gate-descent-into-avernus/01-about-the-adventure.md",
+                "file": "adventures/baldurs-gate-descent-into-avernus/02-chapter-1-a-tale-of-two-cities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 01-about-the-adventure"
+              "title": "Backlinks for 02-chapter-1-a-tale-of-two-cities"
             }
           },
           {
@@ -204,8 +204,8 @@
   },
   "active": "6e6a0a0b39ed94d8",
   "lastOpenFiles": [
-    "items/sword-of-zariel-bgdia.md",
     "adventures/baldurs-gate-descent-into-avernus/01-about-the-adventure.md",
+    "items/sword-of-zariel-bgdia.md",
     "adventures/Campaign.canvas",
     "bestiary/npc/mad-maggie-bgdia.md",
     "adventures/vecna-nest-of-the-eldritch-eye/1-vecna-nest-of-the-eldritch-eye.md",
