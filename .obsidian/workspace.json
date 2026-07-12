@@ -15,9 +15,9 @@
               "state": {
                 "file": "adventures/Campaign.canvas",
                 "viewState": {
-                  "x": 5762.142876619521,
-                  "y": -343.3174273971438,
-                  "zoom": -1.1704047917375227
+                  "x": 6817.903268374946,
+                  "y": -577.3597436279811,
+                  "zoom": -0.20040479173752238
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/Campaign.canvas",
+                "file": "adventures/baldurs-gate-descent-into-avernus/05-chapter-3-avernus-path-of-demons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Campaign"
+              "title": "Backlinks for 05-chapter-3-avernus-path-of-demons"
             }
           },
           {
