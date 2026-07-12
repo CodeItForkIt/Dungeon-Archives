@@ -15,8 +15,8 @@
               "state": {
                 "file": "adventures/Campaign.canvas",
                 "viewState": {
-                  "x": 6429.8724033622375,
-                  "y": -732.651884996347,
+                  "x": 5762.142876619521,
+                  "y": -343.3174273971438,
                   "zoom": -1.1704047917375227
                 }
               },
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 571.5
+    "width": 571.5,
+    "collapsed": true
   },
   "right": {
     "id": "c32b21a94496f5bb",
