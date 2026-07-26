@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spells/primal-savagery-xge.md",
+                "file": "spells/gust-xge.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "primal-savagery-xge"
+              "title": "gust-xge"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#spell/class/druid tag:#spell/level/cantrip  ",
+                "query": "tag:#spell/class/bard tag:#spell/level/cantrip  ",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spells/primal-savagery-xge.md",
+                "file": "spells/gust-xge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for primal-savagery-xge"
+              "title": "Backlinks for gust-xge"
             }
           },
           {
@@ -216,8 +216,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d67eabc5e25aca06",
+  "active": "a0c6f24da67d6893",
   "lastOpenFiles": [
+    "spells/shape-water-xge.md",
+    "spells/primal-savagery-xge.md",
     "spells/control-flames-xge.md",
     "lists/list-spells-classes-druid.md",
     "races/zombie-dmg.md",
@@ -243,8 +245,6 @@
     "Untitled.md",
     "adventures/vecna-eve-of-ruin/vecna-eve-of-ruin.md",
     "adventures/baldurs-gate-descent-into-avernus/baldurs-gate-descent-into-avernus.md",
-    "adventures/baldurs-gate-descent-into-avernus/05-chapter-3-avernus-path-of-demons.md",
-    "adventures/baldurs-gate-descent-into-avernus/04-chapter-3-avernus.md",
     "Clippings",
     "Scripts",
     "Tags",
