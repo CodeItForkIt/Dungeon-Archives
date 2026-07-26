@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "classes/bard-xphb/bard-xphb.md",
+                "file": "items/entertainers-pack-xphb.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bard-xphb"
+              "title": "entertainers-pack-xphb"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "classes/bard-xphb/bard-xphb.md",
+                "file": "items/entertainers-pack-xphb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for bard-xphb"
+              "title": "Backlinks for entertainers-pack-xphb"
             }
           },
           {
@@ -217,6 +217,7 @@
   },
   "active": "d67eabc5e25aca06",
   "lastOpenFiles": [
+    "classes/bard-xphb/bard-xphb.md",
     "spells/phantasmal-force-xphb.md",
     "spells/dragons-breath-xphb.md",
     "spells/death-armor-frhof.md",
@@ -234,7 +235,6 @@
     "lists/list-spells-classes-druid.md",
     "races/zombie-dmg.md",
     "classes/bard-xphb/bard-xphb-college-of-the-moon-frhof.md",
-    "classes/bard-xphb/bard-xphb.md",
     "backgrounds/spellfire-initiate-frhof.md",
     "feats/spellfire-spark-frhof.md",
     "races/races.md",
