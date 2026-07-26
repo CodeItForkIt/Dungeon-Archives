@@ -1,0 +1,11 @@
+---
+title: "Plodding Pace"
+type: "trait"
+module: "Cosmere RPG - Stormlight Handbook"
+category: "Uncommon"
+tags: ["cosmere-rpg", "cosmere-rpg-stormlight-handbook", "trait"]
+aliases: ["Plodding Pace"]
+---
+# Plodding Pace
+
+The Actor Name can only use the Move action once per turn.

@@ -1,0 +1,50 @@
+{
+  "nodes": [
+    {
+      "id": "YWxIJ1bB77zQtHcd",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher/Talents/Mistspren Bond/Mistspren Bond.md",
+      "x": 13200,
+      "y": 10666,
+      "width": 340,
+      "height": 160
+    },
+    {
+      "id": "AuTSqoLwPDowKl71",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Truthwatcher/Talents/First Ideal Truthwatcher.md",
+      "x": 12800,
+      "y": 4666,
+      "width": 340,
+      "height": 160
+    },
+    {
+      "id": "eE9bBd2xWXa9lOMz",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Illumination Talents/Illumination Talents.md",
+      "x": 666,
+      "y": 7333,
+      "width": 340,
+      "height": 160
+    },
+    {
+      "id": "FBPrduyxs1OxDGtZ",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Progression Talents/Progression Talents.md",
+      "x": 11200,
+      "y": 6666,
+      "width": 340,
+      "height": 160
+    },
+    {
+      "id": "banner",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg180_path_banner_Truthwatcher.webp",
+      "x": 666,
+      "y": 4426,
+      "width": 420,
+      "height": 200
+    }
+  ],
+  "edges": []
+}

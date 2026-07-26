@@ -1,0 +1,50 @@
+{
+  "nodes": [
+    {
+      "id": "CHVa9z4YqfoZEIEs",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Rousing Presence.md",
+      "x": 12740,
+      "y": 3500,
+      "width": 340,
+      "height": 160
+    },
+    {
+      "id": "8YM6bqpOlkSze3R9",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Diplomat/Diplomat.md",
+      "x": 12460,
+      "y": 10500,
+      "width": 340,
+      "height": 160
+    },
+    {
+      "id": "8MnLjxQqYEEaiEnj",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Faithful/Faithful.md",
+      "x": 15540,
+      "y": 9800,
+      "width": 340,
+      "height": 160
+    },
+    {
+      "id": "1PhkLQMXoYpR6Syd",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Envoy/Mentor/Mentor.md",
+      "x": 20720,
+      "y": 10500,
+      "width": 340,
+      "height": 160
+    },
+    {
+      "id": "banner",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/envoy.webp",
+      "x": 12460,
+      "y": 3260,
+      "width": 420,
+      "height": 200
+    }
+  ],
+  "edges": []
+}

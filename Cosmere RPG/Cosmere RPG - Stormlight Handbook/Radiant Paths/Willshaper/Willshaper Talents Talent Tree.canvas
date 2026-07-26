@@ -1,0 +1,50 @@
+{
+  "nodes": [
+    {
+      "id": "iQRQtvmrh4Efc2Vn",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Willshaper/Talents/Lightspren Bond/Lightspren Bond.md",
+      "x": 8560,
+      "y": 5600,
+      "width": 340,
+      "height": 160
+    },
+    {
+      "id": "392RYoOVjALabveh",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Willshaper/Talents/First Ideal Willshaper.md",
+      "x": 7920,
+      "y": 2000,
+      "width": 340,
+      "height": 160
+    },
+    {
+      "id": "kP5YyTn7bkCl7OZD",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Transportation Talents/Transportation Talents.md",
+      "x": 560,
+      "y": 2800,
+      "width": 340,
+      "height": 160
+    },
+    {
+      "id": "Q1ZhlGIRuR97bPri",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Cohesion Talents/Cohesion Talents.md",
+      "x": 6480,
+      "y": 3200,
+      "width": 340,
+      "height": 160
+    },
+    {
+      "id": "banner",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg190_path_banner_Willshaper.webp",
+      "x": 560,
+      "y": 1760,
+      "width": 420,
+      "height": 200
+    }
+  ],
+  "edges": []
+}

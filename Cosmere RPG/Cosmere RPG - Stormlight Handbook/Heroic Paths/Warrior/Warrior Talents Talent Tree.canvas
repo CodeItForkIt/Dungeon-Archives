@@ -1,0 +1,50 @@
+{
+  "nodes": [
+    {
+      "id": "ISq58XXTi2gHHRkM",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Duelist/Duelist.md",
+      "x": 4400,
+      "y": 3288,
+      "width": 340,
+      "height": 160
+    },
+    {
+      "id": "Nu68LCZaxQgHh7FQ",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Shardbearer/Shardbearer.md",
+      "x": 6044,
+      "y": 3288,
+      "width": 340,
+      "height": 160
+    },
+    {
+      "id": "U0D47gIrXRsNfKLJ",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Soldier/Soldier.md",
+      "x": 7466,
+      "y": 3288,
+      "width": 340,
+      "height": 160
+    },
+    {
+      "id": "uGM2wxEIa0E6ocW9",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Warrior/Vigilant Stance.md",
+      "x": 4800,
+      "y": 1111,
+      "width": 340,
+      "height": 160
+    },
+    {
+      "id": "banner",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/warrior.webp",
+      "x": 4400,
+      "y": 871,
+      "width": 420,
+      "height": 200
+    }
+  ],
+  "edges": []
+}

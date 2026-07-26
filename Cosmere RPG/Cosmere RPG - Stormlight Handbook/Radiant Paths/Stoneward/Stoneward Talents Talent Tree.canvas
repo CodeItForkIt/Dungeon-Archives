@@ -1,0 +1,50 @@
+{
+  "nodes": [
+    {
+      "id": "JFNvGWpFlqpP4gUd",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Stoneward/Talents/First Ideal Stoneward.md",
+      "x": 15820,
+      "y": 4900,
+      "width": 340,
+      "height": 160
+    },
+    {
+      "id": "eKmy5OwZEbWwK6Sl",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Radiant Paths/Stoneward/Talents/Peakspren Bond/Peakspren Bond.md",
+      "x": 15540,
+      "y": 11900,
+      "width": 340,
+      "height": 160
+    },
+    {
+      "id": "vL7VMUWQJf7lRJ6y",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Cohesion Talents/Cohesion Talents.md",
+      "x": 2100,
+      "y": 7000,
+      "width": 340,
+      "height": 160
+    },
+    {
+      "id": "PwMGAwHW4RkjXkCV",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Surges/Tension Talents/Tension Talents.md",
+      "x": 16240,
+      "y": 7700,
+      "width": 340,
+      "height": 160
+    },
+    {
+      "id": "banner",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/attachments/pg172_path_banner_Stoneward.webp",
+      "x": 2100,
+      "y": 4660,
+      "width": 420,
+      "height": 200
+    }
+  ],
+  "edges": []
+}

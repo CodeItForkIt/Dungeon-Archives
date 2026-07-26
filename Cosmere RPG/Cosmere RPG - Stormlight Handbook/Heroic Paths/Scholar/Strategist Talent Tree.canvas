@@ -1,0 +1,120 @@
+{
+  "nodes": [
+    {
+      "id": "vEOwttuJbqFPhC4Q",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Strategist/Talents/Strategize.md",
+      "x": -1400,
+      "y": -1000,
+      "width": 340,
+      "height": 160
+    },
+    {
+      "id": "okXns8O0iM1NQMUu",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Strategist/Talents/Mind and Body.md",
+      "x": -1000,
+      "y": -1000,
+      "width": 340,
+      "height": 160
+    },
+    {
+      "id": "LOxcjnKcFnXVFIhe",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Strategist/Talents/Know Your Moment.md",
+      "x": -1000,
+      "y": -600,
+      "width": 340,
+      "height": 160
+    },
+    {
+      "id": "llSOwSrMFjFJzlqF",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Strategist/Talents/Composed.md",
+      "x": -1400,
+      "y": -600,
+      "width": 340,
+      "height": 160
+    },
+    {
+      "id": "vJIYCJ1pBRCOutzE",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Strategist/Talents/Deep Contemplation.md",
+      "x": -1000,
+      "y": -200,
+      "width": 340,
+      "height": 160
+    },
+    {
+      "id": "N8UN2HRNLOHExl3Z",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Strategist/Talents/Keen Insight.md",
+      "x": -1000,
+      "y": 200,
+      "width": 340,
+      "height": 160
+    },
+    {
+      "id": "ToRtUKr4OFQkTcZN",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Strategist/Talents/Contingency.md",
+      "x": -1400,
+      "y": -200,
+      "width": 340,
+      "height": 160
+    },
+    {
+      "id": "ggMht3w3W2xkuj6I",
+      "type": "file",
+      "file": "Cosmere RPG/Cosmere RPG - Stormlight Handbook/Heroic Paths/Scholar/Strategist/Talents/Turning Point.md",
+      "x": -1400,
+      "y": 200,
+      "width": 340,
+      "height": 160
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0",
+      "fromNode": "okXns8O0iM1NQMUu",
+      "fromSide": "right",
+      "toNode": "LOxcjnKcFnXVFIhe",
+      "toSide": "left"
+    },
+    {
+      "id": "edge1",
+      "fromNode": "vEOwttuJbqFPhC4Q",
+      "fromSide": "right",
+      "toNode": "llSOwSrMFjFJzlqF",
+      "toSide": "left"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "llSOwSrMFjFJzlqF",
+      "fromSide": "right",
+      "toNode": "vJIYCJ1pBRCOutzE",
+      "toSide": "left"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "vJIYCJ1pBRCOutzE",
+      "fromSide": "right",
+      "toNode": "N8UN2HRNLOHExl3Z",
+      "toSide": "left"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "llSOwSrMFjFJzlqF",
+      "fromSide": "right",
+      "toNode": "ToRtUKr4OFQkTcZN",
+      "toSide": "left"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "ToRtUKr4OFQkTcZN",
+      "fromSide": "right",
+      "toNode": "ggMht3w3W2xkuj6I",
+      "toSide": "left"
+    }
+  ]
+}
