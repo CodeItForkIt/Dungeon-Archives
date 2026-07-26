@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spells/dragons-breath-xphb.md",
+                "file": "spells/phantasmal-force-xphb.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dragons-breath-xphb"
+              "title": "phantasmal-force-xphb"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spells/dragons-breath-xphb.md",
+                "file": "spells/phantasmal-force-xphb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for dragons-breath-xphb"
+              "title": "Backlinks for phantasmal-force-xphb"
             }
           },
           {
@@ -218,6 +218,7 @@
   },
   "active": "d67eabc5e25aca06",
   "lastOpenFiles": [
+    "spells/dragons-breath-xphb.md",
     "spells/death-armor-frhof.md",
     "spells/chromatic-orb-xphb.md",
     "spells/blade-ward-xphb.md",
@@ -244,7 +245,6 @@
     "items/sword-of-zariel-bgdia.md",
     "adventures/Campaign.canvas",
     "bestiary/npc/mad-maggie-bgdia.md",
-    "adventures/vecna-nest-of-the-eldritch-eye/1-vecna-nest-of-the-eldritch-eye.md",
     "Clippings",
     "Scripts",
     "Tags",
