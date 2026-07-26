@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backgrounds/spellfire-initiate-frhof.md",
+                "file": "classes/bard-xphb/bard-xphb-college-of-the-moon-frhof.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "spellfire-initiate-frhof"
+              "title": "bard-xphb-college-of-the-moon-frhof"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backgrounds/spellfire-initiate-frhof.md",
+                "file": "classes/bard-xphb/bard-xphb-college-of-the-moon-frhof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for spellfire-initiate-frhof"
+              "title": "Backlinks for bard-xphb-college-of-the-moon-frhof"
             }
           },
           {
@@ -219,9 +219,9 @@
   },
   "active": "45e812c6733d16ac",
   "lastOpenFiles": [
-    "feats/spellfire-spark-frhof.md",
-    "backgrounds/spellfire-initiate-frhof.md",
     "classes/bard-xphb/bard-xphb.md",
+    "backgrounds/spellfire-initiate-frhof.md",
+    "feats/spellfire-spark-frhof.md",
     "races/races.md",
     "races/satyr-mpmm.md",
     "races/zombie-dmg.md",
