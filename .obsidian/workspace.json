@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spells/blade-ward-xphb.md",
+                "file": "spells/dragons-breath-xphb.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "blade-ward-xphb"
+              "title": "dragons-breath-xphb"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#spell/class/bard tag:#spell/level/1st-level  ",
+                "query": "tag:#spell/class/bard tag:#spell/level/2nd-level  ",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spells/blade-ward-xphb.md",
+                "file": "spells/dragons-breath-xphb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for blade-ward-xphb"
+              "title": "Backlinks for dragons-breath-xphb"
             }
           },
           {
@@ -216,8 +216,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0c6f24da67d6893",
+  "active": "d67eabc5e25aca06",
   "lastOpenFiles": [
+    "spells/death-armor-frhof.md",
+    "spells/chromatic-orb-xphb.md",
+    "spells/blade-ward-xphb.md",
     "spells/true-strike-xphb.md",
     "spells/dancing-lights-xphb.md",
     "spells/thunderclap-xphb.md",
@@ -242,9 +245,6 @@
     "adventures/Campaign.canvas",
     "bestiary/npc/mad-maggie-bgdia.md",
     "adventures/vecna-nest-of-the-eldritch-eye/1-vecna-nest-of-the-eldritch-eye.md",
-    "classes/bard-xphb/bard-xphb-college-of-valor-xphb.md",
-    "classes/artificer-efa/artificer-artillerist-efa.md",
-    "classes/barbarian-xphb/barbarian-xphb-path-of-the-giant-bgg.md",
     "Clippings",
     "Scripts",
     "Tags",
