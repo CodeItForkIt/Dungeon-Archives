@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "classes/bard-xphb/bard-xphb.md",
+                "file": "backgrounds/spellfire-initiate-frhof.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bard-xphb"
+              "title": "spellfire-initiate-frhof"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "classes/bard-xphb/bard-xphb.md",
+                "file": "backgrounds/spellfire-initiate-frhof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for bard-xphb"
+              "title": "Backlinks for spellfire-initiate-frhof"
             }
           },
           {
@@ -219,6 +219,7 @@
   },
   "active": "45e812c6733d16ac",
   "lastOpenFiles": [
+    "classes/bard-xphb/bard-xphb.md",
     "races/races.md",
     "races/satyr-mpmm.md",
     "races/zombie-dmg.md",
@@ -245,7 +246,6 @@
     "classes/bard-xphb/bard-xphb-college-of-spirits-rhw.md",
     "adventures/Drawing 2026-07-10 12.50.07.excalidraw.md",
     "items/whip-xphb.md",
-    "items/shortbow-xphb.md",
     "Clippings",
     "Scripts",
     "Tags",
