@@ -9,7 +9,7 @@ aliases:
 - "Bladesinger"
 ---
 # Bladesinger
-*[Alternate Wizard](./alternate-wizard-llawiz.md): Arcane Tradition*  
+*[Alternate Wizard](alternate-wizard-llawiz.md): Arcane Tradition*  
 *Source: Alternate Wizard*  
 
 > [!tldr] Class and Feature Progression

@@ -17,7 +17,7 @@ As an action, you invoke this most powerful and ancient Rite and force one creat
 
 Any creature that you have dealt damage to since the start of your previous turn has disadvantage on this saving throw.
 
-Once your invoke this Blood Rite you must finish a short or long rest before you can invoke it again. You cannot make a [Vital Sacrifice](/classes/alternate-blood-hunter-llabh.md#Vital%20Sacrifice%20(Level%202)) to circumvent this once per rest restriction.
+Once your invoke this Blood Rite you must finish a short or long rest before you can invoke it again. You cannot make a [Vital Sacrifice](alternate-blood-hunter-llabh.md#Vital%20Sacrifice%20(Level%202)) to circumvent this once per rest restriction.
 
 ## Empowered Exsanguination
 

@@ -17,7 +17,7 @@ As an action, you invoke this most powerful and ancient Rite and draw blood towa
 
 Creatures you have damaged since the beginning of your previous turn have disadvantage on this saving throw.
 
-You can only invoke this Rite once per short or long rest. You cannot circumvent this restriction with a [Vital Sacrifice](/classes/alternate-blood-hunter-llabh.md#Vital%20Sacrifice%20(Level%202)).
+You can only invoke this Rite once per short or long rest. You cannot circumvent this restriction with a [Vital Sacrifice](alternate-blood-hunter-llabh.md#Vital%20Sacrifice%20(Level%202)).
 
 ## Empowered Reaping
 

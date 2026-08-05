@@ -19,4 +19,4 @@ This Rune imbues the overwhelming might of the Hill Giants. This Rune's wielder 
 
 As a bonus action, you Invoke this Rune and gain resistance to all bludgeoning, piercing, and slashing damage for 1 minute. This effect ends early if you are [Incapacitated](/rules/conditions.md#Incapacitated).
 
-You can Invoke this Rune as part of using [Runic Might](/classes/alternate-fighter-runecarver-llaf.md#Runic%20Might%20(Level%203)).
+You can Invoke this Rune as part of using [Runic Might](alternate-fighter-runecarver-llaf.md#Runic%20Might%20(Level%203)).

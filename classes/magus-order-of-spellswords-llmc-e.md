@@ -58,7 +58,7 @@ The Spellsword Exploits table shows how many Exploit Dice you have to use your E
 
 **High Degree.** Your Magus level limits the technicality of Exploits you are able to learn and use. This limit is reflected in the High Degree column of the Spellsword Exploits table.
 
-**Exploits.** You learn two Martial Exploits of your choice from those available to the [Alternate Fighter](/classes/alternate-fighter-llaf.md). You can only use a single Exploit per ability check, attack, or saving throw, and you can't use an Exploit and Spellstrike at the same time.
+**Exploits.** You learn two Martial Exploits of your choice from those available to the [Alternate Fighter](alternate-fighter-llaf.md). You can only use a single Exploit per ability check, attack, or saving throw, and you can't use an Exploit and Spellstrike at the same time.
 
 When you gain a Magus level, you can replace one Exploit you know with another Martial Exploit of your choice.
 
