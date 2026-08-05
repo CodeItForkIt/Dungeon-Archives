@@ -87,7 +87,7 @@ Also, you can cause your Ranger's Quarry damage, or any damage you deal with a R
 
 > [!note] Sword, Sorcery, and Dragons!
 > 
-> Interested in playing a true dragon rider? Check out the [Order of Scales](/classes/magus-order-of-dragon-knights-llmc.md) for the Magus Class ^[class/LaserLlama; Magus Class.json], the arcane half-caster companion to the Paladin and Ranger!
+> Interested in playing a true dragon rider? Check out the [Order of Scales](magus-order-of-dragon-knights-llmc.md) for the Magus Class ^[class/LaserLlama; Magus Class.json], the arcane half-caster companion to the Paladin and Ranger!
 ^sword-sorcery-and-dragons
 
 ### Greater Companion (Level 7)

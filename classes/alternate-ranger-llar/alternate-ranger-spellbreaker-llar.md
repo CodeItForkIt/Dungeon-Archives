@@ -75,7 +75,7 @@ If your Quarry is hidden from divination magic, such as by a [nondetection](/spe
 
 > [!note] Arcane Spellbreaker
 > 
-> Looking for a more dedicated mage hunter? Check out the [Order of Spellbreakers](/classes/magus-order-of-spellbreakers-llmc.md) for the Magus Class ^[class/LaserLlama; Magus Class.json].
+> Looking for a more dedicated mage hunter? Check out the [Order of Spellbreakers](magus-order-of-spellbreakers-llmc.md) for the Magus Class ^[class/LaserLlama; Magus Class.json].
 > 
 > The Magus is an Intelligence-based, arcane half-caster that serves as the counterpart to the Ranger and Paladin. Hunt with mastery of spell & sword!
 ^arcane-spellbreaker
