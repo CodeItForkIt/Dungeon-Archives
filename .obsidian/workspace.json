@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "classes/warlord-llaw/warlord-academy-of-chivalry-llaw.md",
+                "file": "classes/alternate-artificer-llaart/alternate-artificer-llaart.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "warlord-academy-of-chivalry-llaw"
+              "title": "alternate-artificer-llaart"
             }
           },
           {
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 571.5
+    "width": 571.5,
+    "collapsed": true
   },
   "right": {
     "id": "c32b21a94496f5bb",
@@ -108,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "classes/alternate-artificer-llaart/alternate-artificer-llaart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for alternate-artificer-llaart"
             }
           },
           {
@@ -214,8 +216,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc62c67d1826a346",
+  "active": "d67eabc5e25aca06",
   "lastOpenFiles": [
+    "classes/warrior-sidekick-tce.md",
     "classes/warlord-llaw/warlord-academy-of-chivalry-llaw.md",
     "classes/warlord-llaw/warlord-llaw.md",
     "classes/warlord-llaw",
@@ -248,7 +251,6 @@
     "classes/artificer-reanimator-rhw.md",
     "classes/alternate-wizard-llawiz/alternate-wizard-war-mage-llawiz.md",
     "classes/alternate-wizard-llawiz/alternate-wizard-abjurer-llawiz.md",
-    "classes/alternate-wizard-llawiz/alternate-wizard-llawiz.md",
     "classes/alternate-wizard-llawiz",
     "classes/alternate-warlock-llwrc",
     "classes/alternate-sorcerer-llasorc",
