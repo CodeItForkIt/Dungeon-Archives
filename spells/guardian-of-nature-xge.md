@@ -4,12 +4,24 @@ cssclasses:
 - json5e-spell
 tags:
 - compendium/src/5e/xge
+- spell/class/alternate-bard/magical-secrets
 - spell/class/bard
 - spell/class/druid
 - spell/class/ranger
 - spell/level/4th-level
 - spell/school/transmutation
+- spell/subclass/loremaster/magical-secrets
+- spell/subclass/mystic
+- spell/subclass/oath-of-the-ancients
+- spell/subclass/shifter
+- spell/subclass/verdant-sorcery
 classes:
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Fighter (Mystic)
+- Alternate Paladin (Oath of the Ancients)
+- Alternate Ranger (Shifter)
+- Alternate Sorcerer (Verdant Sorcery)
 - Bard
 - Druid
 - Ranger
@@ -47,6 +59,6 @@ Your skin appears barky, leaves sprout from your hair, and you gain the followin
 
 ## Summary
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Druid](/lists/list-spells-classes-druid.md); [Ranger](/lists/list-spells-classes-ranger.md)
+**Classes**: [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Fighter (Mystic)](/lists/list-spells-classes-mystic-llaf.md "subclass=LLAF;class=LLAF"); [Alternate Paladin (Oath of the Ancients)](/lists/list-spells-classes-oath-of-the-ancients-llapal.md "subclass=LLAPal;class=LLAPal"); [Alternate Ranger (Shifter)](/lists/list-spells-classes-shifter-llar-e.md "subclass=LLAR:E;class=LLAR"); [Alternate Sorcerer (Verdant Sorcery)](/lists/list-spells-classes-verdant-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Druid](/lists/list-spells-classes-druid.md); [Ranger](/lists/list-spells-classes-ranger.md)
 
 *Source: Xanathar's Guide to Everything p. 157*

@@ -11,9 +11,13 @@ tags:
 - spell/school/abjuration
 - spell/subclass/abjurer
 - spell/subclass/arcana-domain
+- spell/subclass/elder-sorcery
+- spell/subclass/order-of-arcanists
 classes:
+- Alternate Sorcerer (Elder Sorcery)
 - Bard
 - Cleric (Arcana Domain)
+- Magus (Order of Arcanists)
 - Warlock
 - Wizard
 - Wizard (Abjurer)
@@ -47,6 +51,6 @@ A [Dispel Magic](/spells/dispel-magic-xphb.md) spell can end the spell only if i
 
 ## Summary
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Warlock](/lists/list-spells-classes-warlock.md); [Wizard (Abjurer)](/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Sorcerer (Elder Sorcery)](/lists/list-spells-classes-elder-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Warlock](/lists/list-spells-classes-warlock.md); [Wizard (Abjurer)](/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 288. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

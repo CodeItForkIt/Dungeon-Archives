@@ -4,6 +4,7 @@ cssclasses:
 - json5e-spell
 tags:
 - compendium/src/5e/xphb
+- spell/class/alternate-bard/magical-secrets
 - spell/class/artificer
 - spell/class/bard
 - spell/class/wizard
@@ -14,10 +15,17 @@ tags:
 - spell/subclass/abjurer
 - spell/subclass/arcane-trickster
 - spell/subclass/eldritch-knight
+- spell/subclass/loremaster/magical-secrets
+- spell/subclass/mystic
+- spell/subclass/order-of-arcanists
 classes:
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Fighter (Mystic)
 - Artificer
 - Bard
 - Fighter (Eldritch Knight)
+- Magus (Order of Arcanists)
 - Rogue (Arcane Trickster)
 - Wizard
 - Wizard (Abjurer)
@@ -48,6 +56,6 @@ Casting this spell on the same spot every day for 365 days makes the spell last 
 
 **Using a Higher-Level Spell Slot.** You can increase the size of the [Cube](/rules/variant-rules/cube-area-of-effect-xphb.md) by 100 feet for each spell slot level above 4.
 
-**Classes**: [Artificer](/lists/list-spells-classes-artificer.md); [Bard](/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Abjurer)](/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Fighter (Mystic)](/lists/list-spells-classes-mystic-llaf.md "subclass=LLAF;class=LLAF"); [Artificer](/lists/list-spells-classes-artificer.md); [Bard](/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Rogue (Arcane Trickster)](/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Abjurer)](/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 301. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Private Sanctum") and the Free Rules (2024)*

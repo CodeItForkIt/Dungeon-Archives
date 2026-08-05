@@ -4,6 +4,7 @@ cssclasses:
 - json5e-spell
 tags:
 - compendium/src/5e/frhof
+- spell/class/alternate-bard/magical-secrets
 - spell/class/bard
 - spell/class/sorcerer
 - spell/class/wizard
@@ -13,9 +14,16 @@ tags:
 - spell/subclass/arcane-trickster
 - spell/subclass/eldritch-knight
 - spell/subclass/evoker
+- spell/subclass/loremaster/magical-secrets
+- spell/subclass/mystic
+- spell/subclass/order-of-arcanists
 classes:
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Fighter (Mystic)
 - Bard
 - Fighter (Eldritch Knight)
+- Magus (Order of Arcanists)
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
@@ -57,6 +65,6 @@ The number of secondary casters determines the spell's area of effect and durati
 
 ## Summary
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Wizard (Evoker)](/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Fighter (Mystic)](/lists/list-spells-classes-mystic-llaf.md "subclass=LLAF;class=LLAF"); [Bard](/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Rogue (Arcane Trickster)](/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Wizard (Evoker)](/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Forgotten Realms: Heroes of Faerûn p. 146*

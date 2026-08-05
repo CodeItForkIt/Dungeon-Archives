@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - compendium/src/5e/xphb
 - spell/background/golgari-agent
+- spell/class/alternate-bard/magical-secrets
 - spell/class/bard
 - spell/class/sorcerer
 - spell/class/wizard
@@ -14,13 +15,25 @@ tags:
 - spell/subclass/alchemist
 - spell/subclass/circle-of-spores
 - spell/subclass/death-domain
+- spell/subclass/decay
+- spell/subclass/draconic-sorcery/green
+- spell/subclass/loremaster/magical-secrets
 - spell/subclass/oath-of-conquest
+- spell/subclass/order-of-arcanists
+- spell/subclass/the-fiend
 - spell/subclass/undead-patron
 classes:
+- Alternate Artificer (Alchemist)
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Druid (Decay)
+- Alternate Sorcerer (Draconic Sorcery, Green)
+- Alternate Warlock (The Fiend)
 - Artificer (Alchemist)
 - Bard
 - Cleric (Death Domain)
 - Druid (Circle of Spores)
+- Magus (Order of Arcanists)
 - Paladin (Oath of Conquest)
 - Sorcerer
 - Warlock (Undead Patron)
@@ -45,6 +58,6 @@ The [Sphere](/rules/variant-rules/sphere-area-of-effect-xphb.md) moves 10 feet a
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d8` for each spell slot level above 5.
 
-**Classes**: [Artificer (Alchemist)](/lists/list-spells-classes-alchemist-efa.md "subclass=EFA;class=EFA"); [Bard](/lists/list-spells-classes-bard.md); [Cleric (Death Domain)](/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG;class=XPHB"); [Druid (Circle of Spores)](/lists/list-spells-classes-circle-of-spores-tce.md "subclass=TCE;class=XPHB"); [Paladin (Oath of Conquest)](/lists/list-spells-classes-oath-of-conquest-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Warlock (Undead Patron)](/lists/list-spells-classes-undead-patron-rhw.md "subclass=RHW;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Artificer (Alchemist)](/lists/list-spells-classes-alchemist-llaart.md "subclass=LLAART;class=LLAART"); [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Druid (Decay)](/lists/list-spells-classes-decay-lladru.md "subclass=LLADru;class=LLADru"); [Alternate Sorcerer (Draconic Sorcery, Green)](/lists/list-spells-classes-draconic-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Alternate Warlock (The Fiend)](/lists/list-spells-classes-the-fiend-llwrc.md "subclass=LLWrc;class=LLWrc"); [Artificer (Alchemist)](/lists/list-spells-classes-alchemist-efa.md "subclass=EFA;class=EFA"); [Bard](/lists/list-spells-classes-bard.md); [Cleric (Death Domain)](/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG;class=XPHB"); [Druid (Circle of Spores)](/lists/list-spells-classes-circle-of-spores-tce.md "subclass=TCE;class=XPHB"); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Paladin (Oath of Conquest)](/lists/list-spells-classes-oath-of-conquest-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Warlock (Undead Patron)](/lists/list-spells-classes-undead-patron-rhw.md "subclass=RHW;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 251. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

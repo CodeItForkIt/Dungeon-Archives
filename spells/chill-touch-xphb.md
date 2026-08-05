@@ -15,6 +15,7 @@ tags:
 - spell/feat/strixhaven-initiate/witherbloom-1
 - spell/feat/touch-of-death
 - spell/level/cantrip
+- spell/optfeature/arcane-warrior/wizard
 - spell/optfeature/pact-of-the-tome
 - spell/race/elf/high-elf
 - spell/race/khoravar
@@ -26,15 +27,21 @@ tags:
 - spell/subclass/circle-of-spores
 - spell/subclass/college-of-lore
 - spell/subclass/death-domain
+- spell/subclass/decay
+- spell/subclass/elder-sorcery
 - spell/subclass/eldritch-knight
+- spell/subclass/order-of-arcanists
 - spell/subclass/scion-of-the-three
 - spell/subrace/half-elf-moon-elf-or-sun-elf-descent
 classes:
+- Alternate Druid (Decay)
+- Alternate Sorcerer (Elder Sorcery)
 - Bard (College of Lore)
 - Cleric (Arcana Domain)
 - Cleric (Death Domain)
 - Druid (Circle of Spores)
 - Fighter (Eldritch Knight)
+- Magus (Order of Arcanists)
 - Rogue (Arcane Trickster)
 - Rogue (Scion of the Three)
 - Sorcerer
@@ -56,6 +63,6 @@ Channeling the chill of the grave, make a melee spell attack against a target wi
 
 **Cantrip Upgrade.** The damage increases by `1d10` when you reach levels 5 (`2d10`), 11 (`3d10`), and 17 (`4d10`).
 
-**Classes**: [Bard (College of Lore)](/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Cleric (Death Domain)](/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG;class=XPHB"); [Druid (Circle of Spores)](/lists/list-spells-classes-circle-of-spores-tce.md "subclass=TCE;class=XPHB"); [Fighter (Eldritch Knight)](/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Scion of the Three)](/lists/list-spells-classes-scion-of-the-three-frhof.md "subclass=FRHoF;class=XPHB"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Warlock](/lists/list-spells-classes-warlock.md); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Druid (Decay)](/lists/list-spells-classes-decay-lladru.md "subclass=LLADru;class=LLADru"); [Alternate Sorcerer (Elder Sorcery)](/lists/list-spells-classes-elder-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Bard (College of Lore)](/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Cleric (Death Domain)](/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG;class=XPHB"); [Druid (Circle of Spores)](/lists/list-spells-classes-circle-of-spores-tce.md "subclass=TCE;class=XPHB"); [Fighter (Eldritch Knight)](/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Rogue (Arcane Trickster)](/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Scion of the Three)](/lists/list-spells-classes-scion-of-the-three-frhof.md "subclass=FRHoF;class=XPHB"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Warlock](/lists/list-spells-classes-warlock.md); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 249. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

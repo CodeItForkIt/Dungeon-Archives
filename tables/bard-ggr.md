@@ -14,10 +14,10 @@ aliases:
 
 | Subclass | Guild |
 |----------|-------|
-| [College of Glamour](bard-xphb-college-of-glamour-xphb.md)* | Selesnya |
-| [College of Lore](bard-xphb.md) | Azorius, Selesnya |
+| [College of Glamour](/classes/bard-xphb-college-of-glamour-xphb.md)* | Selesnya |
+| [College of Lore](/classes/bard-xphb.md) | Azorius, Selesnya |
 | College of Swords* | [Rakdos](/bestiary/npc/rakdos-ggr.md) |
-| [College of Valor](bard-xphb.md) | [Rakdos](/bestiary/npc/rakdos-ggr.md) |
+| [College of Valor](/classes/bard-xphb.md) | [Rakdos](/bestiary/npc/rakdos-ggr.md) |
 | College of Whispers* | Dimir |
 ^bard
 

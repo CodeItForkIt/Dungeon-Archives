@@ -10,10 +10,14 @@ tags:
 - spell/level/9th-level
 - spell/school/illusion
 - spell/subclass/arcana-domain
+- spell/subclass/elder-sorcery
 - spell/subclass/illusionist
+- spell/subclass/order-of-arcanists
 classes:
+- Alternate Sorcerer (Elder Sorcery)
 - Bard
 - Cleric (Arcana Domain)
+- Magus (Order of Arcanists)
 - Warlock
 - Wizard
 - Wizard (Illusionist)
@@ -33,6 +37,6 @@ You try to create illusory terrors in others' minds. Each creature of your choic
 
 A [Frightened](/rules/conditions.md#Frightened) target makes a Wisdom saving throw at the end of each of its turns. On a failed save, it takes `5d10` Psychic damage. On a successful save, the spell ends on that target.
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Warlock](/lists/list-spells-classes-warlock.md); [Wizard (Illusionist)](/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Sorcerer (Elder Sorcery)](/lists/list-spells-classes-elder-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Warlock](/lists/list-spells-classes-warlock.md); [Wizard (Illusionist)](/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 341. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

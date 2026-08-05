@@ -12,9 +12,13 @@ aliases:
 ## Cantrip
 
 - [Acid Splash](/spells/acid-splash-xphb.md "XPHB") at class level 6
+- [Acid Splash (Alternate)](/spells/acid-splash-alternate-llspell.md "llspell") at class level 6
+- [Beckon Air](/spells/beckon-air-llspell.md "llspell") at class level 6
 - [Blade Ward](/spells/blade-ward-xphb.md "XPHB") at class level 6
+- [Blade Ward (Alternate)](/spells/blade-ward-alternate-llspell.md "llspell") at class level 6
 - [Booming Blade](/spells/booming-blade-tce.md "TCE") at class level 6
 - [Chill Touch](/spells/chill-touch-xphb.md "XPHB") at class level 6
+- [Control Flame (Alternate)](/spells/control-flame-alternate-llspell.md "llspell") at class level 6
 - [Control Flames](/spells/control-flames-xge.md "XGE") at class level 6
 - [Create Bonfire](/spells/create-bonfire-xge.md "XGE") at class level 6
 - [Dancing Lights](/spells/dancing-lights-xphb.md "XPHB") at class level 6
@@ -22,6 +26,7 @@ aliases:
 - [Elementalism](/spells/elementalism-xphb.md "XPHB") at class level 6
 - [Fire Bolt](/spells/fire-bolt-xphb.md "XPHB") at class level 6
 - [Friends](/spells/friends-xphb.md "XPHB") at class level 6
+- [Friends (Alternate)](/spells/friends-alternate-llspell.md "llspell") at class level 6
 - [Frostbite](/spells/frostbite-xge.md "XGE") at class level 6
 - [Green-Flame Blade](/spells/green-flame-blade-tce.md "TCE") at class level 6
 - [Guidance](/spells/guidance-xphb.md "XPHB") at class level 6
@@ -29,6 +34,7 @@ aliases:
 - [Infestation](/spells/infestation-xge.md "XGE") at class level 6
 - [Light](/spells/light-xphb.md "XPHB") at class level 6
 - [Lightning Lure](/spells/lightning-lure-tce.md "TCE") at class level 6
+- [Lightning Lure (Alternate)](/spells/lightning-lure-alternate-llspell.md "llspell") at class level 6
 - [Mage Hand](/spells/mage-hand-xphb.md "XPHB") at class level 6
 - [Magic Stone](/spells/magic-stone-xge.md "XGE") at class level 6
 - [Mending](/spells/mending-xphb.md "XPHB") at class level 6
@@ -37,13 +43,16 @@ aliases:
 - [Minor Illusion](/spells/minor-illusion-xphb.md "XPHB") at class level 6
 - [Mold Earth](/spells/mold-earth-xge.md "XGE") at class level 6
 - [Poison Spray](/spells/poison-spray-xphb.md "XPHB") at class level 6
+- [Poison Spray (Alternate)](/spells/poison-spray-alternate-llspell.md "llspell") at class level 6
 - [Prestidigitation](/spells/prestidigitation-xphb.md "XPHB") at class level 6
 - [Primal Savagery](/spells/primal-savagery-xge.md "XGE") at class level 6
+- [Primal Savagery (Alternate)](/spells/primal-savagery-alternate-llspell.md "llspell") at class level 6
 - [Produce Flame](/spells/produce-flame-xphb.md "XPHB") at class level 6
 - [Ray of Frost](/spells/ray-of-frost-xphb.md "XPHB") at class level 6
 - [Resistance](/spells/resistance-xphb.md "XPHB") at class level 6
 - [Sacred Flame](/spells/sacred-flame-xphb.md "XPHB") at class level 6
 - [Shape Water](/spells/shape-water-xge.md "XGE") at class level 6
+- [Shape Water (Alternate)](/spells/shape-water-alternate-llspell.md "llspell") at class level 6
 - [Shillelagh](/spells/shillelagh-xphb.md "XPHB") at class level 6
 - [Shocking Grasp](/spells/shocking-grasp-xphb.md "XPHB") at class level 6
 - [Spare the Dying](/spells/spare-the-dying-xphb.md "XPHB") at class level 6
@@ -54,6 +63,7 @@ aliases:
 - [Thunderclap](/spells/thunderclap-xphb.md "XPHB") at class level 6
 - [Toll the Dead](/spells/toll-the-dead-xphb.md "XPHB") at class level 6
 - [True Strike](/spells/true-strike-xphb.md "XPHB") at class level 6
+- [True Strike (Alternate)](/spells/true-strike-alternate-llspell.md "llspell") at class level 6
 - [Word of Radiance](/spells/word-of-radiance-xphb.md "XPHB") at class level 6
 
 ## 1st Level
@@ -63,6 +73,7 @@ aliases:
 - [Animal Friendship](/spells/animal-friendship-xphb.md "XPHB") at class level 6
 - [Bane](/spells/bane-xphb.md "XPHB") at class level 6
 - [Beast Bond](/spells/beast-bond-xge.md "XGE") at class level 6
+- [Beast Bond (Alternate)](/spells/beast-bond-alternate-llspell.md "llspell") at class level 6
 - [Bless](/spells/bless-xphb.md "XPHB") at class level 6
 - [Burning Hands](/spells/burning-hands-xphb.md "XPHB") at class level 6
 - [Catapult](/spells/catapult-xge.md "XGE") at class level 6
@@ -73,6 +84,7 @@ aliases:
 - [Color Spray](/spells/color-spray-xphb.md "XPHB") at class level 6
 - [Command](/spells/command-xphb.md "XPHB") at class level 6
 - [Comprehend Languages](/spells/comprehend-languages-xphb.md "XPHB") at class level 6
+- [Conjure Familiar](/spells/conjure-familiar-llspell.md "llspell") at class level 6
 - [Create or Destroy Water](/spells/create-or-destroy-water-xphb.md "XPHB") at class level 6
 - [Cure Wounds](/spells/cure-wounds-xphb.md "XPHB") at class level 6
 - [Detect Evil and Good](/spells/detect-evil-and-good-xphb.md "XPHB") at class level 6
@@ -89,6 +101,7 @@ aliases:
 - [Find Familiar](/spells/find-familiar-xphb.md "XPHB") at class level 6
 - [Fog Cloud](/spells/fog-cloud-xphb.md "XPHB") at class level 6
 - [Goodberry](/spells/goodberry-xphb.md "XPHB") at class level 6
+- [Goodberry (Alternate)](/spells/goodberry-alternate-llspell.md "llspell") at class level 6
 - [Grease](/spells/grease-xphb.md "XPHB") at class level 6
 - [Guiding Bolt](/spells/guiding-bolt-xphb.md "XPHB") at class level 6
 - [Healing Word](/spells/healing-word-xphb.md "XPHB") at class level 6
@@ -98,6 +111,7 @@ aliases:
 - [Inflict Wounds](/spells/inflict-wounds-xphb.md "XPHB") at class level 6
 - [Jim's Magic Missile](/spells/jims-magic-missile-ai.md "AI") at class level 6
 - [Jump](/spells/jump-xphb.md "XPHB") at class level 6
+- [Jump (Alternate)](/spells/jump-alternate-llspell.md "llspell") at class level 6
 - [Longstrider](/spells/longstrider-xphb.md "XPHB") at class level 6
 - [Mage Armor](/spells/mage-armor-xphb.md "XPHB") at class level 6
 - [Magic Missile](/spells/magic-missile-xphb.md "XPHB") at class level 6
@@ -117,6 +131,7 @@ aliases:
 - [Tasha's Hideous Laughter](/spells/tashas-hideous-laughter-xphb.md "XPHB") at class level 6
 - [Tenser's Floating Disk](/spells/tensers-floating-disk-xphb.md "XPHB") at class level 6
 - [Thunderwave](/spells/thunderwave-xphb.md "XPHB") at class level 6
+- [Torrent](/spells/torrent-llspell.md "llspell") at class level 6
 - [Unseen Servant](/spells/unseen-servant-xphb.md "XPHB") at class level 6
 - [Wardaway](/spells/wardaway-frhof.md "FRHoF") at class level 6
 - [Witch Bolt](/spells/witch-bolt-xphb.md "XPHB") at class level 6
@@ -131,14 +146,19 @@ aliases:
 - [Arcane Lock](/spells/arcane-lock-xphb.md "XPHB") at class level 6
 - [Arcane Vigor](/spells/arcane-vigor-xphb.md "XPHB") at class level 6
 - [Augury](/spells/augury-xphb.md "XPHB") at class level 6
+- [Aura of Frost](/spells/aura-of-frost-llspell.md "llspell") at class level 6
+- [Awaken Plant](/spells/awaken-plant-llspell.md "llspell") at class level 6
 - [Barkskin](/spells/barkskin-xphb.md "XPHB") at class level 6
+- [Barkskin (Alternate)](/spells/barkskin-alternate-llspell.md "llspell") at class level 6
 - [Beast Sense](/spells/beast-sense-xphb.md "XPHB") at class level 6
 - [Blindness/Deafness](/spells/blindness-deafness-xphb.md "XPHB") at class level 6
 - [Blur](/spells/blur-xphb.md "XPHB") at class level 6
 - [Borrowed Knowledge](/spells/borrowed-knowledge-scc.md "SCC") at class level 6
 - [Calm Emotions](/spells/calm-emotions-xphb.md "XPHB") at class level 6
 - [Cloud of Daggers](/spells/cloud-of-daggers-xphb.md "XPHB") at class level 6
+- [Conjure Beast](/spells/conjure-beast-llspell.md "llspell") at class level 6
 - [Continual Flame](/spells/continual-flame-xphb.md "XPHB") at class level 6
+- [Create Ooze](/spells/create-ooze-llspell.md "llspell") at class level 6
 - [Crown of Madness](/spells/crown-of-madness-xphb.md "XPHB") at class level 6
 - [Darkness](/spells/darkness-xphb.md "XPHB") at class level 6
 - [Darkvision](/spells/darkvision-xphb.md "XPHB") at class level 6
@@ -167,6 +187,7 @@ aliases:
 - [Lesser Restoration](/spells/lesser-restoration-xphb.md "XPHB") at class level 6
 - [Levitate](/spells/levitate-xphb.md "XPHB") at class level 6
 - [Locate Animals or Plants](/spells/locate-animals-or-plants-xphb.md "XPHB") at class level 6
+- [Locate Creature (Alternate)](/spells/locate-creature-alternate-llspell.md "llspell") at class level 6
 - [Locate Object](/spells/locate-object-xphb.md "XPHB") at class level 6
 - [Magic Mouth](/spells/magic-mouth-xphb.md "XPHB") at class level 6
 - [Magic Weapon](/spells/magic-weapon-xphb.md "XPHB") at class level 6
@@ -178,12 +199,14 @@ aliases:
 - [Moonbeam](/spells/moonbeam-xphb.md "XPHB") at class level 6
 - [Nathair's Mischief](/spells/nathairs-mischief-ftd.md "FTD") at class level 6
 - [Nystul's Magic Aura](/spells/nystuls-magic-aura-xphb.md "XPHB") at class level 6
+- [Pass Without Trace (Alternate)](/spells/pass-without-trace-alternate-llspell.md "llspell") at class level 6
 - [Pass without Trace](/spells/pass-without-trace-xphb.md "XPHB") at class level 6
 - [Phantasmal Force](/spells/phantasmal-force-xphb.md "XPHB") at class level 6
 - [Prayer of Healing](/spells/prayer-of-healing-xphb.md "XPHB") at class level 6
 - [Protection from Poison](/spells/protection-from-poison-xphb.md "XPHB") at class level 6
 - [Pyrotechnics](/spells/pyrotechnics-xge.md "XGE") at class level 6
 - [Ray of Enfeeblement](/spells/ray-of-enfeeblement-xphb.md "XPHB") at class level 6
+- [Restoration](/spells/restoration-llspell.md "llspell") at class level 6
 - [Rime's Binding Ice](/spells/rimes-binding-ice-ftd.md "FTD") at class level 6
 - [Rope Trick](/spells/rope-trick-xphb.md "XPHB") at class level 6
 - [Scorching Ray](/spells/scorching-ray-xphb.md "XPHB") at class level 6
@@ -211,6 +234,7 @@ aliases:
 ## 3rd Level
 
 - [Animate Dead](/spells/animate-dead-xphb.md "XPHB") at class level 6
+- [Animate Dead (Alternate)](/spells/animate-dead-alternate-llspell.md "llspell") at class level 6
 - [Antagonize](/spells/antagonize-bmt.md "BMT") at class level 6
 - [Ashardalon's Stride](/spells/ashardalons-stride-ftd.md "FTD") at class level 6
 - [Aura of Vitality](/spells/aura-of-vitality-xphb.md "XPHB") at class level 6
@@ -223,9 +247,13 @@ aliases:
 - [Clairvoyance](/spells/clairvoyance-xphb.md "XPHB") at class level 6
 - [Conjure Animals](/spells/conjure-animals-xphb.md "XPHB") at class level 6
 - [Conjure Constructs](/spells/conjure-constructs-frhof.md "FRHoF") at class level 6
+- [Conjure Fey (Alternate)](/spells/conjure-fey-alternate-llspell.md "llspell") at class level 6
+- [Conjure Fiend](/spells/conjure-fiend-llspell.md "llspell") at class level 6
 - [Counterspell](/spells/counterspell-xphb.md "XPHB") at class level 6
+- [Counterspell (Alternate)](/spells/counterspell-alternate-llspell.md "llspell") at class level 6
 - [Create Food and Water](/spells/create-food-and-water-xphb.md "XPHB") at class level 6
 - [Daylight](/spells/daylight-xphb.md "XPHB") at class level 6
+- [Daylight (Alternate)](/spells/daylight-alternate-llspell.md "llspell") at class level 6
 - [Dispel Magic](/spells/dispel-magic-xphb.md "XPHB") at class level 6
 - [Elemental Weapon](/spells/elemental-weapon-xphb.md "XPHB") at class level 6
 - [Enemies Abound](/spells/enemies-abound-xge.md "XGE") at class level 6
@@ -238,8 +266,10 @@ aliases:
 - [Fly](/spells/fly-xphb.md "XPHB") at class level 6
 - [Gaseous Form](/spells/gaseous-form-xphb.md "XPHB") at class level 6
 - [Glyph of Warding](/spells/glyph-of-warding-xphb.md "XPHB") at class level 6
+- [Grasping Vine (Alternate)](/spells/grasping-vine-alternate-llspell.md "llspell") at class level 6
 - [Haste](/spells/haste-xphb.md "XPHB") at class level 6
 - [Hypnotic Pattern](/spells/hypnotic-pattern-xphb.md "XPHB") at class level 6
+- [Hypnotic Pattern (Alternate)](/spells/hypnotic-pattern-alternate-llspell.md "llspell") at class level 6
 - [Incite Greed](/spells/incite-greed-ai.md "AI") at class level 6
 - [Intellect Fortress](/spells/intellect-fortress-tce.md "TCE") at class level 6
 - [Laeral's Silver Lance](/spells/laerals-silver-lance-frhof.md "FRHoF") at class level 6

@@ -12,9 +12,13 @@ tags:
 - spell/level/6th-level
 - spell/school/conjuration
 - spell/subclass/arcana-domain
+- spell/subclass/elder-sorcery
+- spell/subclass/order-of-arcanists
 classes:
+- Alternate Sorcerer (Elder Sorcery)
 - Bard
 - Cleric (Arcana Domain)
+- Magus (Order of Arcanists)
 - Sorcerer
 - Warlock
 - Wizard
@@ -36,6 +40,6 @@ The portals are two-dimensional glowing rings filled with mist that blocks sight
 
 A portal is open on only one side (you choose which). Anything entering the open side of a portal exits from the open side of the other portal as if the two were adjacent to each other. As a [Bonus Action](/rules/variant-rules/bonus-action-xphb.md), you can change the facing of the open sides.
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Warlock](/lists/list-spells-classes-warlock.md); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Sorcerer (Elder Sorcery)](/lists/list-spells-classes-elder-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Warlock](/lists/list-spells-classes-warlock.md); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 242*

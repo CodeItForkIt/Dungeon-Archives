@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - compendium/src/5e/xphb
 - spell/background/orzhov-representative
+- spell/class/alternate-bard/magical-secrets
 - spell/class/artificer
 - spell/class/bard
 - spell/class/wizard
@@ -14,11 +15,18 @@ tags:
 - spell/subclass/arcana-domain
 - spell/subclass/arcane-trickster
 - spell/subclass/eldritch-knight
+- spell/subclass/loremaster/magical-secrets
+- spell/subclass/mystic
+- spell/subclass/order-of-arcanists
 classes:
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Fighter (Mystic)
 - Artificer
 - Bard
 - Cleric (Arcana Domain)
 - Fighter (Eldritch Knight)
+- Magus (Order of Arcanists)
 - Rogue (Arcane Trickster)
 - Wizard
 aliases:
@@ -39,6 +47,6 @@ While the chest remains on the Ethereal Plane, you can take a [Magic](/rules/act
 
 After 60 days, there is a cumulative  chance at the end of each day that the spell ends. The spell also ends if you cast this spell again or if the Tiny replica chest is destroyed. If the spell ends and the larger chest is on the Ethereal Plane, the chest remains there for you or someone else to find.
 
-**Classes**: [Artificer](/lists/list-spells-classes-artificer.md); [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Fighter (Eldritch Knight)](/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Fighter (Mystic)](/lists/list-spells-classes-mystic-llaf.md "subclass=LLAF;class=LLAF"); [Artificer](/lists/list-spells-classes-artificer.md); [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Fighter (Eldritch Knight)](/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Rogue (Arcane Trickster)](/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 290. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Secret Chest") and the Free Rules (2024)*

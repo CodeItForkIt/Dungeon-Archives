@@ -21,7 +21,7 @@ aliases:
 *Hag of Forbidden Secrets and Magical Malice*
 
 - **Habitat.** Any  
-- **Treasure.** [Arcana](Random%20-%20Magic%20Items%20Arcana.md)  
+- **Treasure.** [Arcana](/tables/random-magic-items-arcana.md)  
 
 Immortal and unpredictable, arch-hags hoard secrets and strike magical bargains, altering fate to indulge their fickle whims. These timeless schemers pursue the secrets of the multiverse and work strange magic in pursuit of their inscrutable goals.
 

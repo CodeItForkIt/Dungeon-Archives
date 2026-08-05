@@ -8,8 +8,10 @@ tags:
 - spell/class/cleric
 - spell/level/6th-level
 - spell/school/conjuration
+- spell/subclass/divine-sorcery
 - spell/subclass/divine-soul
 classes:
+- Alternate Sorcerer (Divine Sorcery)
 - Bard
 - Cleric
 - Sorcerer (Divine Soul)
@@ -35,6 +37,6 @@ A task that can be measured in minutes requires a payment worth 100 GP per minut
 
 After the creature completes the task, or when the agreed-upon duration of service expires, the creature returns to its home plane after reporting back to you if possible. If you are unable to agree on a price for the creature's service, the creature immediately returns to its home plane.
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Cleric](/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+**Classes**: [Alternate Sorcerer (Divine Sorcery)](/lists/list-spells-classes-divine-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Cleric](/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 304. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

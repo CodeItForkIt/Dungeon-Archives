@@ -10,13 +10,18 @@ tags:
 - spell/class/wizard
 - spell/feat/boon-of-siberys/sorcerer-spell
 - spell/level/7th-level
+- spell/optfeature/elder-spirit-of-the-storm
 - spell/school/evocation
 - spell/subclass/arcana-domain
 - spell/subclass/evoker
+- spell/subclass/order-of-arcanists
+- spell/subclass/verdant-sorcery
 classes:
+- Alternate Sorcerer (Verdant Sorcery)
 - Bard
 - Cleric (Arcana Domain)
 - Druid
+- Magus (Order of Arcanists)
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
@@ -38,6 +43,6 @@ A creature must make a Dexterity saving throw the first time on a turn that it e
 
 A [restrained](/rules/conditions.md#Restrained) creature can use an action to make a Strength or Dexterity check against your spell save DC. If successful, the creature is no longer [restrained](/rules/conditions.md#Restrained) by the whirlwind and is hurled `3d6 × 10` feet away from it in a random direction.
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Druid](/lists/list-spells-classes-druid.md); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Wizard (Evoker)](/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Sorcerer (Verdant Sorcery)](/lists/list-spells-classes-verdant-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Druid](/lists/list-spells-classes-druid.md); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Wizard (Evoker)](/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 171, Elemental Evil Player's Companion p. 24*

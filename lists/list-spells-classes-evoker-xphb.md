@@ -12,6 +12,7 @@ aliases:
 ## Cantrip
 
 - [Acid Splash](/spells/acid-splash-xphb.md "XPHB") at class level 3
+- [Acid Splash (Alternate)](/spells/acid-splash-alternate-llspell.md "llspell") at class level 3
 - [Booming Blade](/spells/booming-blade-tce.md "TCE") at class level 3
 - [Dancing Lights](/spells/dancing-lights-xphb.md "XPHB")
 - [Fire Bolt](/spells/fire-bolt-xphb.md "XPHB") at class level 3

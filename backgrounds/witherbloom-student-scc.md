@@ -40,7 +40,7 @@ Consider customizing how your spells look when you cast them. Your Witherbloom s
 
 ## Building a Witherbloom Character
 
-Druids and warlocks make up most of Witherbloom's student body. A few wizards (mostly those who study the School of Necromancy) and clerics (including those with the Divine Domains of [Life](cleric-xphb-life-domain-xphb.md) or Nature) also find their home in Witherbloom.
+Druids and warlocks make up most of Witherbloom's student body. A few wizards (mostly those who study the School of Necromancy) and clerics (including those with the Divine Domains of [Life](/classes/cleric-xphb-life-domain-xphb.md) or Nature) also find their home in Witherbloom.
 
 A number of rangers and barbarians study at Witherbloom as well, and some rogues learn how to create and use poisons during their studies at this college.
 

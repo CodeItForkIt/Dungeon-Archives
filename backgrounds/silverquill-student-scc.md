@@ -39,7 +39,7 @@ Consider customizing how your spells look when you cast them. Your Silverquill s
 
 ## Building a Silverquill Character
 
-Many bards find a home in Silverquill, putting the power of their voices to use with Silverquill magic. Wizards (especially those who study the Schools of [Illusion](wizard-xphb-illusionist-xphb.md) and Enchantment) are common in Silverquill, as are warlocks. Clerics with the Divine Domains of [Light](cleric-xphb-light-domain-xphb.md) and [Trickery](cleric-xphb-trickery-domain-xphb.md) also fit in well among the mages of Silverquill.
+Many bards find a home in Silverquill, putting the power of their voices to use with Silverquill magic. Wizards (especially those who study the Schools of [Illusion](/classes/wizard-xphb-illusionist-xphb.md) and Enchantment) are common in Silverquill, as are warlocks. Clerics with the Divine Domains of [Light](/classes/cleric-xphb-light-domain-xphb.md) and [Trickery](/classes/cleric-xphb-trickery-domain-xphb.md) also fit in well among the mages of Silverquill.
 
 A number of both paladins and rogues attend Silverquill College as well, highlighting the diversity of the student body.
 

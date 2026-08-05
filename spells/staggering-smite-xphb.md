@@ -4,12 +4,18 @@ cssclasses:
 - json5e-spell
 tags:
 - compendium/src/5e/xphb
+- spell/class/alternate-bard/magical-secrets
 - spell/class/paladin
 - spell/level/4th-level
 - spell/reward/charm-of-dhakaan
 - spell/school/enchantment
+- spell/subclass/loremaster/magical-secrets
+- spell/subclass/mystic
 - spell/subclass/the-hexblade
 classes:
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Fighter (Mystic)
 - Paladin
 - Warlock (The Hexblade)
 aliases:
@@ -28,6 +34,6 @@ The target takes an extra `4d6` Psychic damage from the attack, and the target m
 
 **Using a Higher-Level Spell Slot.** The extra damage increases by `1d6` for each spell slot level above 4.
 
-**Classes**: [Paladin](/lists/list-spells-classes-paladin.md); [Warlock (The Hexblade)](/lists/list-spells-classes-the-hexblade-xge.md "subclass=XGE;class=XPHB")
+**Classes**: [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Fighter (Mystic)](/lists/list-spells-classes-mystic-llaf.md "subclass=LLAF;class=LLAF"); [Paladin](/lists/list-spells-classes-paladin.md); [Warlock (The Hexblade)](/lists/list-spells-classes-the-hexblade-xge.md "subclass=XGE;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 320*

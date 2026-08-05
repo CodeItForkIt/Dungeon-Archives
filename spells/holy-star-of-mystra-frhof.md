@@ -10,12 +10,16 @@ tags:
 - spell/level/8th-level
 - spell/school/evocation
 - spell/subclass/arcana-domain
+- spell/subclass/divine-sorcery
 - spell/subclass/divine-soul
 - spell/subclass/evoker
+- spell/subclass/order-of-arcanists
 classes:
+- Alternate Sorcerer (Divine Sorcery)
 - Bard
 - Cleric
 - Cleric (Arcana Domain)
+- Magus (Order of Arcanists)
 - Sorcerer (Divine Soul)
 - Wizard
 - Wizard (Evoker)
@@ -37,6 +41,6 @@ When you cast this spell and as a [Bonus Action](/rules/variant-rules/bonus-acti
 
 In addition, while the mote is present, you have [Three-Quarters Cover](/rules/variant-rules/cover-xphb.md), and if you succeed on a saving throw against a spell of level 7 or lower that targeted only you and didn't create an area of effect, you can take a [Reaction](/rules/variant-rules/reaction-xphb.md) to deflect that spell back at the spell's caster; the caster makes a saving throw against that spell using that caster's own spell save DC.
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Cleric](/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Wizard (Evoker)](/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Sorcerer (Divine Sorcery)](/lists/list-spells-classes-divine-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Cleric](/lists/list-spells-classes-cleric.md); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Wizard (Evoker)](/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Forgotten Realms: Heroes of Faerûn p. 145*

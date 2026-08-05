@@ -11,6 +11,7 @@ aliases:
 
 ## Cantrip
 
+- [Beckon Air](/spells/beckon-air-llspell.md "llspell")
 - [Control Flames](/spells/control-flames-xge.md "XGE")
 - [Create Bonfire](/spells/create-bonfire-xge.md "XGE")
 - [Druidcraft](/spells/druidcraft-xphb.md "XPHB")

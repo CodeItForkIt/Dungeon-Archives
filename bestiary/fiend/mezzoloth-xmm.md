@@ -22,7 +22,7 @@ aliases:
 *Yugoloth of Tenacity and Want*
 
 - **Habitat.** Planar (Gehenna)  
-- **Treasure.** [Armaments](Random%20-%20Magic%20Items%20Armaments.md)  
+- **Treasure.** [Armaments](/tables/random-magic-items-armaments.md)  
 
 Mezzoloths are insectile yugoloths that seek power and souls in the service of fiendish lords. These greedy, violent yugoloths are more direct than most of their scheming brethren, but what they lack in guile they make up for in persistence and numbers.
 

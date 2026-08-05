@@ -10,8 +10,14 @@ tags:
 - spell/feat/boon-of-siberys/mark-of-hospitality
 - spell/level/6th-level
 - spell/school/conjuration
+- spell/subclass/divine-sorcery
 - spell/subclass/divine-soul
+- spell/subclass/fey-sorcery
+- spell/subclass/verdant-sorcery
 classes:
+- Alternate Sorcerer (Divine Sorcery)
+- Alternate Sorcerer (Fey Sorcery)
+- Alternate Sorcerer (Verdant Sorcery)
 - Bard
 - Cleric
 - Druid
@@ -32,6 +38,6 @@ You conjure a feast that appears on a surface in an unoccupied 10-foot [Cube](/r
 
 A creature that partakes gains several benefits, which last for 24 hours. The creature has [Resistance](/rules/variant-rules/resistance-xphb.md) to Poison damage, and it has [Immunity](/rules/variant-rules/immunity-xphb.md) to the [Frightened](/rules/conditions.md#Frightened) and [Poisoned](/rules/conditions.md#Poisoned) conditions. Its [Hit Point](/rules/variant-rules/hit-points-xphb.md) maximum also increases by `2d10`, and it gains the same number of [Hit Points](/rules/variant-rules/hit-points-xphb.md).
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Cleric](/lists/list-spells-classes-cleric.md); [Druid](/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+**Classes**: [Alternate Sorcerer (Divine Sorcery)](/lists/list-spells-classes-divine-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Alternate Sorcerer (Fey Sorcery)](/lists/list-spells-classes-fey-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Alternate Sorcerer (Verdant Sorcery)](/lists/list-spells-classes-verdant-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Cleric](/lists/list-spells-classes-cleric.md); [Druid](/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 284. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

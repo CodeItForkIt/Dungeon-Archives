@@ -11,6 +11,8 @@ aliases:
 
 ## Cantrip
 
+- [Beckon Air](/spells/beckon-air-llspell.md "llspell")
+- [Control Flame (Alternate)](/spells/control-flame-alternate-llspell.md "llspell")
 - [Control Flames](/spells/control-flames-xge.md "XGE")
 - [Create Bonfire](/spells/create-bonfire-xge.md "XGE")
 - [Druidcraft](/spells/druidcraft-xphb.md "XPHB")
@@ -23,11 +25,15 @@ aliases:
 - [Mending](/spells/mending-xphb.md "XPHB")
 - [Message](/spells/message-xphb.md "XPHB")
 - [Mold Earth](/spells/mold-earth-xge.md "XGE")
+- [Mold Earth (Alternate)](/spells/mold-earth-alternate-llspell.md "llspell")
 - [Poison Spray](/spells/poison-spray-xphb.md "XPHB")
+- [Poison Spray (Alternate)](/spells/poison-spray-alternate-llspell.md "llspell")
 - [Primal Savagery](/spells/primal-savagery-xge.md "XGE")
+- [Primal Savagery (Alternate)](/spells/primal-savagery-alternate-llspell.md "llspell")
 - [Produce Flame](/spells/produce-flame-xphb.md "XPHB")
 - [Resistance](/spells/resistance-xphb.md "XPHB")
 - [Shape Water](/spells/shape-water-xge.md "XGE")
+- [Shape Water (Alternate)](/spells/shape-water-alternate-llspell.md "llspell")
 - [Shillelagh](/spells/shillelagh-xphb.md "XPHB")
 - [Spare the Dying](/spells/spare-the-dying-xphb.md "XPHB")
 - [Starry Wisp](/spells/starry-wisp-xphb.md "XPHB")

@@ -5,15 +5,35 @@ cssclasses:
 tags:
 - compendium/src/5e/xphb
 - spell/background/dimir-operative
+- spell/class/alternate-bard/magical-secrets
 - spell/class/bard
 - spell/class/wizard
 - spell/level/5th-level
 - spell/school/enchantment
+- spell/subclass/archivist
+- spell/subclass/chronothief
+- spell/subclass/fey-sorcery
 - spell/subclass/great-old-one-patron
+- spell/subclass/loremaster/magical-secrets
+- spell/subclass/order-of-arcanists
+- spell/subclass/order-of-shades
+- spell/subclass/order-of-travelers
+- spell/subclass/the-great-old-one
+- spell/subclass/trickery
 - spell/subclass/trickery-domain
 classes:
+- Alternate Artificer (Archivist)
+- Alternate Artificer (Chronothief)
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Cleric (Trickery)
+- Alternate Sorcerer (Fey Sorcery)
+- Alternate Warlock (The Great Old One)
 - Bard
 - Cleric (Trickery Domain)
+- Magus (Order of Arcanists)
+- Magus (Order of Shades)
+- Magus (Order of Travelers)
 - Warlock (Great Old One Patron)
 - Wizard
 aliases:
@@ -40,6 +60,6 @@ A [Remove Curse](/spells/remove-curse-xphb.md) or [Greater Restoration](/spells/
 
 **Using a Higher-Level Spell Slot.** You can alter the target's memories of an event that took place up to 7 days ago (level 6 spell slot), 30 days ago (level 7 spell slot), 365 days ago (level 8 spell slot), or any time in the creature's past (level 9 spell slot).
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Cleric (Trickery Domain)](/lists/list-spells-classes-trickery-domain-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Great Old One Patron)](/lists/list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Artificer (Archivist)](/lists/list-spells-classes-archivist-llaart-e.md "subclass=LLAART:E;class=LLAART"); [Alternate Artificer (Chronothief)](/lists/list-spells-classes-chronothief-llaart-e.md "subclass=LLAART:E;class=LLAART"); [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Cleric (Trickery)](/lists/list-spells-classes-trickery-llaclr.md "subclass=LLAClr;class=LLAClr"); [Alternate Sorcerer (Fey Sorcery)](/lists/list-spells-classes-fey-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Alternate Warlock (The Great Old One)](/lists/list-spells-classes-the-great-old-one-llwrc.md "subclass=LLWrc;class=LLWrc"); [Bard](/lists/list-spells-classes-bard.md); [Cleric (Trickery Domain)](/lists/list-spells-classes-trickery-domain-xphb.md "subclass=XPHB;class=XPHB"); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Magus (Order of Shades)](/lists/list-spells-classes-order-of-shades-llmc-e.md "subclass=LLMC:E;class=LLMC"); [Magus (Order of Travelers)](/lists/list-spells-classes-order-of-travelers-llmc-e.md "subclass=LLMC:E;class=LLMC"); [Warlock (Great Old One Patron)](/lists/list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 299. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

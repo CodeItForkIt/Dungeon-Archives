@@ -13,6 +13,7 @@ cssclasses:
 - [Dragonblood Ooze](./dragonblood-ooze-ftd.md)
 - [Elder Black Pudding](./elder-black-pudding-tftyp.md)
 - [Elder Oblex](./elder-oblex-mpmm.md)
+- [Formless Archon](./formless-archon-llvessel.md)
 - [Gelatinous Cube](./gelatinous-cube-xmm.md)
 - [Gray Ooze](./gray-ooze-xmm.md)
 - [Huge Ochre Jelly](./huge-ochre-jelly-tftyp.md)

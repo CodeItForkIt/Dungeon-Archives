@@ -9,11 +9,18 @@ tags:
 - spell/class/warlock
 - spell/class/wizard
 - spell/level/9th-level
+- spell/optfeature/elder-spirit-of-the-void
 - spell/school/enchantment
 - spell/subclass/arcana-domain
+- spell/subclass/elder-sorcery
+- spell/subclass/fey-sorcery
+- spell/subclass/order-of-arcanists
 classes:
+- Alternate Sorcerer (Elder Sorcery)
+- Alternate Sorcerer (Fey Sorcery)
 - Bard
 - Cleric (Arcana Domain)
+- Magus (Order of Arcanists)
 - Sorcerer
 - Warlock
 - Wizard
@@ -35,6 +42,6 @@ Each target must make an Intelligence saving throw. On a failed save, a target t
 
 A [stunned](/rules/conditions.md#Stunned) target can make an Intelligence saving throw at the end of each of its turns. On a successful save, the stunning effect ends.
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Warlock](/lists/list-spells-classes-warlock.md); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Sorcerer (Elder Sorcery)](/lists/list-spells-classes-elder-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Alternate Sorcerer (Fey Sorcery)](/lists/list-spells-classes-fey-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Warlock](/lists/list-spells-classes-warlock.md); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 163*

@@ -4,6 +4,7 @@ cssclasses:
 - json5e-spell
 tags:
 - compendium/src/5e/xphb
+- spell/class/alternate-bard/magical-secrets
 - spell/class/bard
 - spell/class/cleric
 - spell/class/druid
@@ -13,12 +14,29 @@ tags:
 - spell/school/abjuration
 - spell/subclass/abjurer
 - spell/subclass/arcana-domain
+- spell/subclass/divine-sorcery
 - spell/subclass/divine-soul
+- spell/subclass/elder-sorcery
+- spell/subclass/fey-sorcery
+- spell/subclass/loremaster/magical-secrets
+- spell/subclass/order-of-arcanists
+- spell/subclass/order-of-spellbreakers
+- spell/subclass/trapper
+- spell/subclass/verdant-sorcery
 classes:
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Ranger (Trapper)
+- Alternate Sorcerer (Divine Sorcery)
+- Alternate Sorcerer (Elder Sorcery)
+- Alternate Sorcerer (Fey Sorcery)
+- Alternate Sorcerer (Verdant Sorcery)
 - Bard
 - Cleric
 - Cleric (Arcana Domain)
 - Druid
+- Magus (Order of Arcanists)
+- Magus (Order of Spellbreakers)
 - Sorcerer (Divine Soul)
 - Warlock
 - Wizard
@@ -41,6 +59,6 @@ A bound creature must follow your commands to the best of its ability. You might
 
 **Using a Higher-Level Spell Slot.** The duration increases with a spell slot of level 6 (10 days), 7 (30 days), 8 (180 days), and 9 (366 days).
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Cleric](/lists/list-spells-classes-cleric.md); [Druid](/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock](/lists/list-spells-classes-warlock.md); [Wizard (Abjurer)](/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Ranger (Trapper)](/lists/list-spells-classes-trapper-llar-e.md "subclass=LLAR:E;class=LLAR"); [Alternate Sorcerer (Divine Sorcery)](/lists/list-spells-classes-divine-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Alternate Sorcerer (Elder Sorcery)](/lists/list-spells-classes-elder-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Alternate Sorcerer (Fey Sorcery)](/lists/list-spells-classes-fey-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Alternate Sorcerer (Verdant Sorcery)](/lists/list-spells-classes-verdant-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Cleric](/lists/list-spells-classes-cleric.md); [Druid](/lists/list-spells-classes-druid.md); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Magus (Order of Spellbreakers)](/lists/list-spells-classes-order-of-spellbreakers-llmc.md "subclass=LLMC;class=LLMC"); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock](/lists/list-spells-classes-warlock.md); [Wizard (Abjurer)](/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 305. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

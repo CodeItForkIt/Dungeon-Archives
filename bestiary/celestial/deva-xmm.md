@@ -22,7 +22,7 @@ aliases:
 *World-Changing Angelic Messenger*
 
 - **Habitat.** Planar (Upper Planes)  
-- **Treasure.** [Relics](Random%20-%20Magic%20Items%20Relics.md)  
+- **Treasure.** [Relics](/tables/random-magic-items-relics.md)  
 
 Devas are emissaries of divine will. These immortal messengers adopt the shapes of mystical beasts or idealized, winged mortals. As with all angels, their true forms are known only to the gods they serve.
 

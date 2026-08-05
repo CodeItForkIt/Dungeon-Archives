@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - compendium/src/5e/xphb
 - spell/background/golgari-agent
+- spell/class/alternate-bard/magical-secrets
 - spell/class/bard
 - spell/class/cleric
 - spell/class/druid
@@ -13,12 +14,24 @@ tags:
 - spell/level/5th-level
 - spell/school/conjuration
 - spell/subclass/circle-of-the-land/tropical-land
+- spell/subclass/divine-sorcery
 - spell/subclass/divine-soul
 - spell/subclass/fiend-patron
+- spell/subclass/infernal
+- spell/subclass/loremaster/magical-secrets
 - spell/subclass/nature-domain
+- spell/subclass/swarm-keeper
 - spell/subclass/swarmkeeper
 - spell/subclass/tempest-domain
+- spell/subclass/the-cursed
+- spell/subclass/verdant-sorcery
 classes:
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Ranger (Swarm Keeper)
+- Alternate Sorcerer (Divine Sorcery)
+- Alternate Sorcerer (Infernal)
+- Alternate Sorcerer (Verdant Sorcery)
 - Bard
 - Cleric
 - Cleric (Nature Domain)
@@ -28,6 +41,7 @@ classes:
 - Ranger (Swarmkeeper)
 - Sorcerer
 - Sorcerer (Divine Soul)
+- Vessel (The Cursed)
 - Warlock (Fiend Patron)
 aliases:
 - "Insect Plague"
@@ -47,6 +61,6 @@ When the swarm appears, each creature in it makes a Constitution saving throw, t
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d10` for each spell slot level above 5.
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Cleric (Nature Domain)](/lists/list-spells-classes-nature-domain.md "class=XPHB"); [Cleric (Tempest Domain)](/lists/list-spells-classes-tempest-domain.md "class=XPHB"); [Cleric](/lists/list-spells-classes-cleric.md); [Druid (Circle of the Land, Tropical Land)](/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Druid](/lists/list-spells-classes-druid.md); [Ranger (Swarmkeeper)](/lists/list-spells-classes-swarmkeeper-tce.md "subclass=TCE;class=XPHB"); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Warlock (Fiend Patron)](/lists/list-spells-classes-fiend-patron-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Ranger (Swarm Keeper)](/lists/list-spells-classes-swarm-keeper-llar.md "subclass=LLAR;class=LLAR"); [Alternate Sorcerer (Divine Sorcery)](/lists/list-spells-classes-divine-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Alternate Sorcerer (Infernal)](/lists/list-spells-classes-infernal-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Alternate Sorcerer (Verdant Sorcery)](/lists/list-spells-classes-verdant-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Cleric (Nature Domain)](/lists/list-spells-classes-nature-domain.md "class=XPHB"); [Cleric (Tempest Domain)](/lists/list-spells-classes-tempest-domain.md "class=XPHB"); [Cleric](/lists/list-spells-classes-cleric.md); [Druid (Circle of the Land, Tropical Land)](/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Druid](/lists/list-spells-classes-druid.md); [Ranger (Swarmkeeper)](/lists/list-spells-classes-swarmkeeper-tce.md "subclass=TCE;class=XPHB"); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Vessel (The Cursed)](/lists/list-spells-classes-the-cursed-llvessel.md "subclass=LLVessel;class=LLVessel"); [Warlock (Fiend Patron)](/lists/list-spells-classes-fiend-patron-xphb.md "subclass=XPHB;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 289. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

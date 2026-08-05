@@ -4,6 +4,7 @@ cssclasses:
 - json5e-spell
 tags:
 - compendium/src/5e/xge
+- spell/class/alternate-bard/magical-secrets
 - spell/class/bard
 - spell/class/sorcerer
 - spell/class/wizard
@@ -11,13 +12,30 @@ tags:
 - spell/level/4th-level
 - spell/school/evocation
 - spell/subclass/arcane-trickster
+- spell/subclass/armorer
+- spell/subclass/draconic-sorcery/blue
 - spell/subclass/eldritch-knight
 - spell/subclass/evoker
+- spell/subclass/loremaster/magical-secrets
+- spell/subclass/mystic
+- spell/subclass/order-of-arcanists
+- spell/subclass/storm-sorcery
+- spell/subclass/tempest
+- spell/subclass/the-cataclysm/air
 classes:
+- Alternate Artificer (Armorer)
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Cleric (Tempest)
+- Alternate Fighter (Mystic)
+- Alternate Sorcerer (Draconic Sorcery, Blue)
+- Alternate Sorcerer (Storm Sorcery)
 - Bard
 - Fighter (Eldritch Knight)
+- Magus (Order of Arcanists)
 - Rogue (Arcane Trickster)
 - Sorcerer
+- Vessel (The Cataclysm, Air)
 - Wizard
 - Wizard (Evoker)
 aliases:
@@ -40,6 +58,6 @@ Creatures within 30 feet of the sphere have disadvantage on Wisdom ([Perception]
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the damage for each of its effects increases by `1d6` for each slot level above 4th.
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Wizard (Evoker)](/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Artificer (Armorer)](/lists/list-spells-classes-armorer-llaart.md "subclass=LLAART;class=LLAART"); [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Cleric (Tempest)](/lists/list-spells-classes-tempest-llaclr.md "subclass=LLAClr;class=LLAClr"); [Alternate Fighter (Mystic)](/lists/list-spells-classes-mystic-llaf.md "subclass=LLAF;class=LLAF"); [Alternate Sorcerer (Draconic Sorcery, Blue)](/lists/list-spells-classes-draconic-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Alternate Sorcerer (Storm Sorcery)](/lists/list-spells-classes-storm-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Rogue (Arcane Trickster)](/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Vessel (The Cataclysm, Air)](/lists/list-spells-classes-the-cataclysm-llvessel.md "subclass=LLVessel;class=LLVessel"); [Wizard (Evoker)](/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 166, Elemental Evil Player's Companion p. 22*

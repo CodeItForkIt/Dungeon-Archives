@@ -8,7 +8,11 @@ tags:
 - spell/class/druid
 - spell/level/6th-level
 - spell/school/transmutation
+- spell/subclass/storm-sorcery
+- spell/subclass/verdant-sorcery
 classes:
+- Alternate Sorcerer (Storm Sorcery)
+- Alternate Sorcerer (Verdant Sorcery)
 - Bard
 - Druid
 aliases:
@@ -27,6 +31,6 @@ You and up to ten willing creatures of your choice within range assume gaseous f
 
 If a target is in cloud form and flying when the effect ends, the target descends 60 feet per round for 1 minute until it lands, which it does safely. If it can't land after 1 minute, it falls the remaining distance.
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Druid](/lists/list-spells-classes-druid.md)
+**Classes**: [Alternate Sorcerer (Storm Sorcery)](/lists/list-spells-classes-storm-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Alternate Sorcerer (Verdant Sorcery)](/lists/list-spells-classes-verdant-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Druid](/lists/list-spells-classes-druid.md)
 
 *Source: Player's Handbook (2024) p. 341. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

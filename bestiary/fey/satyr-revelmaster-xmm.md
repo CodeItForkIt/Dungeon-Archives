@@ -25,7 +25,7 @@ Satyr revelmasters use magical music to change the moods of other creatures. The
 *Horned and Hoofed Revelers*
 
 - **Habitat.** Forest, Planar (Feywild)  
-- **Treasure.** [Implements](Random%20-%20Magic%20Items%20Implements.md)  
+- **Treasure.** [Implements](/tables/random-magic-items-implements.md)  
 
 Satyrs embody the untamed joys of the wilderness. They indulge in sprees of merrymaking—eating, drinking, performing, fighting, and frolicking.
 

@@ -13,7 +13,7 @@ aliases:
 *Source: Eberron: Forge of the Artificer p. 16*  
 
 > [!note]
-> Created by the [Eldritch Cannon](artificer-artillerist-efa.md#Eldritch%20Cannon%20(Level%203)) subclass feature.
+> Created by the [Eldritch Cannon](/classes/artificer-artillerist-efa.md#Eldritch%20Cannon%20(Level%203)) subclass feature.
 
 ```ad-statblock
 title: Eldritch Cannon

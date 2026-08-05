@@ -12,9 +12,13 @@ tags:
 - spell/level/8th-level
 - spell/school/conjuration
 - spell/subclass/arcana-domain
+- spell/subclass/elder-sorcery
+- spell/subclass/order-of-arcanists
 classes:
+- Alternate Sorcerer (Elder Sorcery)
 - Bard
 - Cleric (Arcana Domain)
+- Magus (Order of Arcanists)
 - Sorcerer
 - Warlock
 - Wizard
@@ -36,6 +40,6 @@ When the spell ends, the door vanishes, and any objects inside the demiplane rem
 
 Each time you cast this spell, you can create a new demiplane or connect the shadowy door to a demiplane you created with a previous casting of this spell. Additionally, if you know the nature and contents of a demiplane created by a casting of this spell by another creature, you can connect the shadowy door to that demiplane instead.
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Warlock](/lists/list-spells-classes-warlock.md); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Sorcerer (Elder Sorcery)](/lists/list-spells-classes-elder-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Warlock](/lists/list-spells-classes-warlock.md); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 261. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

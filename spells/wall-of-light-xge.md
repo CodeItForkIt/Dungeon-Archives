@@ -4,6 +4,7 @@ cssclasses:
 - json5e-spell
 tags:
 - compendium/src/5e/xge
+- spell/class/alternate-bard/magical-secrets
 - spell/class/bard
 - spell/class/sorcerer
 - spell/class/warlock
@@ -11,9 +12,24 @@ tags:
 - spell/feat/boon-of-siberys/sorcerer-spell
 - spell/level/5th-level
 - spell/school/evocation
+- spell/subclass/astrologer
+- spell/subclass/draconic-sorcery/crystal
+- spell/subclass/elder-sorcery
 - spell/subclass/evoker
+- spell/subclass/loremaster/magical-secrets
+- spell/subclass/order-of-arcanists
+- spell/subclass/spirit-guide
+- spell/subclass/stargazer/adder
 classes:
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Ranger (Stargazer, Adder)
+- Alternate Sorcerer (Draconic Sorcery, Crystal)
+- Alternate Sorcerer (Elder Sorcery)
 - Bard
+- Magus (Order of Arcanists)
+- Shaman (Astrologer)
+- Shaman (Spirit Guide)
 - Sorcerer
 - Warlock
 - Wizard
@@ -40,6 +56,6 @@ Until the spell ends, you can use an action to launch a beam of radiance from th
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the damage increases by `1d8` for each slot level above 5th.
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Warlock](/lists/list-spells-classes-warlock.md); [Wizard (Evoker)](/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Ranger (Stargazer, Adder)](/lists/list-spells-classes-stargazer-llar-e.md "subclass=LLAR:E;class=LLAR"); [Alternate Sorcerer (Draconic Sorcery, Crystal)](/lists/list-spells-classes-draconic-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Alternate Sorcerer (Elder Sorcery)](/lists/list-spells-classes-elder-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Shaman (Astrologer)](/lists/list-spells-classes-astrologer-llsh-e.md "subclass=LLSH:E;class=LLSH"); [Shaman (Spirit Guide)](/lists/list-spells-classes-spirit-guide-llsh-e.md "subclass=LLSH:E;class=LLSH"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Warlock](/lists/list-spells-classes-warlock.md); [Wizard (Evoker)](/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 170*

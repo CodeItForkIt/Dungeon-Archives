@@ -4,11 +4,17 @@ cssclasses:
 - json5e-spell
 tags:
 - compendium/src/5e/egw
+- spell/class/alternate-bard/magical-secrets
 - spell/level/4th-level
 - spell/school/evocation
 - spell/subclass/chronurgy-magic
 - spell/subclass/graviturgy-magic
+- spell/subclass/loremaster/magical-secrets
+- spell/subclass/mystic
 classes:
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Fighter (Mystic)
 - Wizard (Chronurgy Magic)
 - Wizard (Graviturgy Magic)
 aliases:
@@ -27,6 +33,6 @@ A 20-foot-radius sphere of crushing force forms at a point you can see within ra
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the damage increases by `1d10` for each slot level above 4th.
 
-**Classes**: [Wizard (Chronurgy Magic)](/lists/list-spells-classes-chronurgy-magic-egw.md "subclass=EGW;class=XPHB"); [Wizard (Graviturgy Magic)](/lists/list-spells-classes-graviturgy-magic-egw.md "subclass=EGW;class=XPHB")
+**Classes**: [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Fighter (Mystic)](/lists/list-spells-classes-mystic-llaf.md "subclass=LLAF;class=LLAF"); [Wizard (Chronurgy Magic)](/lists/list-spells-classes-chronurgy-magic-egw.md "subclass=EGW;class=XPHB"); [Wizard (Graviturgy Magic)](/lists/list-spells-classes-graviturgy-magic-egw.md "subclass=EGW;class=XPHB")
 
 *Source: Explorer's Guide to Wildemount p. 187*

@@ -19,6 +19,8 @@ tags:
 - spell/feat/mark-of-scribing
 - spell/feat/wood-elf-magic
 - spell/level/cantrip
+- spell/optfeature/arcane-warrior/wizard
+- spell/optfeature/druidic-warrior/druid
 - spell/optfeature/pact-of-the-tome
 - spell/race/elf/high-elf
 - spell/race/elf/lorwyn
@@ -30,9 +32,14 @@ tags:
 - spell/subclass/college-of-lore
 - spell/subclass/college-of-the-moon
 - spell/subclass/eldritch-knight
+- spell/subclass/fey-sorcery
 - spell/subclass/nature-domain
+- spell/subclass/order-of-arcanists
+- spell/subclass/verdant-sorcery
 - spell/subrace/half-elf-moon-elf-or-sun-elf-descent
 classes:
+- Alternate Sorcerer (Fey Sorcery)
+- Alternate Sorcerer (Verdant Sorcery)
 - Artificer
 - Bard
 - Bard (College of Lore)
@@ -41,6 +48,7 @@ classes:
 - Cleric (Nature Domain)
 - Druid
 - Fighter (Eldritch Knight)
+- Magus (Order of Arcanists)
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
@@ -60,6 +68,6 @@ You point toward a creature within range and whisper a message. The target (and 
 
 You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence; 1 foot of stone, metal, or wood; or a thin sheet of lead blocks the spell.
 
-**Classes**: [Artificer](/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of the Moon)](/lists/list-spells-classes-college-of-the-moon-frhof.md "subclass=FRHoF;class=XPHB"); [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Cleric (Nature Domain)](/lists/list-spells-classes-nature-domain.md "class=XPHB"); [Druid](/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Sorcerer (Fey Sorcery)](/lists/list-spells-classes-fey-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Alternate Sorcerer (Verdant Sorcery)](/lists/list-spells-classes-verdant-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Artificer](/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of the Moon)](/lists/list-spells-classes-college-of-the-moon-frhof.md "subclass=FRHoF;class=XPHB"); [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Cleric (Nature Domain)](/lists/list-spells-classes-nature-domain.md "class=XPHB"); [Druid](/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Rogue (Arcane Trickster)](/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 298. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

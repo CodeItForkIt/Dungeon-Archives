@@ -8,7 +8,11 @@ tags:
 - spell/class/warlock
 - spell/level/8th-level
 - spell/school/enchantment
+- spell/subclass/elder-sorcery
+- spell/subclass/fey-sorcery
 classes:
+- Alternate Sorcerer (Elder Sorcery)
+- Alternate Sorcerer (Fey Sorcery)
 - Bard
 - Warlock
 aliases:
@@ -25,6 +29,6 @@ aliases:
 
 Until the spell ends, when you make a Charisma check, you can replace the number you roll with a 15. Additionally, no matter what you say, magic that would determine if you are telling the truth indicates that you are being truthful.
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Warlock](/lists/list-spells-classes-warlock.md)
+**Classes**: [Alternate Sorcerer (Elder Sorcery)](/lists/list-spells-classes-elder-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Alternate Sorcerer (Fey Sorcery)](/lists/list-spells-classes-fey-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Warlock](/lists/list-spells-classes-warlock.md)
 
 *Source: Player's Handbook (2024) p. 279. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

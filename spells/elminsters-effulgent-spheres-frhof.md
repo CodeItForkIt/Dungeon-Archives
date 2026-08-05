@@ -13,10 +13,14 @@ tags:
 - spell/school/evocation
 - spell/subclass/arcana-domain
 - spell/subclass/evoker
+- spell/subclass/order-of-arcanists
+- spell/subclass/verdant-sorcery
 classes:
+- Alternate Sorcerer (Verdant Sorcery)
 - Bard
 - Cleric (Arcana Domain)
 - Druid
+- Magus (Order of Arcanists)
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
@@ -43,6 +47,6 @@ The spell ends early if you have no more spheres remaining.
 
 **Using a Higher-Level Spell Slot.** The number of spheres increases by 1 for every spell slot level above 6.
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Druid](/lists/list-spells-classes-druid.md); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Wizard (Evoker)](/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Sorcerer (Verdant Sorcery)](/lists/list-spells-classes-verdant-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Druid](/lists/list-spells-classes-druid.md); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Wizard (Evoker)](/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Forgotten Realms: Heroes of Faerûn p. 144*

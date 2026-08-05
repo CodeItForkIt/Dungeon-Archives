@@ -13,6 +13,8 @@ tags:
 - spell/feat/magic-initiate/wizard-spells
 - spell/feat/wood-elf-magic
 - spell/level/cantrip
+- spell/optfeature/arcane-warrior/wizard
+- spell/optfeature/druidic-warrior/druid
 - spell/optfeature/pact-of-the-tome
 - spell/race/elf/high-elf
 - spell/race/elf/lorwyn
@@ -27,15 +29,19 @@ tags:
 - spell/subclass/eldritch-knight
 - spell/subclass/graviturgy-magic
 - spell/subclass/nature-domain
+- spell/subclass/order-of-arcanists
+- spell/subclass/verdant-sorcery
 - spell/subrace/genasi-water
 - spell/subrace/half-elf-moon-elf-or-sun-elf-descent
 classes:
+- Alternate Sorcerer (Verdant Sorcery)
 - Bard (College of Lore)
 - Bard (College of the Moon)
 - Cleric (Arcana Domain)
 - Cleric (Nature Domain)
 - Druid
 - Fighter (Eldritch Knight)
+- Magus (Order of Arcanists)
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
@@ -62,6 +68,6 @@ You choose an area of water that you can see within range and that fits within a
 
 If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
 
-**Classes**: [Bard (College of Lore)](/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of the Moon)](/lists/list-spells-classes-college-of-the-moon-frhof.md "subclass=FRHoF;class=XPHB"); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Cleric (Nature Domain)](/lists/list-spells-classes-nature-domain.md "class=XPHB"); [Druid](/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Wizard (Chronurgy Magic)](/lists/list-spells-classes-chronurgy-magic-egw.md "subclass=EGW;class=XPHB"); [Wizard (Graviturgy Magic)](/lists/list-spells-classes-graviturgy-magic-egw.md "subclass=EGW;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Sorcerer (Verdant Sorcery)](/lists/list-spells-classes-verdant-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Bard (College of Lore)](/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of the Moon)](/lists/list-spells-classes-college-of-the-moon-frhof.md "subclass=FRHoF;class=XPHB"); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Cleric (Nature Domain)](/lists/list-spells-classes-nature-domain.md "class=XPHB"); [Druid](/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Rogue (Arcane Trickster)](/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Wizard (Chronurgy Magic)](/lists/list-spells-classes-chronurgy-magic-egw.md "subclass=EGW;class=XPHB"); [Wizard (Graviturgy Magic)](/lists/list-spells-classes-graviturgy-magic-egw.md "subclass=EGW;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 164, Elemental Evil Player's Companion p. 21, Explorer's Guide to Wildemount*

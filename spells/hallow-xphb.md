@@ -4,13 +4,19 @@ cssclasses:
 - json5e-spell
 tags:
 - compendium/src/5e/xphb
+- spell/class/alternate-bard/magical-secrets
 - spell/class/bard
 - spell/class/cleric
 - spell/feat/mark-of-hospitality
 - spell/level/5th-level
 - spell/school/abjuration
+- spell/subclass/divine-sorcery
 - spell/subclass/divine-soul
+- spell/subclass/loremaster/magical-secrets
 classes:
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Sorcerer (Divine Sorcery)
 - Bard
 - Cleric
 - Sorcerer (Divine Soul)
@@ -49,6 +55,6 @@ You bind an extra effect to the area from the list below:
 
 ## Summary
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Cleric](/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+**Classes**: [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Sorcerer (Divine Sorcery)](/lists/list-spells-classes-divine-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Cleric](/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 283. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

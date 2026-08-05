@@ -4,13 +4,25 @@ cssclasses:
 - json5e-spell
 tags:
 - compendium/src/5e/frhof
+- spell/class/alternate-bard/magical-secrets
 - spell/class/bard
 - spell/class/cleric
 - spell/class/warlock
 - spell/level/4th-level
 - spell/school/conjuration
+- spell/subclass/divine-sorcery
 - spell/subclass/divine-soul
+- spell/subclass/elder-sorcery
+- spell/subclass/fey-sorcery
+- spell/subclass/loremaster/magical-secrets
+- spell/subclass/mystic
 classes:
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Fighter (Mystic)
+- Alternate Sorcerer (Divine Sorcery)
+- Alternate Sorcerer (Elder Sorcery)
+- Alternate Sorcerer (Fey Sorcery)
 - Bard
 - Cleric
 - Sorcerer (Divine Soul)
@@ -41,6 +53,6 @@ When the spell is cast, each secondary caster must expend a level 3+ spell slot;
 
 ## Summary
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Cleric](/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock](/lists/list-spells-classes-warlock.md)
+**Classes**: [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Fighter (Mystic)](/lists/list-spells-classes-mystic-llaf.md "subclass=LLAF;class=LLAF"); [Alternate Sorcerer (Divine Sorcery)](/lists/list-spells-classes-divine-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Alternate Sorcerer (Elder Sorcery)](/lists/list-spells-classes-elder-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Alternate Sorcerer (Fey Sorcery)](/lists/list-spells-classes-fey-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Cleric](/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock](/lists/list-spells-classes-warlock.md)
 
 *Source: Forgotten Realms: Heroes of Faerûn p. 144*

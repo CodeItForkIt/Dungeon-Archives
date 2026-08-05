@@ -4,12 +4,18 @@ cssclasses:
 - json5e-spell
 tags:
 - compendium/src/5e/xge
+- spell/class/alternate-bard/magical-secrets
 - spell/class/bard
 - spell/class/druid
 - spell/class/ranger
 - spell/level/5th-level
 - spell/school/evocation
+- spell/subclass/loremaster/magical-secrets
+- spell/subclass/verdant-sorcery
 classes:
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Sorcerer (Verdant Sorcery)
 - Bard
 - Druid
 - Ranger
@@ -45,6 +51,6 @@ As a bonus action on your turn, you can cause a loose rock in the cube to launch
 
 ## Summary
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Druid](/lists/list-spells-classes-druid.md); [Ranger](/lists/list-spells-classes-ranger.md)
+**Classes**: [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Sorcerer (Verdant Sorcery)](/lists/list-spells-classes-verdant-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Druid](/lists/list-spells-classes-druid.md); [Ranger](/lists/list-spells-classes-ranger.md)
 
 *Source: Xanathar's Guide to Everything p. 171*

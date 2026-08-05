@@ -13,14 +13,19 @@ tags:
 - spell/feat/spell-sniper
 - spell/feat/wood-elf-magic
 - spell/level/cantrip
+- spell/optfeature/druidic-warrior/druid
 - spell/optfeature/pact-of-the-tome
 - spell/race/elf/lorwyn
 - spell/race/khoravar
 - spell/school/transmutation
 - spell/subclass/college-of-lore
 - spell/subclass/college-of-the-moon
+- spell/subclass/elder-sorcery
 - spell/subclass/nature-domain
+- spell/subclass/verdant-sorcery
 classes:
+- Alternate Sorcerer (Elder Sorcery)
+- Alternate Sorcerer (Verdant Sorcery)
 - Artificer
 - Bard (College of Lore)
 - Bard (College of the Moon)
@@ -43,6 +48,6 @@ You touch one to three pebbles and imbue them with magic. You or someone else ca
 
 If you cast this spell again, the spell ends on any pebbles still affected by your previous casting.
 
-**Classes**: [Artificer](/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of the Moon)](/lists/list-spells-classes-college-of-the-moon-frhof.md "subclass=FRHoF;class=XPHB"); [Cleric (Nature Domain)](/lists/list-spells-classes-nature-domain.md "class=XPHB"); [Druid](/lists/list-spells-classes-druid.md); [Warlock](/lists/list-spells-classes-warlock.md)
+**Classes**: [Alternate Sorcerer (Elder Sorcery)](/lists/list-spells-classes-elder-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Alternate Sorcerer (Verdant Sorcery)](/lists/list-spells-classes-verdant-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Artificer](/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of the Moon)](/lists/list-spells-classes-college-of-the-moon-frhof.md "subclass=FRHoF;class=XPHB"); [Cleric (Nature Domain)](/lists/list-spells-classes-nature-domain.md "class=XPHB"); [Druid](/lists/list-spells-classes-druid.md); [Warlock](/lists/list-spells-classes-warlock.md)
 
 *Source: Xanathar's Guide to Everything p. 160, Elemental Evil Player's Companion p. 20*

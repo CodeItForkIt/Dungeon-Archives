@@ -9,7 +9,9 @@ tags:
 - spell/feat/boon-of-siberys/mark-of-handling
 - spell/level/8th-level
 - spell/school/transmutation
+- spell/subclass/verdant-sorcery
 classes:
+- Alternate Sorcerer (Verdant Sorcery)
 - Bard
 - Druid
 aliases:
@@ -30,6 +32,6 @@ A target's game statistics are replaced by the chosen Beast's statistics, but th
 
 The target gains a number of [Temporary Hit Points](/rules/variant-rules/temporary-hit-points-xphb.md) equal to the [Hit Points](/rules/variant-rules/hit-points-xphb.md) of the first form into which it shape-shifts. These [Temporary Hit Points](/rules/variant-rules/temporary-hit-points-xphb.md) vanish if any remain when the spell ends. The transformation lasts for the duration or until the target ends it as a [Bonus Action](/rules/variant-rules/bonus-action-xphb.md).
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Druid](/lists/list-spells-classes-druid.md)
+**Classes**: [Alternate Sorcerer (Verdant Sorcery)](/lists/list-spells-classes-verdant-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Druid](/lists/list-spells-classes-druid.md)
 
 *Source: Player's Handbook (2024) p. 240. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

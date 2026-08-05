@@ -12,21 +12,27 @@ aliases:
 ## Cantrip
 
 - [Acid Splash](/spells/acid-splash-xphb.md "XPHB") at class level 3
+- [Acid Splash (Alternate)](/spells/acid-splash-alternate-llspell.md "llspell") at class level 3
+- [Beckon Air](/spells/beckon-air-llspell.md "llspell") at class level 3
 - [Blade Ward](/spells/blade-ward-xphb.md "XPHB") at class level 3
+- [Blade Ward (Alternate)](/spells/blade-ward-alternate-llspell.md "llspell") at class level 3
 - [Booming Blade](/spells/booming-blade-tce.md "TCE") at class level 3
 - [Chill Touch](/spells/chill-touch-xphb.md "XPHB") at class level 3
+- [Control Flame (Alternate)](/spells/control-flame-alternate-llspell.md "llspell") at class level 3
 - [Control Flames](/spells/control-flames-xge.md "XGE") at class level 3
 - [Create Bonfire](/spells/create-bonfire-xge.md "XGE") at class level 3
 - [Dancing Lights](/spells/dancing-lights-xphb.md "XPHB") at class level 3
 - [Elementalism](/spells/elementalism-xphb.md "XPHB") at class level 3
 - [Fire Bolt](/spells/fire-bolt-xphb.md "XPHB") at class level 3
 - [Friends](/spells/friends-xphb.md "XPHB") at class level 3
+- [Friends (Alternate)](/spells/friends-alternate-llspell.md "llspell") at class level 3
 - [Frostbite](/spells/frostbite-xge.md "XGE") at class level 3
 - [Green-Flame Blade](/spells/green-flame-blade-tce.md "TCE") at class level 3
 - [Gust](/spells/gust-xge.md "XGE") at class level 3
 - [Infestation](/spells/infestation-xge.md "XGE") at class level 3
 - [Light](/spells/light-xphb.md "XPHB") at class level 3
 - [Lightning Lure](/spells/lightning-lure-tce.md "TCE") at class level 3
+- [Lightning Lure (Alternate)](/spells/lightning-lure-alternate-llspell.md "llspell") at class level 3
 - [Mage Hand](/spells/mage-hand-xphb.md "XPHB") at class level 3
 - [Mending](/spells/mending-xphb.md "XPHB") at class level 3
 - [Message](/spells/message-xphb.md "XPHB") at class level 3
@@ -34,6 +40,7 @@ aliases:
 - [Minor Illusion](/spells/minor-illusion-xphb.md "XPHB") at class level 3
 - [Mold Earth](/spells/mold-earth-xge.md "XGE") at class level 3
 - [Poison Spray](/spells/poison-spray-xphb.md "XPHB") at class level 3
+- [Poison Spray (Alternate)](/spells/poison-spray-alternate-llspell.md "llspell") at class level 3
 - [Prestidigitation](/spells/prestidigitation-xphb.md "XPHB") at class level 3
 - [Ray of Frost](/spells/ray-of-frost-xphb.md "XPHB") at class level 3
 - [Shape Water](/spells/shape-water-xge.md "XGE") at class level 3
@@ -42,6 +49,7 @@ aliases:
 - [Thunderclap](/spells/thunderclap-xphb.md "XPHB") at class level 3
 - [Toll the Dead](/spells/toll-the-dead-xphb.md "XPHB") at class level 3
 - [True Strike](/spells/true-strike-xphb.md "XPHB") at class level 3
+- [True Strike (Alternate)](/spells/true-strike-alternate-llspell.md "llspell") at class level 3
 
 ## 1st Level
 
@@ -69,6 +77,7 @@ aliases:
 - [Illusory Script](/spells/illusory-script-xphb.md "XPHB") at class level 3
 - [Jim's Magic Missile](/spells/jims-magic-missile-ai.md "AI") at class level 3
 - [Jump](/spells/jump-xphb.md "XPHB") at class level 3
+- [Jump (Alternate)](/spells/jump-alternate-llspell.md "llspell") at class level 3
 - [Longstrider](/spells/longstrider-xphb.md "XPHB") at class level 3
 - [Mage Armor](/spells/mage-armor-xphb.md "XPHB") at class level 3
 - [Magic Missile](/spells/magic-missile-xphb.md "XPHB") at class level 3
@@ -84,6 +93,7 @@ aliases:
 - [Tasha's Hideous Laughter](/spells/tashas-hideous-laughter-xphb.md "XPHB") at class level 3
 - [Tenser's Floating Disk](/spells/tensers-floating-disk-xphb.md "XPHB") at class level 3
 - [Thunderwave](/spells/thunderwave-xphb.md "XPHB") at class level 3
+- [Torrent](/spells/torrent-llspell.md "llspell") at class level 3
 - [Unseen Servant](/spells/unseen-servant-xphb.md "XPHB") at class level 3
 - [Wardaway](/spells/wardaway-frhof.md "FRHoF") at class level 3
 - [Witch Bolt](/spells/witch-bolt-xphb.md "XPHB") at class level 3
@@ -101,6 +111,7 @@ aliases:
 - [Borrowed Knowledge](/spells/borrowed-knowledge-scc.md "SCC") at class level 7
 - [Cloud of Daggers](/spells/cloud-of-daggers-xphb.md "XPHB") at class level 7
 - [Continual Flame](/spells/continual-flame-xphb.md "XPHB") at class level 7
+- [Create Ooze](/spells/create-ooze-llspell.md "llspell") at class level 7
 - [Crown of Madness](/spells/crown-of-madness-xphb.md "XPHB") at class level 7
 - [Darkness](/spells/darkness-xphb.md "XPHB") at class level 7
 - [Darkvision](/spells/darkvision-xphb.md "XPHB") at class level 7
@@ -123,6 +134,7 @@ aliases:
 - [Kinetic Jaunt](/spells/kinetic-jaunt-scc.md "SCC") at class level 7
 - [Knock](/spells/knock-xphb.md "XPHB") at class level 7
 - [Levitate](/spells/levitate-xphb.md "XPHB") at class level 7
+- [Locate Creature (Alternate)](/spells/locate-creature-alternate-llspell.md "llspell") at class level 7
 - [Locate Object](/spells/locate-object-xphb.md "XPHB") at class level 7
 - [Magic Mouth](/spells/magic-mouth-xphb.md "XPHB") at class level 7
 - [Magic Weapon](/spells/magic-weapon-xphb.md "XPHB") at class level 7
@@ -157,6 +169,7 @@ aliases:
 ## 3rd Level
 
 - [Animate Dead](/spells/animate-dead-xphb.md "XPHB") at class level 13
+- [Animate Dead (Alternate)](/spells/animate-dead-alternate-llspell.md "llspell") at class level 13
 - [Antagonize](/spells/antagonize-bmt.md "BMT") at class level 13
 - [Ashardalon's Stride](/spells/ashardalons-stride-ftd.md "FTD") at class level 13
 - [Bestow Curse](/spells/bestow-curse-xphb.md "XPHB") at class level 13
@@ -165,7 +178,10 @@ aliases:
 - [Catnap](/spells/catnap-xge.md "XGE") at class level 13
 - [Clairvoyance](/spells/clairvoyance-xphb.md "XPHB") at class level 13
 - [Conjure Constructs](/spells/conjure-constructs-frhof.md "FRHoF") at class level 13
+- [Conjure Fey (Alternate)](/spells/conjure-fey-alternate-llspell.md "llspell") at class level 13
+- [Conjure Fiend](/spells/conjure-fiend-llspell.md "llspell") at class level 13
 - [Counterspell](/spells/counterspell-xphb.md "XPHB") at class level 13
+- [Counterspell (Alternate)](/spells/counterspell-alternate-llspell.md "llspell") at class level 13
 - [Dispel Magic](/spells/dispel-magic-xphb.md "XPHB") at class level 13
 - [Enemies Abound](/spells/enemies-abound-xge.md "XGE") at class level 13
 - [Erupting Earth](/spells/erupting-earth-xge.md "XGE") at class level 13
@@ -179,6 +195,7 @@ aliases:
 - [Glyph of Warding](/spells/glyph-of-warding-xphb.md "XPHB") at class level 13
 - [Haste](/spells/haste-xphb.md "XPHB") at class level 13
 - [Hypnotic Pattern](/spells/hypnotic-pattern-xphb.md "XPHB") at class level 13
+- [Hypnotic Pattern (Alternate)](/spells/hypnotic-pattern-alternate-llspell.md "llspell") at class level 13
 - [Incite Greed](/spells/incite-greed-ai.md "AI") at class level 13
 - [Intellect Fortress](/spells/intellect-fortress-tce.md "TCE") at class level 13
 - [Laeral's Silver Lance](/spells/laerals-silver-lance-frhof.md "FRHoF") at class level 13
@@ -214,16 +231,19 @@ aliases:
 
 ## 4th Level
 
+- [Accursed Touch](/spells/accursed-touch-llspell.md "llspell") at class level 19
 - [Arcane Eye](/spells/arcane-eye-xphb.md "XPHB") at class level 19
 - [Backlash](/spells/backlash-frhof.md "FRHoF") at class level 19
 - [Banishment](/spells/banishment-xphb.md "XPHB") at class level 19
 - [Blight](/spells/blight-xphb.md "XPHB") at class level 19
 - [Charm Monster](/spells/charm-monster-xphb.md "XPHB") at class level 19
 - [Confusion](/spells/confusion-xphb.md "XPHB") at class level 19
+- [Conjure Aberration](/spells/conjure-aberration-llspell.md "llspell") at class level 19
 - [Conjure Minor Elementals](/spells/conjure-minor-elementals-xphb.md "XPHB") at class level 19
 - [Control Water](/spells/control-water-xphb.md "XPHB") at class level 19
 - [Dimension Door](/spells/dimension-door-xphb.md "XPHB") at class level 19
 - [Divination](/spells/divination-xphb.md "XPHB") at class level 19
+- [Dominate Creature](/spells/dominate-creature-llspell.md "llspell") at class level 19
 - [Elemental Bane](/spells/elemental-bane-xge.md "XGE") at class level 19
 - [Evard's Black Tentacles](/spells/evards-black-tentacles-xphb.md "XPHB") at class level 19
 - [Fabricate](/spells/fabricate-xphb.md "XPHB") at class level 19
@@ -239,6 +259,7 @@ aliases:
 - [Otiluke's Resilient Sphere](/spells/otilukes-resilient-sphere-xphb.md "XPHB") at class level 19
 - [Phantasmal Killer](/spells/phantasmal-killer-xphb.md "XPHB") at class level 19
 - [Polymorph](/spells/polymorph-xphb.md "XPHB") at class level 19
+- [Polymorph (Alternate)](/spells/polymorph-alternate-llspell.md "llspell") at class level 19
 - [Raulothim's Psychic Lance](/spells/raulothims-psychic-lance-ftd.md "FTD") at class level 19
 - [Sickening Radiance](/spells/sickening-radiance-xge.md "XGE") at class level 19
 - [Spellfire Storm](/spells/spellfire-storm-frhof.md "FRHoF") at class level 19
@@ -252,4 +273,5 @@ aliases:
 - [Summon Greater Demon](/spells/summon-greater-demon-xge.md "XGE") at class level 19
 - [Vitriolic Sphere](/spells/vitriolic-sphere-xphb.md "XPHB") at class level 19
 - [Wall of Fire](/spells/wall-of-fire-xphb.md "XPHB") at class level 19
+- [Wall of Ice (Alternate)](/spells/wall-of-ice-alternate-llspell.md "llspell") at class level 19
 - [Watery Sphere](/spells/watery-sphere-xge.md "XGE") at class level 19

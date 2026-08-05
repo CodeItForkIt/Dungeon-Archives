@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - compendium/src/5e/xphb
 - spell/background/quandrix-student
+- spell/class/alternate-bard/magical-secrets
 - spell/class/bard
 - spell/class/cleric
 - spell/class/druid
@@ -13,19 +14,36 @@ tags:
 - spell/level/4th-level
 - spell/school/transmutation
 - spell/subclass/arcane-trickster
+- spell/subclass/buccaneer
 - spell/subclass/circle-of-the-sea
+- spell/subclass/divine-sorcery
 - spell/subclass/divine-soul
 - spell/subclass/eldritch-knight
+- spell/subclass/loremaster/magical-secrets
+- spell/subclass/mystic
+- spell/subclass/order-of-arcanists
 - spell/subclass/tempest-domain
+- spell/subclass/the-deep-one
 - spell/subclass/the-fathomless
 - spell/subclass/the-genie
+- spell/subclass/tides
+- spell/subclass/verdant-sorcery
 classes:
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Druid (Tides)
+- Alternate Fighter (Mystic)
+- Alternate Ranger (Buccaneer)
+- Alternate Sorcerer (Divine Sorcery)
+- Alternate Sorcerer (Verdant Sorcery)
+- Alternate Warlock (The Deep One)
 - Bard
 - Cleric
 - Cleric (Tempest Domain)
 - Druid
 - Druid (Circle of the Sea)
 - Fighter (Eldritch Knight)
+- Magus (Order of Arcanists)
 - Rogue (Arcane Trickster)
 - Sorcerer (Divine Soul)
 - Warlock (The Fathomless)
@@ -65,6 +83,6 @@ You cause a whirlpool to form in the center of the area, which must be at least 
 
 ## Summary
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Cleric (Tempest Domain)](/lists/list-spells-classes-tempest-domain.md "class=XPHB"); [Cleric](/lists/list-spells-classes-cleric.md); [Druid (Circle of the Sea)](/lists/list-spells-classes-circle-of-the-sea-xphb.md "subclass=XPHB;class=XPHB"); [Druid](/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock (The Fathomless)](/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE;class=XPHB"); [Warlock (The Genie)](/lists/list-spells-classes-the-genie-tce.md "subclass=TCE;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Druid (Tides)](/lists/list-spells-classes-tides-lladru.md "subclass=LLADru;class=LLADru"); [Alternate Fighter (Mystic)](/lists/list-spells-classes-mystic-llaf.md "subclass=LLAF;class=LLAF"); [Alternate Ranger (Buccaneer)](/lists/list-spells-classes-buccaneer-llar-e.md "subclass=LLAR:E;class=LLAR"); [Alternate Sorcerer (Divine Sorcery)](/lists/list-spells-classes-divine-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Alternate Sorcerer (Verdant Sorcery)](/lists/list-spells-classes-verdant-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Alternate Warlock (The Deep One)](/lists/list-spells-classes-the-deep-one-llwrc.md "subclass=LLWrc;class=LLWrc"); [Bard](/lists/list-spells-classes-bard.md); [Cleric (Tempest Domain)](/lists/list-spells-classes-tempest-domain.md "class=XPHB"); [Cleric](/lists/list-spells-classes-cleric.md); [Druid (Circle of the Sea)](/lists/list-spells-classes-circle-of-the-sea-xphb.md "subclass=XPHB;class=XPHB"); [Druid](/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Rogue (Arcane Trickster)](/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock (The Fathomless)](/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE;class=XPHB"); [Warlock (The Genie)](/lists/list-spells-classes-the-genie-tce.md "subclass=TCE;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 256. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

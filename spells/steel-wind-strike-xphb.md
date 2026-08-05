@@ -4,16 +4,22 @@ cssclasses:
 - json5e-spell
 tags:
 - compendium/src/5e/xphb
+- spell/class/alternate-bard/magical-secrets
 - spell/class/bard
 - spell/class/ranger
 - spell/class/wizard
 - spell/level/5th-level
 - spell/school/conjuration
 - spell/subclass/hollow-warden
+- spell/subclass/loremaster/magical-secrets
+- spell/subclass/order-of-arcanists
 - spell/subclass/war-domain
 classes:
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
 - Bard
 - Cleric (War Domain)
+- Magus (Order of Arcanists)
 - Ranger
 - Ranger (Hollow Warden)
 - Wizard
@@ -33,6 +39,6 @@ You flourish the weapon used in the casting and then vanish to strike like the w
 
 You then teleport to an unoccupied space you can see within 5 feet of one of the targets.
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Cleric (War Domain)](/lists/list-spells-classes-war-domain-xphb.md "subclass=XPHB;class=XPHB"); [Ranger (Hollow Warden)](/lists/list-spells-classes-hollow-warden-rhw.md "subclass=RHW;class=XPHB"); [Ranger](/lists/list-spells-classes-ranger.md); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Bard](/lists/list-spells-classes-bard.md); [Cleric (War Domain)](/lists/list-spells-classes-war-domain-xphb.md "subclass=XPHB;class=XPHB"); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Ranger (Hollow Warden)](/lists/list-spells-classes-hollow-warden-rhw.md "subclass=RHW;class=XPHB"); [Ranger](/lists/list-spells-classes-ranger.md); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 320*

@@ -12,9 +12,11 @@ tags:
 - spell/school/evocation
 - spell/subclass/arcana-domain
 - spell/subclass/evoker
+- spell/subclass/order-of-arcanists
 classes:
 - Bard
 - Cleric (Arcana Domain)
+- Magus (Order of Arcanists)
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
@@ -36,10 +38,10 @@ The spell's base damage is `12d6`, and the damage increases by `1d6` whenever yo
 
 If a creature touches the glowing bead before the spell ends, that creature makes a Dexterity saving throw. On a failed save, the spell ends, causing the bead to explode. On a successful save, the creature can throw the bead up to 40 feet. If the thrown bead enters a creature's space or collides with a solid object, the spell ends, and the bead explodes.
 
-When the bead explodes, flammable objects in the explosion that aren't being worn or carried start [burning](Burning.md).
+When the bead explodes, flammable objects in the explosion that aren't being worn or carried start [burning](/traps-hazards/burning-xphb.md).
 
 **Using a Higher-Level Spell Slot.** The base damage increases by `1d6` for each spell slot level above 7.
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Wizard (Evoker)](/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Wizard (Evoker)](/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 261. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -17,6 +17,8 @@ tags:
 - spell/feat/strixhaven-initiate/quandrix-1
 - spell/feat/wood-elf-magic
 - spell/level/cantrip
+- spell/optfeature/divine-light
+- spell/optfeature/druidic-warrior/druid
 - spell/optfeature/pact-of-the-tome
 - spell/race/elf/lorwyn
 - spell/race/khoravar
@@ -24,9 +26,15 @@ tags:
 - spell/subclass/circle-of-the-stars
 - spell/subclass/college-of-lore
 - spell/subclass/college-of-the-moon
+- spell/subclass/divine-sorcery
 - spell/subclass/divine-soul
 - spell/subclass/nature-domain
+- spell/subclass/stargazer/elephant
+- spell/subclass/verdant-sorcery
 classes:
+- Alternate Ranger (Stargazer, Elephant)
+- Alternate Sorcerer (Divine Sorcery)
+- Alternate Sorcerer (Verdant Sorcery)
 - Artificer
 - Bard (College of Lore)
 - Bard (College of the Moon)
@@ -49,6 +57,6 @@ aliases:
 
 You touch a willing creature and choose a skill. Until the spell ends, the creature adds `1d4` to any ability check using the chosen skill.
 
-**Classes**: [Artificer](/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of the Moon)](/lists/list-spells-classes-college-of-the-moon-frhof.md "subclass=FRHoF;class=XPHB"); [Cleric (Nature Domain)](/lists/list-spells-classes-nature-domain.md "class=XPHB"); [Cleric](/lists/list-spells-classes-cleric.md); [Druid (Circle of the Stars)](/lists/list-spells-classes-circle-of-the-stars-xphb.md "subclass=XPHB;class=XPHB"); [Druid](/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+**Classes**: [Alternate Ranger (Stargazer, Elephant)](/lists/list-spells-classes-stargazer-llar-e.md "subclass=LLAR:E;class=LLAR"); [Alternate Sorcerer (Divine Sorcery)](/lists/list-spells-classes-divine-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Alternate Sorcerer (Verdant Sorcery)](/lists/list-spells-classes-verdant-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Artificer](/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of the Moon)](/lists/list-spells-classes-college-of-the-moon-frhof.md "subclass=FRHoF;class=XPHB"); [Cleric (Nature Domain)](/lists/list-spells-classes-nature-domain.md "class=XPHB"); [Cleric](/lists/list-spells-classes-cleric.md); [Druid (Circle of the Stars)](/lists/list-spells-classes-circle-of-the-stars-xphb.md "subclass=XPHB;class=XPHB"); [Druid](/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 282. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

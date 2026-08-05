@@ -103,6 +103,7 @@ aliases:
 - [Clairvoyance](/spells/clairvoyance-xphb.md "XPHB")
 - [Counterspell](/spells/counterspell-xphb.md "XPHB")
 - [Daylight](/spells/daylight-xphb.md "XPHB")
+- [Daylight (Alternate)](/spells/daylight-alternate-llspell.md "llspell")
 - [Dispel Magic](/spells/dispel-magic-xphb.md "XPHB")
 - [Enemies Abound](/spells/enemies-abound-xge.md "XGE")
 - [Erupting Earth](/spells/erupting-earth-xge.md "XGE")
@@ -181,6 +182,7 @@ aliases:
 ## 6th Level
 
 - [Arcane Gate](/spells/arcane-gate-xphb.md "XPHB")
+- [Astral Blade](/spells/astral-blade-llspell.md "llspell")
 - [Chain Lightning](/spells/chain-lightning-xphb.md "XPHB")
 - [Circle of Death](/spells/circle-of-death-xphb.md "XPHB")
 - [Disintegrate](/spells/disintegrate-xphb.md "XPHB")

@@ -4,6 +4,7 @@ cssclasses:
 - json5e-spell
 tags:
 - compendium/src/5e/xphb
+- spell/class/alternate-bard/magical-secrets
 - spell/class/bard
 - spell/class/wizard
 - spell/level/5th-level
@@ -11,13 +12,20 @@ tags:
 - spell/subclass/armorer
 - spell/subclass/artillerist
 - spell/subclass/clockwork-sorcery
+- spell/subclass/enlightened
 - spell/subclass/evoker
+- spell/subclass/loremaster/magical-secrets
 - spell/subclass/oath-of-redemption
+- spell/subclass/order-of-arcanists
 classes:
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
 - Artificer (Armorer)
 - Artificer (Artillerist)
 - Bard
+- Magus (Order of Arcanists)
 - Paladin (Oath of Redemption)
+- Psion (Enlightened)
 - Sorcerer (Clockwork Sorcery)
 - Wizard
 - Wizard (Evoker)
@@ -37,6 +45,6 @@ An [Invisible](/rules/conditions.md#Invisible) wall of force springs into existe
 
 Nothing can physically pass through the wall. It is immune to all damage and can't be dispelled by [Dispel Magic](/spells/dispel-magic-xphb.md). A [Disintegrate](/spells/disintegrate-xphb.md) spell destroys the wall instantly, however. The wall also extends into the Ethereal Plane and blocks ethereal travel through the wall.
 
-**Classes**: [Artificer (Armorer)](/lists/list-spells-classes-armorer-efa.md "subclass=EFA;class=EFA"); [Artificer (Artillerist)](/lists/list-spells-classes-artillerist-efa.md "subclass=EFA;class=EFA"); [Bard](/lists/list-spells-classes-bard.md); [Paladin (Oath of Redemption)](/lists/list-spells-classes-oath-of-redemption-xge.md "subclass=XGE;class=XPHB"); [Sorcerer (Clockwork Sorcery)](/lists/list-spells-classes-clockwork-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Evoker)](/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Artificer (Armorer)](/lists/list-spells-classes-armorer-efa.md "subclass=EFA;class=EFA"); [Artificer (Artillerist)](/lists/list-spells-classes-artillerist-efa.md "subclass=EFA;class=EFA"); [Bard](/lists/list-spells-classes-bard.md); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Paladin (Oath of Redemption)](/lists/list-spells-classes-oath-of-redemption-xge.md "subclass=XGE;class=XPHB"); [Psion (Enlightened)](/lists/list-spells-classes-enlightened-llps.md "subclass=LLPS;class=LLPS"); [Sorcerer (Clockwork Sorcery)](/lists/list-spells-classes-clockwork-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Evoker)](/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 338. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

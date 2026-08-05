@@ -11,6 +11,8 @@ aliases:
 
 ## Cantrip
 
+- [Beckon Air](/spells/beckon-air-llspell.md "llspell")
+- [Control Flame (Alternate)](/spells/control-flame-alternate-llspell.md "llspell")
 - [Control Flames](/spells/control-flames-xge.md "XGE")
 - [Create Bonfire](/spells/create-bonfire-xge.md "XGE")
 - [Druidcraft](/spells/druidcraft-xphb.md "XPHB")
@@ -24,7 +26,9 @@ aliases:
 - [Message](/spells/message-xphb.md "XPHB")
 - [Mold Earth](/spells/mold-earth-xge.md "XGE")
 - [Poison Spray](/spells/poison-spray-xphb.md "XPHB")
+- [Poison Spray (Alternate)](/spells/poison-spray-alternate-llspell.md "llspell")
 - [Primal Savagery](/spells/primal-savagery-xge.md "XGE")
+- [Primal Savagery (Alternate)](/spells/primal-savagery-alternate-llspell.md "llspell")
 - [Produce Flame](/spells/produce-flame-xphb.md "XPHB")
 - [Resistance](/spells/resistance-xphb.md "XPHB")
 - [Shape Water](/spells/shape-water-xge.md "XGE")

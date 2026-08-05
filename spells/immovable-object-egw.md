@@ -4,11 +4,23 @@ cssclasses:
 - json5e-spell
 tags:
 - compendium/src/5e/egw
+- spell/class/alternate-bard/magical-secrets
 - spell/level/2nd-level
 - spell/school/transmutation
+- spell/subclass/academy-of-zeal
 - spell/subclass/chronurgy-magic
 - spell/subclass/graviturgy-magic
+- spell/subclass/loremaster/magical-secrets
+- spell/subclass/mystic
+- spell/subclass/order-of-witch-knights
+- spell/subclass/witchblade
 classes:
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Blood Hunter (Order of Witch Knights)
+- Alternate Fighter (Mystic)
+- Alternate Fighter (Witchblade)
+- Warlord (Academy of Zeal)
 - Wizard (Chronurgy Magic)
 - Wizard (Graviturgy Magic)
 aliases:
@@ -29,6 +41,6 @@ If the object is fixed in the air, it can hold up to 4,000 pounds of weight. Mor
 
 **At Higher Levels.** If you cast this spell using a spell slot of 4th or 5th level, the DC to move the object increases by 5, it can carry up to 8,000 pounds of weight, and the duration increases to 24 hours. If you cast this spell using a spell slot of 6th level or higher, the DC to move the object increases by 10, it can carry up to 20,000 pounds of weight, and the effect is permanent until dispelled.
 
-**Classes**: [Wizard (Chronurgy Magic)](/lists/list-spells-classes-chronurgy-magic-egw.md "subclass=EGW;class=XPHB"); [Wizard (Graviturgy Magic)](/lists/list-spells-classes-graviturgy-magic-egw.md "subclass=EGW;class=XPHB")
+**Classes**: [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Blood Hunter (Order of Witch Knights)](/lists/list-spells-classes-order-of-witch-knights-llabh.md "subclass=LLABH;class=LLABH"); [Alternate Fighter (Mystic)](/lists/list-spells-classes-mystic-llaf.md "subclass=LLAF;class=LLAF"); [Alternate Fighter (Witchblade)](/lists/list-spells-classes-witchblade-llaf-e.md "subclass=LLAF:E;class=LLAF"); [Warlord (Academy of Zeal)](/lists/list-spells-classes-academy-of-zeal-llaw-e.md "subclass=LLAW:E;class=LLAW"); [Wizard (Chronurgy Magic)](/lists/list-spells-classes-chronurgy-magic-egw.md "subclass=EGW;class=XPHB"); [Wizard (Graviturgy Magic)](/lists/list-spells-classes-graviturgy-magic-egw.md "subclass=EGW;class=XPHB")
 
 *Source: Explorer's Guide to Wildemount p. 187*

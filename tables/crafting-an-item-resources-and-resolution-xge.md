@@ -1,0 +1,19 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-note
+tags:
+- compendium/src/5e/xge
+aliases:
+- "Crafting an Item; Resources and Resolution"
+---
+# Crafting an Item; Resources and Resolution
+*Source: Xanathar's Guide to Everything p. 128* 
+
+| Proficiency | Items |
+|-------------|-------|
+| [Herbalism kit](/items/herbalism-kit-xphb.md) | Antitoxin, potion of healing |
+| [Leatherworker's tools](/items/leatherworkers-tools-xphb.md) | Leather armor, boots |
+| [Smith's tools](/items/smiths-tools-xphb.md) | Armor, weapons |
+| [Weaver's tools](/items/weavers-tools-xphb.md) | Cloaks, robes |
+^proficiency-items

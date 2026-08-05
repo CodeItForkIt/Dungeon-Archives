@@ -12,6 +12,7 @@ aliases:
 ## Cantrip
 
 - [Acid Splash](/spells/acid-splash-xphb.md "XPHB")
+- [Acid Splash (Alternate)](/spells/acid-splash-alternate-llspell.md "llspell")
 - [Booming Blade](/spells/booming-blade-tce.md "TCE")
 - [Create Bonfire](/spells/create-bonfire-xge.md "XGE")
 - [Dancing Lights](/spells/dancing-lights-xphb.md "XPHB")

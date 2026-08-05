@@ -4,20 +4,41 @@ cssclasses:
 - json5e-spell
 tags:
 - compendium/src/5e/xphb
+- spell/class/alternate-bard/magical-secrets
 - spell/class/bard
 - spell/class/druid
 - spell/class/ranger
 - spell/class/wizard
 - spell/level/4th-level
+- spell/optfeature/spirit-of-the-elements
 - spell/school/conjuration
+- spell/subclass/aeronaut
 - spell/subclass/arcane-trickster
 - spell/subclass/eldritch-knight
+- spell/subclass/flame-sorcery
+- spell/subclass/loremaster/magical-secrets
+- spell/subclass/mystic
 - spell/subclass/oath-of-the-noble-genies
+- spell/subclass/oceanic-sorcery
+- spell/subclass/order-of-arcanists
+- spell/subclass/stone-sorcery
+- spell/subclass/storm-sorcery
 - spell/subclass/the-fathomless
+- spell/subclass/verdant-sorcery
 classes:
+- Alternate Artificer (Aeronaut)
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Fighter (Mystic)
+- Alternate Sorcerer (Flame Sorcery)
+- Alternate Sorcerer (Oceanic Sorcery)
+- Alternate Sorcerer (Stone Sorcery)
+- Alternate Sorcerer (Storm Sorcery)
+- Alternate Sorcerer (Verdant Sorcery)
 - Bard
 - Druid
 - Fighter (Eldritch Knight)
+- Magus (Order of Arcanists)
 - Paladin (Oath of the Noble Genies)
 - Ranger
 - Rogue (Arcane Trickster)
@@ -41,6 +62,6 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 **Using a Higher-Level Spell Slot.** Use the spell slot's level for the spell's level in the stat block.
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Druid](/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of the Noble Genies)](/lists/list-spells-classes-oath-of-the-noble-genies-frhof.md "subclass=FRHoF;class=XPHB"); [Ranger](/lists/list-spells-classes-ranger.md); [Rogue (Arcane Trickster)](/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (The Fathomless)](/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Artificer (Aeronaut)](/lists/list-spells-classes-aeronaut-llaart-e.md "subclass=LLAART:E;class=LLAART"); [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Fighter (Mystic)](/lists/list-spells-classes-mystic-llaf.md "subclass=LLAF;class=LLAF"); [Alternate Sorcerer (Flame Sorcery)](/lists/list-spells-classes-flame-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Alternate Sorcerer (Oceanic Sorcery)](/lists/list-spells-classes-oceanic-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Alternate Sorcerer (Stone Sorcery)](/lists/list-spells-classes-stone-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Alternate Sorcerer (Storm Sorcery)](/lists/list-spells-classes-storm-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Alternate Sorcerer (Verdant Sorcery)](/lists/list-spells-classes-verdant-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Druid](/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Paladin (Oath of the Noble Genies)](/lists/list-spells-classes-oath-of-the-noble-genies-frhof.md "subclass=FRHoF;class=XPHB"); [Ranger](/lists/list-spells-classes-ranger.md); [Rogue (Arcane Trickster)](/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (The Fathomless)](/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 325*

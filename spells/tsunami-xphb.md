@@ -7,8 +7,13 @@ tags:
 - spell/class/bard
 - spell/class/druid
 - spell/level/8th-level
+- spell/optfeature/elder-spirit-of-the-sea
 - spell/school/conjuration
+- spell/subclass/tides
+- spell/subclass/verdant-sorcery
 classes:
+- Alternate Druid (Tides)
+- Alternate Sorcerer (Verdant Sorcery)
 - Bard
 - Druid
 aliases:
@@ -31,6 +36,6 @@ At the start of each of your turns after the wall appears, the wall, along with 
 
 A creature caught in the wall can move by swimming. Because of the wave's force, though, the creature must succeed on a Strength ([Athletics](/rules/skills.md#Athletics)) check against your spell save DC to move at all. If it fails the check, it can't move. A creature that moves out of the wall falls to the ground.
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Druid](/lists/list-spells-classes-druid.md)
+**Classes**: [Alternate Druid (Tides)](/lists/list-spells-classes-tides-lladru.md "subclass=LLADru;class=LLADru"); [Alternate Sorcerer (Verdant Sorcery)](/lists/list-spells-classes-verdant-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Druid](/lists/list-spells-classes-druid.md)
 
 *Source: Player's Handbook (2024) p. 336. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

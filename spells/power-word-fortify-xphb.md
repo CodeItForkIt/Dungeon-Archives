@@ -8,8 +8,12 @@ tags:
 - spell/class/cleric
 - spell/level/7th-level
 - spell/school/enchantment
+- spell/subclass/divine-sorcery
 - spell/subclass/divine-soul
+- spell/subclass/fey-sorcery
 classes:
+- Alternate Sorcerer (Divine Sorcery)
+- Alternate Sorcerer (Fey Sorcery)
 - Bard
 - Cleric
 - Sorcerer (Divine Soul)
@@ -27,6 +31,6 @@ aliases:
 
 You fortify up to six creatures you can see within range. The spell bestows 120 [Temporary Hit Points](/rules/variant-rules/temporary-hit-points-xphb.md), which you divide among the spell's recipients.
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Cleric](/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+**Classes**: [Alternate Sorcerer (Divine Sorcery)](/lists/list-spells-classes-divine-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Alternate Sorcerer (Fey Sorcery)](/lists/list-spells-classes-fey-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Cleric](/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 306*

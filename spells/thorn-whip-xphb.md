@@ -12,6 +12,7 @@ tags:
 - spell/feat/spell-sniper
 - spell/feat/wood-elf-magic
 - spell/level/cantrip
+- spell/optfeature/druidic-warrior/druid
 - spell/optfeature/pact-of-the-tome
 - spell/race/elf/lorwyn
 - spell/race/khoravar
@@ -19,7 +20,11 @@ tags:
 - spell/subclass/college-of-lore
 - spell/subclass/college-of-the-moon
 - spell/subclass/nature-domain
+- spell/subclass/stargazer/adder
+- spell/subclass/verdant-sorcery
 classes:
+- Alternate Ranger (Stargazer, Adder)
+- Alternate Sorcerer (Verdant Sorcery)
 - Artificer
 - Bard (College of Lore)
 - Bard (College of the Moon)
@@ -41,6 +46,6 @@ You create a vine-like whip covered in thorns that lashes out at your command to
 
 **Cantrip Upgrade.** The damage increases by `1d6` when you reach levels 5 (`2d6`), 11 (`3d6`), and 17 (`4d6`).
 
-**Classes**: [Artificer](/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of the Moon)](/lists/list-spells-classes-college-of-the-moon-frhof.md "subclass=FRHoF;class=XPHB"); [Cleric (Nature Domain)](/lists/list-spells-classes-nature-domain.md "class=XPHB"); [Druid](/lists/list-spells-classes-druid.md)
+**Classes**: [Alternate Ranger (Stargazer, Adder)](/lists/list-spells-classes-stargazer-llar-e.md "subclass=LLAR:E;class=LLAR"); [Alternate Sorcerer (Verdant Sorcery)](/lists/list-spells-classes-verdant-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Artificer](/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of the Moon)](/lists/list-spells-classes-college-of-the-moon-frhof.md "subclass=FRHoF;class=XPHB"); [Cleric (Nature Domain)](/lists/list-spells-classes-nature-domain.md "class=XPHB"); [Druid](/lists/list-spells-classes-druid.md)
 
 *Source: Player's Handbook (2024) p. 333*

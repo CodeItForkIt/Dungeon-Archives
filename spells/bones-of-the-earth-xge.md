@@ -7,8 +7,11 @@ tags:
 - spell/class/bard
 - spell/class/druid
 - spell/level/6th-level
+- spell/optfeature/elder-spirit-of-the-fissure
 - spell/school/transmutation
+- spell/subclass/verdant-sorcery
 classes:
+- Alternate Sorcerer (Verdant Sorcery)
 - Bard
 - Druid
 aliases:
@@ -31,6 +34,6 @@ If a pillar is prevented from reaching its full height because of a ceiling or o
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, you can create two additional pillars for each slot level above 6th.
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Druid](/lists/list-spells-classes-druid.md)
+**Classes**: [Alternate Sorcerer (Verdant Sorcery)](/lists/list-spells-classes-verdant-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Druid](/lists/list-spells-classes-druid.md)
 
 *Source: Xanathar's Guide to Everything p. 150, Elemental Evil Player's Companion p. 15*

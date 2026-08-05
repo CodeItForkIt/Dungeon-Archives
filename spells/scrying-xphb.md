@@ -4,6 +4,7 @@ cssclasses:
 - json5e-spell
 tags:
 - compendium/src/5e/xphb
+- spell/class/alternate-bard/magical-secrets
 - spell/class/bard
 - spell/class/cleric
 - spell/class/druid
@@ -12,21 +13,40 @@ tags:
 - spell/level/5th-level
 - spell/school/divination
 - spell/subclass/cartographer
+- spell/subclass/divine-sorcery
 - spell/subclass/divine-soul
 - spell/subclass/diviner
+- spell/subclass/elder-sorcery
+- spell/subclass/far-seer
+- spell/subclass/fey-sorcery
 - spell/subclass/knowledge-domain
 - spell/subclass/light-domain
+- spell/subclass/loremaster/magical-secrets
 - spell/subclass/oath-of-the-watchers
 - spell/subclass/oath-of-vengeance
+- spell/subclass/order-of-arcane-archers
+- spell/subclass/order-of-arcanists
+- spell/subclass/verdant-sorcery
+- spell/subclass/vigilance
 classes:
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Paladin (Vigilance)
+- Alternate Sorcerer (Divine Sorcery)
+- Alternate Sorcerer (Elder Sorcery)
+- Alternate Sorcerer (Fey Sorcery)
+- Alternate Sorcerer (Verdant Sorcery)
 - Artificer (Cartographer)
 - Bard
 - Cleric
 - Cleric (Knowledge Domain)
 - Cleric (Light Domain)
 - Druid
+- Magus (Order of Arcane Archers)
+- Magus (Order of Arcanists)
 - Paladin (Oath of Vengeance)
 - Paladin (Oath of the Watchers)
+- Shaman (Far Seer)
 - Sorcerer (Divine Soul)
 - Warlock
 - Wizard
@@ -65,6 +85,6 @@ On a failed save, the spell creates an [Invisible](/rules/conditions.md#Invisibl
 
 Instead of targeting a creature, you can target a location you have seen. When you do so, the sensor appears at that location and doesn't move.
 
-**Classes**: [Artificer (Cartographer)](/lists/list-spells-classes-cartographer-efa.md "subclass=EFA;class=EFA"); [Bard](/lists/list-spells-classes-bard.md); [Cleric (Knowledge Domain)](/lists/list-spells-classes-knowledge-domain-frhof.md "subclass=FRHoF;class=XPHB"); [Cleric (Light Domain)](/lists/list-spells-classes-light-domain-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](/lists/list-spells-classes-cleric.md); [Druid](/lists/list-spells-classes-druid.md); [Paladin (Oath of Vengeance)](/lists/list-spells-classes-oath-of-vengeance-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of the Watchers)](/lists/list-spells-classes-oath-of-the-watchers-tce.md "subclass=TCE;class=XPHB"); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock](/lists/list-spells-classes-warlock.md); [Wizard (Diviner)](/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Paladin (Vigilance)](/lists/list-spells-classes-vigilance-llapal.md "subclass=LLAPal;class=LLAPal"); [Alternate Sorcerer (Divine Sorcery)](/lists/list-spells-classes-divine-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Alternate Sorcerer (Elder Sorcery)](/lists/list-spells-classes-elder-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Alternate Sorcerer (Fey Sorcery)](/lists/list-spells-classes-fey-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Alternate Sorcerer (Verdant Sorcery)](/lists/list-spells-classes-verdant-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Artificer (Cartographer)](/lists/list-spells-classes-cartographer-efa.md "subclass=EFA;class=EFA"); [Bard](/lists/list-spells-classes-bard.md); [Cleric (Knowledge Domain)](/lists/list-spells-classes-knowledge-domain-frhof.md "subclass=FRHoF;class=XPHB"); [Cleric (Light Domain)](/lists/list-spells-classes-light-domain-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](/lists/list-spells-classes-cleric.md); [Druid](/lists/list-spells-classes-druid.md); [Magus (Order of Arcane Archers)](/lists/list-spells-classes-order-of-arcane-archers-llmc.md "subclass=LLMC;class=LLMC"); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Paladin (Oath of Vengeance)](/lists/list-spells-classes-oath-of-vengeance-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of the Watchers)](/lists/list-spells-classes-oath-of-the-watchers-tce.md "subclass=TCE;class=XPHB"); [Shaman (Far Seer)](/lists/list-spells-classes-far-seer-llsh.md "subclass=LLSH;class=LLSH"); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock](/lists/list-spells-classes-warlock.md); [Wizard (Diviner)](/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 313. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

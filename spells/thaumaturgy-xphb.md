@@ -10,11 +10,13 @@ tags:
 - spell/feat/magic-initiate/cleric-spells
 - spell/feat/strixhaven-initiate/lorehold-2
 - spell/level/cantrip
+- spell/optfeature/divine-light
 - spell/optfeature/pact-of-the-tome
 - spell/race/khoravar
 - spell/race/tiefling/abyssal
 - spell/school/transmutation
 - spell/subclass/college-of-lore
+- spell/subclass/divine-sorcery
 - spell/subclass/divine-soul
 - spell/subclass/drakewarden
 - spell/subclass/path-of-the-giant
@@ -25,6 +27,7 @@ tags:
 - spell/subrace/tiefling-infernal-legacy
 - spell/subrace/tiefling-zariel
 classes:
+- Alternate Sorcerer (Divine Sorcery)
 - Barbarian (Path of the Giant)
 - Bard (College of Lore)
 - Cleric
@@ -70,6 +73,6 @@ You cause harmless tremors in the ground for 1 minute.
 
 ## Summary
 
-**Classes**: [Barbarian (Path of the Giant)](/lists/list-spells-classes-path-of-the-giant-bgg.md "subclass=BGG;class=XPHB"); [Bard (College of Lore)](/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](/lists/list-spells-classes-cleric.md); [Ranger (Drakewarden)](/lists/list-spells-classes-drakewarden-ftd.md "subclass=FTD;class=XPHB"); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+**Classes**: [Alternate Sorcerer (Divine Sorcery)](/lists/list-spells-classes-divine-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Barbarian (Path of the Giant)](/lists/list-spells-classes-path-of-the-giant-bgg.md "subclass=BGG;class=XPHB"); [Bard (College of Lore)](/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](/lists/list-spells-classes-cleric.md); [Ranger (Drakewarden)](/lists/list-spells-classes-drakewarden-ftd.md "subclass=FTD;class=XPHB"); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 333. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -1,0 +1,35 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-note
+tags:
+- compendium/src/5e/xmm
+aliases:
+- "Monsters by Habitat; Underdark Monsters"
+---
+# Monsters by Habitat; Underdark Monsters
+*Source: Monster Manual (2024) p. 375* 
+
+**Underdark Monsters**
+
+| CR | Monsters |
+|----|----------|
+| 0 | [Bat](/bestiary/beast/bat-xmm.md), [Giant Fire Beetle](/bestiary/beast/giant-fire-beetle-xmm.md), [Lizard](/bestiary/beast/lizard-xmm.md), [Myconid Sprout](/bestiary/plant/myconid-sprout-xmm.md), [Rat](/bestiary/beast/rat-xmm.md), [Shrieker Fungus](/bestiary/plant/shrieker-fungus-xmm.md), [Spider](/bestiary/beast/spider-xmm.md) |
+| 1/8 | [Flumph](/bestiary/aberration/flumph-xmm.md), [Giant Rat](/bestiary/beast/giant-rat-xmm.md), [Goblin Minion](/bestiary/fey/goblin-minion-xmm.md), [Kobold Warrior](/bestiary/dragon/kobold-warrior-xmm.md), [Stirge](/bestiary/monstrosity/stirge-xmm.md) |
+| 1/4 | [Giant Bat](/bestiary/beast/giant-bat-xmm.md), [Giant Centipede](/bestiary/beast/giant-centipede-xmm.md), [Giant Lizard](/bestiary/beast/giant-lizard-xmm.md), [Goblin Warrior](/bestiary/fey/goblin-warrior-xmm.md), [Grimlock](/bestiary/aberration/grimlock-xmm.md), [Kuo-toa](/bestiary/aberration/kuo-toa-xmm.md), [Skeleton](/bestiary/undead/skeleton-xmm.md), [Swarm of Bats](/bestiary/beast/swarm-of-bats-xmm.md), [Swarm of Rats](/bestiary/beast/swarm-of-rats-xmm.md), [Troglodyte](/bestiary/monstrosity/troglodyte-xmm.md), [Violet Fungus](/bestiary/plant/violet-fungus-xmm.md), [Winged Kobold](/bestiary/dragon/winged-kobold-xmm.md), [Zombie](/bestiary/undead/zombie-xmm.md) |
+| 1/2 | [Darkmantle](/bestiary/aberration/darkmantle-xmm.md), [Gas Spore Fungus](/bestiary/plant/gas-spore-fungus-xmm.md), [Gray Ooze](/bestiary/ooze/gray-ooze-xmm.md), [Hobgoblin Warrior](/bestiary/fey/hobgoblin-warrior-xmm.md), [Myconid Adult](/bestiary/plant/myconid-adult-xmm.md), [Piercer](/bestiary/aberration/piercer-xmm.md), [Rust Monster](/bestiary/monstrosity/rust-monster-xmm.md), [Shadow](/bestiary/undead/shadow-xmm.md), [Swarm of Insects](/bestiary/beast/swarm-of-insects-xmm.md), [Warhorse Skeleton](/bestiary/undead/warhorse-skeleton-xmm.md) |
+| 1 | [Bugbear Warrior](/bestiary/fey/bugbear-warrior-xmm.md), [Ghoul](/bestiary/undead/ghoul-xmm.md), [Giant Spider](/bestiary/beast/giant-spider-xmm.md), [Giant Toad](/bestiary/beast/giant-toad-xmm.md), [Goblin Boss](/bestiary/fey/goblin-boss-xmm.md), [Kuo-toa Whip](/bestiary/aberration/kuo-toa-whip-xmm.md), [Lacedon Ghoul](/bestiary/undead/lacedon-ghoul-xmm.md), [Myconid Spore Servant](/bestiary/plant/myconid-spore-servant-xmm.md), [Ogrillon Ogre](/bestiary/giant/ogrillon-ogre-xmm.md), [Psychic Gray Ooze](/bestiary/ooze/psychic-gray-ooze-xmm.md), [Salamander Fire Snake](/bestiary/elemental/salamander-fire-snake-xmm.md), [Specter](/bestiary/undead/specter-xmm.md) |
+| 2 | [Carrion Crawler](/bestiary/monstrosity/carrion-crawler-xmm.md), [Gargoyle](/bestiary/elemental/gargoyle-xmm.md), [Gelatinous Cube](/bestiary/ooze/gelatinous-cube-xmm.md), [Ghast](/bestiary/undead/ghast-xmm.md), [Gibbering Mouther](/bestiary/aberration/gibbering-mouther-xmm.md), [Grick](/bestiary/aberration/grick-xmm.md), [Intellect Devourer](/bestiary/aberration/intellect-devourer-xmm.md), [Mimic](/bestiary/monstrosity/mimic-xmm.md), [Minotaur Skeleton](/bestiary/undead/minotaur-skeleton-xmm.md), [Myconid Sovereign](/bestiary/plant/myconid-sovereign-xmm.md), [Nothic](/bestiary/aberration/nothic-xmm.md), [Ochre Jelly](/bestiary/ooze/ochre-jelly-xmm.md), [Ogre](/bestiary/giant/ogre-xmm.md), [Ogre Zombie](/bestiary/undead/ogre-zombie-xmm.md), [Poltergeist](/bestiary/undead/poltergeist-xmm.md), [Quaggoth](/bestiary/monstrosity/quaggoth-xmm.md), [Swarm of Stirges](/bestiary/monstrosity/swarm-of-stirges-xmm.md) |
+| 3 | [Basilisk](/bestiary/monstrosity/basilisk-xmm.md), [Bugbear Stalker](/bestiary/fey/bugbear-stalker-xmm.md), [Doppelganger](/bestiary/monstrosity/doppelganger-xmm.md), [Flaming Skeleton](/bestiary/undead/flaming-skeleton-xmm.md), [Goblin Hexer](/bestiary/fey/goblin-hexer-xmm.md), [Grell](/bestiary/aberration/grell-xmm.md), [Hell Hound](/bestiary/fiend/hell-hound-xmm.md), [Hobgoblin Captain](/bestiary/fey/hobgoblin-captain-xmm.md), [Hook Horror](/bestiary/monstrosity/hook-horror-xmm.md), [Kuo-toa Monitor](/bestiary/aberration/kuo-toa-monitor-xmm.md), [Minotaur of Baphomet](/bestiary/monstrosity/minotaur-of-baphomet-xmm.md), [Phase Spider](/bestiary/monstrosity/phase-spider-xmm.md), [Quaggoth Thonot](/bestiary/monstrosity/quaggoth-thonot-xmm.md), [Spectator](/bestiary/aberration/spectator-xmm.md), [Vampire Familiar](/bestiary/humanoid/vampire-familiar-xmm.md), [Water Weird](/bestiary/elemental/water-weird-xmm.md), [Wight](/bestiary/undead/wight-xmm.md) |
+| 4 | [Black Pudding](/bestiary/ooze/black-pudding-xmm.md), [Bone Naga](/bestiary/undead/bone-naga-xmm.md), [Chuul](/bestiary/aberration/chuul-xmm.md), [Ettin](/bestiary/giant/ettin-xmm.md), [Flameskull](/bestiary/undead/flameskull-xmm.md), [Ghost](/bestiary/undead/ghost-xmm.md), [Juvenile Shadow Dragon](/bestiary/dragon/juvenile-shadow-dragon-xmm.md) |
+| 5 | [Beholder Zombie](/bestiary/undead/beholder-zombie-xmm.md), [Earth Elemental](/bestiary/elemental/earth-elemental-xmm.md), [Otyugh](/bestiary/aberration/otyugh-xmm.md), [Roper](/bestiary/aberration/roper-xmm.md), [Salamander](/bestiary/elemental/salamander-xmm.md), [Troll](/bestiary/giant/troll-xmm.md), [Umber Hulk](/bestiary/monstrosity/umber-hulk-xmm.md), [Vampire Spawn](/bestiary/undead/vampire-spawn-xmm.md), [Wraith](/bestiary/undead/wraith-xmm.md), [Xorn](/bestiary/elemental/xorn-xmm.md) |
+| 6 | [Cyclops Sentry](/bestiary/giant/cyclops-sentry-xmm.md), [Drider](/bestiary/monstrosity/drider-xmm.md), [Ghast Gravecaller](/bestiary/undead/ghast-gravecaller-xmm.md), [Hobgoblin Warlord](/bestiary/fey/hobgoblin-warlord-xmm.md), [Kuo-toa Archpriest](/bestiary/aberration/kuo-toa-archpriest-xmm.md) |
+| 7 | [Grick Ancient](/bestiary/aberration/grick-ancient-xmm.md), [Mind Flayer](/bestiary/aberration/mind-flayer-xmm.md), [Stone Giant](/bestiary/giant/stone-giant-xmm.md), [Violet Fungus Necrohulk](/bestiary/plant/violet-fungus-necrohulk-xmm.md) |
+| 8 | [Cloaker](/bestiary/aberration/cloaker-xmm.md), [Fomorian](/bestiary/giant/fomorian-xmm.md), [Spirit Naga](/bestiary/fiend/spirit-naga-xmm.md), [Vampire Nightbringer](/bestiary/undead/vampire-nightbringer-xmm.md) |
+| 9 | [Fire Giant](/bestiary/giant/fire-giant-xmm.md) |
+| 10 | [Aboleth](/bestiary/aberration/aboleth-xmm.md), [Cyclops Oracle](/bestiary/giant/cyclops-oracle-xmm.md) |
+| 11 | [Behir](/bestiary/monstrosity/behir-xmm.md), [Dao](/bestiary/elemental/dao-xmm.md), [Mind Flayer Arcanist](/bestiary/aberration/mind-flayer-arcanist-xmm.md) |
+| 13 | [Beholder](/bestiary/aberration/beholder-xmm.md), [Shadow Dragon](/bestiary/dragon/shadow-dragon-xmm.md), [Vampire](/bestiary/undead/vampire-xmm.md) |
+| 14 | [Death Tyrant](/bestiary/undead/death-tyrant-xmm.md) |
+| 15 | [Purple Worm](/bestiary/monstrosity/purple-worm-xmm.md), [Salamander Inferno Master](/bestiary/elemental/salamander-inferno-master-xmm.md), [Vampire Umbral Lord](/bestiary/undead/vampire-umbral-lord-xmm.md) |
+^underdark-monsters

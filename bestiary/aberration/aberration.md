@@ -6,6 +6,7 @@ cssclasses:
 ---
 # Index of Aberration
 
+- [Aberrant Familiar](./aberrant-familiar-llwrc.md)
 - [Aberrant Spirit](./aberrant-spirit-xphb.md)
 - [Aberrant Spirit (Beholderkin)](./aberrant-spirit-beholderkin-xphb.md)
 - [Aberrant Spirit (Slaad)](./aberrant-spirit-slaad-xphb.md)

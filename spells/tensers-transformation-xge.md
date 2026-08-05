@@ -9,9 +9,11 @@ tags:
 - spell/level/6th-level
 - spell/school/transmutation
 - spell/subclass/arcana-domain
+- spell/subclass/order-of-arcanists
 classes:
 - Bard
 - Cleric (Arcana Domain)
+- Magus (Order of Arcanists)
 - Wizard
 aliases:
 - "Tenser's Transformation"
@@ -36,6 +38,6 @@ You endow yourself with endurance and martial prowess fueled by magic. Until the
 
 Immediately after the spell ends, you must succeed on a DC 15 Constitution saving throw or suffer one level of [exhaustion](/rules/conditions.md#Exhaustion).
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 168*

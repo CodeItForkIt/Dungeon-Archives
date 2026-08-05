@@ -4,21 +4,34 @@ cssclasses:
 - json5e-spell
 tags:
 - compendium/src/5e/xphb
+- spell/class/alternate-bard/magical-secrets
 - spell/class/bard
 - spell/class/druid
 - spell/class/ranger
 - spell/level/5th-level
 - spell/school/conjuration
 - spell/subclass/circle-of-the-land/temperate-land
+- spell/subclass/hunter
+- spell/subclass/loremaster/magical-secrets
 - spell/subclass/nature-domain
 - spell/subclass/oath-of-the-ancients
+- spell/subclass/shifter
+- spell/subclass/verdant-sorcery
+- spell/subclass/wild-heart
 classes:
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Paladin (Oath of the Ancients)
+- Alternate Ranger (Hunter)
+- Alternate Ranger (Shifter)
+- Alternate Sorcerer (Verdant Sorcery)
 - Bard
 - Cleric (Nature Domain)
 - Druid
 - Druid (Circle of the Land, Temperate Land)
 - Paladin (Oath of the Ancients)
 - Ranger
+- Shaman (Wild Heart)
 aliases:
 - "Tree Stride"
 ---
@@ -35,6 +48,6 @@ You gain the ability to enter a tree and move from inside it to inside another t
 
 You can use this transportation ability only once on each of your turns. You must end each turn outside a tree.
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Cleric (Nature Domain)](/lists/list-spells-classes-nature-domain.md "class=XPHB"); [Druid (Circle of the Land, Temperate Land)](/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Druid](/lists/list-spells-classes-druid.md); [Paladin (Oath of the Ancients)](/lists/list-spells-classes-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](/lists/list-spells-classes-ranger.md)
+**Classes**: [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Paladin (Oath of the Ancients)](/lists/list-spells-classes-oath-of-the-ancients-llapal.md "subclass=LLAPal;class=LLAPal"); [Alternate Ranger (Hunter)](/lists/list-spells-classes-hunter-llar.md "subclass=LLAR;class=LLAR"); [Alternate Ranger (Shifter)](/lists/list-spells-classes-shifter-llar-e.md "subclass=LLAR:E;class=LLAR"); [Alternate Sorcerer (Verdant Sorcery)](/lists/list-spells-classes-verdant-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Cleric (Nature Domain)](/lists/list-spells-classes-nature-domain.md "class=XPHB"); [Druid (Circle of the Land, Temperate Land)](/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Druid](/lists/list-spells-classes-druid.md); [Paladin (Oath of the Ancients)](/lists/list-spells-classes-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](/lists/list-spells-classes-ranger.md); [Shaman (Wild Heart)](/lists/list-spells-classes-wild-heart-llsh.md "subclass=LLSH;class=LLSH")
 
 *Source: Player's Handbook (2024) p. 335. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

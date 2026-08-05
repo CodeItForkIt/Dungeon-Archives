@@ -10,7 +10,9 @@ tags:
 - spell/level/cantrip
 - spell/optfeature/pact-of-the-tome
 - spell/school/evocation
+- spell/subclass/elder-sorcery
 classes:
+- Alternate Sorcerer (Elder Sorcery)
 - Warlock
 aliases:
 - "Eldritch Blast"
@@ -28,6 +30,6 @@ You hurl a beam of crackling energy. Make a ranged spell attack against one crea
 
 **Cantrip Upgrade.** The spell creates two beams at level 5, three beams at level 11, and four beams at level 17. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam.
 
-**Classes**: [Warlock](/lists/list-spells-classes-warlock.md)
+**Classes**: [Alternate Sorcerer (Elder Sorcery)](/lists/list-spells-classes-elder-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Warlock](/lists/list-spells-classes-warlock.md)
 
 *Source: Player's Handbook (2024) p. 267. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

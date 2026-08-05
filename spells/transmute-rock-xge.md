@@ -4,16 +4,24 @@ cssclasses:
 - json5e-spell
 tags:
 - compendium/src/5e/xge
+- spell/class/alternate-bard/magical-secrets
 - spell/class/artificer
 - spell/class/bard
 - spell/class/druid
 - spell/class/wizard
 - spell/level/5th-level
 - spell/school/transmutation
+- spell/subclass/loremaster/magical-secrets
+- spell/subclass/order-of-arcanists
+- spell/subclass/verdant-sorcery
 classes:
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Sorcerer (Verdant Sorcery)
 - Artificer
 - Bard
 - Druid
+- Magus (Order of Arcanists)
 - Wizard
 aliases:
 - "Transmute Rock"
@@ -43,6 +51,6 @@ Nonmagical mud or quicksand in the area no more than 10 feet deep transforms int
 
 ## Summary
 
-**Classes**: [Artificer](/lists/list-spells-classes-artificer.md); [Bard](/lists/list-spells-classes-bard.md); [Druid](/lists/list-spells-classes-druid.md); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Sorcerer (Verdant Sorcery)](/lists/list-spells-classes-verdant-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Artificer](/lists/list-spells-classes-artificer.md); [Bard](/lists/list-spells-classes-bard.md); [Druid](/lists/list-spells-classes-druid.md); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 169, Elemental Evil Player's Companion p. 22*

@@ -23,7 +23,7 @@ Questing knights travel in pursuit of a cause, such as slaying a villain, defeat
 *Battle Masters and Heroic Wanderers*
 
 - **Habitat.** Any  
-- **Treasure.** [Armaments](Random%20-%20Magic%20Items%20Armaments.md), Individual  
+- **Treasure.** [Armaments](/tables/random-magic-items-armaments.md), Individual  
 
 Knights are skilled warriors trained for war and tested in battle. Many serve the rulers of a realm, a religion, or an order devoted to a cause.
 

@@ -11,11 +11,19 @@ tags:
 - spell/level/6th-level
 - spell/school/necromancy
 - spell/subclass/arcana-domain
+- spell/subclass/curse-binder
+- spell/subclass/divine-sorcery
 - spell/subclass/divine-soul
+- spell/subclass/elder-sorcery
+- spell/subclass/order-of-arcanists
 classes:
+- Alternate Sorcerer (Divine Sorcery)
+- Alternate Sorcerer (Elder Sorcery)
 - Bard
 - Cleric
 - Cleric (Arcana Domain)
+- Magus (Order of Arcanists)
+- Shaman (Curse Binder)
 - Sorcerer (Divine Soul)
 - Warlock
 - Wizard
@@ -39,6 +47,6 @@ The creature is under your control for 24 hours, after which it stops obeying an
 
 **Using a Higher-Level Spell Slot.** If you use a level 7 spell slot, you can animate or reassert control over four [Ghouls](/bestiary/undead/ghoul-xmm.md). If you use a level 8 spell slot, you can animate or reassert control over five [Ghouls](/bestiary/undead/ghoul-xmm.md) or two [Ghasts](/bestiary/undead/ghast-xmm.md) or [Wights](/bestiary/undead/wight-xmm.md). If you use a level 9 spell slot, you can animate or reassert control over six [Ghouls](/bestiary/undead/ghoul-xmm.md), three [Ghasts](/bestiary/undead/ghast-xmm.md) or [Wights](/bestiary/undead/wight-xmm.md), or two [Mummies](/bestiary/undead/mummy-xmm.md). See the "Monster Manual" for these stat blocks.
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Cleric](/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock](/lists/list-spells-classes-warlock.md); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Sorcerer (Divine Sorcery)](/lists/list-spells-classes-divine-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Alternate Sorcerer (Elder Sorcery)](/lists/list-spells-classes-elder-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Cleric](/lists/list-spells-classes-cleric.md); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Shaman (Curse Binder)](/lists/list-spells-classes-curse-binder-llsh.md "subclass=LLSH;class=LLSH"); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock](/lists/list-spells-classes-warlock.md); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 258. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

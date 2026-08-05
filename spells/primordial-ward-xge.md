@@ -7,8 +7,11 @@ tags:
 - spell/class/bard
 - spell/class/druid
 - spell/level/6th-level
+- spell/optfeature/elder-spirit-of-the-moon
 - spell/school/abjuration
+- spell/subclass/verdant-sorcery
 classes:
+- Alternate Sorcerer (Verdant Sorcery)
 - Bard
 - Druid
 aliases:
@@ -27,6 +30,6 @@ You have resistance to acid, cold, fire, lightning, and thunder damage for the s
 
 When you take damage of one of those types, you can use your reaction to gain immunity to that type of damage, including against the triggering damage. If you do so, the resistances end, and you have the immunity until the end of your next turn, at which time the spell ends.
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Druid](/lists/list-spells-classes-druid.md)
+**Classes**: [Alternate Sorcerer (Verdant Sorcery)](/lists/list-spells-classes-verdant-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Druid](/lists/list-spells-classes-druid.md)
 
 *Source: Xanathar's Guide to Everything p. 163, Elemental Evil Player's Companion p. 21*

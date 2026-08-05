@@ -9,10 +9,14 @@ tags:
 - spell/level/6th-level
 - spell/school/illusion
 - spell/subclass/arcana-domain
+- spell/subclass/fey-sorcery
 - spell/subclass/illusionist
+- spell/subclass/order-of-arcanists
 classes:
+- Alternate Sorcerer (Fey Sorcery)
 - Bard
 - Cleric (Arcana Domain)
+- Magus (Order of Arcanists)
 - Wizard
 - Wizard (Illusionist)
 aliases:
@@ -35,6 +39,6 @@ The trigger can be as general or as detailed as you like, though it must be base
 
 Physical interaction with the image reveals it to be illusory, since things can pass through it. A creature that takes the [Study](/rules/actions.md#Study) action to examine the image can determine that it is an illusion with a successful Intelligence ([Investigation](/rules/skills.md#Investigation)) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature.
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Wizard (Illusionist)](/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Sorcerer (Fey Sorcery)](/lists/list-spells-classes-fey-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Wizard (Illusionist)](/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 309. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -10,11 +10,17 @@ tags:
 - spell/level/7th-level
 - spell/school/illusion
 - spell/subclass/arcana-domain
+- spell/subclass/fey-sorcery
 - spell/subclass/illusionist
+- spell/subclass/order-of-arcanists
+- spell/subclass/verdant-sorcery
 classes:
+- Alternate Sorcerer (Fey Sorcery)
+- Alternate Sorcerer (Verdant Sorcery)
 - Bard
 - Cleric (Arcana Domain)
 - Druid
+- Magus (Order of Arcanists)
 - Wizard
 - Wizard (Illusionist)
 aliases:
@@ -37,6 +43,6 @@ The illusion includes audible, visual, tactile, and olfactory elements, so it ca
 
 Creatures with [Truesight](/rules/senses.md#Truesight) can see through the illusion to the terrain's true form; however, all other elements of the illusion remain, so while the creature is aware of the illusion's presence, the creature can still physically interact with the illusion.
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Druid](/lists/list-spells-classes-druid.md); [Wizard (Illusionist)](/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Sorcerer (Fey Sorcery)](/lists/list-spells-classes-fey-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Alternate Sorcerer (Verdant Sorcery)](/lists/list-spells-classes-verdant-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Druid](/lists/list-spells-classes-druid.md); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Wizard (Illusionist)](/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 299. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

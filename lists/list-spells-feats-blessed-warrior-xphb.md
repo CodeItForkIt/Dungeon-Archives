@@ -12,9 +12,11 @@ aliases:
 ## Cantrip
 
 - [Guidance](/spells/guidance-xphb.md "XPHB")
+- [Guidance (Alternate)](/spells/guidance-alternate-llspell.md "llspell")
 - [Light](/spells/light-xphb.md "XPHB")
 - [Mending](/spells/mending-xphb.md "XPHB")
 - [Resistance](/spells/resistance-xphb.md "XPHB")
+- [Resistance (Alternate)](/spells/resistance-alternate-llspell.md "llspell")
 - [Sacred Flame](/spells/sacred-flame-xphb.md "XPHB")
 - [Spare the Dying](/spells/spare-the-dying-xphb.md "XPHB")
 - [Thaumaturgy](/spells/thaumaturgy-xphb.md "XPHB")

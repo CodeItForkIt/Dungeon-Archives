@@ -9,12 +9,15 @@ tags:
 - spell/feat/light-bringer/cleric-cantrip
 - spell/feat/magic-initiate/cleric-spells
 - spell/level/cantrip
+- spell/optfeature/divine-light
 - spell/optfeature/pact-of-the-tome
 - spell/race/khoravar
 - spell/school/evocation
 - spell/subclass/college-of-lore
+- spell/subclass/divine-sorcery
 - spell/subclass/divine-soul
 classes:
+- Alternate Sorcerer (Divine Sorcery)
 - Bard (College of Lore)
 - Cleric
 - Sorcerer (Divine Soul)
@@ -34,6 +37,6 @@ Burning radiance erupts from you in a 5-foot [Emanation](/rules/variant-rules/em
 
 **Cantrip Upgrade.** The damage increases by `1d6` when you reach levels 5 (`2d6`), 11 (`3d6`), and 17 (`4d6`).
 
-**Classes**: [Bard (College of Lore)](/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+**Classes**: [Alternate Sorcerer (Divine Sorcery)](/lists/list-spells-classes-divine-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Bard (College of Lore)](/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 343*

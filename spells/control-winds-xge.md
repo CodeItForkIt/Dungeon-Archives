@@ -4,6 +4,7 @@ cssclasses:
 - json5e-spell
 tags:
 - compendium/src/5e/xge
+- spell/class/alternate-bard/magical-secrets
 - spell/class/bard
 - spell/class/druid
 - spell/class/sorcerer
@@ -11,10 +12,29 @@ tags:
 - spell/feat/boon-of-siberys/sorcerer-spell
 - spell/level/5th-level
 - spell/school/transmutation
+- spell/subclass/aeronaut
+- spell/subclass/buccaneer
+- spell/subclass/draconic-sorcery/blue
+- spell/subclass/loremaster/magical-secrets
+- spell/subclass/order-of-arcanists
+- spell/subclass/storm-sorcery
+- spell/subclass/tempest
+- spell/subclass/the-cataclysm/air
+- spell/subclass/verdant-sorcery
 classes:
+- Alternate Artificer (Aeronaut)
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Cleric (Tempest)
+- Alternate Ranger (Buccaneer)
+- Alternate Sorcerer (Draconic Sorcery, Blue)
+- Alternate Sorcerer (Storm Sorcery)
+- Alternate Sorcerer (Verdant Sorcery)
 - Bard
 - Druid
+- Magus (Order of Arcanists)
 - Sorcerer
+- Vessel (The Cataclysm, Air)
 - Wizard
 aliases:
 - "Control Winds"
@@ -44,6 +64,6 @@ You cause a sustained updraft within the cube, rising upward from the cube's bot
 
 ## Summary
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Druid](/lists/list-spells-classes-druid.md); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Artificer (Aeronaut)](/lists/list-spells-classes-aeronaut-llaart-e.md "subclass=LLAART:E;class=LLAART"); [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Cleric (Tempest)](/lists/list-spells-classes-tempest-llaclr.md "subclass=LLAClr;class=LLAClr"); [Alternate Ranger (Buccaneer)](/lists/list-spells-classes-buccaneer-llar-e.md "subclass=LLAR:E;class=LLAR"); [Alternate Sorcerer (Draconic Sorcery, Blue)](/lists/list-spells-classes-draconic-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Alternate Sorcerer (Storm Sorcery)](/lists/list-spells-classes-storm-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Alternate Sorcerer (Verdant Sorcery)](/lists/list-spells-classes-verdant-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Druid](/lists/list-spells-classes-druid.md); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Vessel (The Cataclysm, Air)](/lists/list-spells-classes-the-cataclysm-llvessel.md "subclass=LLVessel;class=LLVessel"); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 152, Elemental Evil Player's Companion p. 16*

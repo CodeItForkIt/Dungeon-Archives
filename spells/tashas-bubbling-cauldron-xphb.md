@@ -11,10 +11,14 @@ tags:
 - spell/school/conjuration
 - spell/subclass/alchemist
 - spell/subclass/arcana-domain
+- spell/subclass/elder-sorcery
+- spell/subclass/order-of-arcanists
 classes:
+- Alternate Sorcerer (Elder Sorcery)
 - Artificer (Alchemist)
 - Bard
 - Cleric (Arcana Domain)
+- Magus (Order of Arcanists)
 - Warlock
 - Wizard
 aliases:
@@ -35,6 +39,6 @@ The liquid in the cauldron duplicates the properties of a Common or an Uncommon 
 
 Potions obtained from the cauldron that aren't consumed disappear when you cast this spell again.
 
-**Classes**: [Artificer (Alchemist)](/lists/list-spells-classes-alchemist-efa.md "subclass=EFA;class=EFA"); [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Warlock](/lists/list-spells-classes-warlock.md); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Sorcerer (Elder Sorcery)](/lists/list-spells-classes-elder-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Artificer (Alchemist)](/lists/list-spells-classes-alchemist-efa.md "subclass=EFA;class=EFA"); [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Warlock](/lists/list-spells-classes-warlock.md); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 330*

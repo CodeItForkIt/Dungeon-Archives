@@ -4,6 +4,7 @@ cssclasses:
 - json5e-spell
 tags:
 - compendium/src/5e/xphb
+- spell/class/alternate-bard/magical-secrets
 - spell/class/artificer
 - spell/class/bard
 - spell/class/sorcerer
@@ -12,18 +13,41 @@ tags:
 - spell/level/2nd-level
 - spell/reward/charm-of-argonnessen
 - spell/school/transmutation
+- spell/subclass/academy-of-zeal
 - spell/subclass/arcane-trickster
 - spell/subclass/college-of-lore
 - spell/subclass/draconic-sorcery
+- spell/subclass/draconic-sorcery/amethyst
+- spell/subclass/drake-guard
 - spell/subclass/eldritch-knight
+- spell/subclass/loremaster/magical-secrets
+- spell/subclass/mystic
+- spell/subclass/order-of-arcanists
+- spell/subclass/order-of-dragon-knights
+- spell/subclass/order-of-witch-knights
+- spell/subclass/the-wyrm
+- spell/subclass/witchblade
+- spell/subclass/wyrmbound
 classes:
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Blood Hunter (Order of Witch Knights)
+- Alternate Fighter (Mystic)
+- Alternate Fighter (Witchblade)
+- Alternate Ranger (Drake Guard)
+- Alternate Sorcerer (Draconic Sorcery, Amethyst)
+- Alternate Warlock (The Wyrm)
 - Artificer
 - Bard
 - Bard (College of Lore)
 - Fighter (Eldritch Knight)
+- Magus (Order of Arcanists)
+- Magus (Order of Dragon Knights)
 - Rogue (Arcane Trickster)
+- Shaman (Wyrmbound)
 - Sorcerer
 - Sorcerer (Draconic Sorcery)
+- Warlord (Academy of Zeal)
 - Wizard
 aliases:
 - "Dragon's Breath"
@@ -41,6 +65,6 @@ You touch one willing creature, and choose Acid, Cold, Fire, Lightning, or Poiso
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d6` for each spell slot level above 2.
 
-**Classes**: [Artificer](/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Draconic Sorcery)](/lists/list-spells-classes-draconic-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Blood Hunter (Order of Witch Knights)](/lists/list-spells-classes-order-of-witch-knights-llabh.md "subclass=LLABH;class=LLABH"); [Alternate Fighter (Mystic)](/lists/list-spells-classes-mystic-llaf.md "subclass=LLAF;class=LLAF"); [Alternate Fighter (Witchblade)](/lists/list-spells-classes-witchblade-llaf-e.md "subclass=LLAF:E;class=LLAF"); [Alternate Ranger (Drake Guard)](/lists/list-spells-classes-drake-guard-llar.md "subclass=LLAR;class=LLAR"); [Alternate Sorcerer (Draconic Sorcery, Amethyst)](/lists/list-spells-classes-draconic-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Alternate Warlock (The Wyrm)](/lists/list-spells-classes-the-wyrm-llwrc.md "subclass=LLWrc;class=LLWrc"); [Artificer](/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Magus (Order of Dragon Knights)](/lists/list-spells-classes-order-of-dragon-knights-llmc.md "subclass=LLMC;class=LLMC"); [Rogue (Arcane Trickster)](/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Shaman (Wyrmbound)](/lists/list-spells-classes-wyrmbound-llsh-e.md "subclass=LLSH:E;class=LLSH"); [Sorcerer (Draconic Sorcery)](/lists/list-spells-classes-draconic-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Warlord (Academy of Zeal)](/lists/list-spells-classes-academy-of-zeal-llaw-e.md "subclass=LLAW:E;class=LLAW"); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 266. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

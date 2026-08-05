@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - compendium/src/5e/xphb
 - spell/background/izzet-engineer
+- spell/class/alternate-bard/magical-secrets
 - spell/class/artificer
 - spell/class/bard
 - spell/class/sorcerer
@@ -12,11 +13,26 @@ tags:
 - spell/feat/boon-of-siberys/sorcerer-spell
 - spell/level/5th-level
 - spell/school/transmutation
+- spell/subclass/fey-sorcery
 - spell/subclass/forge-domain
+- spell/subclass/iron-sorcery
+- spell/subclass/junker
+- spell/subclass/loremaster/magical-secrets
+- spell/subclass/machinist
+- spell/subclass/order-of-arcanists
+- spell/subclass/wild-sorcery
 classes:
+- Alternate Artificer (Junker)
+- Alternate Artificer (Machinist)
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Sorcerer (Fey Sorcery)
+- Alternate Sorcerer (Iron Sorcery)
+- Alternate Sorcerer (Wild Sorcery)
 - Artificer
 - Bard
 - Cleric (Forge Domain)
+- Magus (Order of Arcanists)
 - Sorcerer
 - Wizard
 aliases:
@@ -39,6 +55,6 @@ Until the spell ends, you can take a [Bonus Action](/rules/variant-rules/bonus-a
 
 **Using a Higher-Level Spell Slot.** The creature's Slam damage increases by `1d4` (Medium or smaller), `1d6` (Large), or `1d12` (Huge) for each spell slot level above 5.
 
-**Classes**: [Artificer](/lists/list-spells-classes-artificer.md); [Bard](/lists/list-spells-classes-bard.md); [Cleric (Forge Domain)](/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Artificer (Junker)](/lists/list-spells-classes-junker-llaart-e.md "subclass=LLAART:E;class=LLAART"); [Alternate Artificer (Machinist)](/lists/list-spells-classes-machinist-llaart-e.md "subclass=LLAART:E;class=LLAART"); [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Sorcerer (Fey Sorcery)](/lists/list-spells-classes-fey-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Alternate Sorcerer (Iron Sorcery)](/lists/list-spells-classes-iron-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Alternate Sorcerer (Wild Sorcery)](/lists/list-spells-classes-wild-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Artificer](/lists/list-spells-classes-artificer.md); [Bard](/lists/list-spells-classes-bard.md); [Cleric (Forge Domain)](/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE;class=XPHB"); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 240. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -4,13 +4,17 @@ cssclasses:
 - json5e-spell
 tags:
 - compendium/src/5e/xphb
+- spell/class/alternate-bard/magical-secrets
 - spell/class/paladin
 - spell/level/5th-level
 - spell/school/conjuration
 - spell/subclass/battle-smith
+- spell/subclass/loremaster/magical-secrets
 - spell/subclass/oath-of-the-noble-genies
 - spell/subclass/the-hexblade
 classes:
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
 - Artificer (Battle Smith)
 - Paladin
 - Paladin (Oath of the Noble Genies)
@@ -29,6 +33,6 @@ aliases:
 
 The target hit by the attack roll takes an extra `5d10` Force damage from the attack. If the attack reduces the target to 50 [Hit Points](/rules/variant-rules/hit-points-xphb.md) or fewer, the target must succeed on a Charisma saving throw or be transported to a harmless demiplane for the duration. While there, the target has the [Incapacitated](/rules/conditions.md#Incapacitated) condition. When the spell ends, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.
 
-**Classes**: [Artificer (Battle Smith)](/lists/list-spells-classes-battle-smith-efa.md "subclass=EFA;class=EFA"); [Paladin (Oath of the Noble Genies)](/lists/list-spells-classes-oath-of-the-noble-genies-frhof.md "subclass=FRHoF;class=XPHB"); [Paladin](/lists/list-spells-classes-paladin.md); [Warlock (The Hexblade)](/lists/list-spells-classes-the-hexblade-xge.md "subclass=XGE;class=XPHB")
+**Classes**: [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Artificer (Battle Smith)](/lists/list-spells-classes-battle-smith-efa.md "subclass=EFA;class=EFA"); [Paladin (Oath of the Noble Genies)](/lists/list-spells-classes-oath-of-the-noble-genies-frhof.md "subclass=FRHoF;class=XPHB"); [Paladin](/lists/list-spells-classes-paladin.md); [Warlock (The Hexblade)](/lists/list-spells-classes-the-hexblade-xge.md "subclass=XGE;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 245*

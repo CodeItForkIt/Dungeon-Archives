@@ -12,6 +12,7 @@ aliases:
 ## Cantrip
 
 - [Blade Ward](/spells/blade-ward-xphb.md "XPHB") at class level 3
+- [Blade Ward (Alternate)](/spells/blade-ward-alternate-llspell.md "llspell") at class level 3
 
 ## 1st Level
 
@@ -32,6 +33,7 @@ aliases:
 ## 3rd Level
 
 - [Counterspell](/spells/counterspell-xphb.md "XPHB") at class level 5
+- [Counterspell (Alternate)](/spells/counterspell-alternate-llspell.md "llspell") at class level 5
 - [Dispel Magic](/spells/dispel-magic-xphb.md "XPHB") at class level 5
 - [Glyph of Warding](/spells/glyph-of-warding-xphb.md "XPHB") at class level 5
 - [Intellect Fortress](/spells/intellect-fortress-tce.md "TCE") at class level 5

@@ -4,22 +4,36 @@ cssclasses:
 - json5e-spell
 tags:
 - compendium/src/5e/ftd
+- spell/class/alternate-bard/magical-secrets
 - spell/class/bard
 - spell/class/sorcerer
 - spell/class/wizard
 - spell/feat/boon-of-siberys/sorcerer-spell
 - spell/level/2nd-level
 - spell/school/evocation
+- spell/subclass/academy-of-zeal
 - spell/subclass/arcane-trickster
 - spell/subclass/college-of-lore
 - spell/subclass/eldritch-knight
 - spell/subclass/evoker
+- spell/subclass/loremaster/magical-secrets
+- spell/subclass/mystic
+- spell/subclass/order-of-arcanists
+- spell/subclass/order-of-witch-knights
+- spell/subclass/witchblade
 classes:
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Blood Hunter (Order of Witch Knights)
+- Alternate Fighter (Mystic)
+- Alternate Fighter (Witchblade)
 - Bard
 - Bard (College of Lore)
 - Fighter (Eldritch Knight)
+- Magus (Order of Arcanists)
 - Rogue (Arcane Trickster)
 - Sorcerer
+- Warlord (Academy of Zeal)
 - Wizard
 - Wizard (Evoker)
 aliases:
@@ -38,6 +52,6 @@ A burst of cold energy emanates from you in a 30-foot cone. Each creature in tha
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, increase the cold damage by `1d8` for each slot level above 2nd.
 
-**Classes**: [Bard (College of Lore)](/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Wizard (Evoker)](/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Blood Hunter (Order of Witch Knights)](/lists/list-spells-classes-order-of-witch-knights-llabh.md "subclass=LLABH;class=LLABH"); [Alternate Fighter (Mystic)](/lists/list-spells-classes-mystic-llaf.md "subclass=LLAF;class=LLAF"); [Alternate Fighter (Witchblade)](/lists/list-spells-classes-witchblade-llaf-e.md "subclass=LLAF:E;class=LLAF"); [Bard (College of Lore)](/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Rogue (Arcane Trickster)](/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Warlord (Academy of Zeal)](/lists/list-spells-classes-academy-of-zeal-llaw-e.md "subclass=LLAW:E;class=LLAW"); [Wizard (Evoker)](/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Fizban's Treasury of Dragons p. 21*

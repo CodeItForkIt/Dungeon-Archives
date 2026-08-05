@@ -11,16 +11,23 @@ tags:
 - spell/class/wizard
 - spell/feat/boon-of-siberys/sorcerer-spell
 - spell/level/8th-level
+- spell/optfeature/elder-spirit-of-the-sun
 - spell/reward/charm-of-the-sun
 - spell/school/evocation
 - spell/subclass/arcana-domain
+- spell/subclass/divine-sorcery
 - spell/subclass/divine-soul
 - spell/subclass/evoker
+- spell/subclass/order-of-arcanists
+- spell/subclass/verdant-sorcery
 classes:
+- Alternate Sorcerer (Divine Sorcery)
+- Alternate Sorcerer (Verdant Sorcery)
 - Bard
 - Cleric
 - Cleric (Arcana Domain)
 - Druid
+- Magus (Order of Arcanists)
 - Sorcerer
 - Sorcerer (Divine Soul)
 - Wizard
@@ -43,6 +50,6 @@ A creature [Blinded](/rules/conditions.md#Blinded) by this spell makes another C
 
 This spell dispels [Darkness](/rules/variant-rules/darkness-xphb.md) in its area that was created by any spell.
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Cleric](/lists/list-spells-classes-cleric.md); [Druid](/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Wizard (Evoker)](/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Sorcerer (Divine Sorcery)](/lists/list-spells-classes-divine-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Alternate Sorcerer (Verdant Sorcery)](/lists/list-spells-classes-verdant-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Cleric](/lists/list-spells-classes-cleric.md); [Druid](/lists/list-spells-classes-druid.md); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Wizard (Evoker)](/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 329. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

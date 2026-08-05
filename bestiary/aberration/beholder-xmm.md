@@ -21,7 +21,7 @@ aliases:
 *Infamous Many-Eyed Tyrant*
 
 - **Habitat.** Underdark  
-- **Treasure.** [Arcana](Random%20-%20Magic%20Items%20Arcana.md)  
+- **Treasure.** [Arcana](/tables/random-magic-items-arcana.md)  
 
 Beholders—also known as eye tyrants—number among the most notorious inhabitants of the Underdark. Few creatures in the multiverse are as loathed and feared as these maniacal horrors.
 

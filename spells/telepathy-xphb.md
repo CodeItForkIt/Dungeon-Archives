@@ -11,9 +11,11 @@ tags:
 - spell/subclass/arcana-domain
 - spell/subclass/diviner
 - spell/subclass/evoker
+- spell/subclass/order-of-arcanists
 classes:
 - Bard
 - Cleric (Arcana Domain)
+- Magus (Order of Arcanists)
 - Wizard
 - Wizard (Diviner)
 - Wizard (Evoker)
@@ -33,6 +35,6 @@ You create a telepathic link between yourself and a willing creature with which 
 
 Until the spell ends, you and the target can instantly share words, images, sounds, and other sensory messages with each other through the link, and the target recognizes you as the creature it is communicating with. The spell enables a creature to understand the meaning of your words and any sensory messages you send to it.
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Wizard (Diviner)](/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Evoker)](/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Wizard (Diviner)](/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Evoker)](/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 331*

@@ -10,9 +10,11 @@ tags:
 - spell/ritual
 - spell/school/conjuration
 - spell/subclass/arcana-domain
+- spell/subclass/order-of-arcanists
 classes:
 - Bard
 - Cleric (Arcana Domain)
+- Magus (Order of Arcanists)
 - Wizard
 aliases:
 - "Drawmij's Instant Summons"
@@ -32,6 +34,6 @@ Thereafter, you can take a [Magic](/rules/actions.md#Magic) action to speak the 
 
 If another creature is holding or carrying the object, crushing the sapphire doesn't transport it, but instead you learn who that creature is and where that creature is currently located.
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 266. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Instant Summons") and the Free Rules (2024)*

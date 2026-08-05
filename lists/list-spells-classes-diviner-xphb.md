@@ -12,6 +12,7 @@ aliases:
 ## Cantrip
 
 - [True Strike](/spells/true-strike-xphb.md "XPHB") at class level 3
+- [True Strike (Alternate)](/spells/true-strike-alternate-llspell.md "llspell") at class level 3
 
 ## 1st Level
 
@@ -24,6 +25,7 @@ aliases:
 - [Augury](/spells/augury-xphb.md "XPHB") at class level 3
 - [Borrowed Knowledge](/spells/borrowed-knowledge-scc.md "SCC") at class level 3
 - [Detect Thoughts](/spells/detect-thoughts-xphb.md "XPHB") at class level 3
+- [Locate Creature (Alternate)](/spells/locate-creature-alternate-llspell.md "llspell") at class level 3
 - [Locate Object](/spells/locate-object-xphb.md "XPHB") at class level 3
 - [Mind Spike](/spells/mind-spike-xphb.md "XPHB") at class level 3
 - [See Invisibility](/spells/see-invisibility-xphb.md "XPHB") at class level 10
@@ -50,6 +52,7 @@ aliases:
 
 ## 6th Level
 
+- [Astral Projection (Alternate)](/spells/astral-projection-alternate-llspell.md "llspell") at class level 11
 - [True Seeing](/spells/true-seeing-xphb.md "XPHB") at class level 11
 
 ## 8th Level

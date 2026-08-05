@@ -8,7 +8,9 @@ tags:
 - spell/class/druid
 - spell/level/6th-level
 - spell/school/abjuration
+- spell/subclass/verdant-sorcery
 classes:
+- Alternate Sorcerer (Verdant Sorcery)
 - Bard
 - Druid
 aliases:
@@ -53,6 +55,6 @@ To a creature immune to this effect, the winds are a fragrant, gentle breeze, an
 
 ## Summary
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Druid](/lists/list-spells-classes-druid.md)
+**Classes**: [Alternate Sorcerer (Verdant Sorcery)](/lists/list-spells-classes-verdant-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Druid](/lists/list-spells-classes-druid.md)
 
 *Source: Xanathar's Guide to Everything p. 154*

@@ -72,6 +72,7 @@ aliases:
 - [Clairvoyance](/spells/clairvoyance-xphb.md "XPHB") at class level 5
 - [Create Food and Water](/spells/create-food-and-water-xphb.md "XPHB") at class level 5
 - [Daylight](/spells/daylight-xphb.md "XPHB") at class level 5
+- [Daylight (Alternate)](/spells/daylight-alternate-llspell.md "llspell") at class level 5
 - [Dispel Magic](/spells/dispel-magic-xphb.md "XPHB") at class level 5
 - [Fast Friends](/spells/fast-friends-ai.md "AI") at class level 5
 - [Feign Death](/spells/feign-death-xphb.md "XPHB") at class level 5

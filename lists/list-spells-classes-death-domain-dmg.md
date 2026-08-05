@@ -12,7 +12,9 @@ aliases:
 ## Cantrip
 
 - [Chill Touch](/spells/chill-touch-xphb.md "XPHB")
+- [Otherworldly Grasp](/spells/otherworldly-grasp-llspell.md "llspell")
 - [Poison Spray](/spells/poison-spray-xphb.md "XPHB")
+- [Poison Spray (Alternate)](/spells/poison-spray-alternate-llspell.md "llspell")
 - [Sapping Sting](/spells/sapping-sting-egw.md "EGW")
 - [Spare the Dying](/spells/spare-the-dying-xphb.md "XPHB")
 - [Toll the Dead](/spells/toll-the-dead-xphb.md "XPHB")

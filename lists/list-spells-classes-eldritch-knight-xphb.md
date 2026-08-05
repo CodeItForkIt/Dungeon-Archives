@@ -12,6 +12,8 @@ aliases:
 ## Cantrip
 
 - [Acid Splash](/spells/acid-splash-xphb.md "XPHB") at class level 3
+- [Acid Splash (Alternate)](/spells/acid-splash-alternate-llspell.md "llspell") at class level 3
+- [Beckon Air](/spells/beckon-air-llspell.md "llspell") at class level 3
 - [Blade Ward](/spells/blade-ward-xphb.md "XPHB") at class level 3
 - [Booming Blade](/spells/booming-blade-tce.md "TCE") at class level 3
 - [Chill Touch](/spells/chill-touch-xphb.md "XPHB") at class level 3
@@ -42,6 +44,7 @@ aliases:
 - [Thunderclap](/spells/thunderclap-xphb.md "XPHB") at class level 3
 - [Toll the Dead](/spells/toll-the-dead-xphb.md "XPHB") at class level 3
 - [True Strike](/spells/true-strike-xphb.md "XPHB") at class level 3
+- [True Strike (Alternate)](/spells/true-strike-alternate-llspell.md "llspell") at class level 3
 
 ## 1st Level
 
@@ -123,6 +126,7 @@ aliases:
 - [Kinetic Jaunt](/spells/kinetic-jaunt-scc.md "SCC") at class level 7
 - [Knock](/spells/knock-xphb.md "XPHB") at class level 7
 - [Levitate](/spells/levitate-xphb.md "XPHB") at class level 7
+- [Locate Creature (Alternate)](/spells/locate-creature-alternate-llspell.md "llspell") at class level 7
 - [Locate Object](/spells/locate-object-xphb.md "XPHB") at class level 7
 - [Magic Mouth](/spells/magic-mouth-xphb.md "XPHB") at class level 7
 - [Magic Weapon](/spells/magic-weapon-xphb.md "XPHB") at class level 7
@@ -157,6 +161,7 @@ aliases:
 ## 3rd Level
 
 - [Animate Dead](/spells/animate-dead-xphb.md "XPHB") at class level 13
+- [Animate Dead (Alternate)](/spells/animate-dead-alternate-llspell.md "llspell") at class level 13
 - [Antagonize](/spells/antagonize-bmt.md "BMT") at class level 13
 - [Ashardalon's Stride](/spells/ashardalons-stride-ftd.md "FTD") at class level 13
 - [Bestow Curse](/spells/bestow-curse-xphb.md "XPHB") at class level 13
@@ -166,6 +171,7 @@ aliases:
 - [Clairvoyance](/spells/clairvoyance-xphb.md "XPHB") at class level 13
 - [Conjure Constructs](/spells/conjure-constructs-frhof.md "FRHoF") at class level 13
 - [Counterspell](/spells/counterspell-xphb.md "XPHB") at class level 13
+- [Counterspell (Alternate)](/spells/counterspell-alternate-llspell.md "llspell") at class level 13
 - [Dispel Magic](/spells/dispel-magic-xphb.md "XPHB") at class level 13
 - [Enemies Abound](/spells/enemies-abound-xge.md "XGE") at class level 13
 - [Erupting Earth](/spells/erupting-earth-xge.md "XGE") at class level 13
@@ -179,6 +185,7 @@ aliases:
 - [Glyph of Warding](/spells/glyph-of-warding-xphb.md "XPHB") at class level 13
 - [Haste](/spells/haste-xphb.md "XPHB") at class level 13
 - [Hypnotic Pattern](/spells/hypnotic-pattern-xphb.md "XPHB") at class level 13
+- [Hypnotic Pattern (Alternate)](/spells/hypnotic-pattern-alternate-llspell.md "llspell") at class level 13
 - [Incite Greed](/spells/incite-greed-ai.md "AI") at class level 13
 - [Intellect Fortress](/spells/intellect-fortress-tce.md "TCE") at class level 13
 - [Laeral's Silver Lance](/spells/laerals-silver-lance-frhof.md "FRHoF") at class level 13
@@ -214,12 +221,14 @@ aliases:
 
 ## 4th Level
 
+- [Accursed Touch](/spells/accursed-touch-llspell.md "llspell") at class level 19
 - [Arcane Eye](/spells/arcane-eye-xphb.md "XPHB") at class level 19
 - [Backlash](/spells/backlash-frhof.md "FRHoF") at class level 19
 - [Banishment](/spells/banishment-xphb.md "XPHB") at class level 19
 - [Blight](/spells/blight-xphb.md "XPHB") at class level 19
 - [Charm Monster](/spells/charm-monster-xphb.md "XPHB") at class level 19
 - [Confusion](/spells/confusion-xphb.md "XPHB") at class level 19
+- [Conjure Aberration](/spells/conjure-aberration-llspell.md "llspell") at class level 19
 - [Conjure Minor Elementals](/spells/conjure-minor-elementals-xphb.md "XPHB") at class level 19
 - [Control Water](/spells/control-water-xphb.md "XPHB") at class level 19
 - [Dimension Door](/spells/dimension-door-xphb.md "XPHB") at class level 19

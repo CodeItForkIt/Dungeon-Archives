@@ -4,6 +4,7 @@ cssclasses:
 - json5e-spell
 tags:
 - compendium/src/5e/xphb
+- spell/class/alternate-bard/magical-secrets
 - spell/class/artificer
 - spell/class/bard
 - spell/class/cleric
@@ -16,16 +17,35 @@ tags:
 - spell/level/3rd-level
 - spell/school/abjuration
 - spell/subclass/abjurer
+- spell/subclass/academy-of-zeal
 - spell/subclass/arcane-trickster
+- spell/subclass/beast-master
 - spell/subclass/clockwork-sorcery
 - spell/subclass/college-of-lore
+- spell/subclass/divine-sorcery
 - spell/subclass/divine-soul
 - spell/subclass/eldritch-knight
 - spell/subclass/forge-domain
+- spell/subclass/loremaster/magical-secrets
+- spell/subclass/monster-slayer
+- spell/subclass/mystic
 - spell/subclass/oath-of-glory
 - spell/subclass/oath-of-the-ancients
 - spell/subclass/oath-of-vengeance
+- spell/subclass/order-of-arcanists
+- spell/subclass/order-of-witch-knights
+- spell/subclass/verdant-sorcery
+- spell/subclass/witchblade
 classes:
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Blood Hunter (Order of Witch Knights)
+- Alternate Fighter (Mystic)
+- Alternate Fighter (Witchblade)
+- Alternate Ranger (Beast Master)
+- Alternate Ranger (Monster Slayer)
+- Alternate Sorcerer (Divine Sorcery)
+- Alternate Sorcerer (Verdant Sorcery)
 - Artificer
 - Bard
 - Bard (College of Lore)
@@ -33,6 +53,7 @@ classes:
 - Cleric (Forge Domain)
 - Druid
 - Fighter (Eldritch Knight)
+- Magus (Order of Arcanists)
 - Paladin (Oath of Glory)
 - Paladin (Oath of Vengeance)
 - Paladin (Oath of the Ancients)
@@ -41,6 +62,7 @@ classes:
 - Sorcerer
 - Sorcerer (Clockwork Sorcery)
 - Sorcerer (Divine Soul)
+- Warlord (Academy of Zeal)
 - Wizard
 - Wizard (Abjurer)
 aliases:
@@ -57,6 +79,6 @@ aliases:
 
 For the duration, the willing creature you touch has [Resistance](/rules/variant-rules/resistance-xphb.md) to one damage type of your choice: Acid, Cold, Fire, Lightning, or Thunder.
 
-**Classes**: [Artificer](/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/lists/list-spells-classes-bard.md); [Cleric (Forge Domain)](/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE;class=XPHB"); [Cleric](/lists/list-spells-classes-cleric.md); [Druid](/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of Glory)](/lists/list-spells-classes-oath-of-glory-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of Vengeance)](/lists/list-spells-classes-oath-of-vengeance-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of the Ancients)](/lists/list-spells-classes-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](/lists/list-spells-classes-ranger.md); [Rogue (Arcane Trickster)](/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Clockwork Sorcery)](/lists/list-spells-classes-clockwork-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Wizard (Abjurer)](/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Blood Hunter (Order of Witch Knights)](/lists/list-spells-classes-order-of-witch-knights-llabh.md "subclass=LLABH;class=LLABH"); [Alternate Fighter (Mystic)](/lists/list-spells-classes-mystic-llaf.md "subclass=LLAF;class=LLAF"); [Alternate Fighter (Witchblade)](/lists/list-spells-classes-witchblade-llaf-e.md "subclass=LLAF:E;class=LLAF"); [Alternate Ranger (Beast Master)](/lists/list-spells-classes-beast-master-llar.md "subclass=LLAR;class=LLAR"); [Alternate Ranger (Monster Slayer)](/lists/list-spells-classes-monster-slayer-llar.md "subclass=LLAR;class=LLAR"); [Alternate Sorcerer (Divine Sorcery)](/lists/list-spells-classes-divine-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Alternate Sorcerer (Verdant Sorcery)](/lists/list-spells-classes-verdant-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Artificer](/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/lists/list-spells-classes-bard.md); [Cleric (Forge Domain)](/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE;class=XPHB"); [Cleric](/lists/list-spells-classes-cleric.md); [Druid](/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Paladin (Oath of Glory)](/lists/list-spells-classes-oath-of-glory-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of Vengeance)](/lists/list-spells-classes-oath-of-vengeance-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of the Ancients)](/lists/list-spells-classes-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](/lists/list-spells-classes-ranger.md); [Rogue (Arcane Trickster)](/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Clockwork Sorcery)](/lists/list-spells-classes-clockwork-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Warlord (Academy of Zeal)](/lists/list-spells-classes-academy-of-zeal-llaw-e.md "subclass=LLAW:E;class=LLAW"); [Wizard (Abjurer)](/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 309. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -10,9 +10,13 @@ tags:
 - spell/school/evocation
 - spell/subclass/arcana-domain
 - spell/subclass/evoker
+- spell/subclass/fey-sorcery
+- spell/subclass/order-of-arcanists
 classes:
+- Alternate Sorcerer (Fey Sorcery)
 - Bard
 - Cleric (Arcana Domain)
+- Magus (Order of Arcanists)
 - Wizard
 - Wizard (Evoker)
 aliases:
@@ -33,6 +37,6 @@ When the sword appears, you make a melee spell attack against a target within 5 
 
 On your later turns, you can take a [Bonus Action](/rules/variant-rules/bonus-action-xphb.md) to move the sword up to 30 feet to a spot you can see and repeat the attack against the same target or a different one.
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Wizard (Evoker)](/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Sorcerer (Fey Sorcery)](/lists/list-spells-classes-fey-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Wizard (Evoker)](/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 302. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Arcane Sword") and the Free Rules (2024)*

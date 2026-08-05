@@ -12,6 +12,8 @@ aliases:
 ## Cantrip
 
 - [Acid Splash](/spells/acid-splash-xphb.md "XPHB")
+- [Acid Splash (Alternate)](/spells/acid-splash-alternate-llspell.md "llspell")
+- [Beckon Air](/spells/beckon-air-llspell.md "llspell")
 - [Blade Ward](/spells/blade-ward-xphb.md "XPHB")
 - [Booming Blade](/spells/booming-blade-tce.md "TCE")
 - [Chill Touch](/spells/chill-touch-xphb.md "XPHB")

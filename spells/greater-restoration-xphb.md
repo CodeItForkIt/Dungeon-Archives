@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - compendium/src/5e/xphb
 - spell/background/witherbloom-student
+- spell/class/alternate-bard/magical-secrets
 - spell/class/artificer
 - spell/class/bard
 - spell/class/cleric
@@ -18,11 +19,20 @@ tags:
 - spell/school/abjuration
 - spell/subclass/celestial-patron
 - spell/subclass/clockwork-sorcery
+- spell/subclass/divine-sorcery
 - spell/subclass/divine-soul
+- spell/subclass/fey-sorcery
 - spell/subclass/life-domain
+- spell/subclass/loremaster/magical-secrets
 - spell/subclass/peace-domain
 - spell/subclass/spellfire-sorcery
+- spell/subclass/verdant-sorcery
 classes:
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Sorcerer (Divine Sorcery)
+- Alternate Sorcerer (Fey Sorcery)
+- Alternate Sorcerer (Verdant Sorcery)
 - Artificer
 - Bard
 - Cleric
@@ -55,6 +65,6 @@ You touch a creature and magically remove one of the following effects from it:
 - Any reduction to one of the target's ability scores  
 - Any reduction to the target's [Hit Point](/rules/variant-rules/hit-points-xphb.md) maximum  
 
-**Classes**: [Artificer](/lists/list-spells-classes-artificer.md); [Bard](/lists/list-spells-classes-bard.md); [Cleric (Life Domain)](/lists/list-spells-classes-life-domain-xphb.md "subclass=XPHB;class=XPHB"); [Cleric (Peace Domain)](/lists/list-spells-classes-peace-domain-tce.md "subclass=TCE;class=XPHB"); [Cleric](/lists/list-spells-classes-cleric.md); [Druid](/lists/list-spells-classes-druid.md); [Paladin](/lists/list-spells-classes-paladin.md); [Ranger](/lists/list-spells-classes-ranger.md); [Sorcerer (Clockwork Sorcery)](/lists/list-spells-classes-clockwork-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Sorcerer (Spellfire Sorcery)](/lists/list-spells-classes-spellfire-sorcery-frhof.md "subclass=FRHoF;class=XPHB"); [Warlock (Celestial Patron)](/lists/list-spells-classes-celestial-patron-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Sorcerer (Divine Sorcery)](/lists/list-spells-classes-divine-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Alternate Sorcerer (Fey Sorcery)](/lists/list-spells-classes-fey-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Alternate Sorcerer (Verdant Sorcery)](/lists/list-spells-classes-verdant-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Artificer](/lists/list-spells-classes-artificer.md); [Bard](/lists/list-spells-classes-bard.md); [Cleric (Life Domain)](/lists/list-spells-classes-life-domain-xphb.md "subclass=XPHB;class=XPHB"); [Cleric (Peace Domain)](/lists/list-spells-classes-peace-domain-tce.md "subclass=TCE;class=XPHB"); [Cleric](/lists/list-spells-classes-cleric.md); [Druid](/lists/list-spells-classes-druid.md); [Paladin](/lists/list-spells-classes-paladin.md); [Ranger](/lists/list-spells-classes-ranger.md); [Sorcerer (Clockwork Sorcery)](/lists/list-spells-classes-clockwork-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Sorcerer (Spellfire Sorcery)](/lists/list-spells-classes-spellfire-sorcery-frhof.md "subclass=FRHoF;class=XPHB"); [Warlock (Celestial Patron)](/lists/list-spells-classes-celestial-patron-xphb.md "subclass=XPHB;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 281. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

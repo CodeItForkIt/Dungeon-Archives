@@ -6,13 +6,23 @@ tags:
 - compendium/src/5e/xphb
 - spell/background/azorius-functionary
 - spell/background/silverquill-student
+- spell/class/alternate-bard/magical-secrets
 - spell/class/bard
 - spell/level/4th-level
 - spell/optfeature/bewitching-whispers
 - spell/school/enchantment
+- spell/subclass/fey-sorcery
+- spell/subclass/loremaster/magical-secrets
+- spell/subclass/mystic
 - spell/subclass/oath-of-glory
 - spell/subclass/order-domain
+- spell/subclass/royal-sorcery
 classes:
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Fighter (Mystic)
+- Alternate Sorcerer (Fey Sorcery)
+- Alternate Sorcerer (Royal Sorcery)
 - Bard
 - Cleric (Order Domain)
 - Paladin (Oath of Glory)
@@ -32,6 +42,6 @@ Each creature of your choice that you can see within range must succeed on a Wis
 
 For the duration, you can take a [Bonus Action](/rules/variant-rules/bonus-action-xphb.md) to designate a direction that is horizontal to you. Each [Charmed](/rules/conditions.md#Charmed) target must use as much of its movement as possible to move in that direction on its next turn, taking the safest route. After moving in this way, a target repeats the save, ending the spell on itself on a success.
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Cleric (Order Domain)](/lists/list-spells-classes-order-domain-tce.md "subclass=TCE;class=XPHB"); [Paladin (Oath of Glory)](/lists/list-spells-classes-oath-of-glory-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Fighter (Mystic)](/lists/list-spells-classes-mystic-llaf.md "subclass=LLAF;class=LLAF"); [Alternate Sorcerer (Fey Sorcery)](/lists/list-spells-classes-fey-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Alternate Sorcerer (Royal Sorcery)](/lists/list-spells-classes-royal-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Cleric (Order Domain)](/lists/list-spells-classes-order-domain-tce.md "subclass=TCE;class=XPHB"); [Paladin (Oath of Glory)](/lists/list-spells-classes-oath-of-glory-xphb.md "subclass=XPHB;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 252. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

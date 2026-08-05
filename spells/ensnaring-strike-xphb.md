@@ -5,13 +5,25 @@ cssclasses:
 tags:
 - compendium/src/5e/xphb
 - spell/background/azorius-functionary
+- spell/class/alternate-bard/magical-secrets
 - spell/class/ranger
 - spell/level/1st-level
 - spell/school/conjuration
+- spell/subclass/academy-of-zeal
+- spell/subclass/loremaster/magical-secrets
+- spell/subclass/mystic
 - spell/subclass/oath-of-the-ancients
+- spell/subclass/order-of-witch-knights
+- spell/subclass/witchblade
 classes:
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Blood Hunter (Order of Witch Knights)
+- Alternate Fighter (Mystic)
+- Alternate Fighter (Witchblade)
 - Paladin (Oath of the Ancients)
 - Ranger
+- Warlord (Academy of Zeal)
 aliases:
 - "Ensnaring Strike"
 ---
@@ -30,6 +42,6 @@ While [Restrained](/rules/conditions.md#Restrained), the target takes `1d6` Pier
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d6` for each spell slot level above 1.
 
-**Classes**: [Paladin (Oath of the Ancients)](/lists/list-spells-classes-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](/lists/list-spells-classes-ranger.md)
+**Classes**: [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Blood Hunter (Order of Witch Knights)](/lists/list-spells-classes-order-of-witch-knights-llabh.md "subclass=LLABH;class=LLABH"); [Alternate Fighter (Mystic)](/lists/list-spells-classes-mystic-llaf.md "subclass=LLAF;class=LLAF"); [Alternate Fighter (Witchblade)](/lists/list-spells-classes-witchblade-llaf-e.md "subclass=LLAF:E;class=LLAF"); [Paladin (Oath of the Ancients)](/lists/list-spells-classes-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](/lists/list-spells-classes-ranger.md); [Warlord (Academy of Zeal)](/lists/list-spells-classes-academy-of-zeal-llaw-e.md "subclass=LLAW:E;class=LLAW")
 
 *Source: Player's Handbook (2024) p. 268. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

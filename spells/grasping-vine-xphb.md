@@ -5,13 +5,23 @@ cssclasses:
 tags:
 - compendium/src/5e/xphb
 - spell/background/golgari-agent
+- spell/class/alternate-bard/magical-secrets
 - spell/class/bard
 - spell/class/druid
 - spell/class/ranger
 - spell/level/4th-level
 - spell/school/conjuration
+- spell/subclass/loremaster/magical-secrets
+- spell/subclass/mystic
 - spell/subclass/nature-domain
+- spell/subclass/puppeteer
+- spell/subclass/verdant-sorcery
 classes:
+- Alternate Artificer (Puppeteer)
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Fighter (Mystic)
+- Alternate Sorcerer (Verdant Sorcery)
 - Bard
 - Cleric (Nature Domain)
 - Druid
@@ -36,6 +46,6 @@ As a [Bonus Action](/rules/variant-rules/bonus-action-xphb.md) on your later tur
 
 **Using a Higher-Level Spell Slot.** The number of creatures the vine can grapple increases by one for each spell slot level above 4.
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Cleric (Nature Domain)](/lists/list-spells-classes-nature-domain.md "class=XPHB"); [Druid](/lists/list-spells-classes-druid.md); [Ranger](/lists/list-spells-classes-ranger.md)
+**Classes**: [Alternate Artificer (Puppeteer)](/lists/list-spells-classes-puppeteer-llaart-e.md "subclass=LLAART:E;class=LLAART"); [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Fighter (Mystic)](/lists/list-spells-classes-mystic-llaf.md "subclass=LLAF;class=LLAF"); [Alternate Sorcerer (Verdant Sorcery)](/lists/list-spells-classes-verdant-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Cleric (Nature Domain)](/lists/list-spells-classes-nature-domain.md "class=XPHB"); [Druid](/lists/list-spells-classes-druid.md); [Ranger](/lists/list-spells-classes-ranger.md)
 
 *Source: Player's Handbook (2024) p. 280*

@@ -8,8 +8,10 @@ tags:
 - spell/class/cleric
 - spell/level/7th-level
 - spell/school/conjuration
+- spell/subclass/divine-sorcery
 - spell/subclass/divine-soul
 classes:
+- Alternate Sorcerer (Divine Sorcery)
 - Bard
 - Cleric
 - Sorcerer (Divine Soul)
@@ -36,6 +38,6 @@ Whenever the [Cylinder](/rules/variant-rules/cylinder-area-of-effect-xphb.md) mo
 
 **Using a Higher-Level Spell Slot.** The healing and damage increase by `1d12` for each spell slot level above 7.
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Cleric](/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+**Classes**: [Alternate Sorcerer (Divine Sorcery)](/lists/list-spells-classes-divine-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Cleric](/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 254. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

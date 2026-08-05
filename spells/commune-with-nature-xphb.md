@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - compendium/src/5e/xphb
 - spell/background/selesnya-initiate
+- spell/class/alternate-bard/magical-secrets
 - spell/class/bard
 - spell/class/druid
 - spell/class/ranger
@@ -12,9 +13,21 @@ tags:
 - spell/level/5th-level
 - spell/ritual
 - spell/school/divination
+- spell/subclass/beast-master
+- spell/subclass/loremaster/magical-secrets
 - spell/subclass/oath-of-the-ancients
 - spell/subclass/path-of-the-wild-heart
+- spell/subclass/shifter
+- spell/subclass/verdant-sorcery
+- spell/subclass/wastelander
 classes:
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Paladin (Oath of the Ancients)
+- Alternate Ranger (Beast Master)
+- Alternate Ranger (Shifter)
+- Alternate Ranger (Wastelander)
+- Alternate Sorcerer (Verdant Sorcery)
 - Barbarian (Path of the Wild Heart)
 - Bard
 - Druid
@@ -44,6 +57,6 @@ Choose three of the following facts; you learn those facts as they pertain to th
 
 For example, you could determine the location of a powerful monster in the area, the locations of bodies of water, and the locations of any towns.
 
-**Classes**: [Barbarian (Path of the Wild Heart)](/lists/list-spells-classes-path-of-the-wild-heart-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/lists/list-spells-classes-bard.md); [Druid](/lists/list-spells-classes-druid.md); [Paladin (Oath of the Ancients)](/lists/list-spells-classes-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](/lists/list-spells-classes-ranger.md)
+**Classes**: [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Paladin (Oath of the Ancients)](/lists/list-spells-classes-oath-of-the-ancients-llapal.md "subclass=LLAPal;class=LLAPal"); [Alternate Ranger (Beast Master)](/lists/list-spells-classes-beast-master-llar.md "subclass=LLAR;class=LLAR"); [Alternate Ranger (Shifter)](/lists/list-spells-classes-shifter-llar-e.md "subclass=LLAR:E;class=LLAR"); [Alternate Ranger (Wastelander)](/lists/list-spells-classes-wastelander-llar-e.md "subclass=LLAR:E;class=LLAR"); [Alternate Sorcerer (Verdant Sorcery)](/lists/list-spells-classes-verdant-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Barbarian (Path of the Wild Heart)](/lists/list-spells-classes-path-of-the-wild-heart-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/lists/list-spells-classes-bard.md); [Druid](/lists/list-spells-classes-druid.md); [Paladin (Oath of the Ancients)](/lists/list-spells-classes-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](/lists/list-spells-classes-ranger.md)
 
 *Source: Player's Handbook (2024) p. 252. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

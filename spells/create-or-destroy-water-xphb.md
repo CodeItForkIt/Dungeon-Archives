@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - compendium/src/5e/xphb
 - spell/background/izzet-engineer
+- spell/class/alternate-bard/magical-secrets
 - spell/class/bard
 - spell/class/cleric
 - spell/class/druid
@@ -12,17 +13,34 @@ tags:
 - spell/feat/strixhaven-initiate/witherbloom-3
 - spell/level/1st-level
 - spell/school/transmutation
+- spell/subclass/academy-of-zeal
 - spell/subclass/college-of-lore
+- spell/subclass/divine-sorcery
 - spell/subclass/divine-soul
+- spell/subclass/loremaster/magical-secrets
+- spell/subclass/mystic
+- spell/subclass/oceanic-sorcery
+- spell/subclass/order-of-witch-knights
 - spell/subclass/the-fathomless
+- spell/subclass/verdant-sorcery
+- spell/subclass/witchblade
 - spell/subrace/genasi-water
 classes:
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Blood Hunter (Order of Witch Knights)
+- Alternate Fighter (Mystic)
+- Alternate Fighter (Witchblade)
+- Alternate Sorcerer (Divine Sorcery)
+- Alternate Sorcerer (Oceanic Sorcery)
+- Alternate Sorcerer (Verdant Sorcery)
 - Bard
 - Bard (College of Lore)
 - Cleric
 - Druid
 - Sorcerer (Divine Soul)
 - Warlock (The Fathomless)
+- Warlord (Academy of Zeal)
 aliases:
 - "Create or Destroy Water"
 ---
@@ -42,6 +60,6 @@ You do one of the following:
 
 **Using a Higher-Level Spell Slot.** You create or destroy 10 additional gallons of water, or the size of the [Cube](/rules/variant-rules/cube-area-of-effect-xphb.md) increases by 5 feet, for each spell slot level above 1.
 
-**Classes**: [Bard (College of Lore)](/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/lists/list-spells-classes-bard.md); [Cleric](/lists/list-spells-classes-cleric.md); [Druid](/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock (The Fathomless)](/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE;class=XPHB")
+**Classes**: [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Blood Hunter (Order of Witch Knights)](/lists/list-spells-classes-order-of-witch-knights-llabh.md "subclass=LLABH;class=LLABH"); [Alternate Fighter (Mystic)](/lists/list-spells-classes-mystic-llaf.md "subclass=LLAF;class=LLAF"); [Alternate Fighter (Witchblade)](/lists/list-spells-classes-witchblade-llaf-e.md "subclass=LLAF:E;class=LLAF"); [Alternate Sorcerer (Divine Sorcery)](/lists/list-spells-classes-divine-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Alternate Sorcerer (Oceanic Sorcery)](/lists/list-spells-classes-oceanic-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Alternate Sorcerer (Verdant Sorcery)](/lists/list-spells-classes-verdant-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Bard (College of Lore)](/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/lists/list-spells-classes-bard.md); [Cleric](/lists/list-spells-classes-cleric.md); [Druid](/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock (The Fathomless)](/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE;class=XPHB"); [Warlord (Academy of Zeal)](/lists/list-spells-classes-academy-of-zeal-llaw-e.md "subclass=LLAW:E;class=LLAW")
 
 *Source: Player's Handbook (2024) p. 258. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

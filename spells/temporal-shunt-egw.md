@@ -4,11 +4,15 @@ cssclasses:
 - json5e-spell
 tags:
 - compendium/src/5e/egw
+- spell/class/alternate-bard/magical-secrets
 - spell/level/5th-level
 - spell/school/transmutation
 - spell/subclass/chronurgy-magic
 - spell/subclass/graviturgy-magic
+- spell/subclass/loremaster/magical-secrets
 classes:
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
 - Wizard (Chronurgy Magic)
 - Wizard (Graviturgy Magic)
 aliases:
@@ -27,6 +31,6 @@ You target the triggering creature, which must succeed on a Wisdom saving throw 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, you can target one additional creature for each slot level above 5th. All targets must be within 30 feet of each other.
 
-**Classes**: [Wizard (Chronurgy Magic)](/lists/list-spells-classes-chronurgy-magic-egw.md "subclass=EGW;class=XPHB"); [Wizard (Graviturgy Magic)](/lists/list-spells-classes-graviturgy-magic-egw.md "subclass=EGW;class=XPHB")
+**Classes**: [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Wizard (Chronurgy Magic)](/lists/list-spells-classes-chronurgy-magic-egw.md "subclass=EGW;class=XPHB"); [Wizard (Graviturgy Magic)](/lists/list-spells-classes-graviturgy-magic-egw.md "subclass=EGW;class=XPHB")
 
 *Source: Explorer's Guide to Wildemount p. 189*

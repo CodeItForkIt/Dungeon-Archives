@@ -6,6 +6,7 @@ tags:
 - compendium/src/5e/xphb
 - spell/background/izzet-engineer
 - spell/background/selesnya-initiate
+- spell/class/alternate-bard/magical-secrets
 - spell/class/bard
 - spell/class/druid
 - spell/class/wizard
@@ -14,11 +15,20 @@ tags:
 - spell/school/conjuration
 - spell/subclass/arcane-trickster
 - spell/subclass/eldritch-knight
+- spell/subclass/loremaster/magical-secrets
+- spell/subclass/mystic
 - spell/subclass/oath-of-the-noble-genies
+- spell/subclass/order-of-arcanists
+- spell/subclass/verdant-sorcery
 classes:
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Fighter (Mystic)
+- Alternate Sorcerer (Verdant Sorcery)
 - Bard
 - Druid
 - Fighter (Eldritch Knight)
+- Magus (Order of Arcanists)
 - Paladin (Oath of the Noble Genies)
 - Rogue (Arcane Trickster)
 - Wizard
@@ -40,6 +50,6 @@ In addition, the ground in the [Emanation](/rules/variant-rules/emanation-area-o
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d8` for each spell slot level above 4.
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Druid](/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of the Noble Genies)](/lists/list-spells-classes-oath-of-the-noble-genies-frhof.md "subclass=FRHoF;class=XPHB"); [Rogue (Arcane Trickster)](/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Fighter (Mystic)](/lists/list-spells-classes-mystic-llaf.md "subclass=LLAF;class=LLAF"); [Alternate Sorcerer (Verdant Sorcery)](/lists/list-spells-classes-verdant-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Druid](/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Paladin (Oath of the Noble Genies)](/lists/list-spells-classes-oath-of-the-noble-genies-frhof.md "subclass=FRHoF;class=XPHB"); [Rogue (Arcane Trickster)](/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 255. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

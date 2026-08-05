@@ -4,6 +4,7 @@ cssclasses:
 - json5e-spell
 tags:
 - compendium/src/5e/xphb
+- spell/class/alternate-bard/magical-secrets
 - spell/class/artificer
 - spell/class/bard
 - spell/class/druid
@@ -14,14 +15,29 @@ tags:
 - spell/optfeature/wave-of-rolling-earth
 - spell/school/evocation
 - spell/subclass/circle-of-the-land/arid-land
+- spell/subclass/dungeoneer
 - spell/subclass/evoker
+- spell/subclass/gunslinger
+- spell/subclass/loremaster/magical-secrets
+- spell/subclass/order-of-arcanists
+- spell/subclass/stone-sorcery
+- spell/subclass/the-cataclysm/earth
 - spell/subclass/the-genie
+- spell/subclass/verdant-sorcery
 classes:
+- Alternate Artificer (Dungeoneer)
+- Alternate Artificer (Gunslinger)
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Sorcerer (Stone Sorcery)
+- Alternate Sorcerer (Verdant Sorcery)
 - Artificer
 - Bard
 - Druid
 - Druid (Circle of the Land, Arid Land)
+- Magus (Order of Arcanists)
 - Sorcerer
+- Vessel (The Cataclysm, Earth)
 - Warlock (The Genie)
 - Wizard
 - Wizard (Evoker)
@@ -49,6 +65,6 @@ The wall is an object made of stone that can be damaged and thus breached. Each 
 
 If you maintain your [Concentration](/rules/conditions.md#Concentration) on this spell for its full duration, the wall becomes permanent and can't be dispelled. Otherwise, the wall disappears when the spell ends.
 
-**Classes**: [Artificer](/lists/list-spells-classes-artificer.md); [Bard](/lists/list-spells-classes-bard.md); [Druid (Circle of the Land, Arid Land)](/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Druid](/lists/list-spells-classes-druid.md); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Warlock (The Genie)](/lists/list-spells-classes-the-genie-tce.md "subclass=TCE;class=XPHB"); [Wizard (Evoker)](/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Artificer (Dungeoneer)](/lists/list-spells-classes-dungeoneer-llaart-e.md "subclass=LLAART:E;class=LLAART"); [Alternate Artificer (Gunslinger)](/lists/list-spells-classes-gunslinger-llaart-e.md "subclass=LLAART:E;class=LLAART"); [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Sorcerer (Stone Sorcery)](/lists/list-spells-classes-stone-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Alternate Sorcerer (Verdant Sorcery)](/lists/list-spells-classes-verdant-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Artificer](/lists/list-spells-classes-artificer.md); [Bard](/lists/list-spells-classes-bard.md); [Druid (Circle of the Land, Arid Land)](/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Druid](/lists/list-spells-classes-druid.md); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Vessel (The Cataclysm, Earth)](/lists/list-spells-classes-the-cataclysm-llvessel.md "subclass=LLVessel;class=LLVessel"); [Warlock (The Genie)](/lists/list-spells-classes-the-genie-tce.md "subclass=TCE;class=XPHB"); [Wizard (Evoker)](/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 339. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

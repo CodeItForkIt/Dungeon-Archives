@@ -4,6 +4,7 @@ cssclasses:
 - json5e-spell
 tags:
 - compendium/src/5e/xphb
+- spell/class/alternate-bard/magical-secrets
 - spell/class/artificer
 - spell/class/bard
 - spell/class/wizard
@@ -12,10 +13,23 @@ tags:
 - spell/school/conjuration
 - spell/subclass/arcane-trickster
 - spell/subclass/eldritch-knight
+- spell/subclass/hunter
+- spell/subclass/loremaster/magical-secrets
+- spell/subclass/monster-slayer
+- spell/subclass/mystic
+- spell/subclass/order-of-arcanists
+- spell/subclass/order-of-warders
 classes:
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Fighter (Mystic)
+- Alternate Ranger (Hunter)
+- Alternate Ranger (Monster Slayer)
 - Artificer
 - Bard
 - Fighter (Eldritch Knight)
+- Magus (Order of Arcanists)
+- Magus (Order of Warders)
 - Rogue (Arcane Trickster)
 - Wizard
 aliases:
@@ -38,6 +52,6 @@ At the start of each of your turns, the hound attempts to bite one enemy within 
 
 On your later turns, you can take a [Magic](/rules/actions.md#Magic) action to move the hound up to 30 feet.
 
-**Classes**: [Artificer](/lists/list-spells-classes-artificer.md); [Bard](/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Fighter (Mystic)](/lists/list-spells-classes-mystic-llaf.md "subclass=LLAF;class=LLAF"); [Alternate Ranger (Hunter)](/lists/list-spells-classes-hunter-llar.md "subclass=LLAR;class=LLAR"); [Alternate Ranger (Monster Slayer)](/lists/list-spells-classes-monster-slayer-llar.md "subclass=LLAR;class=LLAR"); [Artificer](/lists/list-spells-classes-artificer.md); [Bard](/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Magus (Order of Warders)](/lists/list-spells-classes-order-of-warders-llmc.md "subclass=LLMC;class=LLMC"); [Rogue (Arcane Trickster)](/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 300. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Faithful Hound") and the Free Rules (2024)*

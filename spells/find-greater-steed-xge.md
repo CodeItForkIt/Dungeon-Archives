@@ -4,10 +4,16 @@ cssclasses:
 - json5e-spell
 tags:
 - compendium/src/5e/xge
+- spell/class/alternate-bard/magical-secrets
 - spell/class/paladin
 - spell/level/4th-level
 - spell/school/conjuration
+- spell/subclass/loremaster/magical-secrets
+- spell/subclass/mystic
 classes:
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Fighter (Mystic)
 - Paladin
 aliases:
 - "Find Greater Steed"
@@ -36,6 +42,6 @@ Whenever the mount disappears, it leaves behind any objects it was wearing or ca
 > With the DM's permission, a paladin can summon a spirit in the form of a [dragonnel](/bestiary/dragon/dragonnel-ftd.md) using the find greater steed spell, which appears in *Xanathar's Guide to Everything*.
 ^dragonnel-steeds
 
-**Classes**: [Paladin](/lists/list-spells-classes-paladin.md)
+**Classes**: [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Fighter (Mystic)](/lists/list-spells-classes-mystic-llaf.md "subclass=LLAF;class=LLAF"); [Paladin](/lists/list-spells-classes-paladin.md)
 
 *Source: Xanathar's Guide to Everything p. 156, Fizban's Treasury of Dragons p. 190*

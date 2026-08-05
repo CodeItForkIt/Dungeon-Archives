@@ -12,6 +12,7 @@ tags:
 - spell/feat/strixhaven-initiate/quandrix-1
 - spell/feat/wood-elf-magic
 - spell/level/cantrip
+- spell/optfeature/druidic-warrior/druid
 - spell/optfeature/pact-of-the-tome
 - spell/race/elf/lorwyn
 - spell/race/elf/wood-elf
@@ -24,8 +25,12 @@ tags:
 - spell/subclass/college-of-the-moon
 - spell/subclass/nature-domain
 - spell/subclass/path-of-the-giant
+- spell/subclass/sylvan-archer
+- spell/subclass/verdant-sorcery
 - spell/subrace/halfling-lotusden
 classes:
+- Alternate Fighter (Sylvan Archer)
+- Alternate Sorcerer (Verdant Sorcery)
 - Barbarian (Path of the Giant)
 - Bard (College of Lore)
 - Bard (College of the Moon)
@@ -64,6 +69,6 @@ You light or snuff out a candle, a torch, or a campfire.
 
 ## Summary
 
-**Classes**: [Barbarian (Path of the Giant)](/lists/list-spells-classes-path-of-the-giant-bgg.md "subclass=BGG;class=XPHB"); [Bard (College of Lore)](/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of the Moon)](/lists/list-spells-classes-college-of-the-moon-frhof.md "subclass=FRHoF;class=XPHB"); [Cleric (Nature Domain)](/lists/list-spells-classes-nature-domain.md "class=XPHB"); [Druid](/lists/list-spells-classes-druid.md); [Fighter (Arcane Archer)](/lists/list-spells-classes-arcane-archer-xge.md "subclass=XGE;class=XPHB")
+**Classes**: [Alternate Fighter (Sylvan Archer)](/lists/list-spells-classes-sylvan-archer-llaf.md "subclass=LLAF;class=LLAF"); [Alternate Sorcerer (Verdant Sorcery)](/lists/list-spells-classes-verdant-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Barbarian (Path of the Giant)](/lists/list-spells-classes-path-of-the-giant-bgg.md "subclass=BGG;class=XPHB"); [Bard (College of Lore)](/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of the Moon)](/lists/list-spells-classes-college-of-the-moon-frhof.md "subclass=FRHoF;class=XPHB"); [Cleric (Nature Domain)](/lists/list-spells-classes-nature-domain.md "class=XPHB"); [Druid](/lists/list-spells-classes-druid.md); [Fighter (Arcane Archer)](/lists/list-spells-classes-arcane-archer-xge.md "subclass=XGE;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 266. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

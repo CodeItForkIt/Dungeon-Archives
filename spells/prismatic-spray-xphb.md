@@ -9,12 +9,17 @@ tags:
 - spell/class/wizard
 - spell/feat/boon-of-siberys/sorcerer-spell
 - spell/level/7th-level
+- spell/optfeature/elder-spirit-of-the-void
 - spell/school/evocation
 - spell/subclass/arcana-domain
 - spell/subclass/evoker
+- spell/subclass/fey-sorcery
+- spell/subclass/order-of-arcanists
 classes:
+- Alternate Sorcerer (Fey Sorcery)
 - Bard
 - Cleric (Arcana Domain)
+- Magus (Order of Arcanists)
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
@@ -46,6 +51,6 @@ Eight rays of light flash from you in a 60-foot [Cone](/rules/variant-rules/cone
 | 8 | **Special.** The target is struck by two rays. Roll twice, rerolling any 8. |
 ^prismatic-rays
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Wizard (Evoker)](/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Sorcerer (Fey Sorcery)](/lists/list-spells-classes-fey-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Wizard (Evoker)](/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 307. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

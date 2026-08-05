@@ -14,8 +14,8 @@ aliases:
 
 | Class | Hit Points per Level |
 |-------|----------------------|
-| [Barbarian](barbarian-xphb.md) | 7 + Con. modifier |
-| [Fighter](fighter-xphb.md), [Paladin](paladin-xphb.md), or [Ranger](ranger-xphb.md) | 6 + Con. modifier |
-| [Bard](bard-xphb.md), [Cleric](cleric-xphb.md), [Druid](druid-xphb.md), [Monk](monk-xphb.md), [Rogue](rogue-xphb.md), or [Warlock](warlock-xphb.md) | 5 + Con. modifier |
-| [Sorcerer](sorcerer-xphb.md) or [Wizard](wizard-xphb.md) | 4 + Con. modifier |
+| [Barbarian](/classes/barbarian-xphb.md) | 7 + Con. modifier |
+| [Fighter](/classes/fighter-xphb.md), [Paladin](/classes/paladin-xphb.md), or [Ranger](/classes/ranger-xphb.md) | 6 + Con. modifier |
+| [Bard](/classes/bard-xphb.md), [Cleric](/classes/cleric-xphb.md), [Druid](/classes/druid-xphb.md), [Monk](/classes/monk-xphb.md), [Rogue](/classes/rogue-xphb.md), or [Warlock](/classes/warlock-xphb.md) | 5 + Con. modifier |
+| [Sorcerer](/classes/sorcerer-xphb.md) or [Wizard](/classes/wizard-xphb.md) | 4 + Con. modifier |
 ^fixed-hit-points-by-class

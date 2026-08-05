@@ -40,7 +40,7 @@ Consider customizing how your spells look when you cast them. Your Quandrix spel
 
 ## Building a Quandrix Character
 
-Any spellcasting class or subclass can work well for a Quandrix character. Both the scholarly focus of wizards (especially those who study the Schools of [Abjuration](wizard-xphb-abjurer-xphb.md), [Illusion](wizard-xphb-illusionist-xphb.md), or Transmutation) and the metamagic manipulations of sorcerers are welcome in Quandrix, and many druids explore the patterns of nature in Quandrix as well. A few clerics, particularly those with the [Knowledge](cleric-xphb-knowledge-domain-frhof.md) or Nature domains, study in Quandrix as well.
+Any spellcasting class or subclass can work well for a Quandrix character. Both the scholarly focus of wizards (especially those who study the Schools of [Abjuration](/classes/wizard-xphb-abjurer-xphb.md), [Illusion](/classes/wizard-xphb-illusionist-xphb.md), or Transmutation) and the metamagic manipulations of sorcerers are welcome in Quandrix, and many druids explore the patterns of nature in Quandrix as well. A few clerics, particularly those with the [Knowledge](/classes/cleric-xphb-knowledge-domain-frhof.md) or Nature domains, study in Quandrix as well.
 
 Aside from traditional spellcasters, a few characters of other classes find homes in Quandrix. Some fighters, monks, rangers, and rogues study here, using Quandrix principles to train their minds.
 

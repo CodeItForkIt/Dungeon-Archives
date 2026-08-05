@@ -4,6 +4,7 @@ cssclasses:
 - json5e-spell
 tags:
 - compendium/src/5e/xphb
+- spell/class/alternate-bard/magical-secrets
 - spell/class/artificer
 - spell/class/bard
 - spell/class/wizard
@@ -12,12 +13,25 @@ tags:
 - spell/school/transmutation
 - spell/subclass/arcane-trickster
 - spell/subclass/eldritch-knight
+- spell/subclass/forge
 - spell/subclass/forge-domain
+- spell/subclass/iron-sorcery
+- spell/subclass/loremaster/magical-secrets
+- spell/subclass/mystic
+- spell/subclass/order-of-arcanists
+- spell/subclass/order-of-armorers
 classes:
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Cleric (Forge)
+- Alternate Fighter (Mystic)
+- Alternate Sorcerer (Iron Sorcery)
 - Artificer
 - Bard
 - Cleric (Forge Domain)
 - Fighter (Eldritch Knight)
+- Magus (Order of Arcanists)
+- Magus (Order of Armorers)
 - Rogue (Arcane Trickster)
 - Wizard
 aliases:
@@ -38,6 +52,6 @@ Choose raw materials that you can see within range. You can fabricate a Large or
 
 Creatures and magic items can't be created by this spell. You also can't use it to create items that require a high degree of skill—such as weapons and armor—unless you have proficiency with the type of [Artisan's Tools](/items/artisans-tools-xphb.md) used to craft such objects.
 
-**Classes**: [Artificer](/lists/list-spells-classes-artificer.md); [Bard](/lists/list-spells-classes-bard.md); [Cleric (Forge Domain)](/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE;class=XPHB"); [Fighter (Eldritch Knight)](/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Cleric (Forge)](/lists/list-spells-classes-forge-llaclr.md "subclass=LLAClr;class=LLAClr"); [Alternate Fighter (Mystic)](/lists/list-spells-classes-mystic-llaf.md "subclass=LLAF;class=LLAF"); [Alternate Sorcerer (Iron Sorcery)](/lists/list-spells-classes-iron-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Artificer](/lists/list-spells-classes-artificer.md); [Bard](/lists/list-spells-classes-bard.md); [Cleric (Forge Domain)](/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE;class=XPHB"); [Fighter (Eldritch Knight)](/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Magus (Order of Armorers)](/lists/list-spells-classes-order-of-armorers-llmc-e.md "subclass=LLMC:E;class=LLMC"); [Rogue (Arcane Trickster)](/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 271. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

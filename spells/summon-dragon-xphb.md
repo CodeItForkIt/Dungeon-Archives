@@ -4,14 +4,22 @@ cssclasses:
 - json5e-spell
 tags:
 - compendium/src/5e/xphb
+- spell/class/alternate-bard/magical-secrets
 - spell/class/bard
 - spell/class/wizard
 - spell/feat/boon-of-siberys
 - spell/level/5th-level
 - spell/school/conjuration
 - spell/subclass/draconic-sorcery
+- spell/subclass/loremaster/magical-secrets
+- spell/subclass/order-of-arcanists
+- spell/subclass/wyrmbound
 classes:
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
 - Bard
+- Magus (Order of Arcanists)
+- Shaman (Wyrmbound)
 - Sorcerer (Draconic Sorcery)
 - Wizard
 aliases:
@@ -32,6 +40,6 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 **Using a Higher-Level Spell Slot.** Use the spell slot's level for the spell's level in the stat block.
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Sorcerer (Draconic Sorcery)](/lists/list-spells-classes-draconic-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Bard](/lists/list-spells-classes-bard.md); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Shaman (Wyrmbound)](/lists/list-spells-classes-wyrmbound-llsh-e.md "subclass=LLSH:E;class=LLSH"); [Sorcerer (Draconic Sorcery)](/lists/list-spells-classes-draconic-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 324. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

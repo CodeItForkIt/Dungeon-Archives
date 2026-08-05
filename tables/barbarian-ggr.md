@@ -15,10 +15,10 @@ aliases:
 | Subclass | Guild |
 |----------|-------|
 | Path of the Ancestral Guardian* | Gruul |
-| [Path of the Berserker](barbarian-xphb.md) | Gruul, [Rakdos](/bestiary/npc/rakdos-ggr.md) |
+| [Path of the Berserker](/classes/barbarian-xphb.md) | Gruul, [Rakdos](/bestiary/npc/rakdos-ggr.md) |
 | Path of the Storm Herald* | Gruul |
-| [Path of the Totem Warrior](barbarian-xphb.md) | Gruul |
-| [Path of the Zealot](barbarian-xphb-path-of-the-zealot-xphb.md)* | Boros, [Rakdos](/bestiary/npc/rakdos-ggr.md) |
+| [Path of the Totem Warrior](/classes/barbarian-xphb.md) | Gruul |
+| [Path of the Zealot](/classes/barbarian-xphb-path-of-the-zealot-xphb.md)* | Boros, [Rakdos](/bestiary/npc/rakdos-ggr.md) |
 ^barbarian
 
 * Appears in "Xanathar's Guide to Everything"

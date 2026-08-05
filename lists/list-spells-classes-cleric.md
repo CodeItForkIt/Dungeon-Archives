@@ -12,9 +12,11 @@ aliases:
 ## Cantrip
 
 - [Guidance](/spells/guidance-xphb.md "XPHB")
+- [Guidance (Alternate)](/spells/guidance-alternate-llspell.md "llspell")
 - [Light](/spells/light-xphb.md "XPHB")
 - [Mending](/spells/mending-xphb.md "XPHB")
 - [Resistance](/spells/resistance-xphb.md "XPHB")
+- [Resistance (Alternate)](/spells/resistance-alternate-llspell.md "llspell")
 - [Sacred Flame](/spells/sacred-flame-xphb.md "XPHB")
 - [Spare the Dying](/spells/spare-the-dying-xphb.md "XPHB")
 - [Thaumaturgy](/spells/thaumaturgy-xphb.md "XPHB")
@@ -27,6 +29,7 @@ aliases:
 - [Bless](/spells/bless-xphb.md "XPHB")
 - [Ceremony](/spells/ceremony-xge.md "XGE") (\*)
 - [Command](/spells/command-xphb.md "XPHB")
+- [Create Water (Alternate)](/spells/create-water-alternate-llspell.md "llspell")
 - [Create or Destroy Water](/spells/create-or-destroy-water-xphb.md "XPHB")
 - [Cure Wounds](/spells/cure-wounds-xphb.md "XPHB")
 - [Detect Evil and Good](/spells/detect-evil-and-good-xphb.md "XPHB")
@@ -55,9 +58,11 @@ aliases:
 - [Gentle Repose](/spells/gentle-repose-xphb.md "XPHB")
 - [Hold Person](/spells/hold-person-xphb.md "XPHB")
 - [Lesser Restoration](/spells/lesser-restoration-xphb.md "XPHB")
+- [Locate Creature (Alternate)](/spells/locate-creature-alternate-llspell.md "llspell")
 - [Locate Object](/spells/locate-object-xphb.md "XPHB")
 - [Prayer of Healing](/spells/prayer-of-healing-xphb.md "XPHB")
 - [Protection from Poison](/spells/protection-from-poison-xphb.md "XPHB")
+- [Restoration](/spells/restoration-llspell.md "llspell")
 - [Silence](/spells/silence-xphb.md "XPHB")
 - [Spiritual Weapon](/spells/spiritual-weapon-xphb.md "XPHB")
 - [Warding Bond](/spells/warding-bond-xphb.md "XPHB")
@@ -66,12 +71,14 @@ aliases:
 ## 3rd Level
 
 - [Animate Dead](/spells/animate-dead-xphb.md "XPHB")
+- [Animate Dead (Alternate)](/spells/animate-dead-alternate-llspell.md "llspell")
 - [Aura of Vitality](/spells/aura-of-vitality-xphb.md "XPHB")
 - [Beacon of Hope](/spells/beacon-of-hope-xphb.md "XPHB")
 - [Bestow Curse](/spells/bestow-curse-xphb.md "XPHB")
 - [Clairvoyance](/spells/clairvoyance-xphb.md "XPHB")
 - [Create Food and Water](/spells/create-food-and-water-xphb.md "XPHB")
 - [Daylight](/spells/daylight-xphb.md "XPHB")
+- [Daylight (Alternate)](/spells/daylight-alternate-llspell.md "llspell")
 - [Dispel Magic](/spells/dispel-magic-xphb.md "XPHB")
 - [Fast Friends](/spells/fast-friends-ai.md "AI")
 - [Feign Death](/spells/feign-death-xphb.md "XPHB")
@@ -88,6 +95,7 @@ aliases:
 - [Revivify](/spells/revivify-xphb.md "XPHB")
 - [Sending](/spells/sending-xphb.md "XPHB")
 - [Speak with Dead](/spells/speak-with-dead-xphb.md "XPHB")
+- [Speak with Dead (Alternate)](/spells/speak-with-dead-alternate-llspell.md "llspell")
 - [Spirit Guardians](/spells/spirit-guardians-xphb.md "XPHB")
 - [Spirit Shroud](/spells/spirit-shroud-tce.md "TCE") (\*)
 - [Tongues](/spells/tongues-xphb.md "XPHB")
@@ -95,11 +103,14 @@ aliases:
 
 ## 4th Level
 
+- [Accursed Touch](/spells/accursed-touch-llspell.md "llspell")
 - [Aura of Life](/spells/aura-of-life-xphb.md "XPHB")
 - [Aura of Purity](/spells/aura-of-purity-xphb.md "XPHB")
 - [Banishment](/spells/banishment-xphb.md "XPHB")
 - [Control Water](/spells/control-water-xphb.md "XPHB")
+- [Create Undead (Alternate)](/spells/create-undead-alternate-llspell.md "llspell")
 - [Death Ward](/spells/death-ward-xphb.md "XPHB")
+- [Death Ward (Alternate)](/spells/death-ward-alternate-llspell.md "llspell")
 - [Divination](/spells/divination-xphb.md "XPHB")
 - [Doomtide](/spells/doomtide-frhof.md "FRHoF")
 - [Freedom of Movement](/spells/freedom-of-movement-xphb.md "XPHB")
@@ -111,10 +122,12 @@ aliases:
 
 - [Circle of Power](/spells/circle-of-power-xphb.md "XPHB")
 - [Commune](/spells/commune-xphb.md "XPHB")
+- [Conjure Celestial (Alternate)](/spells/conjure-celestial-alternate-llspell.md "llspell")
 - [Contagion](/spells/contagion-xphb.md "XPHB")
 - [Dawn](/spells/dawn-xge.md "XGE") (\*)
 - [Dispel Evil and Good](/spells/dispel-evil-and-good-xphb.md "XPHB")
 - [Flame Strike](/spells/flame-strike-xphb.md "XPHB")
+- [Flame Strike (Alternate)](/spells/flame-strike-alternate-llspell.md "llspell")
 - [Geas](/spells/geas-xphb.md "XPHB")
 - [Greater Restoration](/spells/greater-restoration-xphb.md "XPHB")
 - [Hallow](/spells/hallow-xphb.md "XPHB")
@@ -125,10 +138,12 @@ aliases:
 - [Planar Binding](/spells/planar-binding-xphb.md "XPHB")
 - [Raise Dead](/spells/raise-dead-xphb.md "XPHB")
 - [Scrying](/spells/scrying-xphb.md "XPHB")
+- [Spiritual Sundering](/spells/spiritual-sundering-llspell.md "llspell")
 - [Summon Celestial](/spells/summon-celestial-xphb.md "XPHB")
 
 ## 6th Level
 
+- [Astral Projection (Alternate)](/spells/astral-projection-alternate-llspell.md "llspell")
 - [Blade Barrier](/spells/blade-barrier-xphb.md "XPHB")
 - [Create Undead](/spells/create-undead-xphb.md "XPHB")
 - [Dirge](/spells/dirge-frhof.md "FRHoF")

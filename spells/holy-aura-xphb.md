@@ -7,9 +7,13 @@ tags:
 - spell/class/bard
 - spell/class/cleric
 - spell/level/8th-level
+- spell/optfeature/elder-spirit-of-life
+- spell/optfeature/elder-spirit-of-the-mystic
 - spell/school/abjuration
+- spell/subclass/divine-sorcery
 - spell/subclass/divine-soul
 classes:
+- Alternate Sorcerer (Divine Sorcery)
 - Bard
 - Cleric
 - Sorcerer (Divine Soul)
@@ -27,6 +31,6 @@ aliases:
 
 For the duration, you emit an aura in a 30-foot [Emanation](/rules/variant-rules/emanation-area-of-effect-xphb.md). While in the aura, creatures of your choice have [Advantage](/rules/variant-rules/advantage-xphb.md) on all saving throws, and other creatures have [Disadvantage](/rules/variant-rules/disadvantage-xphb.md) on attack rolls against them. In addition, when a Fiend or an Undead hits an affected creature with a melee attack roll, the attacker must succeed on a Constitution saving throw or have the [Blinded](/rules/conditions.md#Blinded) condition until the end of its next turn.
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Cleric](/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+**Classes**: [Alternate Sorcerer (Divine Sorcery)](/lists/list-spells-classes-divine-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Cleric](/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 286. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

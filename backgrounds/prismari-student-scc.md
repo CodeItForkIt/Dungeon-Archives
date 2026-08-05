@@ -40,9 +40,9 @@ Consider customizing how your spells look when you cast them. You might wield yo
 
 ## Building a Prismari Character
 
-Any class or subclass that wields elemental forces of cold, fire, lightning, and wind can be a good fit in Prismari. Druids and sorcerers are common in Prismari, and wizards who study the Schools of [Evocation](wizard-xphb-evoker-xphb.md) or Transmutation are also well represented. Clerics aren't very common in this school, but some with the Tempest domain end up here.
+Any class or subclass that wields elemental forces of cold, fire, lightning, and wind can be a good fit in Prismari. Druids and sorcerers are common in Prismari, and wizards who study the Schools of [Evocation](/classes/wizard-xphb-evoker-xphb.md) or Transmutation are also well represented. Clerics aren't very common in this school, but some with the Tempest domain end up here.
 
-Beyond the ranks of traditional spellcasters, Prismari students also include monks who follow the [Way of the Four Elements](monk-xphb-warrior-of-the-elements-xphb.md). Some acrobatic rogues and fighters (including those who emulate the archetype of the [Eldritch Knight](fighter-xphb-eldritch-knight-xphb.md)) also delight in the athleticism of Prismari performance.
+Beyond the ranks of traditional spellcasters, Prismari students also include monks who follow the [Way of the Four Elements](/classes/monk-xphb-warrior-of-the-elements-xphb.md). Some acrobatic rogues and fighters (including those who emulate the archetype of the [Eldritch Knight](/classes/fighter-xphb-eldritch-knight-xphb.md)) also delight in the athleticism of Prismari performance.
 
 ### Suggested Characteristics
 

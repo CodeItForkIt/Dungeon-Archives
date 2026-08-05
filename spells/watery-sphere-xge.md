@@ -4,6 +4,7 @@ cssclasses:
 - json5e-spell
 tags:
 - compendium/src/5e/xge
+- spell/class/alternate-bard/magical-secrets
 - spell/class/bard
 - spell/class/druid
 - spell/class/sorcerer
@@ -12,13 +13,30 @@ tags:
 - spell/level/4th-level
 - spell/school/conjuration
 - spell/subclass/arcane-trickster
+- spell/subclass/buccaneer
 - spell/subclass/eldritch-knight
+- spell/subclass/loremaster/magical-secrets
+- spell/subclass/mystic
+- spell/subclass/oceanic-sorcery
+- spell/subclass/order-of-arcanists
+- spell/subclass/the-cataclysm/water
+- spell/subclass/tides
+- spell/subclass/verdant-sorcery
 classes:
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Druid (Tides)
+- Alternate Fighter (Mystic)
+- Alternate Ranger (Buccaneer)
+- Alternate Sorcerer (Oceanic Sorcery)
+- Alternate Sorcerer (Verdant Sorcery)
 - Bard
 - Druid
 - Fighter (Eldritch Knight)
+- Magus (Order of Arcanists)
 - Rogue (Arcane Trickster)
 - Sorcerer
+- Vessel (The Cataclysm, Water)
 - Wizard
 aliases:
 - "Watery Sphere"
@@ -42,6 +60,6 @@ As an action, you can move the sphere up to 30 feet in a straight line. If it mo
 
 When the spell ends, the sphere falls to the ground and extinguishes all normal flames within 30 feet of it. Any creature [restrained](/rules/conditions.md#Restrained) by the sphere is knocked [prone](/rules/conditions.md#Prone) in the space where it falls. The water then vanishes.
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Druid](/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Druid (Tides)](/lists/list-spells-classes-tides-lladru.md "subclass=LLADru;class=LLADru"); [Alternate Fighter (Mystic)](/lists/list-spells-classes-mystic-llaf.md "subclass=LLAF;class=LLAF"); [Alternate Ranger (Buccaneer)](/lists/list-spells-classes-buccaneer-llar-e.md "subclass=LLAR:E;class=LLAR"); [Alternate Sorcerer (Oceanic Sorcery)](/lists/list-spells-classes-oceanic-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Alternate Sorcerer (Verdant Sorcery)](/lists/list-spells-classes-verdant-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Druid](/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Rogue (Arcane Trickster)](/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Vessel (The Cataclysm, Water)](/lists/list-spells-classes-the-cataclysm-llvessel.md "subclass=LLVessel;class=LLVessel"); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 170, Elemental Evil Player's Companion p. 23*

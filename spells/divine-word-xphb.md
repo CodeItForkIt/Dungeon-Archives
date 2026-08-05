@@ -7,9 +7,15 @@ tags:
 - spell/class/bard
 - spell/class/cleric
 - spell/level/7th-level
+- spell/optfeature/elder-spirit-of-the-mystic
+- spell/optfeature/word-of-creation
 - spell/school/evocation
+- spell/subclass/divine-sorcery
 - spell/subclass/divine-soul
+- spell/subclass/royal-sorcery
 classes:
+- Alternate Sorcerer (Divine Sorcery)
+- Alternate Sorcerer (Royal Sorcery)
 - Bard
 - Cleric
 - Sorcerer (Divine Soul)
@@ -37,6 +43,6 @@ You utter a word imbued with power from the Upper Planes. Each creature of your 
 | 41-50 | The target has the [Deafened](/rules/conditions.md#Deafened) condition for 1 minute. |
 ^divine-word-effects
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Cleric](/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+**Classes**: [Alternate Sorcerer (Divine Sorcery)](/lists/list-spells-classes-divine-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Alternate Sorcerer (Royal Sorcery)](/lists/list-spells-classes-royal-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Cleric](/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 265. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -4,6 +4,7 @@ cssclasses:
 - json5e-spell
 tags:
 - compendium/src/5e/xge
+- spell/class/alternate-bard/magical-secrets
 - spell/class/bard
 - spell/class/cleric
 - spell/class/paladin
@@ -12,16 +13,32 @@ tags:
 - spell/feat/strixhaven-initiate/silverquill-3
 - spell/level/1st-level
 - spell/optfeature/pact-of-the-tome
+- spell/optfeature/theology
 - spell/ritual
 - spell/school/abjuration
+- spell/subclass/academy-of-zeal
+- spell/subclass/astrologer
 - spell/subclass/college-of-lore
+- spell/subclass/divine-sorcery
 - spell/subclass/divine-soul
+- spell/subclass/loremaster/magical-secrets
+- spell/subclass/mystic
+- spell/subclass/order-of-witch-knights
+- spell/subclass/witchblade
 classes:
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Blood Hunter (Order of Witch Knights)
+- Alternate Fighter (Mystic)
+- Alternate Fighter (Witchblade)
+- Alternate Sorcerer (Divine Sorcery)
 - Bard
 - Bard (College of Lore)
 - Cleric
 - Paladin
+- Shaman (Astrologer)
 - Sorcerer (Divine Soul)
+- Warlord (Academy of Zeal)
 aliases:
 - "Ceremony"
 ---
@@ -62,6 +79,6 @@ You touch adult humanoids willing to be bonded together in marriage. For the nex
 
 ## Summary
 
-**Classes**: [Bard (College of Lore)](/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/lists/list-spells-classes-bard.md); [Cleric](/lists/list-spells-classes-cleric.md); [Paladin](/lists/list-spells-classes-paladin.md); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+**Classes**: [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Blood Hunter (Order of Witch Knights)](/lists/list-spells-classes-order-of-witch-knights-llabh.md "subclass=LLABH;class=LLABH"); [Alternate Fighter (Mystic)](/lists/list-spells-classes-mystic-llaf.md "subclass=LLAF;class=LLAF"); [Alternate Fighter (Witchblade)](/lists/list-spells-classes-witchblade-llaf-e.md "subclass=LLAF:E;class=LLAF"); [Alternate Sorcerer (Divine Sorcery)](/lists/list-spells-classes-divine-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Bard (College of Lore)](/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/lists/list-spells-classes-bard.md); [Cleric](/lists/list-spells-classes-cleric.md); [Paladin](/lists/list-spells-classes-paladin.md); [Shaman (Astrologer)](/lists/list-spells-classes-astrologer-llsh-e.md "subclass=LLSH:E;class=LLSH"); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlord (Academy of Zeal)](/lists/list-spells-classes-academy-of-zeal-llaw-e.md "subclass=LLAW:E;class=LLAW")
 
 *Source: Xanathar's Guide to Everything p. 151*

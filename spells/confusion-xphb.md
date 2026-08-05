@@ -6,6 +6,7 @@ tags:
 - compendium/src/5e/xphb
 - spell/background/rakdos-cultist
 - spell/background/silverquill-student
+- spell/class/alternate-bard/magical-secrets
 - spell/class/bard
 - spell/class/druid
 - spell/class/sorcerer
@@ -18,18 +19,35 @@ tags:
 - spell/subclass/arcane-trickster
 - spell/subclass/circle-of-spores
 - spell/subclass/eldritch-knight
+- spell/subclass/fey-sorcery
 - spell/subclass/great-old-one-patron
 - spell/subclass/knowledge-domain
+- spell/subclass/loremaster/magical-secrets
+- spell/subclass/mystic
 - spell/subclass/oathbreaker
+- spell/subclass/order-of-arcanists
+- spell/subclass/the-great-old-one
 - spell/subclass/trickery-domain
+- spell/subclass/verdant-sorcery
+- spell/subclass/wild-sorcery
+- spell/subclass/wilder
 classes:
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Fighter (Mystic)
+- Alternate Sorcerer (Fey Sorcery)
+- Alternate Sorcerer (Verdant Sorcery)
+- Alternate Sorcerer (Wild Sorcery)
+- Alternate Warlock (The Great Old One)
 - Bard
 - Cleric (Knowledge Domain)
 - Cleric (Trickery Domain)
 - Druid
 - Druid (Circle of Spores)
 - Fighter (Eldritch Knight)
+- Magus (Order of Arcanists)
 - Paladin (Oathbreaker)
+- Psion (Wilder)
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Warlock (Great Old One Patron)
@@ -60,6 +78,6 @@ At the end of each of its turns, an affected target repeats the save, ending the
 
 **Using a Higher-Level Spell Slot.** The [Sphere](/rules/variant-rules/sphere-area-of-effect-xphb.md)'s radius increases by 5 feet for each spell slot level above 4.
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Cleric (Knowledge Domain)](/lists/list-spells-classes-knowledge-domain-frhof.md "subclass=FRHoF;class=XPHB"); [Cleric (Trickery Domain)](/lists/list-spells-classes-trickery-domain-xphb.md "subclass=XPHB;class=XPHB"); [Druid (Circle of Spores)](/lists/list-spells-classes-circle-of-spores-tce.md "subclass=TCE;class=XPHB"); [Druid](/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oathbreaker)](/lists/list-spells-classes-oathbreaker-dmg.md "subclass=DMG;class=XPHB"); [Rogue (Arcane Trickster)](/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Warlock (Great Old One Patron)](/lists/list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Fighter (Mystic)](/lists/list-spells-classes-mystic-llaf.md "subclass=LLAF;class=LLAF"); [Alternate Sorcerer (Fey Sorcery)](/lists/list-spells-classes-fey-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Alternate Sorcerer (Verdant Sorcery)](/lists/list-spells-classes-verdant-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Alternate Sorcerer (Wild Sorcery)](/lists/list-spells-classes-wild-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Alternate Warlock (The Great Old One)](/lists/list-spells-classes-the-great-old-one-llwrc.md "subclass=LLWrc;class=LLWrc"); [Bard](/lists/list-spells-classes-bard.md); [Cleric (Knowledge Domain)](/lists/list-spells-classes-knowledge-domain-frhof.md "subclass=FRHoF;class=XPHB"); [Cleric (Trickery Domain)](/lists/list-spells-classes-trickery-domain-xphb.md "subclass=XPHB;class=XPHB"); [Druid (Circle of Spores)](/lists/list-spells-classes-circle-of-spores-tce.md "subclass=TCE;class=XPHB"); [Druid](/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Paladin (Oathbreaker)](/lists/list-spells-classes-oathbreaker-dmg.md "subclass=DMG;class=XPHB"); [Psion (Wilder)](/lists/list-spells-classes-wilder-llps.md "subclass=LLPS;class=LLPS"); [Rogue (Arcane Trickster)](/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Warlock (Great Old One Patron)](/lists/list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 253. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

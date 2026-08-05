@@ -14,16 +14,16 @@ aliases:
 
 | Class | Ability Check |
 |-------|---------------|
-| [Barbarian](barbarian-xphb.md) | Strength, Dexterity, or Wisdom |
-| [Bard](bard-xphb.md) | Any one |
-| [Cleric](cleric-xphb.md) | Intelligence, Wisdom, or Charisma |
-| [Druid](druid-xphb.md) | Intelligence or Wisdom |
-| [Fighter](fighter-xphb.md) | Strength, Dexterity, or Wisdom |
-| [Monk](monk-xphb.md) | Strength, Dexterity, or Intelligence |
-| [Paladin](paladin-xphb.md) | Strength, Wisdom, or Charisma |
-| [Ranger](ranger-xphb.md) | Strength, Dexterity, or Wisdom |
-| [Rogue](rogue-xphb.md) | Dexterity, Intelligence, Wisdom, or Charisma |
-| [Sorcerer](sorcerer-xphb.md) | Intelligence or Charisma |
-| [Warlock](warlock-xphb.md) | Intelligence or Charisma |
-| [Wizard](wizard-xphb.md) | Intelligence or Wisdom |
+| [Barbarian](/classes/barbarian-xphb.md) | Strength, Dexterity, or Wisdom |
+| [Bard](/classes/bard-xphb.md) | Any one |
+| [Cleric](/classes/cleric-xphb.md) | Intelligence, Wisdom, or Charisma |
+| [Druid](/classes/druid-xphb.md) | Intelligence or Wisdom |
+| [Fighter](/classes/fighter-xphb.md) | Strength, Dexterity, or Wisdom |
+| [Monk](/classes/monk-xphb.md) | Strength, Dexterity, or Intelligence |
+| [Paladin](/classes/paladin-xphb.md) | Strength, Wisdom, or Charisma |
+| [Ranger](/classes/ranger-xphb.md) | Strength, Dexterity, or Wisdom |
+| [Rogue](/classes/rogue-xphb.md) | Dexterity, Intelligence, Wisdom, or Charisma |
+| [Sorcerer](/classes/sorcerer-xphb.md) | Intelligence or Charisma |
+| [Warlock](/classes/warlock-xphb.md) | Intelligence or Charisma |
+| [Wizard](/classes/wizard-xphb.md) | Intelligence or Wisdom |
 ^ability-check-proficiency-by-class

@@ -14,6 +14,7 @@ aliases:
 - [Alarm](/spells/alarm-xphb.md "XPHB")
 - [Ceremony](/spells/ceremony-xge.md "XGE")
 - [Comprehend Languages](/spells/comprehend-languages-xphb.md "XPHB")
+- [Conjure Familiar](/spells/conjure-familiar-llspell.md "llspell")
 - [Detect Magic](/spells/detect-magic-xphb.md "XPHB")
 - [Detect Poison and Disease](/spells/detect-poison-and-disease-xphb.md "XPHB")
 - [Find Familiar](/spells/find-familiar-xphb.md "XPHB")

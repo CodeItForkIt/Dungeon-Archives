@@ -28,6 +28,7 @@ cssclasses:
 - [Deathpact Angel](./deathpact-angel-ggr.md)
 - [Deva](./deva-xmm.md)
 - [Equinal Guardinal](./equinal-guardinal-mpp.md)
+- [Fallen Archon](./fallen-archon-llvessel.md)
 - [Felidar](./felidar-ggr.md)
 - [Fensir Devourer](./fensir-devourer-bgg.md)
 - [Ferrumach Rilmani](./ferrumach-rilmani-mpp.md)

@@ -4,6 +4,7 @@ cssclasses:
 - json5e-spell
 tags:
 - compendium/src/5e/xge
+- spell/class/alternate-bard/magical-secrets
 - spell/class/bard
 - spell/class/sorcerer
 - spell/class/warlock
@@ -11,8 +12,27 @@ tags:
 - spell/feat/boon-of-siberys/sorcerer-spell
 - spell/level/5th-level
 - spell/school/necromancy
+- spell/subclass/curse-binder
+- spell/subclass/elder-sorcery
+- spell/subclass/grim-warden
+- spell/subclass/loremaster/magical-secrets
+- spell/subclass/order-of-arcanists
+- spell/subclass/order-of-hexblades
+- spell/subclass/reanimator
+- spell/subclass/shadow-sorcery
+- spell/subclass/vampiric-sorcery
 classes:
+- Alternate Artificer (Reanimator)
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Ranger (Grim Warden)
+- Alternate Sorcerer (Elder Sorcery)
+- Alternate Sorcerer (Shadow Sorcery)
+- Alternate Sorcerer (Vampiric Sorcery)
 - Bard
+- Magus (Order of Arcanists)
+- Magus (Order of Hexblades)
+- Shaman (Curse Binder)
 - Sorcerer
 - Warlock
 - Wizard
@@ -34,6 +54,6 @@ Whenever the spell deals damage to a target, you regain hit points equal to half
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the damage increases by `1d8` for each slot level above 5th.
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Warlock](/lists/list-spells-classes-warlock.md); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Artificer (Reanimator)](/lists/list-spells-classes-reanimator-llaart-e.md "subclass=LLAART:E;class=LLAART"); [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Ranger (Grim Warden)](/lists/list-spells-classes-grim-warden-llar-e.md "subclass=LLAR:E;class=LLAR"); [Alternate Sorcerer (Elder Sorcery)](/lists/list-spells-classes-elder-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Alternate Sorcerer (Shadow Sorcery)](/lists/list-spells-classes-shadow-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Alternate Sorcerer (Vampiric Sorcery)](/lists/list-spells-classes-vampiric-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Magus (Order of Hexblades)](/lists/list-spells-classes-order-of-hexblades-llmc-e.md "subclass=LLMC:E;class=LLMC"); [Shaman (Curse Binder)](/lists/list-spells-classes-curse-binder-llsh.md "subclass=LLSH;class=LLSH"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Warlock](/lists/list-spells-classes-warlock.md); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 155*

@@ -25,7 +25,7 @@ aliases:
 | [Zehir](/deities/exandria-zehir.md) | CE | Assassins, poison, snakes | Nature, Trickery | Coiled serpent |
 ^betrayer-gods
 
-* The Forge and [Grave](cleric-xphb-grave-domain-rhw.md) domains appear in "Xanathar's Guide to Everything".
+* The Forge and [Grave](/classes/cleric-xphb-grave-domain-rhw.md) domains appear in "Xanathar's Guide to Everything".
 
 ** The Order domain appears in "Guildmaster's Guide to Ravnica".
 

@@ -11,6 +11,7 @@ aliases:
 
 ## Cantrip
 
+- [Beckon Air](/spells/beckon-air-llspell.md "llspell") at class level 3
 - [Control Flames](/spells/control-flames-xge.md "XGE") at class level 3
 - [Create Bonfire](/spells/create-bonfire-xge.md "XGE") at class level 3
 - [Druidcraft](/spells/druidcraft-xphb.md "XPHB") at class level 3
@@ -25,6 +26,7 @@ aliases:
 - [Mold Earth](/spells/mold-earth-xge.md "XGE") at class level 3
 - [Poison Spray](/spells/poison-spray-xphb.md "XPHB") at class level 3
 - [Primal Savagery](/spells/primal-savagery-xge.md "XGE") at class level 3
+- [Primal Savagery (Alternate)](/spells/primal-savagery-alternate-llspell.md "llspell") at class level 3
 - [Produce Flame](/spells/produce-flame-xphb.md "XPHB") at class level 3
 - [Resistance](/spells/resistance-xphb.md "XPHB") at class level 3
 - [Shape Water](/spells/shape-water-xge.md "XGE") at class level 3

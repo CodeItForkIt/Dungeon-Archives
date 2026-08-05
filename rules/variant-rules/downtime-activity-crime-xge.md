@@ -32,10 +32,10 @@ If two checks are successful, the heist is a partial success, netting the charac
 
 If all three checks are successful, the character earns the full value of the loot.
 
-![Crime; Loot Value](Crime%20-%20Loot%20Value.md)
+![Crime; Loot Value](/tables/crime-loot-value-xge.md)
 
 ## Complications
 
 A life of crime is filled with complications. Roll on the Crime Complications table (or create a complication of your own) if the character succeeds on only one check. If the character's rival is involved in crime or law enforcement, a complication ensues if the character succeeds on only two checks.
 
-![Crime Complications](Crime%20Complications.md)
+![Crime Complications](/tables/crime-complications-xge.md)

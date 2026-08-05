@@ -10,10 +10,12 @@ tags:
 - spell/level/9th-level
 - spell/school/conjuration
 - spell/subclass/arcana-domain
+- spell/subclass/order-of-arcanists
 - spell/subclass/the-genie
 classes:
 - Bard
 - Cleric (Arcana Domain)
+- Magus (Order of Arcanists)
 - Sorcerer
 - Warlock (The Genie)
 - Wizard
@@ -45,6 +47,6 @@ Alternatively, you can create one of the following effects of your choice:
 
 The stress of casting Wish to produce any effect other than duplicating another spell weakens you. After enduring that stress, each time you cast a spell until you finish a [Long Rest](/rules/variant-rules/long-rest-xphb.md), you take `1d10` Necrotic damage per level of that spell. This damage can't be reduced or prevented in any way. In addition, your Strength score becomes 3 for `2d4` days. For each of those days that you spend resting and doing nothing more than light activity, your remaining recovery time decreases by 2 days. Finally, there is a  chance that you are unable to cast [Wish](/spells/wish-xphb.md) ever again if you suffer this stress.
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Warlock (The Genie)](/lists/list-spells-classes-the-genie-tce.md "subclass=TCE;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Warlock (The Genie)](/lists/list-spells-classes-the-genie-tce.md "subclass=TCE;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 341. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

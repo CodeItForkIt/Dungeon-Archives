@@ -12,7 +12,9 @@ aliases:
 ## Cantrip
 
 - [Chill Touch](/spells/chill-touch-xphb.md "XPHB")
+- [Otherworldly Grasp](/spells/otherworldly-grasp-llspell.md "llspell")
 - [Poison Spray](/spells/poison-spray-xphb.md "XPHB")
+- [Poison Spray (Alternate)](/spells/poison-spray-alternate-llspell.md "llspell")
 - [Sapping Sting](/spells/sapping-sting-egw.md "EGW")
 - [Spare the Dying](/spells/spare-the-dying-xphb.md "XPHB")
 - [Toll the Dead](/spells/toll-the-dead-xphb.md "XPHB")
@@ -35,11 +37,14 @@ aliases:
 ## 3rd Level
 
 - [Animate Dead](/spells/animate-dead-xphb.md "XPHB")
+- [Animate Dead (Alternate)](/spells/animate-dead-alternate-llspell.md "llspell")
 - [Bestow Curse](/spells/bestow-curse-xphb.md "XPHB")
+- [Dire Wail](/spells/dire-wail-llspell.md "llspell")
 - [Feign Death](/spells/feign-death-xphb.md "XPHB")
 - [Life Transference](/spells/life-transference-xge.md "XGE")
 - [Revivify](/spells/revivify-xphb.md "XPHB")
 - [Speak with Dead](/spells/speak-with-dead-xphb.md "XPHB")
+- [Speak with Dead (Alternate)](/spells/speak-with-dead-alternate-llspell.md "llspell")
 - [Spirit Shroud](/spells/spirit-shroud-tce.md "TCE")
 - [Summon Undead](/spells/summon-undead-xphb.md "XPHB")
 - [Vampiric Touch](/spells/vampiric-touch-xphb.md "XPHB")
@@ -47,6 +52,7 @@ aliases:
 ## 4th Level
 
 - [Blight](/spells/blight-xphb.md "XPHB")
+- [Create Undead (Alternate)](/spells/create-undead-alternate-llspell.md "llspell")
 - [Shadow of Moil](/spells/shadow-of-moil-xge.md "XGE")
 - [Spirit of Death](/spells/spirit-of-death-bmt.md "BMT")
 
@@ -82,5 +88,6 @@ aliases:
 ## 9th Level
 
 - [Astral Projection](/spells/astral-projection-xphb.md "XPHB")
+- [Power Word Kill](/spells/power-word-kill-llawiz.md "LLAWiz")
 - [Time Ravage](/spells/time-ravage-egw.md "EGW")
 - [True Resurrection](/spells/true-resurrection-xphb.md "XPHB")

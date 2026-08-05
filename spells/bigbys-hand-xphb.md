@@ -4,6 +4,7 @@ cssclasses:
 - json5e-spell
 tags:
 - compendium/src/5e/xphb
+- spell/class/alternate-bard/magical-secrets
 - spell/class/artificer
 - spell/class/bard
 - spell/class/sorcerer
@@ -12,12 +13,27 @@ tags:
 - spell/feat/mark-of-sentinel
 - spell/level/5th-level
 - spell/school/evocation
+- spell/subclass/arcana
 - spell/subclass/evoker
+- spell/subclass/loremaster/magical-secrets
+- spell/subclass/order-of-arcanists
+- spell/subclass/spirit-guide
+- spell/subclass/storm-sorcery
+- spell/subclass/swarm-keeper
+- spell/subclass/the-ascended
 - spell/subclass/the-fathomless
 classes:
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Cleric (Arcana)
+- Alternate Ranger (Swarm Keeper)
+- Alternate Sorcerer (Storm Sorcery)
 - Artificer
 - Bard
+- Magus (Order of Arcanists)
+- Shaman (Spirit Guide)
 - Sorcerer
+- Vessel (The Ascended)
 - Warlock (The Fathomless)
 - Wizard
 - Wizard (Evoker)
@@ -46,6 +62,6 @@ When you cast the spell and as a [Bonus Action](/rules/variant-rules/bonus-actio
 
 **Using a Higher-Level Spell Slot.** The damage of the Clenched Fist increases by `2d8` and the damage of the Grasping Hand increases by `2d6` for each spell slot level above 5.
 
-**Classes**: [Artificer](/lists/list-spells-classes-artificer.md); [Bard](/lists/list-spells-classes-bard.md); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Warlock (The Fathomless)](/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE;class=XPHB"); [Wizard (Evoker)](/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Cleric (Arcana)](/lists/list-spells-classes-arcana-llaclr.md "subclass=LLAClr;class=LLAClr"); [Alternate Ranger (Swarm Keeper)](/lists/list-spells-classes-swarm-keeper-llar.md "subclass=LLAR;class=LLAR"); [Alternate Sorcerer (Storm Sorcery)](/lists/list-spells-classes-storm-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Artificer](/lists/list-spells-classes-artificer.md); [Bard](/lists/list-spells-classes-bard.md); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Shaman (Spirit Guide)](/lists/list-spells-classes-spirit-guide-llsh-e.md "subclass=LLSH:E;class=LLSH"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Vessel (The Ascended)](/lists/list-spells-classes-the-ascended-llvessel.md "subclass=LLVessel;class=LLVessel"); [Warlock (The Fathomless)](/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE;class=XPHB"); [Wizard (Evoker)](/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 246. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Arcane Hand") and the Free Rules (2024)*

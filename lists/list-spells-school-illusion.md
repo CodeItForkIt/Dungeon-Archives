@@ -25,6 +25,7 @@ aliases:
 ## 2nd Level
 
 - [Blur](/spells/blur-xphb.md "XPHB")
+- [Darkness](/spells/darkness-llawiz.md "LLAWiz")
 - [Invisibility](/spells/invisibility-xphb.md "XPHB")
 - [Magic Mouth](/spells/magic-mouth-xphb.md "XPHB")
 - [Mirror Image](/spells/mirror-image-xphb.md "XPHB")
@@ -37,7 +38,9 @@ aliases:
 ## 3rd Level
 
 - [Fear](/spells/fear-xphb.md "XPHB")
+- [Feign Death](/spells/feign-death-llawiz.md "LLAWiz")
 - [Hypnotic Pattern](/spells/hypnotic-pattern-xphb.md "XPHB")
+- [Hypnotic Pattern (Alternate)](/spells/hypnotic-pattern-alternate-llspell.md "llspell")
 - [Major Image](/spells/major-image-xphb.md "XPHB")
 - [Phantom Steed](/spells/phantom-steed-xphb.md "XPHB")
 
@@ -56,11 +59,13 @@ aliases:
 
 ## 6th Level
 
+- [Eyebite](/spells/eyebite-llawiz.md "LLAWiz")
 - [Mental Prison](/spells/mental-prison-xge.md "XGE")
 - [Programmed Illusion](/spells/programmed-illusion-xphb.md "XPHB")
 
 ## 7th Level
 
+- [Create Simulacrum](/spells/create-simulacrum-llspell.md "llspell")
 - [Mirage Arcane](/spells/mirage-arcane-xphb.md "XPHB")
 - [Project Image](/spells/project-image-xphb.md "XPHB")
 - [Simulacrum](/spells/simulacrum-xphb.md "XPHB")
@@ -71,4 +76,6 @@ aliases:
 
 ## 9th Level
 
+- [Shapechange](/spells/shapechange-llawiz.md "LLAWiz")
 - [Weird](/spells/weird-xphb.md "XPHB")
+- [Weird (Alternate)](/spells/weird-alternate-llspell.md "llspell")

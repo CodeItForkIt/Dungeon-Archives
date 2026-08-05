@@ -39,9 +39,9 @@ Consider customizing how your spells look when you cast them. Your Lorehold spel
 
 ## Building a Lorehold Character
 
-Any class or subclass that deals with knowledge of the past can be a good fit in Lorehold. Bards thrive in Lorehold, and wizards (particularly those of the [School of Divination](wizard-xphb-diviner-xphb.md)) are numerous among its students. Clerics (often with the [Knowledge](cleric-xphb-knowledge-domain-frhof.md) or [Light](cleric-xphb-light-domain-xphb.md) domains) are also quite common.
+Any class or subclass that deals with knowledge of the past can be a good fit in Lorehold. Bards thrive in Lorehold, and wizards (particularly those of the [School of Divination](/classes/wizard-xphb-diviner-xphb.md)) are numerous among its students. Clerics (often with the [Knowledge](/classes/cleric-xphb-knowledge-domain-frhof.md) or [Light](/classes/cleric-xphb-light-domain-xphb.md) domains) are also quite common.
 
-For a more unusual take on a Lorehold student, you could consider playing a barbarian with a primal connection to the past (perhaps adopting the Path of the Ancestral Guardian from "Xanathar's Guide to Everything") or a paladin whose [Oath of the Ancients](paladin-xphb-oath-of-the-ancients-xphb.md) gives a concrete link to history.
+For a more unusual take on a Lorehold student, you could consider playing a barbarian with a primal connection to the past (perhaps adopting the Path of the Ancestral Guardian from "Xanathar's Guide to Everything") or a paladin whose [Oath of the Ancients](/classes/paladin-xphb-oath-of-the-ancients-xphb.md) gives a concrete link to history.
 
 ### Suggested Characteristics
 

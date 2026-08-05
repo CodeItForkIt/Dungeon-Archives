@@ -4,13 +4,27 @@ cssclasses:
 - json5e-spell
 tags:
 - compendium/src/5e/xphb
+- spell/class/alternate-bard/magical-secrets
 - spell/class/bard
 - spell/class/druid
 - spell/level/5th-level
 - spell/school/necromancy
+- spell/subclass/alchemist
+- spell/subclass/biomancer
+- spell/subclass/loremaster/magical-secrets
+- spell/subclass/verdant-sorcery
+- spell/subclass/wild-sorcery
+- spell/subclass/witch-doctor
 classes:
+- Alternate Artificer (Alchemist)
+- Alternate Artificer (Biomancer)
+- Alternate Bard (Loremaster, Magical Secrets)
+- Alternate Bard (Magical Secrets)
+- Alternate Sorcerer (Verdant Sorcery)
+- Alternate Sorcerer (Wild Sorcery)
 - Bard
 - Druid
+- Shaman (Witch Doctor)
 aliases:
 - "Reincarnate"
 ---
@@ -41,6 +55,6 @@ You touch a dead Humanoid or a piece of one. If the creature has been dead no lo
 
 The reincarnated creature makes any choices that a species' description offers, and the creature recalls its former life. It retains the capabilities it had in its original form, except it loses the traits of its previous species and gains the traits of its new one.
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Druid](/lists/list-spells-classes-druid.md)
+**Classes**: [Alternate Artificer (Alchemist)](/lists/list-spells-classes-alchemist-llaart.md "subclass=LLAART;class=LLAART"); [Alternate Artificer (Biomancer)](/lists/list-spells-classes-biomancer-llaart-e.md "subclass=LLAART:E;class=LLAART"); [Alternate Bard (Loremaster, Magical Secrets)](/lists/list-spells-classes-loremaster-llabrd.md "subclass=LLABrd;class=LLABrd"); [Alternate Bard (Magical Secrets)](/lists/list-spells-classes-alternate bard.md); [Alternate Sorcerer (Verdant Sorcery)](/lists/list-spells-classes-verdant-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Alternate Sorcerer (Wild Sorcery)](/lists/list-spells-classes-wild-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Druid](/lists/list-spells-classes-druid.md); [Shaman (Witch Doctor)](/lists/list-spells-classes-witch-doctor-llsh.md "subclass=LLSH;class=LLSH")
 
 *Source: Player's Handbook (2024) p. 311. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

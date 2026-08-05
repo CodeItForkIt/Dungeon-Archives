@@ -1,0 +1,23 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-note
+tags:
+- compendium/src/5e/ftd
+aliases:
+- "Connected Creatures; Deep Dragon Wyrmling Connections"
+---
+# Connected Creatures; Deep Dragon Wyrmling Connections
+*Source: Fizban's Treasury of Dragons p. 108* 
+
+**Deep Dragon Wyrmling Connections**
+
+| dice: d6 | Connected Creatures |
+|----------|---------------------|
+| 1 | An [ogre](/bestiary/giant/ogre-xmm.md) has acquired a [deep dragon wyrmling](/bestiary/dragon/deep-dragon-wyrmling-fraif.md) as a pet, ignoring the fact that the dragon is an intelligent creature who will grow extremely large. |
+| 2 | An inquisitive [deep dragon wyrmling](/bestiary/dragon/deep-dragon-wyrmling-fraif.md) has made it to the surface world. Lost and confused, the wyrmling has been captured by a group of cruel adventurers. |
+| 3 | A [deep dragon wyrmling](/bestiary/dragon/deep-dragon-wyrmling-fraif.md) whimsically rules over a worshipful group of kobolds, sending them to the surface to fetch delicacies the wyrmling craves. |
+| 4 | An exclusive auction in an enclave of Lolth-worshipers features a deep dragon egg just about to hatch. |
+| 5 | A [deep dragon wyrmling](/bestiary/dragon/deep-dragon-wyrmling-fraif.md) with an experimental bent has created a "garden" of [gray oozes](/bestiary/ooze/gray-ooze-xmm.md). |
+| 6 | An orphaned [deep dragon wyrmling](/bestiary/dragon/deep-dragon-wyrmling-fraif.md) is cared for by a [giant constrictor snake](/bestiary/beast/giant-constrictor-snake-xmm.md) that is the recipient of a druid's [awaken](/spells/awaken-xphb.md) spell. |
+^deep-dragon-wyrmling-connections

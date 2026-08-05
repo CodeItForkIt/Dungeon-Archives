@@ -1,0 +1,14 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-feat
+tags:
+- compendium/src/5e/llwrc
+- optional-feature/ll-einv
+aliases:
+- "Eldritch Sight"
+---
+# Eldritch Sight
+*Source: Alternate Warlock p. 9*  
+
+As an action you can awaken your senses to see the presence of magic within 30 feet of you. For 10 minutes, you can see a faint aura around any visible creature or object in that radius that bears magic, instantly learning its school of magic, if any. This sight is blocked by 1 foot of stone, 1 inch of metal, a thin sheet of lead, or 3 feet of wood or dirt. You must concentrate on this sense as if you were concentrating on a spell.

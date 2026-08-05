@@ -7,9 +7,14 @@ tags:
 - spell/class/bard
 - spell/class/cleric
 - spell/level/7th-level
+- spell/optfeature/elder-spirit-of-the-sun
 - spell/school/necromancy
+- spell/subclass/divine-sorcery
 - spell/subclass/divine-soul
+- spell/subclass/fey-sorcery
 classes:
+- Alternate Sorcerer (Divine Sorcery)
+- Alternate Sorcerer (Fey Sorcery)
 - Bard
 - Cleric
 - Sorcerer (Divine Soul)
@@ -33,6 +38,6 @@ Coming back from the dead is an ordeal. The target takes a -4 penalty to [D20 Te
 
 Casting this spell to revive a creature that has been dead for 365 days or longer taxes you. Until you finish a [Long Rest](/rules/variant-rules/long-rest-xphb.md), you can't cast spells again, and you have [Disadvantage](/rules/variant-rules/disadvantage-xphb.md) on [D20 Tests](/rules/variant-rules/d20-test-xphb.md).
 
-**Classes**: [Bard](/lists/list-spells-classes-bard.md); [Cleric](/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+**Classes**: [Alternate Sorcerer (Divine Sorcery)](/lists/list-spells-classes-divine-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Alternate Sorcerer (Fey Sorcery)](/lists/list-spells-classes-fey-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Bard](/lists/list-spells-classes-bard.md); [Cleric](/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 312. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

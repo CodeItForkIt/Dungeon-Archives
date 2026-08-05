@@ -12,6 +12,8 @@ tags:
 - spell/feat/light-bringer/cleric-cantrip
 - spell/feat/magic-initiate/wizard-spells
 - spell/level/cantrip
+- spell/optfeature/arcane-warrior/wizard
+- spell/optfeature/divine-light
 - spell/optfeature/pact-of-the-tome
 - spell/race/elf/high-elf
 - spell/race/khoravar
@@ -20,15 +22,21 @@ tags:
 - spell/subclass/arcane-trickster
 - spell/subclass/college-of-lore
 - spell/subclass/death-domain
+- spell/subclass/divine-sorcery
 - spell/subclass/divine-soul
+- spell/subclass/elder-sorcery
 - spell/subclass/eldritch-knight
+- spell/subclass/order-of-arcanists
 - spell/subrace/half-elf-moon-elf-or-sun-elf-descent
 classes:
+- Alternate Sorcerer (Divine Sorcery)
+- Alternate Sorcerer (Elder Sorcery)
 - Bard (College of Lore)
 - Cleric
 - Cleric (Arcana Domain)
 - Cleric (Death Domain)
 - Fighter (Eldritch Knight)
+- Magus (Order of Arcanists)
 - Rogue (Arcane Trickster)
 - Sorcerer (Divine Soul)
 - Warlock
@@ -49,6 +57,6 @@ You point at one creature you can see within range, and the single chime of a do
 
 **Cantrip Upgrade.** The damage increases by one die when you reach levels 5 (`2d8` or `2d12`), 11 (`3d8` or `3d12`), and 17 (`4d8` or `4d12`).
 
-**Classes**: [Bard (College of Lore)](/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Cleric (Death Domain)](/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG;class=XPHB"); [Cleric](/lists/list-spells-classes-cleric.md); [Fighter (Eldritch Knight)](/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock](/lists/list-spells-classes-warlock.md); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Sorcerer (Divine Sorcery)](/lists/list-spells-classes-divine-sorcery-llasorc.md "subclass=LLASorc;class=LLASorc"); [Alternate Sorcerer (Elder Sorcery)](/lists/list-spells-classes-elder-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Bard (College of Lore)](/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Cleric (Death Domain)](/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG;class=XPHB"); [Cleric](/lists/list-spells-classes-cleric.md); [Fighter (Eldritch Knight)](/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Rogue (Arcane Trickster)](/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul)](/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock](/lists/list-spells-classes-warlock.md); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 334*

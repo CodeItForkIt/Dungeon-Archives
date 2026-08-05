@@ -15,6 +15,8 @@ tags:
 - spell/feat/magic-initiate/wizard-spells
 - spell/feat/wood-elf-magic
 - spell/level/cantrip
+- spell/optfeature/arcane-warrior/wizard
+- spell/optfeature/druidic-warrior/druid
 - spell/optfeature/pact-of-the-tome
 - spell/race/elf/high-elf
 - spell/race/elf/lorwyn
@@ -28,9 +30,12 @@ tags:
 - spell/subclass/eldritch-knight
 - spell/subclass/nature-domain
 - spell/subclass/oath-of-the-noble-genies
+- spell/subclass/order-of-arcanists
+- spell/subclass/verdant-sorcery
 - spell/subclass/warrior-of-the-elements
 - spell/subrace/half-elf-moon-elf-or-sun-elf-descent
 classes:
+- Alternate Sorcerer (Verdant Sorcery)
 - Artificer
 - Bard (College of Lore)
 - Bard (College of the Moon)
@@ -38,6 +43,7 @@ classes:
 - Cleric (Nature Domain)
 - Druid
 - Fighter (Eldritch Knight)
+- Magus (Order of Arcanists)
 - Monk (Warrior of the Elements)
 - Paladin (Oath of the Noble Genies)
 - Rogue (Arcane Trickster)
@@ -79,6 +85,6 @@ You cause dirt, sand, fire, smoke, mist, or water that can fit in a 1-foot [Cube
 
 ## Summary
 
-**Classes**: [Artificer](/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of the Moon)](/lists/list-spells-classes-college-of-the-moon-frhof.md "subclass=FRHoF;class=XPHB"); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Cleric (Nature Domain)](/lists/list-spells-classes-nature-domain.md "class=XPHB"); [Druid](/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Monk (Warrior of the Elements)](/lists/list-spells-classes-warrior-of-the-elements-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of the Noble Genies)](/lists/list-spells-classes-oath-of-the-noble-genies-frhof.md "subclass=FRHoF;class=XPHB"); [Rogue (Arcane Trickster)](/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Wizard](/lists/list-spells-classes-wizard.md)
+**Classes**: [Alternate Sorcerer (Verdant Sorcery)](/lists/list-spells-classes-verdant-sorcery-llasorcorc-e.md "subclass=LLASorcorc:E;class=LLASorc"); [Artificer](/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of the Moon)](/lists/list-spells-classes-college-of-the-moon-frhof.md "subclass=FRHoF;class=XPHB"); [Cleric (Arcana Domain)](/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Cleric (Nature Domain)](/lists/list-spells-classes-nature-domain.md "class=XPHB"); [Druid](/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Magus (Order of Arcanists)](/lists/list-spells-classes-order-of-arcanists-llmc.md "subclass=LLMC;class=LLMC"); [Monk (Warrior of the Elements)](/lists/list-spells-classes-warrior-of-the-elements-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of the Noble Genies)](/lists/list-spells-classes-oath-of-the-noble-genies-frhof.md "subclass=FRHoF;class=XPHB"); [Rogue (Arcane Trickster)](/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/lists/list-spells-classes-sorcerer.md); [Wizard](/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 267. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
