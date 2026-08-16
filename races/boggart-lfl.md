@@ -49,7 +49,7 @@ Boggarts are Small, squat goblinoids found in the realm of Lorwyn-Shadowmoor. Th
 
 Boggarts in Lorwyn are born into communal warrens where laws and hierarchies are considered suggestions. The oldest and most powerful boggarts, known as "aunties," serve as respected leaders who keep the peace. Lorwyn boggarts value sharing knowledge and past experiences with their communities. Many are willing to brave great dangers in pursuit of new experiences, and adventurers are common.
 
-Lorwyn boggarts also have a knack for magic. Boggarts who feel drawn to learning and using these natural affinities often become Druids. A Lorwyn boggart might alternatively find a calling as a Ranger, especially the [Fey Wanderer](/classes/ranger-xphb.md) subclass, or as a Wizard, especially the [Diviner](/classes/wizard-xphb.md) subclass, as boggarts have proven fond of ascertaining information through divination magic.
+Lorwyn boggarts also have a knack for magic. Boggarts who feel drawn to learning and using these natural affinities often become Druids. A Lorwyn boggart might alternatively find a calling as a Ranger, especially the [Fey Wanderer](/classes/ranger-xphb.md) subclass, or as a Wizard, especially the [Diviner](wizard-xphb%201.md) subclass, as boggarts have proven fond of ascertaining information through divination magic.
 
 ### In Shadowmoor
 

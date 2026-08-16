@@ -25,5 +25,5 @@ aliases:
 | [Rogue](/classes/rogue-xphb.md) | Stealth | Dexterity | Low |
 | [Sorcerer](/classes/sorcerer-xphb.md) | Power | Charisma | High |
 | [Warlock](/classes/warlock-xphb.md) | Occult lore | Charisma | High |
-| [Wizard](/classes/wizard-xphb.md) | Spellbooks | Intelligence | Average |
+| [Wizard](wizard-xphb%201.md) | Spellbooks | Intelligence | Average |
 ^class-overview

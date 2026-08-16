@@ -18,5 +18,15 @@
   "cupertino@@nav-action-center": false,
   "cupertino@@zoom-off": false,
   "cupertino@@active-line-off": false,
-  "cupertino@@dynamic-type-off": false
+  "cupertino@@dynamic-type-off": false,
+  "ITS@@select": "wotc-beyond",
+  "ITS@@t-d": false,
+  "ITS@@drwn": false,
+  "ITS@@nord": false,
+  "ITS@@mini": false,
+  "ITS@@notion": false,
+  "ITS@@its-d": false,
+  "ITS@@s-d": false,
+  "ITS@@accent-color": false,
+  "ITS@@slrvb-b": false
 }

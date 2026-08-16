@@ -146,7 +146,7 @@ Options (choose 1):
 
 ### Spellcasting (Level 2)
 
-At 2nd level, you have learned to cast arcane spells, much like a [Wizard](/classes/wizard-xphb.md), which you use to enhance your abilities in combat:
+At 2nd level, you have learned to cast arcane spells, much like a [Wizard](wizard-xphb%201.md), which you use to enhance your abilities in combat:
 
 **Cantrips.** You learn two cantrips of your choice from the Magus spell list, which can be found at the end of this class description. You learn another Magus cantrip at 4th and 10th level, as shown in the Cantrips Known column of the Magus table.
 

@@ -21,5 +21,5 @@ aliases:
 | [Ranger](ranger-xphb.md) | Finish a Long Rest | One |
 | [Sorcerer](sorcerer-xphb.md) | Gain a level | One |
 | [Warlock](warlock-xphb.md) | Gain a level | One |
-| [Wizard](wizard-xphb.md) | Finish a Long Rest | Any |
+| [Wizard](wizard-xphb%201.md) | Finish a Long Rest | Any |
 ^spell-preparation-by-class

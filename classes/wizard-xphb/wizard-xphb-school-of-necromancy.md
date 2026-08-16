@@ -9,7 +9,7 @@ aliases:
 - "School of Necromancy"
 ---
 # School of Necromancy
-*[Wizard](wizard-xphb.md): Wizard Subclass*  
+*[Wizard](wizard-xphb%201.md): Wizard Subclass*  
 *Source: Player's Handbook p. 118*  
 
 > [!tldr] Class and Feature Progression

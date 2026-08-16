@@ -17,5 +17,5 @@ aliases:
 | [Barbarian](/classes/barbarian-xphb.md) | 12 + Con. modifier |
 | [Fighter](/classes/fighter-xphb.md), [Paladin](/classes/paladin-xphb.md), or [Ranger](/classes/ranger-xphb.md) | 10 + Con. modifier |
 | [Bard](/classes/bard-xphb.md), [Cleric](/classes/cleric-xphb.md), [Druid](/classes/druid-xphb.md), [Monk](/classes/monk-xphb.md), [Rogue](/classes/rogue-xphb.md), or [Warlock](/classes/warlock-xphb.md) | 8 + Con. modifier |
-| [Sorcerer](/classes/sorcerer-xphb.md) or [Wizard](/classes/wizard-xphb.md) | 6 + Con. modifier |
+| [Sorcerer](/classes/sorcerer-xphb.md) or [Wizard](wizard-xphb%201.md) | 6 + Con. modifier |
 ^level-1-hit-points-by-class

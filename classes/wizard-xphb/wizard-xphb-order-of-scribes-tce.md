@@ -9,7 +9,7 @@ aliases:
 - "Order of Scribes"
 ---
 # Order of Scribes
-*[Wizard](wizard-xphb.md): Wizard Subclass*  
+*[Wizard](wizard-xphb%201.md): Wizard Subclass*  
 *Source: Tasha's Cauldron of Everything p. 77*  
 
 > [!tldr] Class and Feature Progression

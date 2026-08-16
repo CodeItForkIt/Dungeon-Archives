@@ -1,7 +1,6 @@
 [
   "obsidian-admonition",
   "obsidian-5e-statblocks",
-  "folder-notes",
   "obsidian-style-settings",
   "obsidian-bulk-rename-plugin",
   "paste-image-into-property",
@@ -13,6 +12,5 @@
   "editing-toolbar",
   "obsidian-icon-folder",
   "quickadd",
-  "obsidian-git",
   "obsidian-front-matter-title-plugin"
 ]

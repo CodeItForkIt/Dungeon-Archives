@@ -25,5 +25,5 @@ aliases:
 | [Rogue](/classes/rogue-xphb.md) | 12 | 15 | 13 | 14 | 10 | 8 |
 | [Sorcerer](/classes/sorcerer-xphb.md) | 10 | 13 | 14 | 8 | 12 | 15 |
 | [Warlock](/classes/warlock-xphb.md) | 8 | 14 | 13 | 12 | 10 | 15 |
-| [Wizard](/classes/wizard-xphb.md) | 8 | 12 | 13 | 15 | 14 | 10 |
+| [Wizard](wizard-xphb%201.md) | 8 | 12 | 13 | 15 | 14 | 10 |
 ^standard-array-by-class

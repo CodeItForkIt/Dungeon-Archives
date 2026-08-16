@@ -25,5 +25,5 @@ aliases:
 | [Rogue](/classes/rogue-xphb.md) | Dexterity, Intelligence, Wisdom, or Charisma |
 | [Sorcerer](/classes/sorcerer-xphb.md) | Intelligence or Charisma |
 | [Warlock](/classes/warlock-xphb.md) | Intelligence or Charisma |
-| [Wizard](/classes/wizard-xphb.md) | Intelligence or Wisdom |
+| [Wizard](wizard-xphb%201.md) | Intelligence or Wisdom |
 ^ability-check-proficiency-by-class

@@ -9,7 +9,7 @@ aliases:
 - "War Magic"
 ---
 # War Magic
-*[Wizard](wizard-xphb.md): Wizard Subclass*  
+*[Wizard](wizard-xphb%201.md): Wizard Subclass*  
 *Source: Xanathar's Guide to Everything p. 59*  
 
 > [!tldr] Class and Feature Progression

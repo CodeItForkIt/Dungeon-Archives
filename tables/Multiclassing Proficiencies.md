@@ -25,5 +25,5 @@ aliases:
 | [Rogue](rogue-xphb.md) | Light armor, one skill from the class's skill list, [thieves' tools](/items/thieves-tools-xphb.md) |
 | [Sorcerer](sorcerer-xphb.md) | — |
 | [Warlock](warlock-xphb.md) | Light armor, simple weapons |
-| [Wizard](wizard-xphb.md) | — |
+| [Wizard](wizard-xphb%201.md) | — |
 ^multiclassing-proficiencies
