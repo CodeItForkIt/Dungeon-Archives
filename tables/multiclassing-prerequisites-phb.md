@@ -25,5 +25,5 @@ aliases:
 | [Rogue](/classes/rogue-xphb.md) | Dexterity 13 |
 | [Sorcerer](/classes/sorcerer-xphb.md) | Charisma 13 |
 | [Warlock](/classes/warlock-xphb.md) | Charisma 13 |
-| [Wizard](/classes/wizard-xphb.md) | Intelligence 13 |
+| [Wizard](wizard-xphb%201.md) | Intelligence 13 |
 ^multiclassing-prerequisites

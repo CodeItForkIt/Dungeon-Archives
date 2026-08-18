@@ -9,7 +9,7 @@ aliases:
 - "Bladesinger"
 ---
 # Bladesinger
-*[Wizard](wizard-xphb.md): Wizard Subclass*  
+*[Wizard](wizard-xphb%201.md): Wizard Subclass*  
 *Source: Forgotten Realms: Heroes of Faerûn p. 26*  
 
 > [!tldr] Class and Feature Progression

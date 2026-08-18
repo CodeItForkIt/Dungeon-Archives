@@ -9,7 +9,7 @@ aliases:
 - "Graviturgy Magic"
 ---
 # Graviturgy Magic
-*[Wizard](wizard-xphb.md): Wizard Subclass*  
+*[Wizard](wizard-xphb%201.md): Wizard Subclass*  
 *Source: Explorer's Guide to Wildemount p. 185*  
 
 > [!tldr] Class and Feature Progression

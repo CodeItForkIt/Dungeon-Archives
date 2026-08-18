@@ -9,7 +9,7 @@ aliases:
 - "Chronurgy Magic"
 ---
 # Chronurgy Magic
-*[Wizard](wizard-xphb.md): Wizard Subclass*  
+*[Wizard](wizard-xphb%201.md): Wizard Subclass*  
 *Source: Explorer's Guide to Wildemount p. 184*  
 
 > [!tldr] Class and Feature Progression

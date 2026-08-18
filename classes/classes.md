@@ -411,7 +411,7 @@ cssclasses:
 - [Warlord: Academy of Tactics](warlord-academy-of-tactics-llaw.md)
 - [Warlord: Academy of Zeal](warlord-academy-of-zeal-llaw-e.md)
 - [Warrior Sidekick](./warrior-sidekick-tce.md)
-- [Wizard](./wizard-xphb.md)
+- [Wizard](wizard-xphb%201.md)
 - [Wizard: Abjurer](./wizard-xphb-abjurer-xphb.md)
 - [Wizard: Bladesinger](./wizard-xphb-bladesinger-frhof.md)
 - [Wizard: Chronurgy Magic](./wizard-xphb-chronurgy-magic-egw.md)

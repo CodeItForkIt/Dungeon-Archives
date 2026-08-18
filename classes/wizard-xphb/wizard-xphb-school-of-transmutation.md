@@ -9,7 +9,7 @@ aliases:
 - "School of Transmutation"
 ---
 # School of Transmutation
-*[Wizard](wizard-xphb.md): Wizard Subclass*  
+*[Wizard](wizard-xphb%201.md): Wizard Subclass*  
 *Source: Player's Handbook p. 119*  
 
 > [!tldr] Class and Feature Progression

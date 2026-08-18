@@ -9,7 +9,7 @@ aliases:
 - "School of Enchantment"
 ---
 # School of Enchantment
-*[Wizard](wizard-xphb.md): Wizard Subclass*  
+*[Wizard](wizard-xphb%201.md): Wizard Subclass*  
 *Source: Player's Handbook p. 117*  
 
 > [!tldr] Class and Feature Progression
